@@ -1,0 +1,1906 @@
+[
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\ec2b6645-9847-4c98-8ae8-3e14ee0c97fc\\ec2b6645-9847-4c98-8ae8-3e14ee0c97fc_Federal_agents_fire_pepper_balls_at_anti-ICE_protesters_outside_of_Chicago___Fox_News\\txt\\images\\91b3140867a333e258b36a355b6090aef41ab354d9cb51d74e19b4616de4e595.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      50,
+      47,
+      960,
+      205
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2",
+    "vlm_description": "A horizontal strip of a website interface featuring a white background. In the top right corner are two navigation links. Below, there are four white rectangular content cards arranged side-by-side, each containing grey text.",
+    "vlm_visible_text": "Log In, Watch TV, RFK Jr speaks directly with Alabama teen battling..., Fast-moving Sandy Fire in Southern California, Alabama teen's emotional cancer plea goes viral, Alabama boy b cancer lands e",
+    "normalized_image_text": "Description: A horizontal strip of a website interface featuring a white background. In the top right corner are two navigation links. Below, there are four white rectangular content cards arranged side-by-side, each containing grey text.\nVisible text: Log In, Watch TV, RFK Jr speaks directly with Alabama teen battling..., Fast-moving Sandy Fire in Southern California, Alabama teen's emotional cancer plea goes viral, Alabama boy b cancer lands e"
+  },
+  {
+    "type": "text",
+    "text": "ENFORCEMENT ",
+    "bbox": [
+      444,
+      315,
+      553,
+      329
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Chicago anti-ICE protesters block vehicles, get hit with tear gas and pepper balls ",
+    "text_level": 1,
+    "bbox": [
+      96,
+      342,
+      905,
+      409
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Confrontation comes two days after gunman killed one person at Dallas ICE facility ",
+    "bbox": [
+      156,
+      417,
+      841,
+      435
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "By Greg Norman-Diamond  \u00b7 Fox News ",
+    "bbox": [
+      380,
+      455,
+      671,
+      472
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Published September 26, 2025 1:44pm EDT ",
+    "bbox": [
+      356,
+      493,
+      642,
+      507
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Add Fox News on Google ",
+    "bbox": [
+      586,
+      527,
+      741,
+      541
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.foxnews.com/us/chicago-anti-ice-protesters-block-vehicles-get-hit-tear-gas-pepper-balls ",
+    "bbox": [
+      32,
+      968,
+      617,
+      981
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "1/10 ",
+    "bbox": [
+      934,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:33 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "",
+    "bbox": [
+      65,
+      563,
+      232,
+      590
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ederal agents fire pepper balls at anti-ICE protesters outside of Chicago | Fox New ",
+    "bbox": [
+      339,
+      18,
+      808,
+      30
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "\uf04b ",
+    "bbox": [
+      473,
+      763,
+      545,
+      823
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "L ",
+    "bbox": [
+      63,
+      603,
+      88,
+      619
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "",
+    "bbox": [
+      328,
+      449,
+      367,
+      482
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "aw enforcement fires pepper balls at anti-ICE protesters near Chicago ",
+    "bbox": [
+      81,
+      603,
+      629,
+      619
+    ],
+    "page_idx": 0,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\ec2b6645-9847-4c98-8ae8-3e14ee0c97fc\\ec2b6645-9847-4c98-8ae8-3e14ee0c97fc_Federal_agents_fire_pepper_balls_at_anti-ICE_protesters_outside_of_Chicago___Fox_News\\txt\\images\\63258b50389d261c748bff9d4ae2cfc37e4e71cf43a60e6781863e5c213c74aa.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      87,
+      965,
+      195
+    ],
+    "page_idx": 1,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2",
+    "vlm_description": "Four white rectangular cards arranged horizontally. Each card contains grey text at the bottom. The rightmost card is partially cropped.",
+    "vlm_visible_text": "RFK Jr speaks directly with Alabama teen battling...\nFast-moving Sandy Fire in Southern California\nAlabama teen's emotional cancer plea goes viral\nAlabama boy b cancer lands e",
+    "normalized_image_text": "Description: Four white rectangular cards arranged horizontally. Each card contains grey text at the bottom. The rightmost card is partially cropped.\nVisible text: RFK Jr speaks directly with Alabama teen battling...\nFast-moving Sandy Fire in Southern California\nAlabama teen's emotional cancer plea goes viral\nAlabama boy b cancer lands e"
+  },
+  {
+    "type": "text",
+    "text": "The tense confrontation comes two days after a shooter opened fire at an ICE facility in Dallas, Texas. The gunman in that incident killed one detainee and injured two others before taking his own life, authorities said. ",
+    "bbox": [
+      63,
+      204,
+      933,
+      263
+    ],
+    "page_idx": 1,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "At least 50 protesters were seen midday Friday at an ICE processing center in Broadview, Illinois, a suburb of Chicago. An ICE spokesperson told Fox News that two were arrested, one of whom was carrying a firearm. ",
+    "bbox": [
+      63,
+      286,
+      918,
+      348
+    ],
+    "page_idx": 1,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "At one point, video showed federal law enforcement attempting to clear the protesters out of the area. The demonstrators were also seen trying to block vehicles from leaving. ",
+    "bbox": [
+      63,
+      371,
+      908,
+      411
+    ],
+    "page_idx": 1,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "TRUMP OFFICIALS SLAM BLUE STATE GOVERNOR FOR IGNORING CHAOTIC ANTI-ICE \u2018RIOTERS\u2019DISRUPTING OPERATION",
+    "text_level": 1,
+    "bbox": [
+      63,
+      433,
+      921,
+      473
+    ],
+    "page_idx": 1,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\ec2b6645-9847-4c98-8ae8-3e14ee0c97fc\\ec2b6645-9847-4c98-8ae8-3e14ee0c97fc_Federal_agents_fire_pepper_balls_at_anti-ICE_protesters_outside_of_Chicago___Fox_News\\txt\\images\\1acd9c4b8158513f10876f4901920901064f08e6750c615cb315ac729da47658.jpg",
+    "image_caption": [
+      "Federal law enforcement confronts anti-ICE protesters outside an ICE facility in Broadview, Illinois, on Friday, Sept. 26, 2025. (Fox News) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      497,
+      934,
+      873
+    ],
+    "page_idx": 1,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2",
+    "vlm_description": "Five individuals in tactical gear and helmets, some wearing face masks, are positioned behind a chain-link fence. Three are holding firearms. In the foreground, five civilians are facing the tactical personnel; one person holds a white rectangular sign, and another has an arm raised. A dark-colored vehicle is partially visible behind the fence on the right. A building with several windows and a sign is in the background.",
+    "vlm_visible_text": "WESTMONT",
+    "normalized_image_text": "Description: Five individuals in tactical gear and helmets, some wearing face masks, are positioned behind a chain-link fence. Three are holding firearms. In the foreground, five civilians are facing the tactical personnel; one person holds a white rectangular sign, and another has an arm raised. A dark-colored vehicle is partially visible behind the fence on the right. A building with several windows and a sign is in the background.\nVisible text: WESTMONT"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:33 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 1,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/10 ",
+    "bbox": [
+      933,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 1,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.foxnews.com/us/chicago-anti-ice-protesters-block-vehicles-get-hit-tear-gas-pepper-balls ",
+    "bbox": [
+      40,
+      968,
+      619,
+      982
+    ],
+    "page_idx": 1,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ederal agents fire pepper balls at anti-ICE protesters outside of Chicago | Fox News ",
+    "bbox": [
+      336,
+      18,
+      813,
+      30
+    ],
+    "page_idx": 1,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Last week, violent clashes between protesters and ICE agents at the facility led to 16 arrests. ",
+    "bbox": [
+      52,
+      943,
+      874,
+      962
+    ],
+    "page_idx": 1,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "RFK Jr speaks directly with Alabama teen battling\u2026 ",
+    "bbox": [
+      78,
+      147,
+      284,
+      179
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Fast-moving Sandy Fire in Southern California ",
+    "bbox": [
+      333,
+      147,
+      532,
+      179
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Alabama teen\u2019s emotional cancer plea goes viral ",
+    "bbox": [
+      588,
+      147,
+      782,
+      180
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Alabama boy b cancer lands e ",
+    "bbox": [
+      841,
+      147,
+      954,
+      179
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "CRACKDOWN ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      203,
+      187,
+      220
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\ec2b6645-9847-4c98-8ae8-3e14ee0c97fc\\ec2b6645-9847-4c98-8ae8-3e14ee0c97fc_Federal_agents_fire_pepper_balls_at_anti-ICE_protesters_outside_of_Chicago___Fox_News\\txt\\images\\cd859248b4727a692153a2874df0430dfa6b8817e0b8f2ded5e4b155f0bc1400.jpg",
+    "image_caption": [
+      "Smoke is seen rising as federal law enforcement pushes back anti-ICE protesters outside an ICE facility in Broadview, Illinois, on Sept. 26, 2025. (Fox News) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      244,
+      934,
+      621
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "\"This ICE operation will target the criminal illegal aliens who flocked to Chicago and Illinois because they knew Governor [JB] Pritzker and his sanctuary policies would protect them and allow them to roam free on American streets,\" the DHS said earlier this month. ",
+    "bbox": [
+      63,
+      690,
+      928,
+      751
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The crowds protesting Friday are in opposition to the transfer of ICE detainees to out-of-state holding centers, according to Fox 32 Chicago. ",
+    "bbox": [
+      63,
+      773,
+      877,
+      814
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Homeland Security wrote on X following the Dallas shooting that, \"Sanctuary politicians have demonized federal law enforcement as the enemy \u2014 placing a target squarely on the backs of the brave men and women of ICE.\" ",
+    "bbox": [
+      63,
+      837,
+      915,
+      897
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:33 AM ",
+    "bbox": [
+      35,
+      17,
+      137,
+      30
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.foxnews.com/us/chicago-anti-ice-protesters-block-vehicles-get-hit-tear-gas-pepper-balls ",
+    "bbox": [
+      34,
+      968,
+      617,
+      981
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "3/10 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ederal agents fire pepper balls at anti-ICE protesters outside of Chicago | Fox News ",
+    "bbox": [
+      334,
+      18,
+      813,
+      30
+    ],
+    "page_idx": 2,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "RFK Jr speaks directly with Alabama teen battling\u2026 ",
+    "bbox": [
+      78,
+      147,
+      284,
+      179
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Fast-moving Sandy Fire in Southern California ",
+    "bbox": [
+      333,
+      147,
+      532,
+      179
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Alabama teen\u2019s emotional cancer plea goes viral ",
+    "bbox": [
+      588,
+      147,
+      782,
+      179
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Alabama boy b cancer lands e ",
+    "bbox": [
+      841,
+      146,
+      954,
+      179
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\ec2b6645-9847-4c98-8ae8-3e14ee0c97fc\\ec2b6645-9847-4c98-8ae8-3e14ee0c97fc_Federal_agents_fire_pepper_balls_at_anti-ICE_protesters_outside_of_Chicago___Fox_News\\txt\\images\\5dc4efa4703ad5ffaea5742bf903fec5cab24b0bef60a8f9da556257b895aec4.jpg",
+    "image_caption": [
+      "The Department of Homeland Security (DHS) is criticizing Illinois Democratic Gov. J.B. Pritzker for not being proactive in responding to a chaotic anti-ICE protest in Broadview, Illinois, last week. (Anna Moneymaker/Getty Images and Jon Stegenga via Storyful) "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      204,
+      934,
+      412
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2",
+    "vlm_description": "A composite image split by a jagged white vertical line. The left side shows a low-resolution outdoor scene with a crowd of people, including a woman in a black top and blue pants reaching toward a white vehicle. The right side shows a close-up of a person wearing a dark blue suit jacket, a white dress shirt, a blue striped tie, and a small American flag pin on the lapel. A hand is visible in a gesturing motion.",
+    "vlm_visible_text": "none",
+    "normalized_image_text": "Description: A composite image split by a jagged white vertical line. The left side shows a low-resolution outdoor scene with a crowd of people, including a woman in a black top and blue pants reaching toward a white vehicle. The right side shows a close-up of a person wearing a dark blue suit jacket, a white dress shirt, a blue striped tie, and a small American flag pin on the lapel. A hand is visible in a gesturing motion.\nVisible text: none"
+  },
+  {
+    "type": "text",
+    "text": "\"Hateful anti-ICE rhetoric costs lives. Stop now, before these lies damage more innocent people,\" it added. ",
+    "bbox": [
+      63,
+      541,
+      921,
+      580
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Fox News' Patrick McGovern, Michael Tobin and Peter Pinedo contributed to this report. ",
+    "bbox": [
+      63,
+      603,
+      830,
+      622
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Greg Norman is a reporter at Fox News Digital. ",
+    "bbox": [
+      63,
+      662,
+      415,
+      679
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Related Topics ",
+    "text_level": 1,
+    "bbox": [
+      65,
+      742,
+      258,
+      768
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:33 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.foxnews.com/us/chicago-anti-ice-protesters-block-vehicles-get-hit-tear-gas-pepper-balls ",
+    "bbox": [
+      37,
+      968,
+      617,
+      981
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "4/10 ",
+    "bbox": [
+      933,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ederal agents fire pepper balls at anti-ICE protesters outside of Chicago | Fox News ",
+    "bbox": [
+      334,
+      18,
+      813,
+      30
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Enforcement Chicago Immigration Midwest U.S. ",
+    "bbox": [
+      68,
+      782,
+      622,
+      813
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Sign In ",
+    "bbox": [
+      810,
+      905,
+      926,
+      946
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      88,
+      916,
+      281,
+      934
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "",
+    "text_level": 1,
+    "bbox": [
+      63,
+      864,
+      191,
+      885
+    ],
+    "page_idx": 3,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "No comments yet ",
+    "text_level": 1,
+    "bbox": [
+      382,
+      210,
+      619,
+      234
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Be the first to start the conversation. ",
+    "bbox": [
+      344,
+      241,
+      653,
+      258
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "U.S. ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      402,
+      106,
+      420
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Blue City Crime Campus Radicals Border Crisis True Crime ",
+    "bbox": [
+      63,
+      430,
+      199,
+      513
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Politics ",
+    "text_level": 1,
+    "bbox": [
+      478,
+      402,
+      555,
+      421
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Donald Trump   \nSenate   \nHouse   \nJudiciary   \nForeign Policy   \nFox News Polls   \nElections ",
+    "bbox": [
+      478,
+      430,
+      598,
+      583
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "World ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      613,
+      124,
+      631
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "U.N.   \nConflicts   \nTerrorism   \nDisasters   \nGlobal Economy Environment   \nReligion   \nScandals ",
+    "bbox": [
+      63,
+      640,
+      191,
+      815
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Opinion ",
+    "text_level": 1,
+    "bbox": [
+      478,
+      613,
+      558,
+      632
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Media FOX Nation Coverage ",
+    "bbox": [
+      63,
+      845,
+      230,
+      890
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Entertainment ",
+    "text_level": 1,
+    "bbox": [
+      478,
+      847,
+      622,
+      864
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Sydney Sweeney Royal Families Country Music ",
+    "bbox": [
+      478,
+      872,
+      612,
+      935
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.foxnews.com/us/chicago-anti-ice-protesters-block-vehicles-get-hit-tear-gas-pepper-balls ",
+    "bbox": [
+      34,
+      968,
+      617,
+      982
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/10 ",
+    "bbox": [
+      933,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ederal agents fire pepper balls at anti-ICE protesters outside of Chicago | Fox News ",
+    "bbox": [
+      334,
+      18,
+      813,
+      30
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:33 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "RFK Jr speaks directly with Fast-moving Sandy Fire in Alabama teen\u2019s emotional Alabama boy b Alabama teen battling\u2026 Southern California cancer plea goes viral cancer lands e ",
+    "bbox": [
+      49,
+      87,
+      968,
+      199
+    ],
+    "page_idx": 4,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "NHL   \nGolf   \nTennis   \nFIFA WORLD CUP 26   \nUFC   \nWWE ",
+    "bbox": [
+      63,
+      204,
+      223,
+      330
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Lifestyle ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      361,
+      151,
+      378
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Travel   \nFood & Drink   \nFaith   \nDiscovery   \nGames & Quizzes ",
+    "bbox": [
+      63,
+      387,
+      200,
+      494
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Health ",
+    "text_level": 1,
+    "bbox": [
+      478,
+      359,
+      545,
+      378
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Longevity Brain Health Weight Loss Sleep Health Cancer News Mental Health Heart Health Healthy Living ",
+    "bbox": [
+      478,
+      387,
+      598,
+      564
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Deals ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      593,
+      120,
+      611
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Trending Deals   \nGift Guides   \nHome Deals   \nKitchen Deals   \nTech and Electronic Deals   \nHealth and Fitness Deals   \nBeauty and Fashion Deals ",
+    "bbox": [
+      63,
+      621,
+      264,
+      773
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "FOX Business ",
+    "text_level": 1,
+    "bbox": [
+      478,
+      593,
+      619,
+      612
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Personal Finance   \nEconomy   \nMarkets   \nWatchlist   \nLifestyle   \nReal Estate   \nTech ",
+    "bbox": [
+      478,
+      619,
+      616,
+      772
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.foxnews.com/us/chicago-anti-ice-protesters-block-vehicles-get-hit-tear-gas-pepper-balls ",
+    "bbox": [
+      32,
+      968,
+      617,
+      981
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "6/10 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:33 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ederal agents fire pepper balls at anti-ICE protesters outside of Chicago | Fox News ",
+    "bbox": [
+      336,
+      18,
+      813,
+      30
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "RFK Jr speaks directly with Fast-moving Sandy Fire in Alabama teen\u2019s emotional Alabama boy b Alabama teen battling\u2026 Southern California cancer plea goes viral cancer lands e ",
+    "bbox": [
+      62,
+      87,
+      968,
+      196
+    ],
+    "page_idx": 5,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "RFK Jr speaks directly with Alabama teen battling\u2026 ",
+    "bbox": [
+      76,
+      147,
+      284,
+      179
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Fast-moving Sandy Fire in Southern California ",
+    "bbox": [
+      333,
+      147,
+      532,
+      179
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Alabama teen\u2019s emotional cancer plea goes viral ",
+    "bbox": [
+      588,
+      147,
+      782,
+      180
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Alabama boy b cancer lands e ",
+    "bbox": [
+      841,
+      147,
+      954,
+      179
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Icon Match Daily Crossword Puzzle Mini Crossword Puzzle ",
+    "bbox": [
+      477,
+      203,
+      661,
+      262
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Watch Live ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      291,
+      174,
+      310
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "FOX News Shows   \nProgramming Schedule   \nOn Air Personalities   \nFull Episodes   \nShow Clips   \nNews Clips ",
+    "bbox": [
+      63,
+      319,
+      246,
+      449
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "About ",
+    "text_level": 1,
+    "bbox": [
+      478,
+      292,
+      540,
+      310
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Contact Us   \nCareers   \nFox Around the World   \nAdvertise With Us   \nMedia Relations   \nCorporate Information   \nCompliance ",
+    "bbox": [
+      478,
+      319,
+      651,
+      472
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Apps & Products ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      502,
+      232,
+      521
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "FOX News Go   \nFOX Weather   \nFOX Nation   \nFOX Noticias   \nFOX News Shop   \nFOX News Radio   \nFOX News Newsletters   \nFOX News Podcasts   \nFOX One ",
+    "bbox": [
+      63,
+      530,
+      243,
+      727
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.foxnews.com/us/chicago-anti-ice-protesters-block-vehicles-get-hit-tear-gas-pepper-balls ",
+    "bbox": [
+      34,
+      969,
+      617,
+      981
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "7/10 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:33 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ederal agents fire pepper balls at anti-ICE protesters outside of Chicago | Fox News ",
+    "bbox": [
+      336,
+      18,
+      813,
+      30
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Wild Nature ",
+    "bbox": [
+      65,
+      203,
+      155,
+      215
+    ],
+    "page_idx": 6,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "World ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      246,
+      124,
+      265
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Opinion ",
+    "text_level": 1,
+    "bbox": [
+      478,
+      246,
+      558,
+      266
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "U.N.   \nConflicts   \nTerrorism   \nDisasters   \nGlobal Economy Environment   \nReligion   \nScandals ",
+    "bbox": [
+      63,
+      273,
+      191,
+      449
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Media ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      479,
+      127,
+      497
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "FOX Nation Coverage ",
+    "bbox": [
+      63,
+      507,
+      230,
+      522
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Entertainment ",
+    "text_level": 1,
+    "bbox": [
+      478,
+      479,
+      622,
+      497
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Sydney Sweeney Royal Families Country Music ",
+    "bbox": [
+      478,
+      506,
+      611,
+      568
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Sports ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      599,
+      132,
+      617
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "OutKick ",
+    "text_level": 1,
+    "bbox": [
+      478,
+      598,
+      560,
+      617
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "NFL   \nCollege Football   \nMLB   \nNASCAR   \nINDYCAR   \nNBA   \nNHL   \nGolf   \nTennis   \nFIFA WORLD CUP 26   \nUFC   \nWWE ",
+    "bbox": [
+      62,
+      626,
+      227,
+      892
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.foxnews.com/us/chicago-anti-ice-protesters-block-vehicles-get-hit-tear-gas-pepper-balls ",
+    "bbox": [
+      34,
+      968,
+      617,
+      981
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "8/10 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ederal agents fire pepper balls at anti-ICE protesters outside of Chicago | Fox News ",
+    "bbox": [
+      336,
+      18,
+      813,
+      30
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:33 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "RFK Jr speaks directly with ForeignFast-moving Sandy Fire in Alabama teen\u2019s emotional Alabama boy b Alabama teen battling\u2026 Southern California cancer plea goes viral cancer lands e Elections ",
+    "bbox": [
+      53,
+      87,
+      972,
+      208
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "",
+    "bbox": [
+      478,
+      203,
+      550,
+      215
+    ],
+    "page_idx": 7,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Deals ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      270,
+      120,
+      286
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Trending Deals   \nGift Guides   \nHome Deals   \nKitchen Deals   \nTech and Electronic Deals   \nHealth and Fitness Deals   \nBeauty and Fashion Deals ",
+    "bbox": [
+      63,
+      296,
+      264,
+      449
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "FOX Business ",
+    "text_level": 1,
+    "bbox": [
+      478,
+      268,
+      619,
+      287
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Personal Finance   \nEconomy   \nMarkets   \nWatchlist   \nLifestyle   \nReal Estate   \nTech ",
+    "bbox": [
+      478,
+      296,
+      612,
+      449
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Science & Tech ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      479,
+      217,
+      498
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Air & Space Security Innovation Video Games Military Tech Planet Earth Wild Nature ",
+    "bbox": [
+      63,
+      506,
+      169,
+      659
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Games ",
+    "text_level": 1,
+    "bbox": [
+      478,
+      481,
+      550,
+      497
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Scattergories Daily   \n5 Across the Letter Word Game   \nDownwords   \nSudoku   \nWord Swap   \nWord Search   \nIcon Match   \nDaily Crossword Puzzle   \nMini Crossword Puzzle ",
+    "bbox": [
+      477,
+      506,
+      720,
+      704
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.foxnews.com/us/chicago-anti-ice-protesters-block-vehicles-get-hit-tear-gas-pepper-balls ",
+    "bbox": [
+      34,
+      969,
+      617,
+      981
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "9/10 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:33 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ederal agents fire pepper balls at anti-ICE protesters outside of Chicago | Fox News ",
+    "bbox": [
+      336,
+      18,
+      813,
+      30
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "RFK Jr speaks directly with CancerFast-moving Sandy Fire in Alabama teen\u2019s emotional Alabama boy b Alabama teen battling\u2026 Southern California cancer plea goes viral cancer lands e Heart Health Healthy Living ",
+    "bbox": [
+      55,
+      87,
+      964,
+      242
+    ],
+    "page_idx": 8,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Apps & Products ",
+    "text_level": 1,
+    "bbox": [
+      65,
+      246,
+      232,
+      266
+    ],
+    "page_idx": 9,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "FOX News Go   \nFOX Weather   \nFOX Nation   \nFOX Noticias   \nFOX News Shop   \nFOX News Radio   \nFOX News Newsletters   \nFOX News Podcasts   \nFOX One ",
+    "bbox": [
+      63,
+      273,
+      243,
+      472
+    ],
+    "page_idx": 9,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Terms of Use Privacy Policy Your Privacy Choices Closed Caption Policy Help Contact Us Accessibility Statement News Sitemap Video Sitemap ",
+    "bbox": [
+      142,
+      583,
+      823,
+      617
+    ],
+    "page_idx": 9,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "This material may not be published, broadcast, rewritten, or redistributed. \u00a92026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by Factset. Powered and implemented by FactSet Digital Solutions. Legal Statement. Mutual Fund and ETF data provided by LSEG. ",
+    "bbox": [
+      147,
+      628,
+      936,
+      684
+    ],
+    "page_idx": 9,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.foxnews.com/us/chicago-anti-ice-protesters-block-vehicles-get-hit-tear-gas-pepper-balls ",
+    "bbox": [
+      34,
+      968,
+      617,
+      981
+    ],
+    "page_idx": 9,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "10/10 ",
+    "bbox": [
+      926,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 9,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Federal agents fire pepper balls at anti-ICE protesters outside of Chicago | Fox News ",
+    "bbox": [
+      334,
+      18,
+      815,
+      31
+    ],
+    "page_idx": 9,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:33 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 9,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "RFK Jr speaks directly with Fast-moving Sandy Fire in Alabama teen\u2019s emotional Alabama boy b Alabama teen battling\u2026 Southern California cancer plea goes viral cancer lands e Compliance ",
+    "bbox": [
+      49,
+      87,
+      968,
+      217
+    ],
+    "page_idx": 9,
+    "document_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc",
+    "confidence_code": "A2"
+  }
+]

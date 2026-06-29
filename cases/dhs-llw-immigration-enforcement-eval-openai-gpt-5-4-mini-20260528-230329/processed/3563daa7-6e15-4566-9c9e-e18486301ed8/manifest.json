@@ -1,0 +1,47 @@
+{
+  "document_id": "3563daa7-6e15-4566-9c9e-e18486301ed8",
+  "case_id": "09fb881d-a36f-4757-b671-cf95c4f2fc73",
+  "case_slug": "dhs-llw-immigration-enforcement-eval-openai-gpt-5-4-mini-20260528-230329",
+  "original_filename": "Federal agents fire pepper balls at anti-ICE protesters outside of Chicago _ Fox News.pdf",
+  "parser": "mineru",
+  "parse_method": "txt",
+  "started_at": "2026-05-28T20:17:38+00:00",
+  "finished_at": "2026-05-28T20:20:57+00:00",
+  "status": "complete",
+  "stats": {
+    "ingest_profile": "balanced_fast_intel",
+    "processing_mode": "multimodal",
+    "route_type": "pdf_txt",
+    "source_kind": "pdf",
+    "complexity_class": "small",
+    "llm_model": "openai/gpt-5.4-mini",
+    "vlm_model": "openai/gpt-5.4-mini",
+    "embedding_model": "baai/bge-m3",
+    "primary_ingest_model": "openai/gpt-5.4-mini",
+    "parse_duration_s": 90.32,
+    "content_blocks": 142,
+    "content_type_counts": {
+      "image": 5,
+      "text": 82,
+      "discarded": 55
+    },
+    "preinsert_enrichment": {
+      "images_analyzed": 5,
+      "visible_text_hits": 5,
+      "summary_added": 0
+    },
+    "evidence_normalization": {
+      "used": true,
+      "source_chars": 7643,
+      "normalized_chars": 7679,
+      "low_value_items": 7
+    },
+    "preinsert_text_chars": 7643,
+    "normalized_text_chars": 7679,
+    "insert_duration_s": 70.465,
+    "graph_entity_count": 84,
+    "graph_relation_count": 86,
+    "graph_retry_used": false,
+    "finalize_duration_s": 0.046
+  }
+}

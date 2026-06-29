@@ -1,0 +1,198 @@
+{
+  "case_id": "09fb881d-a36f-4757-b671-cf95c4f2fc73",
+  "case_name": "DHS LLW & Immigration Enforcement [Eval] \u2014 openai/gpt-5.4-mini",
+  "case_slug": "dhs-llw-immigration-enforcement-eval-openai-gpt-5-4-mini-20260528-230329",
+  "document_count": 6,
+  "completed_document_count": 6,
+  "evidence_count": 6,
+  "entity_count": 1456,
+  "relationship_count": 3149,
+  "top_entity_types": [
+    {
+      "entity_type": "event",
+      "count": 592
+    },
+    {
+      "entity_type": "object",
+      "count": 428
+    },
+    {
+      "entity_type": "person",
+      "count": 219
+    },
+    {
+      "entity_type": "location",
+      "count": 122
+    },
+    {
+      "entity_type": "organization",
+      "count": 95
+    }
+  ],
+  "graph_context": {
+    "top_entities": [
+      {
+        "name": "EZ-17",
+        "type": "person",
+        "connections": 93,
+        "summary": "[PERSON] EZ-17\nEZ-17 is a Border Patrol officer and masked federal agent based out of El Paso, identifiable by the uniform number patch EZ-17 and described as wearing a BORTAC vest. He is characterize"
+      },
+      {
+        "name": "Bellingcat",
+        "type": "organization",
+        "connections": 90,
+        "summary": "[ORGANIZATION] Bellingcat\nBellingcat is a non-profit investigative news organization and publication that served as a reporting and analytical partner in the described investigations. It participated "
+      },
+      {
+        "name": "Minneapolis",
+        "type": "location",
+        "connections": 82,
+        "summary": "[LOCATION] Minneapolis\nMinneapolis is the city associated with multiple incidents described in the source material, serving as the location for several confrontations, use-of-force events, killings, a"
+      },
+      {
+        "name": "DHS",
+        "type": "organization",
+        "connections": 73,
+        "summary": "[ORGANIZATION] DHS\nDHS refers to the U.S. Department of Homeland Security, a federal department referenced in policy, reporting, and incident contexts. It is described as the source of policy guidance"
+      },
+      {
+        "name": "protesters",
+        "type": "person",
+        "connections": 70,
+        "summary": "[PERSON] protesters\nProtesters are individuals or groups participating in protest activity who, in the described incidents, were involved in clashes, attempted blockades, and confrontations with agent"
+      },
+      {
+        "name": "EZ-2",
+        "type": "person",
+        "connections": 67,
+        "summary": "[PERSON] EZ-2\nEZ-2 is a U.S. Border Patrol/CBP officer based out of El Paso who was identified by Unraveled as Michael Sveum. He was described as wearing a BORTAC vest and as an identified agent linke"
+      },
+      {
+        "name": "Timothy Donahue",
+        "type": "person",
+        "connections": 57,
+        "summary": "[PERSON] Timothy Donahue\nAgent filmed by Ernesto Campos and later pictured pointing his gun at citizens outside Chicago; owner of a social media account with seemingly racist and sexist posts.<SEP>Bor"
+      },
+      {
+        "name": "Bellingcat-Evident article collaboration",
+        "type": "event",
+        "connections": 55,
+        "summary": "[EVENT] Bellingcat-Evident article collaboration\nCollaboration underlying the article."
+      },
+      {
+        "name": "Chicago",
+        "type": "location",
+        "connections": 53,
+        "summary": "[LOCATION] Chicago\nChicago is the city referenced across the provided descriptions in connection with bodycam footage, reporting, detention-centre context, and multiple Border Patrol-related incidents"
+      },
+      {
+        "name": "CBP",
+        "type": "organization",
+        "connections": 51,
+        "summary": "[ORGANIZATION] CBP\nCBP refers to U.S. Customs and Border Protection, the U.S. federal agency responsible for customs and border enforcement. In the provided descriptions, CBP is consistently identifie"
+      },
+      {
+        "name": "Illinois",
+        "type": "location",
+        "connections": 49,
+        "summary": "[LOCATION] Illinois\nIllinois is the U.S. state referenced across the provided descriptions as the location connected to a series of federal law-enforcement and court-related events. It is identified a"
+      },
+      {
+        "name": "Bovino",
+        "type": "person",
+        "connections": 45,
+        "summary": "[PERSON] Bovino\nBovino is a former Border Patrol commander at large who appears in footage from Minneapolis and Chicago, where he was seen with Hewson and identified as being near EZ-17. He is also de"
+      },
+      {
+        "name": "Bakersfield, California",
+        "type": "location",
+        "connections": 34,
+        "summary": "[LOCATION] Bakersfield, California\nLocation where Campos was pulled over and where Donahue and Simeon were filmed.<SEP>City where Ernesto Campos was pulled over and filmed agents in early January 2025"
+      },
+      {
+        "name": "Border Patrol",
+        "type": "organization",
+        "connections": 33,
+        "summary": "[ORGANIZATION] Border Patrol\nBorder Patrol is a federal agency and a component of the U.S. Department of Homeland Security (DHS). In the provided descriptions, Border Patrol agents are documented acro"
+      },
+      {
+        "name": "Gregory Bovino",
+        "type": "person",
+        "connections": 33,
+        "summary": "[PERSON] Gregory Bovino\nGregory Bovino is a U.S. Customs and Border Protection commander and former Border Patrol Commander at Large. He has been associated with the El Centro sector and identified in"
+      }
+    ],
+    "top_relation_types": [
+      {
+        "type": "ASSOCIATED_WITH",
+        "count": 2051
+      },
+      {
+        "type": "OCCURRED_AT",
+        "count": 538
+      },
+      {
+        "type": "LOCATED_AT",
+        "count": 184
+      },
+      {
+        "type": "USED_IN",
+        "count": 131
+      },
+      {
+        "type": "PARTICIPATED_IN",
+        "count": 118
+      },
+      {
+        "type": "SAME_AS",
+        "count": 46
+      },
+      {
+        "type": "WITHIN",
+        "count": 31
+      },
+      {
+        "type": "USES_ASSET",
+        "count": 17
+      },
+      {
+        "type": "COMMUNICATED_WITH",
+        "count": 16
+      },
+      {
+        "type": "SUPERVISES",
+        "count": 8
+      }
+    ],
+    "temporal_scope": {
+      "earliest": "2025-10-03",
+      "latest": "2026-05-19"
+    },
+    "pole_breakdown": {
+      "person": 219,
+      "object": 428,
+      "location": 122,
+      "event": 592
+    },
+    "document_count": 6
+  },
+  "latest_activity_at": "2026-06-26T12:29:26+00:00",
+  "five_w_one_h": {
+    "who": "EZ-17, EZ-2 (Michael Sveum), Timothy Donahue, Gregory Bovino, Bellingcat, DHS, CBP, Border Patrol, and protesters.",
+    "what": "Deployment of BORTAC-vested agents in urban areas, confrontations with protesters, and specific incidents of agents pointing weapons at citizens.",
+    "when": "2025-10-03 to 2026-05-19, with a specific event in early January 2025.",
+    "where": "Minneapolis, Chicago, Illinois, and Bakersfield, California.",
+    "why": null,
+    "how": "Use of BORTAC vests, firearms, and deployment of federal agents from the El Paso sector to domestic cities."
+  },
+  "unknowns": [
+    "The specific DHS policy guidance that authorized the deployment of Border Patrol agents to Minneapolis and Chicago.",
+    "The full identity of the agent known as EZ-17.",
+    "The specific legal justification for the use-of-force events involving Timothy Donahue."
+  ],
+  "intelligence_summary": "The evidence details the deployment of U.S. Customs and Border Protection (CBP) and Border Patrol agents, specifically those from the El Paso sector, in domestic urban environments including Minneapolis, Chicago, and Bakersfield, California. Key figures include EZ-17, a masked federal agent in a BORTAC vest, and EZ-2 (identified as Michael Sveum), both linked to El Paso. Gregory Bovino, a CBP commander and former Border Patrol Commander at Large, is identified in footage from Minneapolis and Chicago alongside EZ-17. Specific incidents include Timothy Donahue pointing a gun at citizens in Chicago and the filming of agents in Bakersfield in early January 2025 by Ernesto Campos. The investigation is supported by a collaboration between the non-profit investigative organization Bellingcat and Evident.",
+  "investigation_summary": "The investigation has identified a pattern of Border Patrol and CBP agents operating outside their typical border jurisdictions, with a focus on the roles of high-connectivity entities like EZ-17, EZ-2, and Gregory Bovino. The investigation has successfully linked specific agents to use-of-force events and confrontations with protesters in Minneapolis and Chicago. The temporal scope of the evidence spans from 2025-10-03 to 2026-05-19. While the identities of some agents (e.g., Michael Sveum) have been established, the full chain of command and the specific DHS policy guidance authorizing these deployments remain areas for further analysis.",
+  "summary_text": "The evidence details the deployment of U.S. Customs and Border Protection (CBP) and Border Patrol agents, specifically those from the El Paso sector, in domestic urban environments including Minneapolis, Chicago, and Bakersfield, California. Key figures include EZ-17, a masked federal agent in a BORTAC vest, and EZ-2 (identified as Michael Sveum), both linked to El Paso. Gregory Bovino, a CBP commander and former Border Patrol Commander at Large, is identified in footage from Minneapolis and Chicago alongside EZ-17. Specific incidents include Timothy Donahue pointing a gun at citizens in Chicago and the filming of agents in Bakersfield in early January 2025 by Ernesto Campos. The investigation is supported by a collaboration between the non-profit investigative organization Bellingcat and Evident.\n\nThe investigation has identified a pattern of Border Patrol and CBP agents operating outside their typical border jurisdictions, with a focus on the roles of high-connectivity entities like EZ-17, EZ-2, and Gregory Bovino. The investigation has successfully linked specific agents to use-of-force events and confrontations with protesters in Minneapolis and Chicago. The temporal scope of the evidence spans from 2025-10-03 to 2026-05-19. While the identities of some agents (e.g., Michael Sveum) have been established, the full chain of command and the specific DHS policy guidance authorizing these deployments remain areas for further analysis.",
+  "last_refreshed_at": "2026-06-28T13:03:26+00:00",
+  "source_job_id": "fde3520f-6c79-4db0-ad3c-4826b46d939c"
+}

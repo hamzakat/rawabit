@@ -1,0 +1,420 @@
+{
+  "schema_version": "1.0",
+  "metadata": {
+    "owner": "rawabit",
+    "updated_at": "2026-05-02T00:00:00Z",
+    "notes": "Central prompt catalog — POLE model (Person/Organization/Object/Location/Event). Replaces UNODC link/event/flow analysis with single POLE graph extraction."
+  },
+  "prompts": {
+    "ingestion.preinsert_summary": {
+      "text": "Summarize the following evidence text for analyst review. Preserve factual entities, dates, locations, organisations, money amounts, identifiers, and relationships. Do not invent facts or merge uncertain details. Keep direct wording where possible and keep the summary concise.\n\nEvidence:\n{source_text}",
+      "description": "Pre-insert summary for ingestion fallback text enrichment.",
+      "placeholders": [
+        "source_text"
+      ],
+      "domain": "ingestion",
+      "default_model_hint": "RAWABIT_RAG_LLM_MODEL",
+      "default_params": {
+        "temperature": 0
+      },
+      "enabled": true
+    },
+    "ingestion.evidence_normalization": {
+      "text": "You are preparing evidence content for investigative knowledge-graph extraction into a POLE (Person–Organization–Object–Location–Event) model and grounded retrieval. Assume you know nothing about any project, domain, case, source system, or external doctrine beyond the evidence text below.\n\nSource kind: {source_kind}\n\nYour job is to separate high-value evidential content from low-value presentation or interface noise. Preserve factual wording whenever possible. Keep dates, names, identifiers, quoted language, locations, organisations, objects, devices, documents, movements, transfers, and procedural actions verbatim when they matter. Organise the output to help downstream extraction of persons, objects, locations, and events with their relationships.\n\nReturn strict JSON only with this exact shape:\n{\n  \"primary_evidence_text\": [\"...\"],\n  \"entities_and_roles\": [\"...\"],\n  \"events_and_timeline\": [\"...\"],\n  \"movements_and_transfers\": [\"...\"],\n  \"source_and_reporting_context\": [\"...\"],\n  \"supporting_observations\": [\"...\"],\n  \"low_value_content\": [\"...\"]\n}\n\nRules:\n1) Every array item must be a single, atomic factual claim — one entity, one action, one object per item when possible. Do NOT merge multiple facts into one item to save space.\n2) Put only analytically useful content in the first six arrays.\n3) Put presentation, navigation, engagement, boilerplate, decorative, repetitive, or low-value content in low_value_content.\n4) If a category has no content, return an empty array.\n5) Use AS MANY items per array as needed to preserve every distinct fact. There is NO maximum item count. Each item should be concise (ideally under 50 words) but must NOT omit facts to meet a word limit.\n6) Preserve complete named lists verbatim (e.g., all journalist names, all outlets, all policy distances, all dates). Do NOT truncate lists to representative examples.\n7) Preserve numeric values exactly as stated (e.g., \"3 feet\", \"10 feet\", \"$50,000\", \"915 tokens\"). Do not round or approximate.\n8) Preserve exact source-specific phrases and direct quotes. Do not paraphrase or summarize quotes.\n9) Preserve cross-document references (page numbers, section titles, document identifiers) as provenance context.\n10)\n6) When extracting entity names, use actual names (e.g. \"John Smith\" or \"ACME Corp\") rather than database identifiers, row IDs, node IDs, internal IDs, source-system reference codes, or foreign keys (e.g. \"ID_12345\" or bare numbers like \"45678\"). If a reference appears with a human-readable name, rewrite it as provenance context (e.g. \"John Smith is recorded with source reference node_id 45678\"). If a relationship row contains only references without labels, preserve it as unresolved reference context rather than promoting the references to final entity names. Never add a descriptive prefix like 'Node', 'Row', 'Record', 'Entry', or 'ID' to a numeric reference. Keep bare identifiers in provenance context, not as prefixes in entity representations.\n7) Do not include markdown, explanations, or keys beyond the required JSON shape.\n\nEvidence:\n{source_text}",
+      "description": "Evidence normalization prompt that separates high-value evidence from low-value presentation noise before graph extraction.",
+      "placeholders": [
+        "source_kind",
+        "source_text"
+      ],
+      "domain": "ingestion",
+      "default_model_hint": "RAWABIT_RAG_LLM_MODEL",
+      "default_params": {
+        "temperature": 0
+      },
+      "enabled": true
+    },
+    "ingestion.image_caption.with_visible_text": {
+      "text": "You are normalizing evidence for investigative retrieval. Describe only what is visibly present in the image and extract any readable text verbatim. Separate literal observation from uncertainty. Return concise plain text with exactly two sections and no extra commentary:\nDescription: <literal visual description relevant to an investigator>\nVisible text: <verbatim visible text, or 'none'>",
+      "description": "Vision analysis prompt when visible text extraction is enabled.",
+      "placeholders": [],
+      "domain": "ingestion",
+      "default_model_hint": "RAWABIT_RAG_VLM_MODEL",
+      "default_params": {
+        "temperature": 0,
+        "max_tokens_cap": 300
+      },
+      "enabled": true
+    },
+    "ingestion.image_caption.description_only": {
+      "text": "You are normalizing evidence for investigative retrieval. Describe only what is visibly present in the image, using literal and conservative wording. Return concise plain text with exactly one section and no extra commentary:\nDescription: <literal visual description relevant to an investigator>",
+      "description": "Vision analysis prompt when only image description is required.",
+      "placeholders": [],
+      "domain": "ingestion",
+      "default_model_hint": "RAWABIT_RAG_VLM_MODEL",
+      "default_params": {
+        "temperature": 0,
+        "max_tokens_cap": 300
+      },
+      "enabled": true
+    },
+    "ingestion.embedding.dimension_probe_input": {
+      "text": "rawabit embedding dimension probe",
+      "description": "Single embedding input used for runtime embedding dimension probing.",
+      "placeholders": [],
+      "domain": "ingestion",
+      "default_model_hint": "RAWABIT_RAG_EMBEDDING_MODEL",
+      "default_params": {},
+      "enabled": true
+    },
+    "summary.case_overview": {
+      "text": "You are an intelligence analyst assistant. Generate a concise, evidence-grounded case summary in strict JSON only (no markdown).\n\nInput stats:\n- case_name: {case_name}\n- document_count: {document_count}\n- completed_document_count: {completed_document_count}\n- evidence_count: {evidence_count}\n- entity_count: {entity_count}\n- relationship_count: {relationship_count}\n- top_entity_types_json: {top_entity_types_json}\n- graph_context_json: {graph_context_json}\n\nThe graph_context_json contains:\n- top_entities: the 15 most-connected entities (name, type, connections, summary). USE entity names and descriptions directly from this list — they are facts extracted from the evidence.\n- top_relation_types: how relationships are distributed across the graph.\n- temporal_scope: earliest and latest dates found in the evidence.\n- pole_breakdown: count of Persons, Objects, Locations, and Events.\n\nRequirements:\n1) intelligence_summary: one paragraph focused on WHAT the evidence says — key actors, events, objects, locations. Use specific entity names, dates, and neighbourhoods from graph_context_json. Do not generalise when specifics are available.\n2) investigation_summary: one paragraph describing WHAT the investigation has found and WHAT remains unknown. Mention the most connected entities and their roles. Note the temporal scope if available.\n3) five_w_one_h — fill with SPECIFIC information from the context, not generic statements:\n   - who: list the key persons and organisations by name from top_entities.\n   - what: describe the main events, incidents, or findings with specifics.\n   - when: use the temporal_scope dates if available, or specific dates from entity summaries.\n   - where: list specific locations named in top_entities.\n   - why: inferred motive or purpose if evidence supports it, otherwise null.\n   - how: describe the means or methods (weapons, tools, processes) mentioned in the context.\n4) unknowns: list ONLY genuine investigative gaps that the evidence does not address. Do not list things the LLM could not guess — only things the graph_context lacks.\n5) Do not invent facts. If no evidence supports a field, set it to null.\n\nReturn this exact JSON shape:\n{\n  \"intelligence_summary\": \"string|null\",\n  \"investigation_summary\": \"string|null\",\n  \"five_w_one_h\": {\n    \"who\": \"string|null\",\n    \"what\": \"string|null\",\n    \"when\": \"string|null\",\n    \"where\": \"string|null\",\n    \"why\": \"string|null\",\n    \"how\": \"string|null\"\n  },\n  \"unknowns\": [\"string\", \"...\"]\n}",
+      "description": "Case-level intelligence/investigation summary with 5W1H in strict JSON format.",
+      "placeholders": [
+        "case_name",
+        "document_count",
+        "completed_document_count",
+        "evidence_count",
+        "entity_count",
+        "relationship_count",
+        "top_entity_types_json",
+        "graph_context_json"
+      ],
+      "domain": "summary",
+      "default_model_hint": "RAWABIT_RAG_LLM_MODEL",
+      "default_params": {
+        "temperature": 0
+      },
+      "enabled": true
+    },
+    "summary.entity_detail": {
+      "text": "You are an investigative analysis assistant. Produce a concise, evidence-grounded summary for one graph entity. Assume you know nothing beyond the data provided here.\n\nEntity label: {entity_label}\nEntity type: {entity_type}\nEntity subtype (if any): {entity_subtype}\nRaw extracted description: {entity_summary}\nEvidence JSON: {evidence_json}\nRelated relationships JSON: {related_relationships_json}\n\nWrite a short plain-text paragraph that explains: 1) what this entity most likely is in the context of the evidence, 2) why it matters analytically, and 3) what uncertainty or limitation remains.\n\nRules:\n- Stay grounded in the provided data only.\n- Do not invent missing facts.\n- If the entity looks like presentation noise, parser residue, or low-value context, say so explicitly and briefly.\n- Do not use markdown or bullet points.",
+      "description": "Prompt for synthesizing a concise evidence-grounded entity detail summary.",
+      "placeholders": [
+        "entity_label",
+        "entity_type",
+        "entity_subtype",
+        "entity_summary",
+        "evidence_json",
+        "related_relationships_json"
+      ],
+      "domain": "summary",
+      "default_model_hint": "RAWABIT_RAG_LLM_MODEL",
+      "default_params": {
+        "temperature": 0
+      },
+      "enabled": true
+    },
+    "summary.relationship_detail": {
+      "text": "You are an investigative analysis assistant. Produce a concise, evidence-grounded summary for one graph relationship. Assume you know nothing beyond the data provided here.\n\nSource entity: {src_label}\nTarget entity: {tgt_label}\nRelationship type: {relation_type}\nRaw extracted description: {existing_description}\nEvidence JSON: {evidence_json}\n\nWrite a short plain-text paragraph that explains: 1) what the relationship likely means, 2) why it matters analytically, and 3) any important uncertainty or limitation.\n\nRules:\n- Stay grounded in the provided data only.\n- Do not invent missing facts.\n- If the relationship appears weak, generic, or low-value, say so directly.\n- Do not use markdown or bullet points.",
+      "description": "Prompt for synthesizing a concise evidence-grounded relationship detail summary.",
+      "placeholders": [
+        "src_label",
+        "tgt_label",
+        "relation_type",
+        "existing_description",
+        "evidence_json"
+      ],
+      "domain": "summary",
+      "default_model_hint": "RAWABIT_RAG_LLM_MODEL",
+      "default_params": {
+        "temperature": 0
+      },
+      "enabled": true
+    },
+    "diagnostic.provider_probe.embedding_input": {
+      "text": "hello world",
+      "description": "Embedding smoke check input for diagnostics script.",
+      "placeholders": [],
+      "domain": "diagnostic",
+      "default_model_hint": "RAWABIT_RAG_EMBEDDING_MODEL",
+      "default_params": {},
+      "enabled": true
+    },
+    "diagnostic.provider_probe.llm": {
+      "text": "Say OK only",
+      "description": "LLM smoke check user prompt for diagnostics script.",
+      "placeholders": [],
+      "domain": "diagnostic",
+      "default_model_hint": "RAWABIT_RAG_LLM_MODEL",
+      "default_params": {
+        "temperature": 0,
+        "max_tokens_cap": 20
+      },
+      "enabled": true
+    },
+    "diagnostic.provider_probe.vlm": {
+      "text": "What is in image?",
+      "description": "VLM smoke check user text prompt for diagnostics script.",
+      "placeholders": [],
+      "domain": "diagnostic",
+      "default_model_hint": "RAWABIT_RAG_VLM_MODEL",
+      "default_params": {
+        "temperature": 0,
+        "max_tokens_cap": 30
+      },
+      "enabled": true
+    },
+    "ingestion.entity_resolution.generic": {
+      "text": "You are an entity resolution assistant for an investigative knowledge graph. Your task is to identify pairs of entities that refer to the same real-world person, organization, object, location, or event.\n\nExamine the entity inventory below. Each entity includes its name, description, and graph neighbors (connected entities with relationship types). Use all available evidence: name similarity, description overlap, and shared neighbors or relationships.\n\nEntity inventory:\n{entity_inventory}\n\nReturn strict JSON only:\n{\"merges\": [{\"keep\": \"...\", \"merge_into\": \"...\", \"confidence\": 0.95, \"reasoning\": \"...\"}]}\n\nRules:\n- keep: the canonical, best-formed name to preserve (usually the longer, more specific, or more complete variant)\n- merge_into: the entity name that should be kept (same as keep for self-merges, or the target for cross-merges)\n- Both keep and merge_into must be exact entity names from the inventory above\n- Only propose merges where you are confident the two entities refer to the same real-world thing\n- confidence: 0.0-1.0 based on evidence strength (name similarity + neighbor overlap + description overlap)\n- If no merges are warranted, return an empty merges array\n- Do not merge entities of different types unless one type is clearly wrong (e.g., a person mislabeled as an organization)",
+      "description": "Generic LLM-driven entity resolution that identifies duplicate entities across the knowledge graph using name, description, and neighbor overlap.",
+      "placeholders": [
+        "entity_inventory"
+      ],
+      "domain": "ingestion",
+      "default_model_hint": null,
+      "default_params": {},
+      "enabled": true
+    },
+    "analysis.link_projection": {
+      "text": "---Role---\nYou are an intelligence analyst producing UNODC-style link-analysis Mermaid charts from retrieved POLE evidence.\n\n---Selection task---\nReturn every pattern that materially answers the question, but never more than three charts. Choose only from:\n- relationship_map: re-plotted association network exposing hubs, clusters, bridges, and intermediaries.\n- operational_hierarchy: top-down command, control, supervision, funding, or role structure, only when directional hierarchy is supported.\n- affiliation_structure: membership, ownership, parent/subsidiary, shared-organization, or containment structure.\nDo not create a chart merely because a pattern exists. Exclude Event nodes from link analysis. Prefer a small analytical re-plot over the raw KG.\n\n---Mandatory deduplication---\nWithin each chart, consolidate aliases before writing Mermaid. Each source entity appears exactly once in item_ids, exactly once as a %% source-id marker, and exactly once as a node declaration. All edges must reuse that declared Mermaid node ID. Never redeclare a node to change its position or role. If two records have the same normalized label and type, use the best-supported canonical record once. The same entity may appear once in each complementary chart.\n\n---Mermaid rules---\nUse flowchart LR or TD. People use circle nodes, organizations rectangles, objects diamonds, locations rounded/hexagonal nodes, and unknown entities dashed-looking semantic class unknown. Use solid undirected links for confirmed association, directed arrows for supported control/ownership/role, and dotted links for tentative association. Labels must be concise and evidence-grounded. Assign semantic classes with `class NODE person`, `organization`, `object`, `location`, or `unknown`. Do not emit classDef, style, linkStyle, init directives, click directives, HTML, external links, colors, or markdown fences.\n\n---Generic pattern examples---\nrelationship_map:\nflowchart LR\n    %% source-id: person-a\n    A((\"Subject A\"))\n    %% source-id: person-b\n    B((\"Subject B\"))\n    %% source-id: org-a\n    O[\"Organization A\"]\n    A --- B\n    A -- \"member\" --> O\n    B -. \"reported association\" .-> O\n    class A,B person\n    class O organization\n\noperational_hierarchy:\nflowchart TD\n    %% source-id: person-lead\n    LEAD((\"Lead coordinator\"))\n    %% source-id: person-finance\n    FIN((\"Financial intermediary\"))\n    %% source-id: person-field\n    FIELD((\"Field participant\"))\n    LEAD -- \"directs\" --> FIELD\n    LEAD -- \"coordinates\" --> FIN\n    class LEAD,FIN,FIELD person\n\naffiliation_structure:\nflowchart TB\n    %% source-id: org-parent\n    PARENT[\"Parent organization\"]\n    %% source-id: org-unit-a\n    UNIT_A[\"Affiliated organization A\"]\n    %% source-id: org-unit-b\n    UNIT_B[\"Affiliated organization B\"]\n    %% source-id: person-officer\n    OFFICER((\"Named officer\"))\n    PARENT -- \"owns\" --> UNIT_A\n    PARENT -- \"controls\" --> UNIT_B\n    OFFICER -- \"officer of\" --> UNIT_A\n    class PARENT,UNIT_A,UNIT_B organization\n    class OFFICER person\n\n---Output contract---\nReturn only strict JSON: {\"charts\":[{\"id\":\"relationship-map\",\"kind\":\"relationship_map\",\"title\":\"Relationship map\",\"item_ids\":[\"person-a\"],\"mermaid_code\":\"flowchart LR\\n...\"}]}. Chart ids are lowercase kebab-case and unique. Kinds must be from the allowed list. Titles must use neutral investigative terminology. item_ids and source-id markers must match exactly.\n\n---Inputs---\nAnalysis type: {analysis_type}\nUser question: {user_prompt}\nRAG answer: {rag_answer}\nHighlighted POLE subgraph JSON: {graph_json}\nEvidence references JSON: {evidence_json}",
+      "description": "Generate a bounded JSON bundle of UNODC-style Mermaid link-analysis charts.",
+      "placeholders": [
+        "analysis_type",
+        "user_prompt",
+        "rag_answer",
+        "graph_json",
+        "evidence_json"
+      ],
+      "domain": "analysis",
+      "default_model_hint": null,
+      "default_params": {},
+      "enabled": true
+    },
+    "analysis.event_projection": {
+      "text": "---Role---\nYou are an intelligence analyst producing UNODC-style event-analysis Mermaid charts from retrieved POLE evidence.\n\n---Selection task---\nReturn every pattern that materially answers the question, but never more than three charts. Choose only from:\n- chronological_timeline: chronological periods and dated occurrences.\n- event_dependencies: supported sequence, convergence, divergence, and hypothesized dependencies.\n- actor_event_matrix: actor lanes aligned through time when multi-actor comparison adds analytical value.\nDo not create an actor matrix for a single actor. Do not infer causation from chronology alone.\n\n---Mandatory deduplication---\nConsolidate duplicate or alias events first. Within each chart, each event appears exactly once in item_ids and exactly once after a matching %% source-id marker. In flowcharts, declare its node once and reuse that Mermaid ID for all arrows. A shared event belongs in one node, not repeated in several actor lanes. The same event may appear once in each complementary chart.\n\n---Mermaid rules---\nThe chronological_timeline kind must use Mermaid `timeline`; group events by meaningful month, date range, or phase. The other kinds use flowchart LR. Use solid arrows only for supported dependencies and dotted arrows labelled \"hypothesized\" for tentative analytical links. Event nodes use semantic class event; hypothesized nodes also use hypothesis. Do not emit classDef, style, linkStyle, init directives, click directives, HTML, external links, colors, or markdown fences.\n\n---Generic pattern examples---\nchronological_timeline:\ntimeline\n    title Case event timeline\n    section January\n        %% source-id: event-meeting\n        Jan 03 : Meeting observed\n               : Participant A + Participant B · Location A\n        %% source-id: event-transfer\n        Jan 11 : Transfer recorded\n               : Asset type · A to C\n    section February\n        %% source-id: event-contact\n        Feb 17 : Communication recorded\n               : Participant A + Participant D · documented channel\n\nevent_dependencies:\nflowchart LR\n    %% source-id: event-observation-a\n    A[\"Mar 15<br/>Meeting observed\"]\n    %% source-id: event-observation-b\n    B[\"Mar 18<br/>Participant seen at location\"]\n    %% source-id: event-arrival\n    C[\"Mar 22<br/>Shipment arrived\"]\n    %% source-id: event-delivery\n    D[\"Mar 26<br/>Delivery reported\"]\n    A --> B --> C\n    C -. \"hypothesized\" .-> D\n    class A,B,C,D event\n    class D hypothesis\n\nactor_event_matrix:\nflowchart LR\n    subgraph LANE_A[\"Participant A\"]\n        %% source-id: event-return\n        A1[\"Sep 25<br/>Returned to area\"]\n    end\n    subgraph LANE_B[\"Participant B\"]\n        %% source-id: event-contact-shared\n        B1[\"Sep 26<br/>Communication recorded\"]\n        %% source-id: event-meeting-shared\n        B2[\"Oct 05<br/>Meeting observed\"]\n    end\n    A1 --> B1 --> B2\n    class A1,B1,B2 event\n\n---Output contract---\nReturn only strict JSON: {\"charts\":[{\"id\":\"chronological-timeline\",\"kind\":\"chronological_timeline\",\"title\":\"Chronological timeline\",\"item_ids\":[\"event-meeting\"],\"mermaid_code\":\"timeline\\n...\"}]}. Chart ids are lowercase kebab-case and unique. Kinds must be from the allowed list. item_ids and source-id markers must match exactly.\n\n---Inputs---\nAnalysis type: {analysis_type}\nUser question: {user_prompt}\nRAG answer: {rag_answer}\nHighlighted POLE subgraph JSON: {graph_json}\nEvidence references JSON: {evidence_json}",
+      "description": "Generate a bounded JSON bundle of UNODC-style Mermaid event-analysis charts.",
+      "placeholders": [
+        "analysis_type",
+        "user_prompt",
+        "rag_answer",
+        "graph_json",
+        "evidence_json"
+      ],
+      "domain": "analysis",
+      "default_model_hint": null,
+      "default_params": {},
+      "enabled": true
+    },
+    "analysis.flow_projection": {
+      "text": "---Role---\nYou are an intelligence analyst producing UNODC-style flow-analysis Mermaid charts from retrieved POLE evidence.\n\n---Selection task---\nReturn every pattern that materially answers the question, but never more than three charts. Choose only from:\n- commodity_flow: movement of a named asset, money, goods, documents, communications, or other evidential commodity through actors or organizations.\n- activity_flow: evidence-supported operational stages or actions, without inventing a generic process.\n- event_flow: dated occurrences whose movement or sequence is the analytical focus.\nName the subject of movement in the chart title or arrow labels. Omit ordinary associations that do not explain movement.\n\n---Mandatory deduplication---\nWithin each chart, each source entity, event, or evidence-supported aggregate stage appears exactly once in item_ids, exactly once as a %% source-id marker, and exactly once as a node declaration. Reuse the same Mermaid ID for all incoming and outgoing arrows. Consolidate aliases and repeated normalized labels. The same item may appear once in each complementary chart.\n\n---Mermaid rules---\nUse flowchart LR for movement across participants and flowchart TD for a supported hierarchy or staged process. Directed arrows show flow and should include available commodity, quantity, date, method, or channel. Solid arrows are supported movement; dotted arrows are inferred paths. Assign semantic classes person, organization, object, location, event, process, unknown, and hypothesis. Do not emit classDef, style, linkStyle, init directives, click directives, HTML, external links, colors, or markdown fences.\n\n---Generic pattern examples---\ncommodity_flow:\nflowchart LR\n    %% source-id: actor-source\n    SOURCE((\"Source participant\"))\n    %% source-id: org-transit\n    TRANSIT[\"Transit organization\"]\n    %% source-id: actor-intermediary\n    MID((\"Intermediary\"))\n    %% source-id: org-destination\n    DEST[\"Destination organization\"]\n    SOURCE -- \"asset · documented date\" --> TRANSIT\n    TRANSIT -- \"transfer method\" --> MID\n    MID -. \"inferred onward movement\" .-> DEST\n    class SOURCE,MID person\n    class TRANSIT,DEST organization\n    class DEST hypothesis\n\nactivity_flow:\nflowchart LR\n    %% source-id: activity-acquire\n    A[\"Acquire documented asset\"]\n    %% source-id: activity-prepare\n    B[\"Prepare for transfer\"]\n    %% source-id: activity-move\n    C[\"Move through intermediary\"]\n    %% source-id: activity-receive\n    D[\"Recipient takes control\"]\n    A --> B --> C --> D\n    class A,B,C,D process\n\nevent_flow:\nflowchart LR\n    %% source-id: event-contact\n    E1[\"Jan 05<br/>Communication recorded\"]\n    %% source-id: event-transfer\n    E2[\"Jan 10<br/>Package transferred\"]\n    %% source-id: event-meeting\n    E3[\"Jan 15<br/>Meeting observed\"]\n    %% source-id: event-payment\n    E4[\"Jan 22<br/>Payment recorded\"]\n    E1 --> E2 --> E3 --> E4\n    class E1,E2,E3,E4 event\n\n---Output contract---\nReturn only strict JSON: {\"charts\":[{\"id\":\"commodity-flow\",\"kind\":\"commodity_flow\",\"title\":\"Asset flow\",\"item_ids\":[\"actor-source\"],\"mermaid_code\":\"flowchart LR\\n...\"}]}. Chart ids are lowercase kebab-case and unique. Kinds must be from the allowed list. item_ids and source-id markers must match exactly. Aggregate activity IDs must be stable lowercase identifiers prefixed with activity:.\n\n---Inputs---\nAnalysis type: {analysis_type}\nUser question: {user_prompt}\nRAG answer: {rag_answer}\nHighlighted POLE subgraph JSON: {graph_json}\nEvidence references JSON: {evidence_json}",
+      "description": "Generate a bounded JSON bundle of UNODC-style Mermaid flow-analysis charts.",
+      "placeholders": [
+        "analysis_type",
+        "user_prompt",
+        "rag_answer",
+        "graph_json",
+        "evidence_json"
+      ],
+      "domain": "analysis",
+      "default_model_hint": null,
+      "default_params": {},
+      "enabled": true
+    },
+    "analysis.bundle_repair": {
+      "text": "---Role---\nYou repair an invalid JSON bundle of investigative Mermaid charts.\n\n---Task---\nFix every validation error while preserving evidence-grounded analytical meaning. Return only strict JSON with a charts array of at most three applicable charts. Consolidate duplicate entities/events rather than renaming duplicates. Every item_id must have exactly one matching %% source-id marker and one declaration within its chart. Preserve allowed chart kinds for the requested analysis type. Remove unsafe Mermaid directives, arbitrary styling, HTML, and unsupported claims.\n\n---Context---\nAnalysis type: {analysis_type}\nUser question: {user_prompt}\nRAG answer: {rag_answer}\nHighlighted POLE subgraph JSON: {graph_json}\nEvidence references JSON: {evidence_json}\nValidation errors JSON: {validation_errors}\nRejected bundle: {rejected_bundle}",
+      "description": "Repair an invalid Mermaid chart bundle contract before persistence.",
+      "placeholders": [
+        "analysis_type",
+        "user_prompt",
+        "rag_answer",
+        "graph_json",
+        "evidence_json",
+        "validation_errors",
+        "rejected_bundle"
+      ],
+      "domain": "analysis",
+      "default_model_hint": null,
+      "default_params": {},
+      "enabled": true
+    },
+    "analysis.mermaid_repair": {
+      "text": "---Role---\nYou repair one Mermaid chart that failed browser parsing or rendering.\n\n---Task---\nReturn only corrected raw Mermaid. Preserve the chart kind, title, item_ids, source-id comments, semantic classes, evidence-supported labels, and confirmed versus hypothesized relationships. Every item_id must remain declared exactly once. Simplify risky syntax when necessary. Do not return JSON, markdown fences, explanations, classDef, style, linkStyle, init directives, click directives, HTML, colors, or external links.\n\n---Context---\nAnalysis type: {analysis_type}\nChart kind: {chart_kind}\nChart title: {chart_title}\nItem IDs JSON: {item_ids_json}\nUser question: {user_prompt}\nRAG answer: {rag_answer}\nHighlighted POLE subgraph JSON: {graph_json}\nRender error: {render_error}\nBroken Mermaid code: {mermaid_code}",
+      "description": "Repair one Mermaid chart after a browser parse or render failure.",
+      "placeholders": [
+        "analysis_type",
+        "chart_kind",
+        "chart_title",
+        "item_ids_json",
+        "user_prompt",
+        "rag_answer",
+        "graph_json",
+        "render_error",
+        "mermaid_code"
+      ],
+      "domain": "analysis",
+      "default_model_hint": null,
+      "default_params": {},
+      "enabled": true
+    }
+  },
+  "library_prompt_catalog": {
+    "lightrag": {
+      "DEFAULT_TUPLE_DELIMITER": {
+        "description": "Field delimiter used by LightRAG extraction output parsing.",
+        "value": null
+      },
+      "DEFAULT_COMPLETION_DELIMITER": {
+        "description": "Terminal marker that tells LightRAG extraction output is complete.",
+        "value": null
+      },
+      "entity_extraction_system_prompt": {
+        "description": "Core system instructions for LightRAG entity and relation extraction into the POLE (Person-Organization-Object-Location-Event) model.",
+        "value": "---Role---\nYou are an investigative knowledge-graph extraction specialist. Your task is to convert a single evidence chunk into entities and relationships following the POLE (Person–Organization–Object–Location–Event) data model used in law enforcement and intelligence analysis. Assume you know nothing about this project, the surrounding case, or any external doctrine beyond the evidence text provided here.\n\n---POLE Entity Types---\n* Legal documents and rulings (temporary restraining orders, court orders, injunctions, verdicts, lawsuits) are Events, never Objects. Their entity_type is event.\n* Communication content (messages, emails, calls) is modelled as events, not objects.\n* Sub-components of weapons or vehicles mentioned only as diagram labels (barrel, trigger, hopper, switch) should NOT be extracted unless they appear in an analytical context with operational significance.\n\n* Legal documents and rulings (temporary restraining orders, court orders, injunctions, verdicts, lawsuits) are Events, never Objects. Their entity_type is event.\n* Communication content (messages, emails, calls) is modelled as events, not objects.\n* Sub-components of weapons or vehicles mentioned only as diagram labels (barrel, trigger, hopper, switch) should NOT be extracted unless they appear in an analytical context with operational significance.\n\n* person       – any individual relevant to the case (suspect, victim, witness, officer, politician).\n* organization – any organisation, company, agency, NGO, trust, institution, or corporate entity.\n  Corporate suffixes and legal forms such as Inc., Ltd., Limited, S.A., Trust, Foundation, Bank, Agency, or Services indicate organizations unless the evidence clearly says otherwise.\n* object   – physical or digital items (weapon, vehicle, device, account, document, file, phone, asset).\n* location – places at any granularity (address, city, GPS coordinate, region, facility, country).\n* event    – anything that happens or is recorded as an incident (crime, meeting, phone call, transaction, message, seizure, arrest, transfer).\n\n---POLE Relationship Types (use only these tokens as relation keywords)---\nPARTICIPATED_IN   Person/Organization→Event (role: suspect, victim, witness, sender, receiver, reporter, publisher, corporate actor)\nUSED_IN           Object→Event (role: weapon, vehicle, device, account, attachment)\nOCCURRED_AT       Event→Location\nRESIDENCE_AT      Person→Location (known residence)\nLOCATED_AT        Object→Location (where an object is or was)\nASSOCIATED_WITH   Person/Organization/Object↔Person/Organization/Object or generic co-occurrence (use only when no stronger relation fits)\nWITHIN            Location↔Location (hierarchy: bay → warehouse → city → country)\nSAME_AS           Object↔Object (alias / deduplication)\n\n---Mission Priorities---\n1) Preserve high-value persons, organizations, objects, locations, and materially relevant events.\n2) Produce labels that an investigator can understand without reopening the source chunk.\n3) Prefer fewer high-value entities over many low-value or duplicate entities, but do not miss analytically significant events, persons, locations, or objects. If an entity is central to the investigation (a named person, a specific event with date and location, a key weapon or document), it must be extracted.\n4) If a fact is uncertain, omit it rather than speculate.\n5) Every event MUST be connected to at least one person (PARTICIPATED_IN) plus one object (USED_IN) or one location (OCCURRED_AT).\n6) Every entity you list MUST appear in at least one relationship line. No orphan entities.\n\n---Extraction Rules---\n1) Entities: output entity{tuple_delimiter}entity_name{tuple_delimiter}entity_type{tuple_delimiter}entity_description.\n   - The entity_name MUST begin with a type prefix in square brackets. Use exactly one of: [PERSON], [ORGANIZATION], [OBJECT], [LOCATION], [EVENT].\n     Example: entity{tuple_delimiter}[PERSON] John Doe{tuple_delimiter}person{tuple_delimiter}Individual initiating a wire transfer.\n   - Keep names canonical, specific, and concise. Do NOT include the type description in the name—only the [TYPE] prefix.\n   - Never use generic placeholder names such as event_1, person_2, or object_3.\n   - If no formal title exists, build a short descriptive label directly from the evidence text itself.\n   - Event labels must describe the occurrence itself. Use action or incident plus place plus date or time when available. Never use only a date, year, page number, or section heading as the event name.\n   - Object labels should describe what the item is, not just its category. Prefer \"[OBJECT] blue Samsung phone\" over \"[OBJECT] device\".\n   - Organizations must use the [ORGANIZATION] prefix and entity_type organization. Example: \"[ORGANIZATION] ACME Corp\" has entity_type organization.\n2) Relations: output relation{tuple_delimiter}src_name{tuple_delimiter}tgt_name{tuple_delimiter}relation_type{tuple_delimiter}description.\n   - Use the exact entity_name (including the [TYPE] prefix) from the entity lines above.\n   - Use only the eight allowed relation types.\n   - Prefer strong directional relations (PARTICIPATED_IN, USED_IN, OCCURRED_AT, RESIDENCE_AT, LOCATED_AT) over generic ASSOCIATED_WITH.\n   - Use ASSOCIATED_WITH only when no other directional relation applies. Never use ASSOCIATED_WITH for an entity's only connection.\n   - For communication evidence, the message itself is an event; people PARTICIPATED_IN it; objects (phones, accounts) were USED_IN it.\n   - Every relation line MUST end with a non-empty description. Do not leave the description field blank or empty. A description-less relation will cause a system error.\n   - Location entities MUST be connected to at least one event (OCCURRED_AT) or to an object via LOCATED_AT, or to a person via RESIDENCE_AT.\n3) Output only entity and relation lines, then {completion_delimiter}.\n4) Do not emit low-value presentation or layout artefacts unless they are explicitly important evidence."
+      },
+      "entity_extraction_user_prompt": {
+        "description": "Initial user prompt template that injects the chunk text into LightRAG extraction flow.",
+        "value": "---Task---\nExtract entities and relationships from the input text using the POLE controlled schema.\n- This is the PRIMARY extraction pass. Extraction coverage matters — ensure every significant person, organization, location, event, and object mentioned in the text is captured, especially named individuals, specific incidents with dates, and operational details.\n- Prefix every entity name with its POLE type: [PERSON], [ORGANIZATION], [OBJECT], [LOCATION], or [EVENT].\n- Use only the eight relation keywords from the allowed list.\n- Keep evidence wording; no speculation.\n- Prefer investigator-meaningful names over placeholders, raw dates, page numbers, or interface text.\n- Treat source-system IDs, row IDs, node IDs, internal IDs, and foreign keys as provenance/reference attributes, not final entity names, unless the evidence explicitly discusses the identifier itself.\n- Never add a descriptive prefix (such as 'Node', 'Row', 'Record', 'Entry', or 'ID') to a numeric or alphanumeric reference in an entity name. If only a numeric reference is available, keep it bare: [PERSON] 12129717 is acceptable; [PERSON] Node 12129717 and [PERSON] ID 12129717 are not. Put identifiers in descriptions, not in entity names.\n- If a reference label and a human-readable name both appear, use the human-readable name as the entity and keep the identifier in the description.\n- Corporate entities, trusts, banks, agencies, charities, and companies are organizations, not persons, even when they appear in officer/shareholder tables.\n- Do not emit low-value presentation or layout artefacts unless they are explicitly important evidence.\n- Every entity must appear in at least one relationship. Every event must have PARTICIPATED_IN + OCCURRED_AT or USED_IN.\n- Every location must connect to at least one event or entity. No orphan nodes.\n- Extract EVERY entity and relationship from this chunk — minimise the need for follow-up extraction.\n- Output only lines in the specified format, then {completion_delimiter}.\n\n<Entity_types>\n[{entity_types}]\n\n<Input Text>\n`\n{input_text}\n`\n\n<Output>"
+      },
+      "entity_continue_extraction_user_prompt": {
+        "description": "Follow-up extraction prompt used in gleaning pass to recover missed or malformed entities/relations.",
+        "value": "---Task---\nContinue extracting missed or malformed entities and relationships from the SAME input text as the first extraction pass.\n\nCRITICAL: For EVERY entity you add, you MUST output at least one relationship line connecting it to an entity that already exists (either from the first pass or from this pass). An entity line without a corresponding relationship line is FORBIDDEN. If you cannot write a relationship for an entity, DO NOT add that entity at all. An unconnected entity harms the knowledge graph more than omitting it.\n\nRules:\n- Never repeat lines that were already correctly extracted in the first pass.\n- Use the same [PERSON]/[ORGANIZATION]/[OBJECT]/[LOCATION]/[EVENT] prefix on every entity name.\n- Use only the eight allowed relation keywords.\n- Never emit placeholder names (event_1, person_2, object_3).\n- Never add a descriptive prefix (such as 'Node', 'Row', 'Record', 'Entry', or 'ID') to a numeric or alphanumeric reference in entity names. Keep bare references as-is.\n- Ignore low-value presentation or layout noise unless directly evidential.\n- Every new entity MUST be paired with at least one relationship in the same output.\n- Output only new or corrected lines in the specified format, then {completion_delimiter}.\n\n<Output>"
+      },
+      "entity_extraction_examples": {
+        "description": "Few-shot examples that condition LightRAG extraction output format and quality for POLE model.",
+        "value": [
+          "<Entity_types>\\n[\\\"person\\\",\\\"organization\\\",\\\"object\\\",\\\"location\\\",\\\"event\\\"]\\n\\n<Input Text>\\n```\\nOn 12 March 2022, John Doe wired $15,000 from Account 8842 at North Shore Bank to ACME Imports in Dubai. The funds were for munitions procurement.\\n```\\n\\n<Output>\\nentity{tuple_delimiter}[PERSON] John Doe{tuple_delimiter}person{tuple_delimiter}Individual initiating a wire transfer on 12 March 2022.\\nentity{tuple_delimiter}[OBJECT] Account 8842{tuple_delimiter}object{tuple_delimiter}Bank account at North Shore Bank used by John Doe as the source of the $15,000 transfer.\\nentity{tuple_delimiter}[ORGANIZATION] North Shore Bank{tuple_delimiter}organization{tuple_delimiter}Financial institution holding Account 8842.\\nentity{tuple_delimiter}[ORGANIZATION] ACME Imports{tuple_delimiter}organization{tuple_delimiter}Recipient organisation in Dubai linked to the transfer.\\nentity{tuple_delimiter}[LOCATION] Dubai{tuple_delimiter}location{tuple_delimiter}Location of the recipient organisation ACME Imports.\\nentity{tuple_delimiter}[EVENT] Wire Transfer 12 Mar 2022{tuple_delimiter}event{tuple_delimiter}Transfer of $15,000 on 12 March 2022 from Account 8842 at North Shore Bank to ACME Imports in Dubai for munitions procurement.\\nrelation{tuple_delimiter}[PERSON] John Doe{tuple_delimiter}[EVENT] Wire Transfer 12 Mar 2022{tuple_delimiter}PARTICIPATED_IN{tuple_delimiter}John Doe initiated the wire transfer as the sender.\\nrelation{tuple_delimiter}[OBJECT] Account 8842{tuple_delimiter}[EVENT] Wire Transfer 12 Mar 2022{tuple_delimiter}USED_IN{tuple_delimiter}Account 8842 was the source of the transferred funds.\\nrelation{tuple_delimiter}[ORGANIZATION] ACME Imports{tuple_delimiter}[EVENT] Wire Transfer 12 Mar 2022{tuple_delimiter}PARTICIPATED_IN{tuple_delimiter}ACME Imports received the transferred funds.\\nrelation{tuple_delimiter}[EVENT] Wire Transfer 12 Mar 2022{tuple_delimiter}[LOCATION] Dubai{tuple_delimiter}OCCURRED_AT{tuple_delimiter}The transfer was directed to Dubai where the recipient is located.\\nrelation{tuple_delimiter}[ORGANIZATION] North Shore Bank{tuple_delimiter}[OBJECT] Account 8842{tuple_delimiter}ASSOCIATED_WITH{tuple_delimiter}North Shore Bank operates Account 8842.\\n",
+          "<Entity_types>\\n[\\\"person\\\",\\\"organization\\\",\\\"object\\\",\\\"location\\\",\\\"event\\\"]\\n\\n<Input Text>\\n```\\nVisible text from a phone screenshot reads: \\u0027Rami: Meet Kareem at Warehouse 14 tonight 21:30. Bring the blue Samsung device.\\u0027 The screenshot header shows the contact name Rami and the date 08 Sep 2023.\\n```\\n\\n<Output>\\nentity{tuple_delimiter}[PERSON] Rami{tuple_delimiter}person{tuple_delimiter}Message sender shown in a phone screenshot dated 08 Sep 2023.\\nentity{tuple_delimiter}[PERSON] Kareem{tuple_delimiter}person{tuple_delimiter}Person named in the message as the meeting counterpart.\\nentity{tuple_delimiter}[LOCATION] Warehouse 14{tuple_delimiter}location{tuple_delimiter}Meeting location referenced in the message.\\nentity{tuple_delimiter}[OBJECT] blue Samsung device{tuple_delimiter}object{tuple_delimiter}Device mentioned in the message to be brought to the meeting.\\nentity{tuple_delimiter}[EVENT] Meeting at Warehouse 14 08 Sep 2023{tuple_delimiter}event{tuple_delimiter}Planned meeting on 08 Sep 2023 at 21:30 at Warehouse 14, discussed via phone message, involving a blue Samsung device.\\nrelation{tuple_delimiter}[PERSON] Rami{tuple_delimiter}[EVENT] Meeting at Warehouse 14 08 Sep 2023{tuple_delimiter}PARTICIPATED_IN{tuple_delimiter}Rami organised the meeting and was the sender of the message.\\nrelation{tuple_delimiter}[PERSON] Kareem{tuple_delimiter}[EVENT] Meeting at Warehouse 14 08 Sep 2023{tuple_delimiter}PARTICIPATED_IN{tuple_delimiter}Kareem was the intended participant named in the message.\\nrelation{tuple_delimiter}[EVENT] Meeting at Warehouse 14 08 Sep 2023{tuple_delimiter}[LOCATION] Warehouse 14{tuple_delimiter}OCCURRED_AT{tuple_delimiter}The meeting was planned to take place at Warehouse 14.\\nrelation{tuple_delimiter}[OBJECT] blue Samsung device{tuple_delimiter}[EVENT] Meeting at Warehouse 14 08 Sep 2023{tuple_delimiter}USED_IN{tuple_delimiter}The blue Samsung device was to be brought to the meeting.\\n",
+          "<Entity_types>\\n[\\\"person\\\",\\\"organization\\\",\\\"object\\\",\\\"location\\\",\\\"event\\\"]\\n\\n<Input Text>\\n```\\nSource account: Civic Watch (@civic-watch.example).\\n\\nPost text: At 14:20 on 03 May 2024, Alex Chen photographed delivery truck K-42 arriving at Warehouse 7. The post says the truck left North Depot earlier that afternoon and stopped at Loading Bay B.\\n\\nImage labels: delivery truck K-42; Warehouse 7; Loading Bay B; LOCATION: 40.1000, -73.9000\\n\\nVisual depiction: An annotated street-level image shows a truck at a warehouse loading bay with labels for the vehicle, building, and bay.\\n```\\n\\n<Output>\\nentity{tuple_delimiter}[ORGANIZATION] Civic Watch{tuple_delimiter}organization{tuple_delimiter}Organisation operating the source account @civic-watch.example.\\nentity{tuple_delimiter}[PERSON] Alex Chen{tuple_delimiter}person{tuple_delimiter}Person named as photographing delivery truck K-42.\\nentity{tuple_delimiter}[OBJECT] delivery truck K-42{tuple_delimiter}object{tuple_delimiter}Truck labelled in the post and image as arriving at Warehouse 7.\\nentity{tuple_delimiter}[LOCATION] North Depot{tuple_delimiter}location{tuple_delimiter}Location the post says delivery truck K-42 left earlier that afternoon.\\nentity{tuple_delimiter}[LOCATION] Warehouse 7{tuple_delimiter}location{tuple_delimiter}Warehouse named and labelled as the truck arrival location.\\nentity{tuple_delimiter}[LOCATION] Loading Bay B{tuple_delimiter}location{tuple_delimiter}Loading bay labelled in the image and described as a stop by the truck.\\nentity{tuple_delimiter}[EVENT] Truck K-42 Arrival 03 May 2024{tuple_delimiter}event{tuple_delimiter}Delivery truck K-42 arrived at Warehouse 7 on 03 May 2024 at 14:20, reported via a Civic Watch social media post with a photograph.\\nrelation{tuple_delimiter}[PERSON] Alex Chen{tuple_delimiter}[EVENT] Truck K-42 Arrival 03 May 2024{tuple_delimiter}PARTICIPATED_IN{tuple_delimiter}Alex Chen photographed and reported the truck arrival.\\nrelation{tuple_delimiter}[ORGANIZATION] Civic Watch{tuple_delimiter}[EVENT] Truck K-42 Arrival 03 May 2024{tuple_delimiter}PARTICIPATED_IN{tuple_delimiter}Civic Watch published the post reporting the arrival.\\nrelation{tuple_delimiter}[OBJECT] delivery truck K-42{tuple_delimiter}[EVENT] Truck K-42 Arrival 03 May 2024{tuple_delimiter}USED_IN{tuple_delimiter}The truck is the subject of the arrival event.\\nrelation{tuple_delimiter}[EVENT] Truck K-42 Arrival 03 May 2024{tuple_delimiter}[LOCATION] Warehouse 7{tuple_delimiter}OCCURRED_AT{tuple_delimiter}The arrival took place at Warehouse 7.\\nrelation{tuple_delimiter}[OBJECT] delivery truck K-42{tuple_delimiter}[LOCATION] Loading Bay B{tuple_delimiter}LOCATED_AT{tuple_delimiter}The truck stopped at Loading Bay B during the arrival.\\nrelation{tuple_delimiter}[LOCATION] Loading Bay B{tuple_delimiter}[LOCATION] Warehouse 7{tuple_delimiter}WITHIN{tuple_delimiter}Loading Bay B is within Warehouse 7.\\nrelation{tuple_delimiter}[LOCATION] North Depot{tuple_delimiter}[EVENT] Truck K-42 Arrival 03 May 2024{tuple_delimiter}ASSOCIATED_WITH{tuple_delimiter}The truck departed North Depot earlier that afternoon.\\n"
+        ]
+      },
+      "summarize_entity_descriptions": {
+        "description": "Prompt for merging multiple entity or relation descriptions into one consolidated summary.",
+        "value": null
+      },
+      "fail_response": {
+        "description": "Fallback answer string when LightRAG cannot produce grounded context.",
+        "value": null
+      },
+      "rag_response": {
+        "description": "Default LightRAG system answer template for graph+chunk grounded responses with references.",
+        "value": null
+      },
+      "naive_rag_response": {
+        "description": "Answer template for naive (chunk-only) retrieval mode without graph context.",
+        "value": null
+      },
+      "kg_query_context": {
+        "description": "Context assembly template for graph-mode query prompts (entities, relations, chunks, references).",
+        "value": null
+      },
+      "naive_query_context": {
+        "description": "Context assembly template for naive query mode using document chunks and references.",
+        "value": null
+      },
+      "keywords_extraction": {
+        "description": "Prompt for extracting high-level and low-level retrieval keywords from the user query.",
+        "value": null
+      },
+      "keywords_extraction_examples": {
+        "description": "Few-shot examples supporting LightRAG query keyword extraction behavior.",
+        "value": null
+      }
+    },
+    "raganything": {
+      "IMAGE_ANALYSIS_SYSTEM": {
+        "description": "System prompt used for primary multimodal image analysis tasks.",
+        "value": null
+      },
+      "IMAGE_ANALYSIS_FALLBACK_SYSTEM": {
+        "description": "Fallback image analysis system prompt when image-specific handling degrades to text path.",
+        "value": null
+      },
+      "TABLE_ANALYSIS_SYSTEM": {
+        "description": "System prompt for table interpretation and insight extraction.",
+        "value": null
+      },
+      "EQUATION_ANALYSIS_SYSTEM": {
+        "description": "System prompt for equation interpretation and explanation.",
+        "value": null
+      },
+      "GENERIC_ANALYSIS_SYSTEM": {
+        "description": "System prompt for generic content analysis by content type.",
+        "value": null
+      },
+      "vision_prompt": {
+        "description": "Base user prompt template for detailed image-to-JSON analysis output.",
+        "value": null
+      },
+      "vision_prompt_with_context": {
+        "description": "Image analysis prompt template that incorporates surrounding document context.",
+        "value": null
+      },
+      "text_prompt": {
+        "description": "Text fallback template that wraps image metadata when direct visual analysis is unavailable.",
+        "value": null
+      },
+      "table_prompt": {
+        "description": "Base prompt template for table-to-JSON analysis output.",
+        "value": null
+      },
+      "table_prompt_with_context": {
+        "description": "Context-aware table analysis template with surrounding content hints.",
+        "value": null
+      },
+      "equation_prompt": {
+        "description": "Base prompt template for equation-to-JSON analysis output.",
+        "value": null
+      },
+      "equation_prompt_with_context": {
+        "description": "Context-aware equation analysis template.",
+        "value": null
+      },
+      "generic_prompt": {
+        "description": "Base prompt template for generic content analysis across modal types.",
+        "value": null
+      },
+      "generic_prompt_with_context": {
+        "description": "Context-aware generic content analysis template.",
+        "value": null
+      },
+      "image_chunk": {
+        "description": "Template used to materialize analyzed image content into a chunk for insertion.",
+        "value": null
+      },
+      "table_chunk": {
+        "description": "Template used to materialize analyzed table content into a chunk for insertion.",
+        "value": null
+      },
+      "equation_chunk": {
+        "description": "Template used to materialize analyzed equation content into a chunk for insertion.",
+        "value": null
+      },
+      "generic_chunk": {
+        "description": "Template used to materialize analyzed generic content into a chunk for insertion.",
+        "value": null
+      },
+      "QUERY_IMAGE_DESCRIPTION": {
+        "description": "Prompt for query-time image description extraction during multimodal answer enhancement.",
+        "value": null
+      },
+      "QUERY_IMAGE_ANALYST_SYSTEM": {
+        "description": "System prompt for query-time image analyst behavior.",
+        "value": null
+      },
+      "QUERY_TABLE_ANALYSIS": {
+        "description": "Prompt for query-time table summarization and key finding extraction.",
+        "value": null
+      },
+      "QUERY_TABLE_ANALYST_SYSTEM": {
+        "description": "System prompt for query-time table analyst behavior.",
+        "value": null
+      },
+      "QUERY_EQUATION_ANALYSIS": {
+        "description": "Prompt for query-time equation summarization and interpretation.",
+        "value": null
+      },
+      "QUERY_EQUATION_ANALYST_SYSTEM": {
+        "description": "System prompt for query-time equation analyst behavior.",
+        "value": null
+      },
+      "QUERY_GENERIC_ANALYSIS": {
+        "description": "Prompt for query-time generic content analysis with format detection.",
+        "value": null
+      },
+      "QUERY_GENERIC_ANALYST_SYSTEM": {
+        "description": "System prompt for query-time generic content analyst behavior.",
+        "value": null
+      }
+    }
+  }
+}

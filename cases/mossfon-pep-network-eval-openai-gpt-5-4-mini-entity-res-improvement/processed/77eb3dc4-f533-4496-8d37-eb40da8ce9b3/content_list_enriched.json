@@ -1,0 +1,8 @@
+[
+  {
+    "type": "text",
+    "text": "node_id,name,status,internal_id,address,countries,country_codes,sourceID,valid_until,note\r\n11005663,LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT),ACTIVE,28765,\"LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT) 7, VAL SAINTE-CROIX L 1371 LUXEMBOURG  LUXEMBOURG\",Luxembourg,LUX,Panama Papers,The Panama Papers  data is current through 2015,\r\n11002578,DR. K. CHRYSOSTOMIDES & CO.,ACTIVE,21392,\"DR. K. CHRYSOSTOMIDES & CO.  1 LAMBOUSA STREET 1095 NICOSIA, CYPRUS\",Cyprus,CYP,Panama Papers,The Panama Papers  data is current through 2015,\r\n11011774,\"LUSSICH TORRENDELL, CR. SANTIAGO\",ACTIVE,9304,\"CR. SANTIAGO LUSSICH TORRENDELL MISIONES N\ufffd 1.371  PISO 4\ufffd ( C.P. 11.100 )  MONTEVIDEO, URUGUAY\",Uruguay,URY,Panama Papers,The Panama Papers  data is current through 2015,\r\n11012290,MOSSFON MANAGERS LTD.,ACTIVE,12819,MOSSFON MANAGERS LTD. SAFFREY SQUARE; SUITE 205; BANK LANE P.O. BOX N-8188 NASSAU **S.I**; NEW PROVIDENCE ISLAND BAHAMAS,Bahamas,BHS,Panama Papers,The Panama Papers  data is current through 2015,\r\n11011597,MINERVA TRUST & CORPORATE SERVICES LIMITED,ACTIVE,891,MINERVA TRUST & CORPORATE SERVICES LIMITED P.O. BOX 218 43-45 LA MOTTE STREET; ST. HELIER JE4 8SD; JERSEY UNITED KINGDOM,Jersey;United Kingdom,JEY;GBR,Panama Papers,The Panama Papers  data is current through 2015,",
+    "document_id": "77eb3dc4-f533-4496-8d37-eb40da8ce9b3",
+    "confidence_code": "A2"
+  }
+]

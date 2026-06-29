@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 28 35% 95%;
+  --foreground: 222 30% 12%;
+  --card: 0 0% 100%;
+  --card-foreground: 222 30% 12%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 222 30% 12%;
+  --primary: 14 74% 45%;
+  --primary-foreground: 0 0% 98%;
+  --secondary: 210 20% 92%;
+  --secondary-foreground: 222 30% 18%;
+  --muted: 210 18% 90%;
+  --muted-foreground: 220 10% 40%;
+  --accent: 46 92% 56%;
+  --accent-foreground: 222 35% 14%;
+  --destructive: 0 78% 50%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 210 20% 85%;
+  --input: 210 20% 85%;
+  --ring: 18 85% 55%;
+  --radius: 14px;
+}
+
+* {
+  border-color: hsl(var(--border));
+}
+
+body {
+  font-family: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  background: radial-gradient(1200px 600px at 10% -10%, rgba(255, 200, 150, 0.35), transparent 60%),
+    radial-gradient(900px 500px at 90% -20%, rgba(250, 232, 180, 0.35), transparent 60%),
+    linear-gradient(180deg, rgba(252, 249, 244, 0.95), rgba(245, 242, 236, 0.9));
+  color: hsl(var(--foreground));
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+@keyframes rawabit-details-pulse {
+  0%,
+  100% {
+    border-color: hsl(var(--border));
+    box-shadow: 0 0 0 0 hsl(var(--primary) / 0);
+  }
+  30% {
+    border-color: hsl(var(--primary));
+    box-shadow: 0 0 0 4px hsl(var(--primary) / 0.18), 0 0 0 1px hsl(var(--primary) / 0.35);
+  }
+  65% {
+    border-color: hsl(var(--primary) / 0.75);
+    box-shadow: 0 0 0 7px hsl(var(--primary) / 0.08), 0 0 0 1px hsl(var(--primary) / 0.22);
+  }
+}
+
+.rawabit-details-pulse {
+  animation: rawabit-details-pulse 0.9s ease-in-out 2;
+}

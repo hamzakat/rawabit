@@ -1,0 +1,2997 @@
+[
+  {
+    "type": "text",
+    "text": "Identifying \u2018Less-Lethal\u2019 Weapons Used By DHS Agents in US Immigration Raids and Protests ",
+    "text_level": 1,
+    "bbox": [
+      83,
+      126,
+      879,
+      233
+    ],
+    "page_idx": 0,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "January 27, 2026 ICE Immigration Police ",
+    "bbox": [
+      81,
+      256,
+      251,
+      285
+    ],
+    "page_idx": 0,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "To stay up to date on our latest investigations, join Bellingcat\u2019s WhatsApp channel here. ",
+    "bbox": [
+      81,
+      305,
+      794,
+      353
+    ],
+    "page_idx": 0,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Federal agents have frequently used so-called \u201cless-lethal\u201d weapons against protesters, including impact projectiles, tear gas and pepper spray, since the Trump administration\u2019s nationwide immigration raids began last year. ",
+    "bbox": [
+      80,
+      372,
+      905,
+      449
+    ],
+    "page_idx": 0,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The use of less-lethal weapons (LLWs) has been controversial. While designed to incapacitate or control a person without causing death or permanent injury, they can cause serious or fatal injuries, especially when used improperly. ",
+    "bbox": [
+      80,
+      468,
+      913,
+      542
+    ],
+    "page_idx": 0,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Earlier this month, two protesters in California were reportedly blinded after US federal agents fi red less-lethal rounds at their faces from close range. These incidents were part of a wave of violent clashes between agents from the Department of Homeland Security (DHS) and protesters across the country after the deadly shooting of US citizen Renee Good by an Immigration and Customs Enforcement (ICE) agent in Minneapolis. ",
+    "bbox": [
+      80,
+      563,
+      913,
+      717
+    ],
+    "page_idx": 0,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      18,
+      132,
+      30
+    ],
+    "page_idx": 0,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      722,
+      30
+    ],
+    "page_idx": 0,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      47,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 0,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "",
+    "bbox": [
+      934,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 0,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\d679bb472e2fe3d508126c3bb219b95329a1011e68e3c7f7444354827f1b3497.jpg",
+    "image_caption": [
+      "Federal agents armed with less-lethal weapons in Minneapolis on Friday, Jan. 9, 2026. Source: Cristina Matuozzi/Sipa USA via Reuters Connect "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      35,
+      915,
+      464
+    ],
+    "page_idx": 1,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "In protests in Minneapolis immediately following Good\u2019s death, one Customs and Border Patrol (CBP) off icer was captured on camera fi ring a 40mm less-lethal launcher fi ve times in less than fi ve minutes, with several of these shots appearing to target protesters\u2019 faces, which is against CBP\u2019s own use-of-force policy. ",
+    "bbox": [
+      81,
+      529,
+      915,
+      630
+    ],
+    "page_idx": 1,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "A Bellingcat investigation of DHS incidents in October 2025 also found about 30 incidents that appeared to violate a temporary restraining order (TRO) issued by an Illinois judge restricting how DHS agents could use LLWs. ",
+    "bbox": [
+      80,
+      650,
+      901,
+      724
+    ],
+    "page_idx": 1,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Support Bellingcat ",
+    "bbox": [
+      65,
+      784,
+      333,
+      810
+    ],
+    "page_idx": 1,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Your donations directly contribute to our ability to publish groundbreaking investigations and uncover wrongdoing around the world. ",
+    "bbox": [
+      63,
+      820,
+      797,
+      867
+    ],
+    "page_idx": 1,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      45,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 1,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/23 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 1,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      18,
+      132,
+      30
+    ],
+    "page_idx": 1,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      722,
+      30
+    ],
+    "page_idx": 1,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "0 ",
+    "bbox": [
+      63,
+      784,
+      99,
+      811
+    ],
+    "page_idx": 1,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Donate ",
+    "text_level": 1,
+    "bbox": [
+      101,
+      49,
+      178,
+      66
+    ],
+    "page_idx": 2,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "It is not always obvious whether the use of a LLW is authorised or not, as DHS component agencies such as ICE and CBP have varying guidance on factors such as the level of resistance an individual needs to show before a certain type of force can be used, as well as how specifi c types of less-lethal weapons and munitions can be used. ",
+    "bbox": [
+      80,
+      138,
+      915,
+      266
+    ],
+    "page_idx": 2,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "While CBP\u2019s use-of-force policy as of January 2021 is available on its website, ICE does not include specifi c guidance on less-lethal weapons in its 2023 \u201cFirearms and Use of Force\u201d Directive, and does not appear to have any publicly available policy that outlines this guidance. ",
+    "bbox": [
+      80,
+      286,
+      913,
+      388
+    ],
+    "page_idx": 2,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "DHS did not respond by publication time to Bellingcat\u2019s request for the most recent DHS, CBP and ICE use-of-force policies, or to questions about what less-lethal weapons were authorised for use by the department and its component agencies. ",
+    "bbox": [
+      81,
+      409,
+      908,
+      483
+    ],
+    "page_idx": 2,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The DHS use-of-force policy, updated in February 2023, states that the department\u2019s law enforcement off icers and agents may use force, including LLWs, \u201conly when no reasonably eff ective, safe and feasible alternative appears to exist\u201d. It also says agents may only use a level of force that is \u201cobjectively reasonable in light of the facts and circumstances\u201d that they face at the time. ",
+    "bbox": [
+      80,
+      502,
+      919,
+      631
+    ],
+    "page_idx": 2,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "DHS has repeatedly defended its use of riot-control weapons in protests across the country, stating that it was \u201ctaking reasonable and constitutional measures to uphold the rule of law and protect [its] off icers\u201d. ",
+    "bbox": [
+      80,
+      650,
+      918,
+      724
+    ],
+    "page_idx": 2,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Here\u2019s how to identify some of the less-lethal weapons that DHS agents, including those from ICE and CBP, have been seen using during recent immigration operations. ",
+    "bbox": [
+      81,
+      744,
+      892,
+      819
+    ],
+    "page_idx": 2,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Compressed Air Launchers or \u2018PepperBall Guns\u2019 ",
+    "bbox": [
+      81,
+      840,
+      642,
+      864
+    ],
+    "page_idx": 2,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      17,
+      722,
+      30
+    ],
+    "page_idx": 2,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ttps://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/",
+    "bbox": [
+      45,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 2,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "3/23 ",
+    "bbox": [
+      933,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 2,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      35,
+      17,
+      132,
+      30
+    ],
+    "page_idx": 2,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\db99c78671ed13d7c838c2be3ec1871f286580763dcde81d5116000b03667eb0.jpg",
+    "image_caption": [
+      "Left: A Border Patrol Agent in Chicago carrying an orange TAC-SF series PepperBall gun in Illinois on Oct. 24, 2025. Right: Agent aiming a Pepperball gun at someone fi lming them in Illinois on Oct. 19, 2025. Source: Youtube / @BlockClubChicago and Tiktok / @ericcervantes25 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      78,
+      34,
+      915,
+      614
+    ],
+    "page_idx": 3,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Compressed air, or pneumatic launchers, are essentially paintball guns that fi re 0.68mm balls which break on impact. Often, this releases a powdered chemical irritant such as oleoresin capsicum (OC) or PavaPowder \u2013 the same compounds typically found in pepper spray. ",
+    "bbox": [
+      80,
+      696,
+      870,
+      799
+    ],
+    "page_idx": 3,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Compressed air launchers can also be used with other projectiles, such as \u201cmarking\u201d projectiles that use paint to mark an individual for later arrest, and projectiles intended to break glass. ",
+    "bbox": [
+      80,
+      819,
+      915,
+      893
+    ],
+    "page_idx": 3,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      722,
+      30
+    ],
+    "page_idx": 3,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      47,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 3,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      18,
+      132,
+      30
+    ],
+    "page_idx": 3,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "4/23 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 3,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "These weapons are often referred to as \u201cPepperBall\u201d guns, named after the leading brand PepperBall. However, DHS agents have also been seen carrying compressed air launchers from diff erent brands, such as the FN303, produced by FN America. ",
+    "bbox": [
+      81,
+      37,
+      898,
+      111
+    ],
+    "page_idx": 4,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Many compressed air launchers resemble standard paintball guns, with a distinct hopper or loader, which holds the ball projectiles, mounted to the top. They also have a compressed air tank that might be mounted to the side, bottom, or inside the buttstock (or back) of the weapon. ",
+    "bbox": [
+      80,
+      131,
+      916,
+      232
+    ],
+    "page_idx": 4,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Many compressed air launchers, and less-lethal weapons in general, have very bright colours such as orange to distinguish them from lethal weapons. ",
+    "bbox": [
+      80,
+      252,
+      915,
+      301
+    ],
+    "page_idx": 4,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\96b9193476d48d831accecb273ab307875a13c00353219e2744cfc5d11feb271.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      119,
+      339,
+      880,
+      606
+    ],
+    "page_idx": 4,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "The TAC-SF PepperBall gun features a compressed air tank and a top-mounted EL-2 hopper, which has a distinctive shape. Graphic: Justin Baird for Bellingcat ",
+    "bbox": [
+      88,
+      661,
+      913,
+      700
+    ],
+    "page_idx": 4,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      17,
+      722,
+      31
+    ],
+    "page_idx": 4,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      17,
+      132,
+      30
+    ],
+    "page_idx": 4,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      47,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 4,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/23 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 4,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\7c5521b636ab42e4f6121c255f44aa83b0fedb344996d36d4ee405b9d1b78498.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      120,
+      42,
+      880,
+      342
+    ],
+    "page_idx": 5,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "The PepperBall TAC-SA Pro\u2019s hopper is a slightly diff erent shape from the TAC-SF, but serves the same purpose. Graphic: Justin Baird for Bellingcat ",
+    "bbox": [
+      88,
+      377,
+      913,
+      417
+    ],
+    "page_idx": 5,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\9dba4b78f845f23a14335d8f2aaa8d33bd059602b53df4e85eec52718ce85aa1.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      89,
+      444,
+      900,
+      755
+    ],
+    "page_idx": 5,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "PepperBall VKS Pro features a compressed air tank located inside the buttstock and a magazine rather than a top-mounted hopper. Graphic: Justin Baird for Bellingcat ",
+    "bbox": [
+      86,
+      776,
+      913,
+      815
+    ],
+    "page_idx": 5,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "However, some compressed air launchers require closer scrutiny to distinguish them from fi rearms. ",
+    "bbox": [
+      80,
+      833,
+      911,
+      880
+    ],
+    "page_idx": 5,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "For example, federal agents have been seen carrying FN303 compressed air launchers in videos of immigration enforcement activities. This weapon may resemble a rifl e or other fi rearm, as it is usually all-black and, unlike the TAC-SF series PepperBall guns, lacks a visible hopper. ",
+    "bbox": [
+      81,
+      901,
+      833,
+      949
+    ],
+    "page_idx": 5,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      34,
+      968,
+      483,
+      981
+    ],
+    "page_idx": 5,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "6/23 ",
+    "bbox": [
+      931,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 5,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      722,
+      31
+    ],
+    "page_idx": 5,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      35,
+      17,
+      132,
+      30
+    ],
+    "page_idx": 5,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      80,
+      37,
+      867,
+      84
+    ],
+    "page_idx": 6,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\7f9dc2ea2a3bf4ed47788aecdcefca6e9877ad3582236012274099dc6e06267c.jpg",
+    "image_caption": [
+      "Left: Agent holding an FN303 in California on June 11, 2025. Right: Federal Agent aiming a FN303 compressed air launcher at someone fi lming them in Illinois on Oct. 7, 2025. Source: TikTok / @anthony.depice and TikTok / @krisvvec "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      103,
+      915,
+      584
+    ],
+    "page_idx": 6,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "If closer examination is possible, this weapon can be identifi ed by its distinct features, including a circular magazine, side-mounted compressed air tank and a hose connecting the fi rearm to the air tank. ",
+    "bbox": [
+      80,
+      669,
+      882,
+      743
+    ],
+    "page_idx": 6,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      17,
+      722,
+      30
+    ],
+    "page_idx": 6,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      45,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 6,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "7/23 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 6,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      18,
+      132,
+      30
+    ],
+    "page_idx": 6,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\ba9c86f9337d9133c50247871bc89fb460cd68d635b4eb7a9fccebd86213aa8e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      130,
+      111,
+      849,
+      321
+    ],
+    "page_idx": 7,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "The FN303\u2019s air tank is mounted on the side and connected to the fi rearm by a hose. Graphic: Justin Baird for Bellingcat ",
+    "bbox": [
+      99,
+      377,
+      901,
+      416
+    ],
+    "page_idx": 7,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The January 2021 CBP Use of Force Policy places several restrictions on the use of compressed air launchers, including that they should not be used against small children, the elderly, visibly pregnant women, or people operating a vehicle. It also states that PepperBall guns should not be used within 3 feet \u201cunless the use of deadly force is reasonable and necessary\u201d. When using the FN303, the minimum distance is increased to 10 feet. ",
+    "bbox": [
+      80,
+      434,
+      892,
+      588
+    ],
+    "page_idx": 7,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The CBP Use of Force Policy says that the intentional targeting of areas where there is a \u201csubstantial risk of serious bodily injury or death is considered a use of deadly force.\u201d Agents are instructed not to target \u201cthe head, neck, spine, or groin of the intended subject, unless the use of deadly force is reasonable\u201d. PepperBall and FN America provide similar warnings about avoiding vital areas to prevent serious injury or death. ",
+    "bbox": [
+      78,
+      608,
+      915,
+      762
+    ],
+    "page_idx": 7,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "According to a 2021 report by the US Off ice of Inspector General, CBP requires its agents to recertify their training to use PepperBall guns and FN303s every year, but ICE does not. ",
+    "bbox": [
+      81,
+      781,
+      906,
+      857
+    ],
+    "page_idx": 7,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "40mm Launchers ",
+    "text_level": 1,
+    "bbox": [
+      83,
+      878,
+      290,
+      901
+    ],
+    "page_idx": 7,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      722,
+      30
+    ],
+    "page_idx": 7,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      35,
+      17,
+      132,
+      30
+    ],
+    "page_idx": 7,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      47,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 7,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "8/23 ",
+    "bbox": [
+      933,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 7,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\35090a27e14fb3e3487ce81fb9adb47ce514f62b6bd25ec520a418b3d7a85d1b.jpg",
+    "image_caption": [
+      "Left: CBP agent \u201cEZ-17\u201d with a B&T GL06 40mm launcher and a belt with a variety of Defense Technology 40mm less lethal munitions, including one Direct Impact OC round and two Direct Impact CS rounds in Illinois on Oct. 24, 2025. Centre: EZ-17 fi ring a B&T GL06 launcher at a man in Minneapolis on Jan. 7, 2026. Right: A federal agent with a B&T GL06 in Illinois on Oct. 24, 2025. Source: YouTube / Block Club Chicago, X / Dymanh, Facebook / Draco Nesquik "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      36,
+      916,
+      415
+    ],
+    "page_idx": 8,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "DHS agents also use 40mm launchers to fi re \u201cLess-Lethal Specialist Impact and Chemical Munitions (LLSI-CM)\u201d. These launchers resemble military grenade launchers, but are used to fi re less-lethal ammunition, including \u201csponge\u201d rounds that can disperse chemical irritants on impact. ",
+    "bbox": [
+      81,
+      541,
+      882,
+      643
+    ],
+    "page_idx": 8,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Federal agents have been seen using or carrying the B&T GL06 launcher in footage of multiple incidents reviewed by Bellingcat. They have also been spotted with other 40mm launchers, including Penn Arms 40mm multi-shot launchers, which have a six-round cylinder magazine. ",
+    "bbox": [
+      80,
+      664,
+      911,
+      763
+    ],
+    "page_idx": 8,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      45,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 8,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "9/23 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 8,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      18,
+      132,
+      30
+    ],
+    "page_idx": 8,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      723,
+      30
+    ],
+    "page_idx": 8,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\03cfff100e0f017b434a9ab76cd347918aa0dd87f58a40df3bcad7f2e62a2490.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      166,
+      114,
+      828,
+      300
+    ],
+    "page_idx": 9,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "The B&T GL06 (pictured) and other 40mm launchers have a visibly wider barrel than compressed air launchers or standard fi rearms. Graphic: Justin Baird for Bellingcat ",
+    "bbox": [
+      98,
+      377,
+      903,
+      416
+    ],
+    "page_idx": 9,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "There are various less-lethal munitions available for 40mm launchers, including those whose primary function is \u201cpain compliance\u201d through the force of impact, chemical irritants or a combination of both. ",
+    "bbox": [
+      81,
+      435,
+      869,
+      508
+    ],
+    "page_idx": 9,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Videos of clashes between Border Patrol agents and protesters show these launchers being used with combination rounds designed to hit the target for pain compliance while also delivering a chemical irritant such as OC or CS. ",
+    "bbox": [
+      80,
+      530,
+      916,
+      603
+    ],
+    "page_idx": 9,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      35,
+      17,
+      132,
+      30
+    ],
+    "page_idx": 9,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      722,
+      30
+    ],
+    "page_idx": 9,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      45,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 9,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "10/23 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 9,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\7fe7f8113e7973f57c2dc4795976573fb08551d2469e6e6c5b14df2df461545c.jpg",
+    "image_caption": [
+      "Direct Impact munitions by Defense Technology have distinctive rounded sponge foam noses and colours that indicate their chemical fi ll. Graphic: Justin Baird for Bellingcat "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      267,
+      55,
+      732,
+      344
+    ],
+    "page_idx": 10,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Other munitions dispense chemical irritants or smoke after being launched. For example, in the protests immediately following Good\u2019s death, a Border Patrol agent was seen fi ring a 40mm munition that released multiple projectiles emitting chemical irritants in a single shot, consistent with the \u201cSKAT Shell\u201d by Defense Technology. ",
+    "bbox": [
+      78,
+      449,
+      900,
+      579
+    ],
+    "page_idx": 10,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\143e32b4cc95a543ca2aa12911c38f839e4345349f178466c8240ea71f22e489.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      276,
+      617,
+      722,
+      907
+    ],
+    "page_idx": 10,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      35,
+      18,
+      132,
+      30
+    ],
+    "page_idx": 10,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      722,
+      30
+    ],
+    "page_idx": 10,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ttps://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/",
+    "bbox": [
+      45,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 10,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "11/23 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 10,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Defense Technology\u2019s technical specifi cations for its 40mm Direct Impact Rounds, which agents have been seen armed with, state that the munitions are considered less-lethal when fi red at a minimum safe range of 5 feet and at the large muscle groups of the buttocks, thigh and knees, which \u201cprovide suff icient pain stimulus, while greatly reducing serious or life-threatening injuries\u201d. ",
+    "bbox": [
+      80,
+      90,
+      897,
+      219
+    ],
+    "page_idx": 11,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "A DHS Off ice of Inspector General Report in 2021 noted varying guidance on the use of 40mm launchers among the department\u2019s component agencies: \u201cICE\u2019s use of force policy indicates that the 40MM launcher is deadly force when fi red at someone, while the CBP use of force policy only directs off icers not to target a person\u2019s head or neck.\u201d ",
+    "bbox": [
+      78,
+      250,
+      919,
+      377
+    ],
+    "page_idx": 11,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "CBP\u2019s 2021 use-of-force policy states that agents should \u201cnot intentionally target the head, neck, groin, spine, or female breast\u201d, and that anyone in custody who has been subject to such munitions should be seen by a medical professional \u201cas soon as practicable\u201d. ",
+    "bbox": [
+      78,
+      397,
+      916,
+      498
+    ],
+    "page_idx": 11,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "As of publication, DHS had not replied to Bellingcat\u2019s questions about whether the department had an internal policy or provided training to staff on the minimum safe distance for 40mm less-lethal launchers as recommended by the manufacturers. ",
+    "bbox": [
+      80,
+      518,
+      910,
+      593
+    ],
+    "page_idx": 11,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Hand-Thrown Munitions ",
+    "bbox": [
+      83,
+      614,
+      367,
+      637
+    ],
+    "page_idx": 11,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      45,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 11,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "12/23 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 11,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      17,
+      132,
+      30
+    ],
+    "page_idx": 11,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS The SKAT Shell by Defense Technology (left) fi res multiple projectiles, while the company\u2019s SPEDE-Heat shell launches a single projectile. Graphic: Justin Baird for Bellingcat ",
+    "bbox": [
+      62,
+      16,
+      919,
+      74
+    ],
+    "page_idx": 11,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\55f511c8c8d763974cf6cccf1eaca4a70f7d66c0f601b0aa4e9f931aa753635d.jpg",
+    "image_caption": [
+      "Top Left: Border Patrol Commander of Operations At Large Greg Bovino with two Triple-Chaser CS Grenades on his vest in Minneapolis on Jan. 8, 2026. Top Right: Person holding a used Pocket Tactical Green Smoke grenade in Minneapolis, Jan. 21, 2026. Bottom Left: Top third of a Triple-Chaser Grenade "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      49,
+      913,
+      852
+    ],
+    "page_idx": 12,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      722,
+      31
+    ],
+    "page_idx": 12,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "13/23 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 12,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      18,
+      132,
+      30
+    ],
+    "page_idx": 12,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      45,
+      968,
+      477,
+      981
+    ],
+    "page_idx": 12,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "DHS agents have also been seen throwing some less-lethal munitions, such as fl ashbangs, smoke and \u201ctear gas\u201d grenades or canisters by hand. ",
+    "bbox": [
+      81,
+      104,
+      913,
+      152
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Related articles by Bellingcat ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      212,
+      405,
+      236
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "INVESTIGATIONS ",
+    "bbox": [
+      210,
+      261,
+      346,
+      275
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\589cac94c5af8b6a02a4041a871da2076c3aeeaac9f880776deb9dc0ae14687d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      255,
+      187,
+      352
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "\u2018Pattern of Extreme Brutality\u2019: Tear Gas, Pepper Balls Among Weapons Deployed Against Protesters in Illinois ",
+    "bbox": [
+      212,
+      280,
+      874,
+      323
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "These munitions activate a short delay after the grenade is employed. When they activate, fl ash-bangs or \u201cstun\u201d grenades emit a bright fl ash of light and a loud sound that is designed to disorient targets. Both smoke grenades and tear gas (also known as \u201cCS gas\u201d or \u201cOC gas\u201d) emit thick smoke, but the former just impedes visibility, whereas the latter also contains chemical irritants that sting the eyes. ",
+    "bbox": [
+      80,
+      383,
+      911,
+      512
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Defense Technology off ers smoke grenades with hexachloroethane smoke composition, but most of their smoke grenades use \u201cSAF-Smoke\u201d, a less toxic terephthalic acid smoke composition. ",
+    "bbox": [
+      81,
+      531,
+      849,
+      607
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Hexachloroethane, while toxic, is not a nerve agent, despite misinformation surrounding the deployment of green colored smoke grenades in Minnesota by DHS personnel. ",
+    "bbox": [
+      80,
+      627,
+      910,
+      700
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The shape and general construction, colour, and any text can help identify these munitions. ",
+    "bbox": [
+      81,
+      722,
+      869,
+      768
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Less-lethal munitions typically feature the manufacturer\u2019s logo, the model name of the munition, and the model or part number. The text and manufacturer logo are typically colour-coded to indicate the type of payload the munition has, with blue indicating CS, orange indicating OC, yellow indicating smoke, green indicating a marking composition and black indicating munitions with no chemical payload. ",
+    "bbox": [
+      80,
+      789,
+      892,
+      917
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      17,
+      132,
+      30
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      17,
+      722,
+      31
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "14/23 ",
+    "bbox": [
+      926,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      45,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "in Illinois, Oct. 25, 2025. Bottom Right: Used Riot Control CS Grenade in Minneapolis, Jan. 23, 2026. Source: Nick Sortor, Rollofthedice, Bluesky / Unraveled Press, Andrew Hazzard ",
+    "bbox": [
+      96,
+      47,
+      905,
+      87
+    ],
+    "page_idx": 13,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\89adad199fc3a7f844815ff0066c037f09acc740ddb240d3590a1a9175bab0e1.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      107,
+      51,
+      834,
+      347
+    ],
+    "page_idx": 14,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "The \u201cTriple-Chaser\u201d grenade by Defense Technology (left) has three distinct segments that separate after the grenade is thrown, with each emitting smoke or chemical irritants, while other chemical grenades by the same company have a single smooth body (right). Graphic: Justin Baird for Bellingcat ",
+    "bbox": [
+      91,
+      377,
+      906,
+      438
+    ],
+    "page_idx": 14,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "A 2021 analysis by Bellingcat and Newsy found that Defense Technology and Combined Tactical Systems, the two manufacturers which produce most of the lesslethal munitions used by federal agents, both list the model numbers of their products online. Publicly available price lists for Defense Technology and Combined Tactical Systems can also be used to identify specifi c munitions by their model numbers. ",
+    "bbox": [
+      78,
+      455,
+      915,
+      608
+    ],
+    "page_idx": 14,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\9a2a14e7e977ee0666e7014eb60deb36adfd1352cb9f26ffbadc4a73d6d02160.jpg",
+    "image_caption": [
+      "Part numbers seen on less-lethal munitions recovered in Portland in 2020. Source: Robert Evans/Bellingcat and X / @AnalystMick "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      627,
+      918,
+      887
+    ],
+    "page_idx": 14,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      35,
+      18,
+      132,
+      30
+    ],
+    "page_idx": 14,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      722,
+      30
+    ],
+    "page_idx": 14,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "15/23 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 14,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      47,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 14,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "CBP\u2019s 2021 use-of-force policy states that hand-thrown munitions are subject to the same restrictions for use as munition launcher-fi red impact and chemical munitions. ",
+    "bbox": [
+      81,
+      37,
+      913,
+      84
+    ],
+    "page_idx": 15,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Chemical Irritant Sprays ",
+    "bbox": [
+      83,
+      106,
+      369,
+      128
+    ],
+    "page_idx": 15,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\58f4ed0ebaa5a3225a1dbeab300c64662e8df5a168fc5fed803565826d535ac4.jpg",
+    "image_caption": [
+      "Left: DHS agent using a chemical irritant spray on a protester in Minneapolis on Nov. 25, 2025. Centre: CBP Agent spraying Alex Pretti with what appears to be OC spray moments before he is killed in Minneapolis on Jan. 24, 2026. Right: Federal Agent with a SABRE MK-9 spray threatening to spray a journalist if they do not move back in Minneapolis on Dec. 11, 2025. Source: Reddit / I_May_Have_Weed, TikTok/ShitboxHyundai, Instagram / Status Coup "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      135,
+      918,
+      441
+    ],
+    "page_idx": 15,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "DHS agents have also been using handheld chemical irritant sprays, often colloquially referred to as \u201cpepper spray\u201d or \u201cmace\u201d. ",
+    "bbox": [
+      81,
+      569,
+      813,
+      616
+    ],
+    "page_idx": 15,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "These sprays come in a variety of sizes and concentrations containing CS, OC, or both. Sprays used by law enforcement usually have a canister size designated \u201cMK-\u201d followed by a number, with higher numbers indicating larger canister sizes. The concentration of chemical irritants contained in the spray is also indicated on the canister. ",
+    "bbox": [
+      80,
+      636,
+      910,
+      763
+    ],
+    "page_idx": 15,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      17,
+      722,
+      31
+    ],
+    "page_idx": 15,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      17,
+      132,
+      30
+    ],
+    "page_idx": 15,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      45,
+      968,
+      480,
+      981
+    ],
+    "page_idx": 15,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "16/23 ",
+    "bbox": [
+      926,
+      968,
+      960,
+      981
+    ],
+    "page_idx": 15,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Dona te ",
+    "bbox": [
+      836,
+      882,
+      890,
+      925
+    ],
+    "page_idx": 15,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Investigatio  Resourc  Ukrain  Worksho EN ",
+    "bbox": [
+      299,
+      866,
+      800,
+      891
+    ],
+    "page_idx": 15,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ns ",
+    "bbox": [
+      351,
+      921,
+      377,
+      934
+    ],
+    "page_idx": 15,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\d2cb013e6cc52582a1fd4195dbc16362320b89a6d724d5de011b4883850fbee5.jpg",
+    "image_caption": [
+      "The .2% MK-9 OC Spray by Defense Technology (left). The MK-9 produced by various companies with various concentrations has been seen often used by federal agents on protestors (right). Graphic: Justin Baird for Bellingcat "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      142,
+      46,
+      803,
+      358
+    ],
+    "page_idx": 16,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "The eff ectiveness of OC sprays is determined by the concentration of major capsaicinoids, which are the active compounds in OC that cause irritation. These sprays are also aff ected by the type of aerosol dispersion, or stream, used. Diff erent types of streams increase or decrease the range of the spray as well as the coverage area. ",
+    "bbox": [
+      80,
+      455,
+      910,
+      583
+    ],
+    "page_idx": 16,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Civilian and law enforcement sprays range from 0.18 percent to 1.33 percent major capsaicinoids, according to SABRE, a producer of law enforcement and civilian sprays. Civilian sprays in the US can have the same major capsaicinoid content as law enforcement sprays, but are restricted to smaller-sized canisters. ",
+    "bbox": [
+      80,
+      602,
+      895,
+      705
+    ],
+    "page_idx": 16,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Subscribe to the Bellingcat newsletter ",
+    "text_level": 1,
+    "bbox": [
+      63,
+      763,
+      511,
+      787
+    ],
+    "page_idx": 16,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Subscribe to our newsletter for fi rst access to our published content and events that our staff and contributors are involved with, including interviews and training workshops. ",
+    "bbox": [
+      63,
+      797,
+      933,
+      844
+    ],
+    "page_idx": 16,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Subscribe ",
+    "bbox": [
+      808,
+      875,
+      910,
+      892
+    ],
+    "page_idx": 16,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      35,
+      18,
+      132,
+      30
+    ],
+    "page_idx": 16,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      722,
+      30
+    ],
+    "page_idx": 16,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "17/23 ",
+    "bbox": [
+      928,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 16,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      47,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 16,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "email@example.com ",
+    "bbox": [
+      88,
+      876,
+      274,
+      892
+    ],
+    "page_idx": 16,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Defense Technology sprays have diff erent colour bands to indicate the percentage of major capsaicinoids in the spray for OC. If the spray is CS, the CS concentration is standardised at 2 percent. The company uses a white band for .2 percent, yellow band for .4 percent, orange band for .7 percent, red band for 1.3 percent and a grey band for sprays containing either CS or a combination of OC and CS. ",
+    "bbox": [
+      81,
+      36,
+      911,
+      164
+    ],
+    "page_idx": 17,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "SABRE sells a variety of concentrations and sprays as law enforcement products, including 0.33 percent, 0.67 percent, and 1.33 percent major capsaicinoid concentrations of OC, as well as CS, and combination CS and OC sprays. The specifi c concentrations of SABRE sprays and the type of stream can also be identifi ed by the text on the canister. ",
+    "bbox": [
+      80,
+      184,
+      880,
+      311
+    ],
+    "page_idx": 17,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "One Air Force Research Laboratory study found that some sprays may pose a signifi cant risk of severe eye damage due to pressure injuries resulting from large aerosol droplets hitting the eye. ",
+    "bbox": [
+      81,
+      332,
+      885,
+      406
+    ],
+    "page_idx": 17,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Defense Technology\u2019s technical specifi cations recommend a minimum distance of between 3 and 6 feet, depending on the specifi c spray. SABRE does not publicly provide their minimum safe deployment distances, but a Mesa Police Department document lists a minimum distance of six feet for the SABRE Red MK-9. CBP\u2019s 2021 use-of-force policy does not provide any minimum use distances. ",
+    "bbox": [
+      80,
+      426,
+      911,
+      554
+    ],
+    "page_idx": 17,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "CBP\u2019s 2021 use-of-force policy states that OC Spray may only be used on individuals off ering \u201cactive resistance\u201d, and that it should not be used on \u201csmall children; visibly pregnant; and operators of motor vehicles\u201d. ",
+    "bbox": [
+      80,
+      573,
+      916,
+      647
+    ],
+    "page_idx": 17,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Electronic Control Weapons ",
+    "bbox": [
+      81,
+      669,
+      410,
+      693
+    ],
+    "page_idx": 17,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      17,
+      722,
+      31
+    ],
+    "page_idx": 17,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      47,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 17,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "18/23 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 17,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      17,
+      132,
+      30
+    ],
+    "page_idx": 17,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\acbebf07126a06238a00e6e64446042d7f968bd8bffdc98c67b3cb6e3d6424d9.jpg",
+    "image_caption": [
+      "Left: Federal Agent pointing an Axon Taser 10 at a bystander who was fi lming an arrest in Los Angeles in June 2025. Right: DHS Agent with an Axon Taser 10 during an arrest in California on June 24, 2025. Source: Instagram / @dianaluespeciales, Instagram / Joe Knows Ventura "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      78,
+      34,
+      916,
+      594
+    ],
+    "page_idx": 18,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "DHS agents have also been seen using electronic control weapons (ECWs), which are colloquially called TASERs after the original weapon invented for law enforcement use, in immigration-related raids. ",
+    "bbox": [
+      80,
+      679,
+      890,
+      753
+    ],
+    "page_idx": 18,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "ECWs can deliver a shock upon direct contact or launch probes that embed in the targeted person, incapacitating them. ",
+    "bbox": [
+      80,
+      773,
+      888,
+      821
+    ],
+    "page_idx": 18,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "A shock on contact, or a \u201cdrive-stun\u201d feature, delivers localised pain while in direct contact. When properly deployed, the probes send signals to the body that cause muscles to contract. A person\u2019s body \u201clocking up\u201d from muscle contractions is an indicator that an ECW has been deployed. ECWs may be capable of using either or ",
+    "bbox": [
+      80,
+      842,
+      897,
+      944
+    ],
+    "page_idx": 18,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      722,
+      30
+    ],
+    "page_idx": 18,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "19/23 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 18,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      18,
+      132,
+      30
+    ],
+    "page_idx": 18,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      35,
+      968,
+      482,
+      981
+    ],
+    "page_idx": 18,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "both methods. ",
+    "bbox": [
+      80,
+      37,
+      223,
+      56
+    ],
+    "page_idx": 19,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "ECWs are typically painted a combination of black and bright yellow, but this varies between models. The bright colour of parts of tasers is a common feature to help distinguish an ECW from handguns used by federal agents. When viewed from the front, a circular gun barrel is visible on handguns, while ECWs feature multiple circular probes or rectangular covers on the cartridge. ECWs also usually have fl ashlights and lasers, although handguns may also be equipped with these features. Some ECWs may make audible sounds when armed or deployed. ",
+    "bbox": [
+      78,
+      88,
+      913,
+      270
+    ],
+    "page_idx": 19,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\48ec76ba62d8bace9813adf4a1b6361d0d15bb7777bd24fe0e1f7df57f6b81f2.jpg",
+    "image_caption": [
+      "The Axon TASER 10. Graphic: Justin Baird for Bellingcat "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      127,
+      308,
+      746,
+      603
+    ],
+    "page_idx": 19,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Axon, the predominant manufacturer of ECWs, produces several models including the TASER 10 and TASER 7. Axon provides a policy guide on recommended use of its TASER models to law enforcement agencies, which recommends targeting below the neck from behind, or the lower torso from the front. It recommends avoiding sensitive areas including the head, face, throat, chest and groin. ",
+    "bbox": [
+      78,
+      666,
+      923,
+      795
+    ],
+    "page_idx": 19,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Axon also recommends against using ECWs against small children, the elderly, pregnant people, very thin people and individuals in positions of increased risks such as running, operating a motor vehicle, or in an elevated position \u201cunless the situation justifi es an increased risk\u201d. ",
+    "bbox": [
+      80,
+      814,
+      918,
+      915
+    ],
+    "page_idx": 19,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      17,
+      722,
+      30
+    ],
+    "page_idx": 19,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      17,
+      132,
+      30
+    ],
+    "page_idx": 19,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "20/23 ",
+    "bbox": [
+      926,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 19,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      47,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 19,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "CBP\u2019s 2021 use-of-force policy, in addition to restricting the use of ECWs against small children, the elderly, visibly pregnant women, and people operating a vehicle, states that they should not be used against someone who is running or handcuff ed. However, the policy does state that there may be an exception to the rule against using ECWs on a running person if an agent has a \u201creasonable belief that the subject presents an imminent threat of injury\u201d to an agent or another person. This threat, according to the policy, must \u201coutweigh the risk of injury to the subject that might occur as a result of an uncontrolled fall while the subject is running\u201d. ",
+    "bbox": [
+      78,
+      37,
+      916,
+      243
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Bellingcat is a non-profi t and the ability to carry out our work is dependent on the kind support of individual donors. If you would like to support our work, you can do so here. You can also subscribe to our Patreon channel here. Subscribe to our Newsletter and follow us on Bluesky here and Mastodon here. ",
+    "bbox": [
+      80,
+      311,
+      915,
+      414
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\c6738c563a52154309e79644c57c309f2599340e6ce877585d48749fff406a30.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      111,
+      547,
+      176,
+      635
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Trevor Ball ",
+    "text_level": 1,
+    "bbox": [
+      81,
+      655,
+      189,
+      675
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Trevor Ball is a confl ict researcher and trainer at Bellingcat. He has worked on covering munitions used in confl icts, especially in incidents of civilian harm, and arms proliferation. ",
+    "bbox": [
+      81,
+      685,
+      913,
+      723
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Related articles ",
+    "bbox": [
+      83,
+      741,
+      264,
+      763
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\ea36ce37c68e963103484dfdf975ded23bf027227766ea0a096393228c0f42e1.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      81,
+      787,
+      192,
+      875
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      17,
+      722,
+      31
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      47,
+      968,
+      478,
+      981
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "21/23 ",
+    "bbox": [
+      926,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      17,
+      132,
+      30
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Share this article ",
+    "bbox": [
+      81,
+      458,
+      519,
+      500
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Border Patrol ICE Immigration Alex Pretti: Analysing Footage of Minneapolis CBP Shooting ",
+    "bbox": [
+      539,
+      784,
+      893,
+      849
+    ],
+    "page_idx": 20,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\8c786cd1-aaf0-4b14-bff3-89560b40f36e\\8c786cd1-aaf0-4b14-bff3-89560b40f36e_The_Less-Lethal_Weapons_Used_by_the_DHS\\txt\\images\\1d782a68e09b1c8803541aa51f2bc3e4e521b24239c5af06a856cca469dcb971.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      81,
+      34,
+      194,
+      222
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Five Shots in Five Minutes: Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "text_level": 1,
+    "bbox": [
+      433,
+      49,
+      893,
+      117
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "ICE Immigration Police Analysing Footage of Minneapolis ICE Shooting ",
+    "bbox": [
+      584,
+      131,
+      893,
+      195
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Your donations directly contribute to our ability to publish groundbreaking investigations and uncover wrongdoing around the world. ",
+    "bbox": [
+      508,
+      266,
+      710,
+      377
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Don ate ",
+    "text_level": 1,
+    "bbox": [
+      833,
+      295,
+      877,
+      334
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Who We Are ",
+    "bbox": [
+      508,
+      443,
+      629,
+      459
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "General Information ",
+    "bbox": [
+      509,
+      496,
+      697,
+      512
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Fun din g & Su ppo rter s ",
+    "bbox": [
+      875,
+      441,
+      918,
+      595
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Our Team ",
+    "bbox": [
+      508,
+      549,
+      602,
+      565
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Awards ",
+    "bbox": [
+      508,
+      602,
+      581,
+      618
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Newsletter ",
+    "bbox": [
+      508,
+      655,
+      612,
+      671
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "rds ",
+    "bbox": [
+      549,
+      679,
+      918,
+      693
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Sta nda & Pra ctic es ",
+    "bbox": [
+      875,
+      631,
+      918,
+      785
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Prin cipl es for Dat a ",
+    "bbox": [
+      874,
+      820,
+      919,
+      952
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      47,
+      969,
+      478,
+      981
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      37,
+      18,
+      132,
+      30
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "22/23 ",
+    "bbox": [
+      926,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ICE Immigration Police ",
+    "bbox": [
+      416,
+      17,
+      723,
+      45
+    ],
+    "page_idx": 21,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Coll ecti on ",
+    "bbox": [
+      875,
+      36,
+      1000,
+      99
+    ],
+    "page_idx": 22,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Dat a Priv acy ",
+    "bbox": [
+      877,
+      135,
+      916,
+      222
+    ],
+    "page_idx": 22,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Car eer s ",
+    "bbox": [
+      875,
+      256,
+      1000,
+      320
+    ],
+    "page_idx": 22,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/ ",
+    "bbox": [
+      45,
+      969,
+      478,
+      981
+    ],
+    "page_idx": 22,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "23/23 ",
+    "bbox": [
+      926,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 22,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Guide: The \u2018Less-Lethal\u2019 Weapons Used by the DHS ",
+    "bbox": [
+      415,
+      18,
+      722,
+      30
+    ],
+    "page_idx": 22,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/8/26, 2:26 PM ",
+    "bbox": [
+      35,
+      17,
+      132,
+      30
+    ],
+    "page_idx": 22,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "",
+    "bbox": [
+      91,
+      397,
+      142,
+      436
+    ],
+    "page_idx": 22,
+    "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+    "confidence_code": "A2"
+  }
+]

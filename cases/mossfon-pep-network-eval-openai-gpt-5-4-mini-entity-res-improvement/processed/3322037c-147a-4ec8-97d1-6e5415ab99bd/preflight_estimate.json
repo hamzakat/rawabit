@@ -1,0 +1,13 @@
+{
+  "complexity_class": "small",
+  "eta_seconds": 74,
+  "extension": ".csv",
+  "metrics": {
+    "line_count": 5,
+    "size_bytes": 532,
+    "size_mb": 0.001
+  },
+  "mime_type": "text/csv",
+  "source_kind": "text",
+  "warnings": []
+}

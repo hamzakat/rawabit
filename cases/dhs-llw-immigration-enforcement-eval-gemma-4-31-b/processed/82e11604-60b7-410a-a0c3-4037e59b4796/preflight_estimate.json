@@ -1,0 +1,13 @@
+{
+  "complexity_class": "small",
+  "eta_seconds": 156,
+  "extension": ".pdf",
+  "metrics": {
+    "pdf_pages": 16,
+    "size_bytes": 6067482,
+    "size_mb": 5.786
+  },
+  "mime_type": "application/pdf",
+  "source_kind": "pdf",
+  "warnings": []
+}

@@ -1,0 +1,3499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland">
+  <data key="d0">[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland</data>
+  <data key="d1">location</data>
+  <data key="d2">Address in the Panama Papers with internal identifier 14048807. Country code ISL for Iceland.</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d5">1778946692</data>
+</node>
+<node id="[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine">
+  <data key="d0">[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine</data>
+  <data key="d1">location</data>
+  <data key="d2">Address in the Panama Papers with internal identifier 14024758. Country code UKR for Ukraine.</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d5">1778946692</data>
+</node>
+<node id="[LOCATION] 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI">
+  <data key="d0">[LOCATION] 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI</data>
+  <data key="d1">location</data>
+  <data key="d2">Address of NAWAZ TRUST in the Panama Papers with internal identifier 14051308. Country code VGB for British Virgin Islands.</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d5">1778946692</data>
+</node>
+<node id="[ORGANIZATION] NAWAZ TRUST">
+  <data key="d0">[ORGANIZATION] NAWAZ TRUST</data>
+  <data key="d1">organization</data>
+  <data key="d2">Trust named in the Panama Papers with internal identifier 14051308. C/O Nerine Trust Company Limited.&lt;SEP&gt;Trust registered in British Virgin Islands and listed in Panama Papers.</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01&lt;SEP&gt;chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv&lt;SEP&gt;raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947930</data>
+</node>
+<node id="[ORGANIZATION] Nerine Trust Company Limited">
+  <data key="d0">[ORGANIZATION] Nerine Trust Company Limited</data>
+  <data key="d1">organization</data>
+  <data key="d2">C/O organization for NAWAZ TRUST.</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d5">1778946692</data>
+</node>
+<node id="[OBJECT] Panama Papers database">
+  <data key="d0">[OBJECT] Panama Papers database</data>
+  <data key="d1">object</data>
+  <data key="d2">Database of leaked documents containing entity records. Data current through 2015. All records originate from this database.&lt;SEP&gt;The dataset of records from the Panama Papers leak, including all listed entities.</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01&lt;SEP&gt;chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv&lt;SEP&gt;raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947933</data>
+</node>
+<node id="[LOCATION] Iceland">
+  <data key="d0">[LOCATION] Iceland</data>
+  <data key="d1">location</data>
+  <data key="d2">Country with country code ISL. Country for the address Lokastigur 24.&lt;SEP&gt;Country of origin for Sigmundur David Gunnlaugsson and Anna Sigurlaug Palsdottir.</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01&lt;SEP&gt;chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv&lt;SEP&gt;raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947932</data>
+</node>
+<node id="[LOCATION] Ukraine">
+  <data key="d0">[LOCATION] Ukraine</data>
+  <data key="d1">location</data>
+  <data key="d2">Country with country code UKR. Country for the address 9 Hrushevskoho Street.&lt;SEP&gt;Country of origin for Petro Poroshenko.</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01&lt;SEP&gt;chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv&lt;SEP&gt;raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947932</data>
+</node>
+<node id="[LOCATION] British Virgin Islands">
+  <data key="d0">[LOCATION] British Virgin Islands</data>
+  <data key="d1">location</data>
+  <data key="d2">Country with country code VGB. Country for the address 9 Columbus Centre.&lt;SEP&gt;Jurisdiction for BVI companies.&lt;SEP&gt;Jurisdiction where NAWAZ TRUST is registered.</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01&lt;SEP&gt;chunk-9bfb32bdd7c414f947145758260f981a&lt;SEP&gt;chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv&lt;SEP&gt;raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv&lt;SEP&gt;raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947932</data>
+</node>
+<node id="[OBJECT] 14048807">
+  <data key="d0">[OBJECT] 14048807</data>
+  <data key="d1">object</data>
+  <data key="d2">Internal identifier corresponding to the first record (Lokastigur 24 address).</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d5">1778946694</data>
+</node>
+<node id="[OBJECT] 14024758">
+  <data key="d0">[OBJECT] 14024758</data>
+  <data key="d1">object</data>
+  <data key="d2">Internal identifier corresponding to the second record (9 Hrushevskoho Street address).</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d5">1778946694</data>
+</node>
+<node id="[OBJECT] 14051308">
+  <data key="d0">[OBJECT] 14051308</data>
+  <data key="d1">object</data>
+  <data key="d2">Internal identifier corresponding to the third record (NAWAZ TRUST).</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d5">1778946694</data>
+</node>
+<node id="[OBJECT] ISL">
+  <data key="d0">[OBJECT] ISL</data>
+  <data key="d1">object</data>
+  <data key="d2">Country code for Iceland.</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d5">1778946695</data>
+</node>
+<node id="[OBJECT] UKR">
+  <data key="d0">[OBJECT] UKR</data>
+  <data key="d1">object</data>
+  <data key="d2">Country code for Ukraine.</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d5">1778946695</data>
+</node>
+<node id="[OBJECT] VGB">
+  <data key="d0">[OBJECT] VGB</data>
+  <data key="d1">object</data>
+  <data key="d2">Country code for British Virgin Islands.</data>
+  <data key="d3">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d4">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d5">1778946695</data>
+</node>
+<node id="[ORGANIZATION] WINTRIS INC.">
+  <data key="d0">[ORGANIZATION] WINTRIS INC.</data>
+  <data key="d1">organization</data>
+  <data key="d2">Active BVI company incorporated 09-OCT-2007; node_id 10206223.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947138</data>
+</node>
+<node id="[ORGANIZATION] Prime Asset Partners Limited">
+  <data key="d0">[ORGANIZATION] Prime Asset Partners Limited</data>
+  <data key="d1">organization</data>
+  <data key="d2">Active BVI company incorporated 21-AUG-2014.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947138</data>
+</node>
+<node id="[ORGANIZATION] FLEG TRADING LTD">
+  <data key="d0">[ORGANIZATION] FLEG TRADING LTD</data>
+  <data key="d1">organization</data>
+  <data key="d2">Bahamas company with records in Panama Papers and Bahamas Leaks; incorporated 31-MAR-1998; inactivated 05-JAN-2009; defaulted in Panama Papers; struck off 31-DEC-2008 (Panama Papers) and 04-FEB-2009 (Bahamas Leaks); Bahamas Leaks identifier 73694B.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947138</data>
+</node>
+<node id="[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED">
+  <data key="d0">[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED</data>
+  <data key="d1">organization</data>
+  <data key="d2">Changed agent BVI company; incorporated 27-FEB-2007; inactivated 25-FEB-2008; struck off 31-OCT-2008.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947138</data>
+</node>
+<node id="[ORGANIZATION] NIELSEN ENTERPRISES LIMITED">
+  <data key="d0">[ORGANIZATION] NIELSEN ENTERPRISES LIMITED</data>
+  <data key="d1">organization</data>
+  <data key="d2">Changed agent BVI company; incorporated 14-APR-1994; inactivated 22-JUL-2014; struck off 31-OCT-2015; internal_id 579413; ibcRUC 114856.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947138</data>
+</node>
+<node id="[ORGANIZATION] NESCOLL LIMITED">
+  <data key="d0">[ORGANIZATION] NESCOLL LIMITED</data>
+  <data key="d1">organization</data>
+  <data key="d2">Changed agent BVI company; incorporated 27-JAN-1993; inactivated 22-JUL-2014; struck off 31-OCT-2015.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947138</data>
+</node>
+<node id="[ORGANIZATION] MARIADA HOLDINGS LIMITED">
+  <data key="d0">[ORGANIZATION] MARIADA HOLDINGS LIMITED</data>
+  <data key="d1">organization</data>
+  <data key="d2">Changed agent BVI company; incorporated 21-JUL-1995; inactivated 06-JUN-2014; struck off 30-APR-2015.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947138</data>
+</node>
+<node id="[ORGANIZATION] Mossack Fonseca">
+  <data key="d0">[ORGANIZATION] Mossack Fonseca</data>
+  <data key="d1">organization</data>
+  <data key="d2">Service provider for Panama Papers entities.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947138</data>
+</node>
+<node id="[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A.">
+  <data key="d0">[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A.</data>
+  <data key="d1">organization</data>
+  <data key="d2">Registered address for WINTRIS INC.; based in Luxembourg.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947139</data>
+</node>
+<node id="[ORGANIZATION] MINERVA TRUST &amp; CORPORATE SERVICES LIMITED">
+  <data key="d0">[ORGANIZATION] MINERVA TRUST &amp; CORPORATE SERVICES LIMITED</data>
+  <data key="d1">organization</data>
+  <data key="d2">Registered address and agent for NIELSEN ENTERPRISES LIMITED and NESCOLL LIMITED; based in St. Helier, Jersey.&lt;SEP&gt;Jersey and UK-based entity listed as ACTIVE in Panama Papers. node_id 11011597, internal_id 891.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a&lt;SEP&gt;chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv&lt;SEP&gt;raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947536</data>
+</node>
+<node id="[ORGANIZATION] PRIMEWAY S.A.">
+  <data key="d0">[ORGANIZATION] PRIMEWAY S.A.</data>
+  <data key="d1">organization</data>
+  <data key="d2">Registered address for MARIADA HOLDINGS LIMITED; based in Geneva, Switzerland.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947139</data>
+</node>
+<node id="[ORGANIZATION] DR. K. CHRYSOSTOMIDES &amp; CO.">
+  <data key="d0">[ORGANIZATION] DR. K. CHRYSOSTOMIDES &amp; CO.</data>
+  <data key="d1">organization</data>
+  <data key="d2">Registered address for Prime Asset Partners Limited; based in Nicosia, Cyprus.&lt;SEP&gt;Cyprus-based entity listed as ACTIVE in Panama Papers. node_id 11002578, internal_id 21392.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a&lt;SEP&gt;chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv&lt;SEP&gt;raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947536</data>
+</node>
+<node id="[ORGANIZATION] MOSSFON MANAGERS LTD.">
+  <data key="d0">[ORGANIZATION] MOSSFON MANAGERS LTD.</data>
+  <data key="d1">organization</data>
+  <data key="d2">Registered address for HANGON PROPERTY HOLDINGS LIMITED; based in Nassau, Bahamas.&lt;SEP&gt;Bahamas-based entity listed as ACTIVE in Panama Papers. node_id 11012290, internal_id 12819.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a&lt;SEP&gt;chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv&lt;SEP&gt;raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947536</data>
+</node>
+<node id="[LOCATION] Bahamas">
+  <data key="d0">[LOCATION] Bahamas</data>
+  <data key="d1">location</data>
+  <data key="d2">Jurisdiction for FLEG TRADING LTD.&lt;SEP&gt;Country of registration for certain entities.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a&lt;SEP&gt;chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv&lt;SEP&gt;raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947539</data>
+</node>
+<node id="[LOCATION] Luxembourg">
+  <data key="d0">[LOCATION] Luxembourg</data>
+  <data key="d1">location</data>
+  <data key="d2">Country where LUXEMBOURG INTERNATIONAL CONSULTING S.A. is based.&lt;SEP&gt;Country of registration for certain entities.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a&lt;SEP&gt;chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv&lt;SEP&gt;raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947538</data>
+</node>
+<node id="[LOCATION] Nicosia, Cyprus">
+  <data key="d0">[LOCATION] Nicosia, Cyprus</data>
+  <data key="d1">location</data>
+  <data key="d2">City for DR. K. CHRYSOSTOMIDES &amp; CO. address.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947140</data>
+</node>
+<node id="[LOCATION] Montevideo, Uruguay">
+  <data key="d0">[LOCATION] Montevideo, Uruguay</data>
+  <data key="d1">location</data>
+  <data key="d2">Address location for FLEG TRADING LTD (Panama Papers record).</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947140</data>
+</node>
+<node id="[LOCATION] Nassau, Bahamas">
+  <data key="d0">[LOCATION] Nassau, Bahamas</data>
+  <data key="d1">location</data>
+  <data key="d2">Address for HANGON via MOSSFON MANAGERS LTD.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947140</data>
+</node>
+<node id="[LOCATION] St. Helier, Jersey">
+  <data key="d0">[LOCATION] St. Helier, Jersey</data>
+  <data key="d1">location</data>
+  <data key="d2">Address for MINERVA TRUST &amp; CORPORATE SERVICES LIMITED.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947140</data>
+</node>
+<node id="[LOCATION] Geneva, Switzerland">
+  <data key="d0">[LOCATION] Geneva, Switzerland</data>
+  <data key="d1">location</data>
+  <data key="d2">Address for PRIMEWAY S.A.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947140</data>
+</node>
+<node id="[EVENT] Incorporation of WINTRIS INC. on 09-OCT-2007">
+  <data key="d0">[EVENT] Incorporation of WINTRIS INC. on 09-OCT-2007</data>
+  <data key="d1">event</data>
+  <data key="d2">Incorporation of WINTRIS INC. in BVI.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947140</data>
+</node>
+<node id="[EVENT] Incorporation of Prime Asset Partners Limited on 21-AUG-2014">
+  <data key="d0">[EVENT] Incorporation of Prime Asset Partners Limited on 21-AUG-2014</data>
+  <data key="d1">event</data>
+  <data key="d2">Incorporation of Prime Asset Partners Limited in BVI.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947140</data>
+</node>
+<node id="[EVENT] Incorporation of FLEG TRADING LTD on 31-MAR-1998">
+  <data key="d0">[EVENT] Incorporation of FLEG TRADING LTD on 31-MAR-1998</data>
+  <data key="d1">event</data>
+  <data key="d2">Incorporation of FLEG TRADING LTD in Bahamas.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947140</data>
+</node>
+<node id="[EVENT] Incorporation of HANGON PROPERTY HOLDINGS LIMITED on 27-FEB-2007">
+  <data key="d0">[EVENT] Incorporation of HANGON PROPERTY HOLDINGS LIMITED on 27-FEB-2007</data>
+  <data key="d1">event</data>
+  <data key="d2">Incorporation of HANGON in BVI.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947140</data>
+</node>
+<node id="[EVENT] Incorporation of NIELSEN ENTERPRISES LIMITED on 14-APR-1994">
+  <data key="d0">[EVENT] Incorporation of NIELSEN ENTERPRISES LIMITED on 14-APR-1994</data>
+  <data key="d1">event</data>
+  <data key="d2">Incorporation of NIELSEN in BVI.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947140</data>
+</node>
+<node id="[EVENT] Incorporation of NESCOLL LIMITED on 27-JAN-1993">
+  <data key="d0">[EVENT] Incorporation of NESCOLL LIMITED on 27-JAN-1993</data>
+  <data key="d1">event</data>
+  <data key="d2">Incorporation of NESCOLL in BVI.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947141</data>
+</node>
+<node id="[EVENT] Incorporation of MARIADA HOLDINGS LIMITED on 21-JUL-1995">
+  <data key="d0">[EVENT] Incorporation of MARIADA HOLDINGS LIMITED on 21-JUL-1995</data>
+  <data key="d1">event</data>
+  <data key="d2">Incorporation of MARIADA in BVI.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947141</data>
+</node>
+<node id="[EVENT] Inactivation of FLEG TRADING LTD on 05-JAN-2009">
+  <data key="d0">[EVENT] Inactivation of FLEG TRADING LTD on 05-JAN-2009</data>
+  <data key="d1">event</data>
+  <data key="d2">Inactivation of FLEG TRADING LTD.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947141</data>
+</node>
+<node id="[EVENT] Inactivation of HANGON PROPERTY HOLDINGS LIMITED on 25-FEB-2008">
+  <data key="d0">[EVENT] Inactivation of HANGON PROPERTY HOLDINGS LIMITED on 25-FEB-2008</data>
+  <data key="d1">event</data>
+  <data key="d2">Inactivation of HANGON.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947142</data>
+</node>
+<node id="[EVENT] Inactivation of NIELSEN ENTERPRISES LIMITED on 22-JUL-2014">
+  <data key="d0">[EVENT] Inactivation of NIELSEN ENTERPRISES LIMITED on 22-JUL-2014</data>
+  <data key="d1">event</data>
+  <data key="d2">Inactivation of NIELSEN.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947144</data>
+</node>
+<node id="[EVENT] Inactivation of NESCOLL LIMITED on 22-JUL-2014">
+  <data key="d0">[EVENT] Inactivation of NESCOLL LIMITED on 22-JUL-2014</data>
+  <data key="d1">event</data>
+  <data key="d2">Inactivation of NESCOLL.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947144</data>
+</node>
+<node id="[EVENT] Inactivation of MARIADA HOLDINGS LIMITED on 06-JUN-2014">
+  <data key="d0">[EVENT] Inactivation of MARIADA HOLDINGS LIMITED on 06-JUN-2014</data>
+  <data key="d1">event</data>
+  <data key="d2">Inactivation of MARIADA.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947144</data>
+</node>
+<node id="[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008">
+  <data key="d0">[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008</data>
+  <data key="d1">event</data>
+  <data key="d2">FLEG TRADING LTD struck off per Panama Papers record.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947145</data>
+</node>
+<node id="[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009">
+  <data key="d0">[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009</data>
+  <data key="d1">event</data>
+  <data key="d2">FLEG TRADING LTD struck off per Bahamas Leaks record.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947145</data>
+</node>
+<node id="[EVENT] Strike-off of HANGON PROPERTY HOLDINGS LIMITED on 31-OCT-2008">
+  <data key="d0">[EVENT] Strike-off of HANGON PROPERTY HOLDINGS LIMITED on 31-OCT-2008</data>
+  <data key="d1">event</data>
+  <data key="d2">HANGON struck off.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947145</data>
+</node>
+<node id="[EVENT] Strike-off of NIELSEN ENTERPRISES LIMITED on 31-OCT-2015">
+  <data key="d0">[EVENT] Strike-off of NIELSEN ENTERPRISES LIMITED on 31-OCT-2015</data>
+  <data key="d1">event</data>
+  <data key="d2">NIELSEN struck off.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947146</data>
+</node>
+<node id="[EVENT] Strike-off of NESCOLL LIMITED on 31-OCT-2015">
+  <data key="d0">[EVENT] Strike-off of NESCOLL LIMITED on 31-OCT-2015</data>
+  <data key="d1">event</data>
+  <data key="d2">NESCOLL struck off.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947146</data>
+</node>
+<node id="[EVENT] Strike-off of MARIADA HOLDINGS LIMITED on 30-APR-2015">
+  <data key="d0">[EVENT] Strike-off of MARIADA HOLDINGS LIMITED on 30-APR-2015</data>
+  <data key="d1">event</data>
+  <data key="d2">MARIADA struck off.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947146</data>
+</node>
+<node id="[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted">
+  <data key="d0">[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted</data>
+  <data key="d1">event</data>
+  <data key="d2">FLEG TRADING LTD changed to Defaulted status in Panama Papers.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947146</data>
+</node>
+<node id="[OBJECT] Panama Papers dataset">
+  <data key="d0">[OBJECT] Panama Papers dataset</data>
+  <data key="d1">object</data>
+  <data key="d2">Digital dataset of leaked records, current through 2015.&lt;SEP&gt;Dataset of leaked documents from Mossack Fonseca. Data current through 2015.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a&lt;SEP&gt;chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv&lt;SEP&gt;raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947540</data>
+</node>
+<node id="[OBJECT] Bahamas Leaks dataset">
+  <data key="d0">[OBJECT] Bahamas Leaks dataset</data>
+  <data key="d1">object</data>
+  <data key="d2">Digital dataset of leaked records, current through early 2016.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947147</data>
+</node>
+<node id="[OBJECT] FLEG TRADING LTD Panama Papers record">
+  <data key="d0">[OBJECT] FLEG TRADING LTD Panama Papers record</data>
+  <data key="d1">object</data>
+  <data key="d2">Record of FLEG TRADING LTD in the Panama Papers dataset; shows company as Defaulted; address in Montevideo, Uruguay.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947147</data>
+</node>
+<node id="[OBJECT] FLEG TRADING LTD Bahamas Leaks record">
+  <data key="d0">[OBJECT] FLEG TRADING LTD Bahamas Leaks record</data>
+  <data key="d1">object</data>
+  <data key="d2">Record of FLEG TRADING LTD in the Bahamas Leaks dataset; struck off status; identifier 73694B.</data>
+  <data key="d3">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d4">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d5">1778947147</data>
+</node>
+<node id="[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)">
+  <data key="d0">[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)</data>
+  <data key="d1">organization</data>
+  <data key="d2">Luxembourg-based entity listed as ACTIVE in Panama Papers. node_id 11005663, internal_id 28765.</data>
+  <data key="d3">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947536</data>
+</node>
+<node id="[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO">
+  <data key="d0">[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO</data>
+  <data key="d1">organization</data>
+  <data key="d2">Uruguay-based entity listed as ACTIVE in Panama Papers. node_id 11011774, internal_id 9304.</data>
+  <data key="d3">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947536</data>
+</node>
+<node id="[LOCATION] 7 Val Sainte-Croix, Luxembourg">
+  <data key="d0">[LOCATION] 7 Val Sainte-Croix, Luxembourg</data>
+  <data key="d1">location</data>
+  <data key="d2">Address: 7, VAL SAINTE-CROIX L 1371 LUXEMBOURG LUXEMBOURG.</data>
+  <data key="d3">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947536</data>
+</node>
+<node id="[LOCATION] 1 Lambousa Street, Nicosia, Cyprus">
+  <data key="d0">[LOCATION] 1 Lambousa Street, Nicosia, Cyprus</data>
+  <data key="d1">location</data>
+  <data key="d2">Address: 1 LAMBOUSA STREET 1095 NICOSIA, CYPRUS.</data>
+  <data key="d3">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947536</data>
+</node>
+<node id="[LOCATION] Misiones 1371, Piso 4, Montevideo, Uruguay">
+  <data key="d0">[LOCATION] Misiones 1371, Piso 4, Montevideo, Uruguay</data>
+  <data key="d1">location</data>
+  <data key="d2">Address: MISIONES N° 1.371 PISO 4° (C.P. 11.100) MONTEVIDEO, URUGUAY.</data>
+  <data key="d3">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947536</data>
+</node>
+<node id="[LOCATION] Saffrey Square, Suite 205, Bank Lane, Nassau, Bahamas">
+  <data key="d0">[LOCATION] Saffrey Square, Suite 205, Bank Lane, Nassau, Bahamas</data>
+  <data key="d1">location</data>
+  <data key="d2">Address: SAFFREY SQUARE; SUITE 205; BANK LANE P.O. BOX N-8188 NASSAU **S.I**; NEW PROVIDENCE ISLAND BAHAMAS.</data>
+  <data key="d3">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947538</data>
+</node>
+<node id="[LOCATION] 43-45 La Motte Street, St. Helier, Jersey">
+  <data key="d0">[LOCATION] 43-45 La Motte Street, St. Helier, Jersey</data>
+  <data key="d1">location</data>
+  <data key="d2">Address: P.O. BOX 218 43-45 LA MOTTE STREET; ST. HELIER JE4 8SD; JERSEY UNITED KINGDOM.</data>
+  <data key="d3">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947538</data>
+</node>
+<node id="[LOCATION] Cyprus">
+  <data key="d0">[LOCATION] Cyprus</data>
+  <data key="d1">location</data>
+  <data key="d2">Country of registration for certain entities.</data>
+  <data key="d3">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947538</data>
+</node>
+<node id="[LOCATION] Uruguay">
+  <data key="d0">[LOCATION] Uruguay</data>
+  <data key="d1">location</data>
+  <data key="d2">Country of registration for certain entities.</data>
+  <data key="d3">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947539</data>
+</node>
+<node id="[LOCATION] Jersey">
+  <data key="d0">[LOCATION] Jersey</data>
+  <data key="d1">location</data>
+  <data key="d2">Crown dependency; country of registration for Minerva Trust.&lt;SEP&gt;Jurisdiction where MINERVA SERVICES LIMITED and MINERVA NOMINEES LIMITED are registered.</data>
+  <data key="d3">chunk-c5862f8c36e85d12931b2df05b3c1bb7&lt;SEP&gt;chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv&lt;SEP&gt;raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947933</data>
+</node>
+<node id="[LOCATION] United Kingdom">
+  <data key="d0">[LOCATION] United Kingdom</data>
+  <data key="d1">location</data>
+  <data key="d2">Country of registration for Minerva Trust.</data>
+  <data key="d3">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947539</data>
+</node>
+<node id="[EVENT] Panama Papers dataset listing of entities">
+  <data key="d0">[EVENT] Panama Papers dataset listing of entities</data>
+  <data key="d1">event</data>
+  <data key="d2">Inclusion of multiple entities as ACTIVE in Panama Papers dataset. Data current through 2015.</data>
+  <data key="d3">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d4">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d5">1778947540</data>
+</node>
+<node id="[PERSON] Sigmundur David Gunnlaugsson">
+  <data key="d0">[PERSON] Sigmundur David Gunnlaugsson</data>
+  <data key="d1">person</data>
+  <data key="d2">Icelandic politician appearing in Panama Papers.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947930</data>
+</node>
+<node id="[PERSON] Anna Sigurlaug Palsdottir">
+  <data key="d0">[PERSON] Anna Sigurlaug Palsdottir</data>
+  <data key="d1">person</data>
+  <data key="d2">Icelandic individual appearing in Panama Papers.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947930</data>
+</node>
+<node id="[PERSON] Petro Poroshenko">
+  <data key="d0">[PERSON] Petro Poroshenko</data>
+  <data key="d1">person</data>
+  <data key="d2">Ukrainian president appearing in Panama Papers with duplicate records (node_ids 12129717, 13001828).</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947930</data>
+</node>
+<node id="[PERSON] Mauricio Macri">
+  <data key="d0">[PERSON] Mauricio Macri</data>
+  <data key="d1">person</data>
+  <data key="d2">Former Argentine president, manually added to Panama Papers from leaked documents, no country data.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947930</data>
+</node>
+<node id="[PERSON] Hasan Nawaz Sharif">
+  <data key="d0">[PERSON] Hasan Nawaz Sharif</data>
+  <data key="d1">person</data>
+  <data key="d2">Son of Pakistani ex-PM, manually added to Panama Papers from leaked documents, no country data.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947930</data>
+</node>
+<node id="[PERSON] Hussain Nawaz Sharif">
+  <data key="d0">[PERSON] Hussain Nawaz Sharif</data>
+  <data key="d1">person</data>
+  <data key="d2">Son of Pakistani ex-PM, manually added to Panama Papers from leaked documents, no country data.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947930</data>
+</node>
+<node id="[PERSON] Mariam Safdar">
+  <data key="d0">[PERSON] Mariam Safdar</data>
+  <data key="d1">person</data>
+  <data key="d2">Saudi Arabian individual appearing twice in Panama Papers.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947930</data>
+</node>
+<node id="[ORGANIZATION] CASCON HOLDINGS ESTABLISHMENT LIMITED">
+  <data key="d0">[ORGANIZATION] CASCON HOLDINGS ESTABLISHMENT LIMITED</data>
+  <data key="d1">organization</data>
+  <data key="d2">Company registered in Liberia and listed in Panama Papers.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947932</data>
+</node>
+<node id="[ORGANIZATION] MINERVA SERVICES LIMITED">
+  <data key="d0">[ORGANIZATION] MINERVA SERVICES LIMITED</data>
+  <data key="d1">organization</data>
+  <data key="d2">Company registered in Jersey and listed in Panama Papers; duplicate records and variant capitalization.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947932</data>
+</node>
+<node id="[ORGANIZATION] MINERVA NOMINEES LIMITED">
+  <data key="d0">[ORGANIZATION] MINERVA NOMINEES LIMITED</data>
+  <data key="d1">organization</data>
+  <data key="d2">Company registered in Jersey and listed in Panama Papers; duplicate records.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947932</data>
+</node>
+<node id="[ORGANIZATION] THE BEARER">
+  <data key="d0">[ORGANIZATION] THE BEARER</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity with no country association, listed in Panama Papers with duplicate records.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947932</data>
+</node>
+<node id="[LOCATION] Saudi Arabia">
+  <data key="d0">[LOCATION] Saudi Arabia</data>
+  <data key="d1">location</data>
+  <data key="d2">Country of origin for Mariam Safdar.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947932</data>
+</node>
+<node id="[LOCATION] Liberia">
+  <data key="d0">[LOCATION] Liberia</data>
+  <data key="d1">location</data>
+  <data key="d2">Jurisdiction where CASCON HOLDINGS ESTABLISHMENT LIMITED is registered.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947933</data>
+</node>
+<node id="[EVENT] Panama Papers records compilation">
+  <data key="d0">[EVENT] Panama Papers records compilation</data>
+  <data key="d1">event</data>
+  <data key="d2">Compilation of records from the Panama Papers leak, current through 2015.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947933</data>
+</node>
+<node id="[EVENT] Manual addition of records from leaked documents">
+  <data key="d0">[EVENT] Manual addition of records from leaked documents</data>
+  <data key="d1">event</data>
+  <data key="d2">Process of adding records for Mauricio Macri, Hasan Nawaz Sharif, and Hussain Nawaz Sharif from additional leaked documents.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947933</data>
+</node>
+<node id="[OBJECT] Leaked documents">
+  <data key="d0">[OBJECT] Leaked documents</data>
+  <data key="d1">object</data>
+  <data key="d2">Additional documents used to manually add records for certain individuals.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947933</data>
+</node>
+<node id="[OBJECT] 12129717">
+  <data key="d0">[OBJECT] 12129717</data>
+  <data key="d1">object</data>
+  <data key="d2">Panama Papers record node_id 12129717 for Petro Poroshenko.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947933</data>
+</node>
+<node id="[OBJECT] 13001828">
+  <data key="d0">[OBJECT] 13001828</data>
+  <data key="d1">object</data>
+  <data key="d2">Panama Papers record node_id 13001828 for Petro Poroshenko.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947933</data>
+</node>
+<node id="[OBJECT] 13006286">
+  <data key="d0">[OBJECT] 13006286</data>
+  <data key="d1">object</data>
+  <data key="d2">Panama Papers record node_id 13006286 for Mariam Safdar.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947933</data>
+</node>
+<node id="[OBJECT] 13010742">
+  <data key="d0">[OBJECT] 13010742</data>
+  <data key="d1">object</data>
+  <data key="d2">Panama Papers record node_id 13010742 for Mariam Safdar.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947933</data>
+</node>
+<node id="[OBJECT] 12114025">
+  <data key="d0">[OBJECT] 12114025</data>
+  <data key="d1">object</data>
+  <data key="d2">Panama Papers record node_id 12114025 for MINERVA NOMINEES LIMITED.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947934</data>
+</node>
+<node id="[OBJECT] 12176796">
+  <data key="d0">[OBJECT] 12176796</data>
+  <data key="d1">object</data>
+  <data key="d2">Panama Papers record node_id 12176796 for MINERVA NOMINEES LIMITED.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947934</data>
+</node>
+<node id="[OBJECT] 12114024">
+  <data key="d0">[OBJECT] 12114024</data>
+  <data key="d1">object</data>
+  <data key="d2">Panama Papers record node_id 12114024 for MINERVA SERVICES LIMITED; appears with different capitalization.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947934</data>
+</node>
+<node id="[OBJECT] 12175997">
+  <data key="d0">[OBJECT] 12175997</data>
+  <data key="d1">object</data>
+  <data key="d2">Panama Papers record node_id 12175997 for MINERVA SERVICES LIMITED; appears with different capitalization.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947934</data>
+</node>
+<node id="[OBJECT] 12025193">
+  <data key="d0">[OBJECT] 12025193</data>
+  <data key="d1">object</data>
+  <data key="d2">Panama Papers record node_id 12025193 for THE BEARER.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947934</data>
+</node>
+<node id="[OBJECT] 12025226">
+  <data key="d0">[OBJECT] 12025226</data>
+  <data key="d1">object</data>
+  <data key="d2">Panama Papers record node_id 12025226 for THE BEARER.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947934</data>
+</node>
+<node id="[OBJECT] Mauricio Macri's Panama Papers record">
+  <data key="d0">[OBJECT] Mauricio Macri's Panama Papers record</data>
+  <data key="d1">object</data>
+  <data key="d2">Record for Mauricio Macri manually added from leaked documents.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947935</data>
+</node>
+<node id="[OBJECT] Hasan Nawaz Sharif's Panama Papers record">
+  <data key="d0">[OBJECT] Hasan Nawaz Sharif's Panama Papers record</data>
+  <data key="d1">object</data>
+  <data key="d2">Record for Hasan Nawaz Sharif manually added from leaked documents.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947935</data>
+</node>
+<node id="[OBJECT] Hussain Nawaz Sharif's Panama Papers record">
+  <data key="d0">[OBJECT] Hussain Nawaz Sharif's Panama Papers record</data>
+  <data key="d1">object</data>
+  <data key="d2">Record for Hussain Nawaz Sharif manually added from leaked documents.</data>
+  <data key="d3">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d4">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d5">1778947935</data>
+</node>
+<node id="[PERSON] 12114024">
+  <data key="d0">[PERSON] 12114024</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified in Panama Papers.&lt;SEP&gt;Individual identified as a shareholder and officer.&lt;SEP&gt;Individual identified as a shareholder.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661065</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 12114025">
+  <data key="d0">[PERSON] 12114025</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified in Panama Papers.&lt;SEP&gt;Individual identified as a shareholder and officer.&lt;SEP&gt;Individual identified as a shareholder.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661065</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 12025193">
+  <data key="d0">[PERSON] 12025193</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified as a shareholder and officer.&lt;SEP&gt;Individual identified as a shareholder.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661067</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 11011597">
+  <data key="d0">[PERSON] 11011597</data>
+  <data key="d1">person</data>
+  <data key="d2">Intermediary identified in Panama Papers.&lt;SEP&gt;Individual identified as an intermediary.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661068</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 13006286">
+  <data key="d0">[PERSON] 13006286</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified in Panama Papers.&lt;SEP&gt;Individual identified as a beneficiary.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661068</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 13001828">
+  <data key="d0">[PERSON] 13001828</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified in Panama Papers.&lt;SEP&gt;Individual identified as a beneficiary.&lt;SEP&gt;Individual associated with 12129717.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661068</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 12129717">
+  <data key="d0">[PERSON] 12129717</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified in Panama Papers.&lt;SEP&gt;Individual identified as a beneficial owner and shareholder.&lt;SEP&gt;Individual identified as a shareholder.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661068</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 12161442">
+  <data key="d0">[PERSON] 12161442</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified in Panama Papers.&lt;SEP&gt;Individual identified as a shareholder.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661069</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 12161441">
+  <data key="d0">[PERSON] 12161441</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified in Panama Papers.&lt;SEP&gt;Individual identified as a shareholder.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661069</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 15002701">
+  <data key="d0">[PERSON] 15002701</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified in Panama Papers.&lt;SEP&gt;Individual identified as a director.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661069</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 15001902">
+  <data key="d0">[PERSON] 15001902</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified in Panama Papers.&lt;SEP&gt;Individual identified as a shareholder.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661069</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 15001903">
+  <data key="d0">[PERSON] 15001903</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified in Panama Papers.&lt;SEP&gt;Individual identified as a signatory.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661070</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 12178546">
+  <data key="d0">[PERSON] 12178546</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified in Panama Papers.&lt;SEP&gt;Individual identified as a shareholder.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661070</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 11005663">
+  <data key="d0">[PERSON] 11005663</data>
+  <data key="d1">person</data>
+  <data key="d2">Intermediary identified in Panama Papers.&lt;SEP&gt;Individual identified as an intermediary.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661070</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 11002578">
+  <data key="d0">[PERSON] 11002578</data>
+  <data key="d1">person</data>
+  <data key="d2">Intermediary identified in Panama Papers.&lt;SEP&gt;Individual identified as an intermediary.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661070</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 11011774">
+  <data key="d0">[PERSON] 11011774</data>
+  <data key="d1">person</data>
+  <data key="d2">Intermediary identified in Panama Papers.&lt;SEP&gt;Individual identified as an intermediary.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661071</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 11012290">
+  <data key="d0">[PERSON] 11012290</data>
+  <data key="d1">person</data>
+  <data key="d2">Intermediary identified in Panama Papers.&lt;SEP&gt;Individual identified as an intermediary.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661071</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 12120458">
+  <data key="d0">[PERSON] 12120458</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified in Panama Papers.&lt;SEP&gt;Individual identified as a shareholder.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661071</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 13010742">
+  <data key="d0">[PERSON] 13010742</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified as a beneficiary and officer.&lt;SEP&gt;Individual identified as a beneficiary.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661071</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 12176996">
+  <data key="d0">[PERSON] 12176996</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified as a shareholder and officer.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661071</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 12025226">
+  <data key="d0">[PERSON] 12025226</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified as a shareholder and officer.&lt;SEP&gt;Individual identified as a shareholder.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661072</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 12175997">
+  <data key="d0">[PERSON] 12175997</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified as a shareholder and officer.&lt;SEP&gt;Individual identified as a shareholder.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661072</data>
+  <data key="d6"></data>
+</node>
+<node id="[ORGANIZATION] 10122953">
+  <data key="d0">[ORGANIZATION] 10122953</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity identified in Panama Papers.&lt;SEP&gt;Corporate entity.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661072</data>
+  <data key="d6"></data>
+</node>
+<node id="[ORGANIZATION] 10203385">
+  <data key="d0">[ORGANIZATION] 10203385</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity identified in Panama Papers.&lt;SEP&gt;Corporate entity.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661073</data>
+  <data key="d6"></data>
+</node>
+<node id="[ORGANIZATION] 10206223">
+  <data key="d0">[ORGANIZATION] 10206223</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity identified in Panama Papers.&lt;SEP&gt;Corporate entity.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661073</data>
+  <data key="d6"></data>
+</node>
+<node id="[ORGANIZATION] 10155456">
+  <data key="d0">[ORGANIZATION] 10155456</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity identified in Panama Papers.&lt;SEP&gt;Corporate entity.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661073</data>
+  <data key="d6"></data>
+</node>
+<node id="[ORGANIZATION] 10179083">
+  <data key="d0">[ORGANIZATION] 10179083</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity identified in Panama Papers.&lt;SEP&gt;Corporate entity.&lt;SEP&gt;Corporate entity mentioned in Bahamas Leaks.&lt;SEP&gt;Entity identified by reference 10179083.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-c16a9314613c92ad218da2c8bfffad4c&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661074</data>
+  <data key="d6"></data>
+</node>
+<node id="[ORGANIZATION] 10210092">
+  <data key="d0">[ORGANIZATION] 10210092</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity identified in Panama Papers.&lt;SEP&gt;Corporate entity.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661074</data>
+  <data key="d6"></data>
+</node>
+<node id="[ORGANIZATION] 10064371">
+  <data key="d0">[ORGANIZATION] 10064371</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity identified in Panama Papers.&lt;SEP&gt;Corporate entity.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661074</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Panama Papers">
+  <data key="d0">[EVENT] Panama Papers</data>
+  <data key="d1">event</data>
+  <data key="d2">The Panama Papers leak/data set.</data>
+  <data key="d3">chunk-65fc149b888a0d0d5418ef80bf527050</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661074</data>
+  <data key="d6"></data>
+</node>
+<node id="[ORGANIZATION] 61441">
+  <data key="d0">[ORGANIZATION] 61441</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity identified by reference 61441.</data>
+  <data key="d3">chunk-c16a9314613c92ad218da2c8bfffad4c</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661075</data>
+  <data key="d6"></data>
+</node>
+<node id="[LOCATION] 14048807">
+  <data key="d0">[LOCATION] 14048807</data>
+  <data key="d1">location</data>
+  <data key="d2">Registered address identified in Panama Papers.&lt;SEP&gt;Registered address shared by 12161442 and 12161441.&lt;SEP&gt;Registered address identified by reference 14048807.</data>
+  <data key="d3">chunk-c16a9314613c92ad218da2c8bfffad4c&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661075</data>
+  <data key="d6"></data>
+</node>
+<node id="[ORGANIZATION] 12129717">
+  <data key="d0">[ORGANIZATION] 12129717</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity identified by reference 12129717.</data>
+  <data key="d3">chunk-c16a9314613c92ad218da2c8bfffad4c</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661075</data>
+  <data key="d6"></data>
+</node>
+<node id="[ORGANIZATION] 13001828">
+  <data key="d0">[ORGANIZATION] 13001828</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity identified by reference 13001828.</data>
+  <data key="d3">chunk-c16a9314613c92ad218da2c8bfffad4c</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661075</data>
+  <data key="d6"></data>
+</node>
+<node id="[LOCATION] 14024758">
+  <data key="d0">[LOCATION] 14024758</data>
+  <data key="d1">location</data>
+  <data key="d2">Registered address identified in Panama Papers.&lt;SEP&gt;Registered address shared by 12129717 and 13001828.&lt;SEP&gt;Registered address identified by reference 14024758.</data>
+  <data key="d3">chunk-c16a9314613c92ad218da2c8bfffad4c&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661076</data>
+  <data key="d6"></data>
+</node>
+<node id="[ORGANIZATION] 20073694">
+  <data key="d0">[ORGANIZATION] 20073694</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity identified in Bahamas Leaks.&lt;SEP&gt;Corporate entity mentioned in Bahamas Leaks.&lt;SEP&gt;Entity identified by reference 20073694.</data>
+  <data key="d3">chunk-c16a9314613c92ad218da2c8bfffad4c&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661076</data>
+  <data key="d6"></data>
+</node>
+<node id="[LOCATION] 14051308">
+  <data key="d0">[LOCATION] 14051308</data>
+  <data key="d1">location</data>
+  <data key="d2">Registered address identified in Panama Papers.</data>
+  <data key="d3">chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661076</data>
+  <data key="d6"></data>
+</node>
+<node id="[PERSON] 12176796">
+  <data key="d0">[PERSON] 12176796</data>
+  <data key="d1">person</data>
+  <data key="d2">Individual identified as a shareholder.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661077</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Shareholding 12025226 10203385 1993">
+  <data key="d0">[EVENT] Shareholding 12025226 10203385 1993</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12025226 became shareholder of 10203385 on 29-APR-1993.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661077</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Shareholding 12178546 10064371 1996">
+  <data key="d0">[EVENT] Shareholding 12178546 10064371 1996</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12178546 became shareholder of 10064371 on 24-OCT-1996.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661077</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Shareholding 12025193 10122953 1994">
+  <data key="d0">[EVENT] Shareholding 12025193 10122953 1994</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12025193 became shareholder of 10122953 on 22-NOV-1994.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661078</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Cessation 12025193 10122953 2006">
+  <data key="d0">[EVENT] Cessation 12025193 10122953 2006</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12025193 ceased being shareholder of 10122953 on 04-JUL-2006.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661078</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Cessation 12025226 10203385 2006">
+  <data key="d0">[EVENT] Cessation 12025226 10203385 2006</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12025226 ceased being shareholder of 10203385 on 04-JUL-2006.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661078</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Shareholding 12114024 10122953 2006">
+  <data key="d0">[EVENT] Shareholding 12114024 10122953 2006</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12114024 became shareholder of 10122953 on 04-JUL-2006.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661078</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Shareholding 12114025 10122953 2006">
+  <data key="d0">[EVENT] Shareholding 12114025 10122953 2006</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12114025 became shareholder of 10122953 on 04-JUL-2006.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661079</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Shareholding 12176796 10203385 2006">
+  <data key="d0">[EVENT] Shareholding 12176796 10203385 2006</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12176796 became shareholder of 10203385 on 04-JUL-2006.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661079</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Shareholding 12175997 10203385 2006">
+  <data key="d0">[EVENT] Shareholding 12175997 10203385 2006</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12175997 became shareholder of 10203385 on 04-JUL-2006.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661079</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Shareholding 12120458 10210092 2007">
+  <data key="d0">[EVENT] Shareholding 12120458 10210092 2007</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12120458 became shareholder of 10210092 on 24-APR-2007.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661079</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Shareholding 12161442 10206223 2007">
+  <data key="d0">[EVENT] Shareholding 12161442 10206223 2007</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12161442 became shareholder of 10206223 on 09-OCT-2007.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661079</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Shareholding 12161441 10206223 2007">
+  <data key="d0">[EVENT] Shareholding 12161441 10206223 2007</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12161441 became shareholder of 10206223 on 09-OCT-2007.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661080</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Cessation 12161442 10206223 2009">
+  <data key="d0">[EVENT] Cessation 12161442 10206223 2009</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12161442 ceased being shareholder of 10206223 on 31-DEC-2009.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661080</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Shareholding 12161441 10206223 2009">
+  <data key="d0">[EVENT] Shareholding 12161441 10206223 2009</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12161441 became shareholder of 10206223 on 31-DEC-2009.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661080</data>
+  <data key="d6"></data>
+</node>
+<node id="[EVENT] Shareholding 12129717 10155456 2014">
+  <data key="d0">[EVENT] Shareholding 12129717 10155456 2014</data>
+  <data key="d1">event</data>
+  <data key="d2">Entity 12129717 became shareholder of 10155456 on 21-AUG-2014.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661080</data>
+  <data key="d6"></data>
+</node>
+<node id="[OBJECT] Panama Papers">
+  <data key="d0">[OBJECT] Panama Papers</data>
+  <data key="d1">object</data>
+  <data key="d2">Data source for most records.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661081</data>
+  <data key="d6"></data>
+</node>
+<node id="[OBJECT] Bahamas Leaks">
+  <data key="d0">[OBJECT] Bahamas Leaks</data>
+  <data key="d1">object</data>
+  <data key="d2">Data source for record involving 20073694 and 10179083.</data>
+  <data key="d3">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d4">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d5">1782661081</data>
+  <data key="d6"></data>
+</node>
+<edge source="[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland" target="[OBJECT] Panama Papers database">
+  <data key="d7">1.0</data>
+  <data key="d8">Location appears in the Panama Papers database with identifier 14048807.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946697</data>
+</edge>
+<edge source="[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland" target="[LOCATION] Iceland">
+  <data key="d7">1.0</data>
+  <data key="d8">Iceland is the country for this address.</data>
+  <data key="d9">WITHIN</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946698</data>
+</edge>
+<edge source="[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland" target="[OBJECT] 14048807">
+  <data key="d7">1.0</data>
+  <data key="d8">Internal identifier 14048807 corresponds to the first record.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946699</data>
+</edge>
+<edge source="[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine" target="[OBJECT] Panama Papers database">
+  <data key="d7">1.0</data>
+  <data key="d8">Location appears in the Panama Papers database with identifier 14024758.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946698</data>
+</edge>
+<edge source="[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine" target="[LOCATION] Ukraine">
+  <data key="d7">1.0</data>
+  <data key="d8">Ukraine is the country for this address.</data>
+  <data key="d9">WITHIN</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946699</data>
+</edge>
+<edge source="[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine" target="[OBJECT] 14024758">
+  <data key="d7">1.0</data>
+  <data key="d8">Internal identifier 14024758 corresponds to the second record.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946701</data>
+</edge>
+<edge source="[LOCATION] 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI" target="[ORGANIZATION] NAWAZ TRUST">
+  <data key="d7">1.0</data>
+  <data key="d8">The address of NAWAZ TRUST.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946697</data>
+</edge>
+<edge source="[LOCATION] 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI" target="[LOCATION] British Virgin Islands">
+  <data key="d7">1.0</data>
+  <data key="d8">British Virgin Islands is the country for this address.</data>
+  <data key="d9">WITHIN</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946699</data>
+</edge>
+<edge source="[ORGANIZATION] NAWAZ TRUST" target="[ORGANIZATION] Nerine Trust Company Limited">
+  <data key="d7">1.0</data>
+  <data key="d8">Nerine Trust Company Limited is the C/O organization for NAWAZ TRUST.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946697</data>
+</edge>
+<edge source="[ORGANIZATION] NAWAZ TRUST" target="[OBJECT] 14051308">
+  <data key="d7">1.0</data>
+  <data key="d8">Internal identifier 14051308 corresponds to the third record.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946699</data>
+</edge>
+<edge source="[ORGANIZATION] NAWAZ TRUST" target="[OBJECT] Panama Papers database">
+  <data key="d7">1.0</data>
+  <data key="d8">Entity appears in the Panama Papers database with identifier 14051308.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946699</data>
+</edge>
+<edge source="[ORGANIZATION] NAWAZ TRUST" target="[LOCATION] British Virgin Islands">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered in British Virgin Islands.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947936</data>
+</edge>
+<edge source="[ORGANIZATION] NAWAZ TRUST" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">Listed in Panama Papers records.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947945</data>
+</edge>
+<edge source="[OBJECT] Panama Papers database" target="[OBJECT] 14024758">
+  <data key="d7">1.0</data>
+  <data key="d8">Identifier part of the Panama Papers database.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946700</data>
+</edge>
+<edge source="[OBJECT] Panama Papers database" target="[OBJECT] 14048807">
+  <data key="d7">1.0</data>
+  <data key="d8">Identifier part of the Panama Papers database.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946701</data>
+</edge>
+<edge source="[OBJECT] Panama Papers database" target="[OBJECT] 14051308">
+  <data key="d7">1.0</data>
+  <data key="d8">Identifier part of the Panama Papers database.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946701</data>
+</edge>
+<edge source="[OBJECT] Panama Papers database" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">The database of Panama Papers records used in the compilation.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947949</data>
+</edge>
+<edge source="[LOCATION] Iceland" target="[OBJECT] ISL">
+  <data key="d7">1.0</data>
+  <data key="d8">Country code ISL for Iceland.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946699</data>
+</edge>
+<edge source="[LOCATION] Iceland" target="[PERSON] Sigmundur David Gunnlaugsson">
+  <data key="d7">1.0</data>
+  <data key="d8">Icelandic individual originally from Iceland.</data>
+  <data key="d9">RESIDENCE_AT</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947936</data>
+</edge>
+<edge source="[LOCATION] Iceland" target="[PERSON] Anna Sigurlaug Palsdottir">
+  <data key="d7">1.0</data>
+  <data key="d8">Icelandic individual originally from Iceland.</data>
+  <data key="d9">RESIDENCE_AT</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947936</data>
+</edge>
+<edge source="[LOCATION] Ukraine" target="[OBJECT] UKR">
+  <data key="d7">1.0</data>
+  <data key="d8">Country code UKR for Ukraine.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946699</data>
+</edge>
+<edge source="[LOCATION] Ukraine" target="[PERSON] Petro Poroshenko">
+  <data key="d7">1.0</data>
+  <data key="d8">Ukrainian president originally from Ukraine.</data>
+  <data key="d9">RESIDENCE_AT</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947936</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[OBJECT] VGB">
+  <data key="d7">1.0</data>
+  <data key="d8">Country code VGB for British Virgin Islands.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c7b242664c55ee39a3bada42a7268b01</data>
+  <data key="d11">raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv</data>
+  <data key="d12">1778946700</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Incorporation of WINTRIS INC. on 09-OCT-2007">
+  <data key="d7">1.0</data>
+  <data key="d8">Incorporation in BVI.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947150</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Incorporation of Prime Asset Partners Limited on 21-AUG-2014">
+  <data key="d7">1.0</data>
+  <data key="d8">Incorporation in BVI.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947151</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Incorporation of HANGON PROPERTY HOLDINGS LIMITED on 27-FEB-2007">
+  <data key="d7">1.0</data>
+  <data key="d8">Incorporation in BVI.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947151</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Incorporation of NIELSEN ENTERPRISES LIMITED on 14-APR-1994">
+  <data key="d7">1.0</data>
+  <data key="d8">Incorporation in BVI.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947152</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Incorporation of NESCOLL LIMITED on 27-JAN-1993">
+  <data key="d7">1.0</data>
+  <data key="d8">Incorporation in BVI.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947154</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Incorporation of MARIADA HOLDINGS LIMITED on 21-JUL-1995">
+  <data key="d7">1.0</data>
+  <data key="d8">Incorporation in BVI.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947155</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Inactivation of HANGON PROPERTY HOLDINGS LIMITED on 25-FEB-2008">
+  <data key="d7">1.0</data>
+  <data key="d8">Inactivation event location.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947156</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Inactivation of NIELSEN ENTERPRISES LIMITED on 22-JUL-2014">
+  <data key="d7">1.0</data>
+  <data key="d8">Inactivation event location.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947157</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Inactivation of NESCOLL LIMITED on 22-JUL-2014">
+  <data key="d7">1.0</data>
+  <data key="d8">Inactivation event location.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947158</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Inactivation of MARIADA HOLDINGS LIMITED on 06-JUN-2014">
+  <data key="d7">1.0</data>
+  <data key="d8">Inactivation event location.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947161</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Strike-off of HANGON PROPERTY HOLDINGS LIMITED on 31-OCT-2008">
+  <data key="d7">1.0</data>
+  <data key="d8">Strike-off jurisdiction.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947162</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Strike-off of NIELSEN ENTERPRISES LIMITED on 31-OCT-2015">
+  <data key="d7">1.0</data>
+  <data key="d8">Strike-off jurisdiction.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947162</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Strike-off of NESCOLL LIMITED on 31-OCT-2015">
+  <data key="d7">1.0</data>
+  <data key="d8">Strike-off jurisdiction.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947163</data>
+</edge>
+<edge source="[LOCATION] British Virgin Islands" target="[EVENT] Strike-off of MARIADA HOLDINGS LIMITED on 30-APR-2015">
+  <data key="d7">1.0</data>
+  <data key="d8">Strike-off jurisdiction.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947164</data>
+</edge>
+<edge source="[ORGANIZATION] WINTRIS INC." target="[EVENT] Incorporation of WINTRIS INC. on 09-OCT-2007">
+  <data key="d7">1.0</data>
+  <data key="d8">Company incorporated.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947149</data>
+</edge>
+<edge source="[ORGANIZATION] WINTRIS INC." target="[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A.">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered address for WINTRIS INC.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947161</data>
+</edge>
+<edge source="[ORGANIZATION] WINTRIS INC." target="[ORGANIZATION] Mossack Fonseca">
+  <data key="d7">1.0</data>
+  <data key="d8">Service provider (Panama Papers).</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947164</data>
+</edge>
+<edge source="[ORGANIZATION] WINTRIS INC." target="[OBJECT] Panama Papers dataset">
+  <data key="d7">1.0</data>
+  <data key="d8">Record in Panama Papers dataset.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947165</data>
+</edge>
+<edge source="[ORGANIZATION] Prime Asset Partners Limited" target="[EVENT] Incorporation of Prime Asset Partners Limited on 21-AUG-2014">
+  <data key="d7">1.0</data>
+  <data key="d8">Company incorporated.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947149</data>
+</edge>
+<edge source="[ORGANIZATION] Prime Asset Partners Limited" target="[ORGANIZATION] DR. K. CHRYSOSTOMIDES &amp; CO.">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered address for Prime Asset Partners Limited.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947161</data>
+</edge>
+<edge source="[ORGANIZATION] Prime Asset Partners Limited" target="[ORGANIZATION] Mossack Fonseca">
+  <data key="d7">1.0</data>
+  <data key="d8">Service provider (Panama Papers).</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947164</data>
+</edge>
+<edge source="[ORGANIZATION] Prime Asset Partners Limited" target="[OBJECT] Panama Papers dataset">
+  <data key="d7">1.0</data>
+  <data key="d8">Record in Panama Papers dataset.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947168</data>
+</edge>
+<edge source="[ORGANIZATION] FLEG TRADING LTD" target="[EVENT] Incorporation of FLEG TRADING LTD on 31-MAR-1998">
+  <data key="d7">1.0</data>
+  <data key="d8">Company incorporated.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947149</data>
+</edge>
+<edge source="[ORGANIZATION] FLEG TRADING LTD" target="[EVENT] Inactivation of FLEG TRADING LTD on 05-JAN-2009">
+  <data key="d7">1.0</data>
+  <data key="d8">Company inactivated.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947151</data>
+</edge>
+<edge source="[ORGANIZATION] FLEG TRADING LTD" target="[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008">
+  <data key="d7">1.0</data>
+  <data key="d8">Company struck off.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947153</data>
+</edge>
+<edge source="[ORGANIZATION] FLEG TRADING LTD" target="[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009">
+  <data key="d7">1.0</data>
+  <data key="d8">Company struck off.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947154</data>
+</edge>
+<edge source="[ORGANIZATION] FLEG TRADING LTD" target="[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted">
+  <data key="d7">1.0</data>
+  <data key="d8">Company status changed to Defaulted.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947157</data>
+</edge>
+<edge source="[ORGANIZATION] FLEG TRADING LTD" target="[LOCATION] Montevideo, Uruguay">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered address for FLEG TRADING LTD (Panama Papers record).</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947162</data>
+</edge>
+<edge source="[ORGANIZATION] FLEG TRADING LTD" target="[ORGANIZATION] Mossack Fonseca">
+  <data key="d7">1.0</data>
+  <data key="d8">Service provider (Panama Papers).</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947165</data>
+</edge>
+<edge source="[ORGANIZATION] FLEG TRADING LTD" target="[OBJECT] Bahamas Leaks dataset">
+  <data key="d7">1.0</data>
+  <data key="d8">Record in Bahamas Leaks dataset.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947169</data>
+</edge>
+<edge source="[ORGANIZATION] FLEG TRADING LTD" target="[OBJECT] Panama Papers dataset">
+  <data key="d7">1.0</data>
+  <data key="d8">Record in Panama Papers dataset.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947171</data>
+</edge>
+<edge source="[ORGANIZATION] FLEG TRADING LTD" target="[OBJECT] FLEG TRADING LTD Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Record of company in Panama Papers dataset.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947172</data>
+</edge>
+<edge source="[ORGANIZATION] FLEG TRADING LTD" target="[OBJECT] FLEG TRADING LTD Bahamas Leaks record">
+  <data key="d7">1.0</data>
+  <data key="d8">Record of company in Bahamas Leaks dataset.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947173</data>
+</edge>
+<edge source="[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED" target="[EVENT] Incorporation of HANGON PROPERTY HOLDINGS LIMITED on 27-FEB-2007">
+  <data key="d7">1.0</data>
+  <data key="d8">Company incorporated.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947149</data>
+</edge>
+<edge source="[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED" target="[EVENT] Inactivation of HANGON PROPERTY HOLDINGS LIMITED on 25-FEB-2008">
+  <data key="d7">1.0</data>
+  <data key="d8">Company inactivated.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947151</data>
+</edge>
+<edge source="[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED" target="[EVENT] Strike-off of HANGON PROPERTY HOLDINGS LIMITED on 31-OCT-2008">
+  <data key="d7">1.0</data>
+  <data key="d8">Company struck off.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947155</data>
+</edge>
+<edge source="[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED" target="[ORGANIZATION] MOSSFON MANAGERS LTD.">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered address for HANGON PROPERTY HOLDINGS LIMITED.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947162</data>
+</edge>
+<edge source="[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED" target="[ORGANIZATION] Mossack Fonseca">
+  <data key="d7">1.0</data>
+  <data key="d8">Service provider (Panama Papers).</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947167</data>
+</edge>
+<edge source="[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED" target="[OBJECT] Panama Papers dataset">
+  <data key="d7">1.0</data>
+  <data key="d8">Record in Panama Papers dataset.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947172</data>
+</edge>
+<edge source="[ORGANIZATION] NIELSEN ENTERPRISES LIMITED" target="[EVENT] Incorporation of NIELSEN ENTERPRISES LIMITED on 14-APR-1994">
+  <data key="d7">1.0</data>
+  <data key="d8">Company incorporated.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947150</data>
+</edge>
+<edge source="[ORGANIZATION] NIELSEN ENTERPRISES LIMITED" target="[EVENT] Inactivation of NIELSEN ENTERPRISES LIMITED on 22-JUL-2014">
+  <data key="d7">1.0</data>
+  <data key="d8">Company inactivated.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947152</data>
+</edge>
+<edge source="[ORGANIZATION] NIELSEN ENTERPRISES LIMITED" target="[EVENT] Strike-off of NIELSEN ENTERPRISES LIMITED on 31-OCT-2015">
+  <data key="d7">1.0</data>
+  <data key="d8">Company struck off.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947155</data>
+</edge>
+<edge source="[ORGANIZATION] NIELSEN ENTERPRISES LIMITED" target="[ORGANIZATION] MINERVA TRUST &amp; CORPORATE SERVICES LIMITED">
+  <data key="d7">2.0</data>
+  <data key="d8">Registered address for NIELSEN ENTERPRISES LIMITED.&lt;SEP&gt;Agent for NIELSEN ENTERPRISES LIMITED.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947162</data>
+</edge>
+<edge source="[ORGANIZATION] NIELSEN ENTERPRISES LIMITED" target="[ORGANIZATION] Mossack Fonseca">
+  <data key="d7">1.0</data>
+  <data key="d8">Service provider (Panama Papers).</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947167</data>
+</edge>
+<edge source="[ORGANIZATION] NIELSEN ENTERPRISES LIMITED" target="[OBJECT] Panama Papers dataset">
+  <data key="d7">1.0</data>
+  <data key="d8">Record in Panama Papers dataset.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947173</data>
+</edge>
+<edge source="[ORGANIZATION] NESCOLL LIMITED" target="[EVENT] Incorporation of NESCOLL LIMITED on 27-JAN-1993">
+  <data key="d7">1.0</data>
+  <data key="d8">Company incorporated.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947151</data>
+</edge>
+<edge source="[ORGANIZATION] NESCOLL LIMITED" target="[EVENT] Inactivation of NESCOLL LIMITED on 22-JUL-2014">
+  <data key="d7">1.0</data>
+  <data key="d8">Company inactivated.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947152</data>
+</edge>
+<edge source="[ORGANIZATION] NESCOLL LIMITED" target="[EVENT] Strike-off of NESCOLL LIMITED on 31-OCT-2015">
+  <data key="d7">1.0</data>
+  <data key="d8">Company struck off.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947156</data>
+</edge>
+<edge source="[ORGANIZATION] NESCOLL LIMITED" target="[ORGANIZATION] MINERVA TRUST &amp; CORPORATE SERVICES LIMITED">
+  <data key="d7">2.0</data>
+  <data key="d8">Registered address for NESCOLL LIMITED.&lt;SEP&gt;Agent for NESCOLL LIMITED.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947164</data>
+</edge>
+<edge source="[ORGANIZATION] NESCOLL LIMITED" target="[ORGANIZATION] Mossack Fonseca">
+  <data key="d7">1.0</data>
+  <data key="d8">Service provider (Panama Papers).</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947168</data>
+</edge>
+<edge source="[ORGANIZATION] NESCOLL LIMITED" target="[OBJECT] Panama Papers dataset">
+  <data key="d7">1.0</data>
+  <data key="d8">Record in Panama Papers dataset.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947175</data>
+</edge>
+<edge source="[ORGANIZATION] MARIADA HOLDINGS LIMITED" target="[EVENT] Incorporation of MARIADA HOLDINGS LIMITED on 21-JUL-1995">
+  <data key="d7">1.0</data>
+  <data key="d8">Company incorporated.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947151</data>
+</edge>
+<edge source="[ORGANIZATION] MARIADA HOLDINGS LIMITED" target="[EVENT] Inactivation of MARIADA HOLDINGS LIMITED on 06-JUN-2014">
+  <data key="d7">1.0</data>
+  <data key="d8">Company inactivated.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947152</data>
+</edge>
+<edge source="[ORGANIZATION] MARIADA HOLDINGS LIMITED" target="[EVENT] Strike-off of MARIADA HOLDINGS LIMITED on 30-APR-2015">
+  <data key="d7">1.0</data>
+  <data key="d8">Company struck off.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947156</data>
+</edge>
+<edge source="[ORGANIZATION] MARIADA HOLDINGS LIMITED" target="[ORGANIZATION] PRIMEWAY S.A.">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered address for MARIADA HOLDINGS LIMITED.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947163</data>
+</edge>
+<edge source="[ORGANIZATION] MARIADA HOLDINGS LIMITED" target="[ORGANIZATION] Mossack Fonseca">
+  <data key="d7">1.0</data>
+  <data key="d8">Service provider (Panama Papers).</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947169</data>
+</edge>
+<edge source="[ORGANIZATION] MARIADA HOLDINGS LIMITED" target="[OBJECT] Panama Papers dataset">
+  <data key="d7">1.0</data>
+  <data key="d8">Record in Panama Papers dataset.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947176</data>
+</edge>
+<edge source="[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A." target="[LOCATION] Luxembourg">
+  <data key="d7">1.0</data>
+  <data key="d8">Based in Luxembourg.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947161</data>
+</edge>
+<edge source="[ORGANIZATION] MINERVA TRUST &amp; CORPORATE SERVICES LIMITED" target="[LOCATION] St. Helier, Jersey">
+  <data key="d7">1.0</data>
+  <data key="d8">Based in St. Helier, Jersey.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947164</data>
+</edge>
+<edge source="[ORGANIZATION] MINERVA TRUST &amp; CORPORATE SERVICES LIMITED" target="[LOCATION] Jersey">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered country: Jersey.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947543</data>
+</edge>
+<edge source="[ORGANIZATION] MINERVA TRUST &amp; CORPORATE SERVICES LIMITED" target="[LOCATION] United Kingdom">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered country: United Kingdom.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947544</data>
+</edge>
+<edge source="[ORGANIZATION] MINERVA TRUST &amp; CORPORATE SERVICES LIMITED" target="[LOCATION] 43-45 La Motte Street, St. Helier, Jersey">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered address.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947544</data>
+</edge>
+<edge source="[ORGANIZATION] MINERVA TRUST &amp; CORPORATE SERVICES LIMITED" target="[EVENT] Panama Papers dataset listing of entities">
+  <data key="d7">1.0</data>
+  <data key="d8">Corporate actor listed as ACTIVE in Panama Papers.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947546</data>
+</edge>
+<edge source="[ORGANIZATION] PRIMEWAY S.A." target="[LOCATION] Geneva, Switzerland">
+  <data key="d7">1.0</data>
+  <data key="d8">Based in Geneva, Switzerland.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947164</data>
+</edge>
+<edge source="[ORGANIZATION] DR. K. CHRYSOSTOMIDES &amp; CO." target="[LOCATION] Nicosia, Cyprus">
+  <data key="d7">1.0</data>
+  <data key="d8">Based in Nicosia, Cyprus.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947163</data>
+</edge>
+<edge source="[ORGANIZATION] DR. K. CHRYSOSTOMIDES &amp; CO." target="[LOCATION] Cyprus">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered country: Cyprus.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947542</data>
+</edge>
+<edge source="[ORGANIZATION] DR. K. CHRYSOSTOMIDES &amp; CO." target="[EVENT] Panama Papers dataset listing of entities">
+  <data key="d7">1.0</data>
+  <data key="d8">Corporate actor listed as ACTIVE in Panama Papers.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947543</data>
+</edge>
+<edge source="[ORGANIZATION] DR. K. CHRYSOSTOMIDES &amp; CO." target="[LOCATION] 1 Lambousa Street, Nicosia, Cyprus">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered address.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947543</data>
+</edge>
+<edge source="[ORGANIZATION] MOSSFON MANAGERS LTD." target="[LOCATION] Nassau, Bahamas">
+  <data key="d7">1.0</data>
+  <data key="d8">Based in Nassau, Bahamas.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947162</data>
+</edge>
+<edge source="[ORGANIZATION] MOSSFON MANAGERS LTD." target="[LOCATION] Bahamas">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered country: Bahamas.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947543</data>
+</edge>
+<edge source="[ORGANIZATION] MOSSFON MANAGERS LTD." target="[LOCATION] Saffrey Square, Suite 205, Bank Lane, Nassau, Bahamas">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered address.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947544</data>
+</edge>
+<edge source="[ORGANIZATION] MOSSFON MANAGERS LTD." target="[EVENT] Panama Papers dataset listing of entities">
+  <data key="d7">1.0</data>
+  <data key="d8">Corporate actor listed as ACTIVE in Panama Papers.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947545</data>
+</edge>
+<edge source="[LOCATION] Bahamas" target="[EVENT] Incorporation of FLEG TRADING LTD on 31-MAR-1998">
+  <data key="d7">1.0</data>
+  <data key="d8">Incorporation in Bahamas.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947151</data>
+</edge>
+<edge source="[LOCATION] Bahamas" target="[EVENT] Inactivation of FLEG TRADING LTD on 05-JAN-2009">
+  <data key="d7">1.0</data>
+  <data key="d8">Inactivation event location.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947152</data>
+</edge>
+<edge source="[LOCATION] Bahamas" target="[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008">
+  <data key="d7">1.0</data>
+  <data key="d8">Strike-off jurisdiction.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947154</data>
+</edge>
+<edge source="[LOCATION] Bahamas" target="[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009">
+  <data key="d7">1.0</data>
+  <data key="d8">Strike-off jurisdiction.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947155</data>
+</edge>
+<edge source="[LOCATION] Bahamas" target="[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted">
+  <data key="d7">1.0</data>
+  <data key="d8">Status change jurisdiction.</data>
+  <data key="d9">OCCURRED_AT</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947161</data>
+</edge>
+<edge source="[LOCATION] Bahamas" target="[LOCATION] Saffrey Square, Suite 205, Bank Lane, Nassau, Bahamas">
+  <data key="d7">1.0</data>
+  <data key="d8">Address within Bahamas.</data>
+  <data key="d9">WITHIN</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947545</data>
+</edge>
+<edge source="[LOCATION] Luxembourg" target="[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered country: Luxembourg.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947543</data>
+</edge>
+<edge source="[LOCATION] Luxembourg" target="[LOCATION] 7 Val Sainte-Croix, Luxembourg">
+  <data key="d7">1.0</data>
+  <data key="d8">Address within Luxembourg.</data>
+  <data key="d9">WITHIN</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947544</data>
+</edge>
+<edge source="[LOCATION] Montevideo, Uruguay" target="[OBJECT] FLEG TRADING LTD Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Address for Panama Papers record.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947179</data>
+</edge>
+<edge source="[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008" target="[OBJECT] FLEG TRADING LTD Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Record involved in strike-off event.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947180</data>
+</edge>
+<edge source="[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009" target="[OBJECT] FLEG TRADING LTD Bahamas Leaks record">
+  <data key="d7">1.0</data>
+  <data key="d8">Record involved in strike-off event.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947175</data>
+</edge>
+<edge source="[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted" target="[OBJECT] FLEG TRADING LTD Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Record whose status changed to Defaulted.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947179</data>
+</edge>
+<edge source="[OBJECT] Panama Papers dataset" target="[OBJECT] FLEG TRADING LTD Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of Panama Papers dataset.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947178</data>
+</edge>
+<edge source="[OBJECT] Panama Papers dataset" target="[EVENT] Panama Papers dataset listing of entities">
+  <data key="d7">1.0</data>
+  <data key="d8">Dataset containing the listings.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947547</data>
+</edge>
+<edge source="[OBJECT] Bahamas Leaks dataset" target="[OBJECT] FLEG TRADING LTD Bahamas Leaks record">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of Bahamas Leaks dataset.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-9bfb32bdd7c414f947145758260f981a</data>
+  <data key="d11">raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv</data>
+  <data key="d12">1778947174</data>
+</edge>
+<edge source="[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)" target="[EVENT] Panama Papers dataset listing of entities">
+  <data key="d7">1.0</data>
+  <data key="d8">Corporate actor listed as ACTIVE in Panama Papers.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947542</data>
+</edge>
+<edge source="[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)" target="[LOCATION] 7 Val Sainte-Croix, Luxembourg">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered address.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947543</data>
+</edge>
+<edge source="[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO" target="[LOCATION] Uruguay">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered country: Uruguay.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947542</data>
+</edge>
+<edge source="[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO" target="[EVENT] Panama Papers dataset listing of entities">
+  <data key="d7">1.0</data>
+  <data key="d8">Corporate actor listed as ACTIVE in Panama Papers.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947543</data>
+</edge>
+<edge source="[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO" target="[LOCATION] Misiones 1371, Piso 4, Montevideo, Uruguay">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered address.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947545</data>
+</edge>
+<edge source="[LOCATION] 1 Lambousa Street, Nicosia, Cyprus" target="[LOCATION] Cyprus">
+  <data key="d7">1.0</data>
+  <data key="d8">Address within Cyprus.</data>
+  <data key="d9">WITHIN</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947545</data>
+</edge>
+<edge source="[LOCATION] Misiones 1371, Piso 4, Montevideo, Uruguay" target="[LOCATION] Uruguay">
+  <data key="d7">1.0</data>
+  <data key="d8">Address within Uruguay.</data>
+  <data key="d9">WITHIN</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947547</data>
+</edge>
+<edge source="[LOCATION] 43-45 La Motte Street, St. Helier, Jersey" target="[LOCATION] Jersey">
+  <data key="d7">1.0</data>
+  <data key="d8">Address within Jersey.</data>
+  <data key="d9">WITHIN</data>
+  <data key="d10">chunk-c5862f8c36e85d12931b2df05b3c1bb7</data>
+  <data key="d11">raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv</data>
+  <data key="d12">1778947545</data>
+</edge>
+<edge source="[LOCATION] Jersey" target="[ORGANIZATION] MINERVA SERVICES LIMITED">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered in Jersey.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947936</data>
+</edge>
+<edge source="[LOCATION] Jersey" target="[ORGANIZATION] MINERVA NOMINEES LIMITED">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered in Jersey.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947936</data>
+</edge>
+<edge source="[PERSON] Sigmundur David Gunnlaugsson" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">Appears in Panama Papers records.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947936</data>
+</edge>
+<edge source="[PERSON] Anna Sigurlaug Palsdottir" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">Appears in Panama Papers records.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947937</data>
+</edge>
+<edge source="[PERSON] Petro Poroshenko" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">Appears in Panama Papers records.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947938</data>
+</edge>
+<edge source="[PERSON] Petro Poroshenko" target="[OBJECT] 12129717">
+  <data key="d7">1.0</data>
+  <data key="d8">Record corresponds to Petro Poroshenko.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947946</data>
+</edge>
+<edge source="[PERSON] Petro Poroshenko" target="[OBJECT] 13001828">
+  <data key="d7">1.0</data>
+  <data key="d8">Record corresponds to Petro Poroshenko.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947947</data>
+</edge>
+<edge source="[PERSON] Mauricio Macri" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">Appears in Panama Papers records.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947940</data>
+</edge>
+<edge source="[PERSON] Mauricio Macri" target="[EVENT] Manual addition of records from leaked documents">
+  <data key="d7">1.0</data>
+  <data key="d8">Manually added to Panama Papers from leaked documents.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947940</data>
+</edge>
+<edge source="[PERSON] Mauricio Macri" target="[OBJECT] Mauricio Macri's Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Record manually added from leaked documents.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947956</data>
+</edge>
+<edge source="[PERSON] Hasan Nawaz Sharif" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">Appears in Panama Papers records.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947940</data>
+</edge>
+<edge source="[PERSON] Hasan Nawaz Sharif" target="[EVENT] Manual addition of records from leaked documents">
+  <data key="d7">1.0</data>
+  <data key="d8">Manually added to Panama Papers from leaked documents.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947942</data>
+</edge>
+<edge source="[PERSON] Hasan Nawaz Sharif" target="[OBJECT] Hasan Nawaz Sharif's Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Record manually added from leaked documents.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947957</data>
+</edge>
+<edge source="[PERSON] Hussain Nawaz Sharif" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">Appears in Panama Papers records.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947942</data>
+</edge>
+<edge source="[PERSON] Hussain Nawaz Sharif" target="[EVENT] Manual addition of records from leaked documents">
+  <data key="d7">1.0</data>
+  <data key="d8">Manually added to Panama Papers from leaked documents.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947945</data>
+</edge>
+<edge source="[PERSON] Hussain Nawaz Sharif" target="[OBJECT] Hussain Nawaz Sharif's Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Record manually added from leaked documents.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947958</data>
+</edge>
+<edge source="[PERSON] Mariam Safdar" target="[LOCATION] Saudi Arabia">
+  <data key="d7">1.0</data>
+  <data key="d8">Saudi Arabian individual originally from Saudi Arabia.</data>
+  <data key="d9">RESIDENCE_AT</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947936</data>
+</edge>
+<edge source="[PERSON] Mariam Safdar" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">Appears in Panama Papers records.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947938</data>
+</edge>
+<edge source="[PERSON] Mariam Safdar" target="[OBJECT] 13006286">
+  <data key="d7">1.0</data>
+  <data key="d8">Record corresponds to Mariam Safdar.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947947</data>
+</edge>
+<edge source="[PERSON] Mariam Safdar" target="[OBJECT] 13010742">
+  <data key="d7">1.0</data>
+  <data key="d8">Record corresponds to Mariam Safdar.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947948</data>
+</edge>
+<edge source="[ORGANIZATION] CASCON HOLDINGS ESTABLISHMENT LIMITED" target="[LOCATION] Liberia">
+  <data key="d7">1.0</data>
+  <data key="d8">Registered in Liberia.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947936</data>
+</edge>
+<edge source="[ORGANIZATION] CASCON HOLDINGS ESTABLISHMENT LIMITED" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">Listed in Panama Papers records.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947946</data>
+</edge>
+<edge source="[ORGANIZATION] MINERVA SERVICES LIMITED" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">Listed in Panama Papers records.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947946</data>
+</edge>
+<edge source="[ORGANIZATION] MINERVA SERVICES LIMITED" target="[OBJECT] 12114024">
+  <data key="d7">1.0</data>
+  <data key="d8">Record corresponds to MINERVA SERVICES LIMITED.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947952</data>
+</edge>
+<edge source="[ORGANIZATION] MINERVA SERVICES LIMITED" target="[OBJECT] 12175997">
+  <data key="d7">1.0</data>
+  <data key="d8">Record corresponds to MINERVA SERVICES LIMITED.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947953</data>
+</edge>
+<edge source="[ORGANIZATION] MINERVA NOMINEES LIMITED" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">Listed in Panama Papers records.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947947</data>
+</edge>
+<edge source="[ORGANIZATION] MINERVA NOMINEES LIMITED" target="[OBJECT] 12114025">
+  <data key="d7">1.0</data>
+  <data key="d8">Record corresponds to MINERVA NOMINEES LIMITED.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947949</data>
+</edge>
+<edge source="[ORGANIZATION] MINERVA NOMINEES LIMITED" target="[OBJECT] 12176796">
+  <data key="d7">1.0</data>
+  <data key="d8">Record corresponds to MINERVA NOMINEES LIMITED.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947950</data>
+</edge>
+<edge source="[ORGANIZATION] THE BEARER" target="[EVENT] Panama Papers records compilation">
+  <data key="d7">1.0</data>
+  <data key="d8">Listed in Panama Papers records.</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947948</data>
+</edge>
+<edge source="[ORGANIZATION] THE BEARER" target="[OBJECT] 12025193">
+  <data key="d7">1.0</data>
+  <data key="d8">Record corresponds to THE BEARER.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947954</data>
+</edge>
+<edge source="[ORGANIZATION] THE BEARER" target="[OBJECT] 12025226">
+  <data key="d7">1.0</data>
+  <data key="d8">Record corresponds to THE BEARER.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947955</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] 12129717">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947950</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] 13001828">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947952</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] 13006286">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947954</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] 13010742">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947955</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] 12114025">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947956</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] 12176796">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947957</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] 12114024">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947958</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] 12175997">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947959</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] 12025193">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947960</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] 12025226">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947961</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] Mauricio Macri's Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947962</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] Hasan Nawaz Sharif's Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947962</data>
+</edge>
+<edge source="[EVENT] Panama Papers records compilation" target="[OBJECT] Hussain Nawaz Sharif's Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Part of the Panama Papers data current through 2015.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947964</data>
+</edge>
+<edge source="[EVENT] Manual addition of records from leaked documents" target="[OBJECT] Leaked documents">
+  <data key="d7">1.0</data>
+  <data key="d8">Documents from which records were manually added.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947946</data>
+</edge>
+<edge source="[EVENT] Manual addition of records from leaked documents" target="[OBJECT] Mauricio Macri's Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Manually added from leaked documents.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947957</data>
+</edge>
+<edge source="[EVENT] Manual addition of records from leaked documents" target="[OBJECT] Hasan Nawaz Sharif's Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Manually added from leaked documents.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947958</data>
+</edge>
+<edge source="[EVENT] Manual addition of records from leaked documents" target="[OBJECT] Hussain Nawaz Sharif's Panama Papers record">
+  <data key="d7">1.0</data>
+  <data key="d8">Manually added from leaked documents.</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947959</data>
+</edge>
+<edge source="[OBJECT] 12129717" target="[OBJECT] 13001828">
+  <data key="d7">1.0</data>
+  <data key="d8">Duplicate records for the same person.</data>
+  <data key="d9">SAME_AS</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947948</data>
+</edge>
+<edge source="[OBJECT] 13006286" target="[OBJECT] 13010742">
+  <data key="d7">1.0</data>
+  <data key="d8">Duplicate records for the same person.</data>
+  <data key="d9">SAME_AS</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947948</data>
+</edge>
+<edge source="[OBJECT] 12114025" target="[OBJECT] 12176796">
+  <data key="d7">1.0</data>
+  <data key="d8">Duplicate records for the same company.</data>
+  <data key="d9">SAME_AS</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947952</data>
+</edge>
+<edge source="[OBJECT] 12114024" target="[OBJECT] 12175997">
+  <data key="d7">1.0</data>
+  <data key="d8">Duplicate records for the same company; different capitalization.</data>
+  <data key="d9">SAME_AS</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947954</data>
+</edge>
+<edge source="[OBJECT] 12025193" target="[OBJECT] 12025226">
+  <data key="d7">1.0</data>
+  <data key="d8">Duplicate records for the same entity.</data>
+  <data key="d9">SAME_AS</data>
+  <data key="d10">chunk-76e1312de2d9c741149fb309c3436fd2</data>
+  <data key="d11">raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv</data>
+  <data key="d12">1778947956</data>
+</edge>
+<edge source="[PERSON] 12114024" target="[ORGANIZATION] 10122953">
+  <data key="d7">3.0</data>
+  <data key="d8">officer_of shareholder from 04-JUL-2006 (Panama Papers)&lt;SEP&gt;shareholder of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661081</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12114024" target="[EVENT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">Mentioned in Panama Papers records</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661088</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12114024" target="[EVENT] Shareholding 12114024 10122953 2006">
+  <data key="d7">1.0</data>
+  <data key="d8">became shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661099</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12114025" target="[ORGANIZATION] 10122953">
+  <data key="d7">4.0</data>
+  <data key="d8">officer_of shareholder from 04 (Panama Papers)&lt;SEP&gt;officer_of shareholder from 04-JUL-2006 (Panama Papers)&lt;SEP&gt;shareholder of&lt;SEP&gt;shareholder</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661082</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12114025" target="[EVENT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">Mentioned in Panama Papers records</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661089</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12114025" target="[EVENT] Shareholding 12114025 10122953 2006">
+  <data key="d7">1.0</data>
+  <data key="d8">became shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661099</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12025193" target="[ORGANIZATION] 10122953">
+  <data key="d7">3.0</data>
+  <data key="d8">officer_of shareholder from 22-NOV-1994 to 04-JUL-2006 (Panama Papers)&lt;SEP&gt;shareholder of&lt;SEP&gt;shareholder</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661082</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12025193" target="[EVENT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">Mentioned in Panama Papers records</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661089</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12025193" target="[EVENT] Shareholding 12025193 10122953 1994">
+  <data key="d7">1.0</data>
+  <data key="d8">became shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661097</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12025193" target="[EVENT] Cessation 12025193 10122953 2006">
+  <data key="d7">1.0</data>
+  <data key="d8">ceased being shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661098</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 11011597" target="[ORGANIZATION] 10122953">
+  <data key="d7">2.0</data>
+  <data key="d8">intermediary_of intermediary (Panama Papers)&lt;SEP&gt;intermediary of (Panama Papers)</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661083</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 11011597" target="[ORGANIZATION] 10203385">
+  <data key="d7">2.0</data>
+  <data key="d8">intermediary of (Panama Papers)&lt;SEP&gt;intermediary</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661083</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 11011597" target="[EVENT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">Mentioned in Panama Papers records</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661090</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 13006286" target="[ORGANIZATION] 10122953">
+  <data key="d7">2.0</data>
+  <data key="d8">officer_of beneficiary (Panama Papers)&lt;SEP&gt;beneficiary of (Panama Papers)</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661083</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 13006286" target="[EVENT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">Mentioned as beneficiary of 10122953 in Panama Papers records</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661092</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 13001828" target="[ORGANIZATION] 10155456">
+  <data key="d7">2.0</data>
+  <data key="d8">officer_of beneficiary (Panama Papers)&lt;SEP&gt;beneficiary of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661086</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 13001828" target="[PERSON] 12129717">
+  <data key="d7">3.0</data>
+  <data key="d8">similar name and address&lt;SEP&gt;noted as having similar name and address</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661095</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 13001828" target="[LOCATION] 14024758">
+  <data key="d7">2.0</data>
+  <data key="d8">registered_address (Panama Papers)&lt;SEP&gt;registered address</data>
+  <data key="d9">RESIDENCE_AT</data>
+  <data key="d10">chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661096</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12129717" target="[ORGANIZATION] 10155456">
+  <data key="d7">4.0</data>
+  <data key="d8">officer_of shareholder from 21-AUG-2014 (Panama Papers)&lt;SEP&gt;officer_of beneficial owner (Panama Papers)&lt;SEP&gt;beneficial owner of&lt;SEP&gt;shareholder of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661086</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12129717" target="[LOCATION] 14024758">
+  <data key="d7">2.0</data>
+  <data key="d8">registered_address (Panama Papers)&lt;SEP&gt;registered address</data>
+  <data key="d9">RESIDENCE_AT</data>
+  <data key="d10">chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661095</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12129717" target="[EVENT] Shareholding 12129717 10155456 2014">
+  <data key="d7">1.0</data>
+  <data key="d8">became shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661103</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12161442" target="[ORGANIZATION] 10206223">
+  <data key="d7">2.0</data>
+  <data key="d8">officer_of shareholder from 09-OCT-2007 to 31-DEC-2009 (Panama Papers)&lt;SEP&gt;shareholder of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661085</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12161442" target="[LOCATION] 14048807">
+  <data key="d7">2.0</data>
+  <data key="d8">registered_address (Panama Papers)&lt;SEP&gt;registered address</data>
+  <data key="d9">RESIDENCE_AT</data>
+  <data key="d10">chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661094</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12161442" target="[EVENT] Shareholding 12161442 10206223 2007">
+  <data key="d7">1.0</data>
+  <data key="d8">became shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661101</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12161442" target="[EVENT] Cessation 12161442 10206223 2009">
+  <data key="d7">1.0</data>
+  <data key="d8">ceased being shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661102</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12161441" target="[ORGANIZATION] 10206223">
+  <data key="d7">3.0</data>
+  <data key="d8">officer_of shareholder from 31-DEC-2009 (Panama Papers)&lt;SEP&gt;officer_of shareholder from 09-OCT-2007 (Panama Papers)&lt;SEP&gt;shareholder of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661086</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12161441" target="[LOCATION] 14048807">
+  <data key="d7">2.0</data>
+  <data key="d8">registered_address (Panama Papers)&lt;SEP&gt;registered address</data>
+  <data key="d9">RESIDENCE_AT</data>
+  <data key="d10">chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661095</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12161441" target="[EVENT] Shareholding 12161441 10206223 2007">
+  <data key="d7">1.0</data>
+  <data key="d8">became shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661102</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12161441" target="[EVENT] Shareholding 12161441 10206223 2009">
+  <data key="d7">1.0</data>
+  <data key="d8">became shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661102</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 15002701" target="[ORGANIZATION] 10179083">
+  <data key="d7">2.0</data>
+  <data key="d8">officer_of director (Panama Papers)&lt;SEP&gt;director of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661086</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 15001902" target="[ORGANIZATION] 10210092">
+  <data key="d7">2.0</data>
+  <data key="d8">officer_of shareholder (Panama Papers)&lt;SEP&gt;shareholder of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661086</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 15001903" target="[ORGANIZATION] 10122953">
+  <data key="d7">2.0</data>
+  <data key="d8">officer_of signatory (Panama Papers)&lt;SEP&gt;signatory of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661087</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 15001903" target="[ORGANIZATION] 10203385">
+  <data key="d7">2.0</data>
+  <data key="d8">officer_of signatory (Panama Papers)&lt;SEP&gt;signatory of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661087</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12178546" target="[ORGANIZATION] 10064371">
+  <data key="d7">2.0</data>
+  <data key="d8">officer_of shareholder from 24-OCT-1996 (Panama Papers)&lt;SEP&gt;shareholder of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661087</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12178546" target="[LOCATION] 14051308">
+  <data key="d7">1.0</data>
+  <data key="d8">registered_address (Panama Papers)</data>
+  <data key="d9">RESIDENCE_AT</data>
+  <data key="d10">chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661096</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12178546" target="[EVENT] Shareholding 12178546 10064371 1996">
+  <data key="d7">1.0</data>
+  <data key="d8">became shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661097</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 11005663" target="[ORGANIZATION] 10206223">
+  <data key="d7">2.0</data>
+  <data key="d8">intermediary_of intermediary (Panama Papers)&lt;SEP&gt;intermediary of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661088</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 11002578" target="[ORGANIZATION] 10155456">
+  <data key="d7">2.0</data>
+  <data key="d8">intermediary_of intermediary (Panama Papers)&lt;SEP&gt;intermediary of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661088</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 11011774" target="[ORGANIZATION] 10179083">
+  <data key="d7">2.0</data>
+  <data key="d8">intermediary_of intermediary (Panama Papers)&lt;SEP&gt;intermediary of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661088</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 11012290" target="[ORGANIZATION] 10210092">
+  <data key="d7">2.0</data>
+  <data key="d8">intermediary_of intermediary (Panama Papers)&lt;SEP&gt;intermediary of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661088</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12120458" target="[ORGANIZATION] 10210092">
+  <data key="d7">2.0</data>
+  <data key="d8">officer_of shareholder from 24-APR-2007 (Panama Papers)&lt;SEP&gt;shareholder of</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661088</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12120458" target="[EVENT] Shareholding 12120458 10210092 2007">
+  <data key="d7">1.0</data>
+  <data key="d8">became shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661101</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 13010742" target="[ORGANIZATION] 10203385">
+  <data key="d7">2.0</data>
+  <data key="d8">officer_of beneficiary (Panama Papers)&lt;SEP&gt;beneficiary</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661084</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 13010742" target="[EVENT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">Mentioned in Panama Papers records</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661090</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12176996" target="[ORGANIZATION] 10203385">
+  <data key="d7">1.0</data>
+  <data key="d8">officer_of shareholder from 04-JUL-2006 (Panama Papers)</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661084</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12176996" target="[EVENT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">Mentioned in Panama Papers records</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661091</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12025226" target="[ORGANIZATION] 10203385">
+  <data key="d7">2.0</data>
+  <data key="d8">officer_of shareholder from 29-APR-1993 to 04-JUL-2006 (Panama Papers)&lt;SEP&gt;shareholder</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661085</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12025226" target="[EVENT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">Mentioned in Panama Papers records</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661091</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12025226" target="[EVENT] Shareholding 12025226 10203385 1993">
+  <data key="d7">1.0</data>
+  <data key="d8">became shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661096</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12025226" target="[EVENT] Cessation 12025226 10203385 2006">
+  <data key="d7">1.0</data>
+  <data key="d8">ceased being shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661098</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12175997" target="[ORGANIZATION] 10203385">
+  <data key="d7">2.0</data>
+  <data key="d8">officer_of shareholder from 04-JUL-2006 (Panama Papers)&lt;SEP&gt;shareholder</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661085</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12175997" target="[EVENT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">Mentioned in Panama Papers records</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-65fc149b888a0d0d5418ef80bf527050</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661092</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12175997" target="[EVENT] Shareholding 12175997 10203385 2006">
+  <data key="d7">1.0</data>
+  <data key="d8">became shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661100</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10122953" target="[EVENT] Shareholding 12025193 10122953 1994">
+  <data key="d7">1.0</data>
+  <data key="d8">target of shareholding</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661098</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10122953" target="[EVENT] Cessation 12025193 10122953 2006">
+  <data key="d7">1.0</data>
+  <data key="d8">target of cessation</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661098</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10122953" target="[EVENT] Shareholding 12114024 10122953 2006">
+  <data key="d7">1.0</data>
+  <data key="d8">target of shareholding</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661099</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10122953" target="[EVENT] Shareholding 12114025 10122953 2006">
+  <data key="d7">1.0</data>
+  <data key="d8">target of shareholding</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661100</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10203385" target="[PERSON] 12176796">
+  <data key="d7">1.0</data>
+  <data key="d8">shareholder</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661096</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10203385" target="[EVENT] Shareholding 12025226 10203385 1993">
+  <data key="d7">1.0</data>
+  <data key="d8">target of shareholding</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661097</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10203385" target="[EVENT] Cessation 12025226 10203385 2006">
+  <data key="d7">1.0</data>
+  <data key="d8">target of cessation</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661098</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10203385" target="[EVENT] Shareholding 12176796 10203385 2006">
+  <data key="d7">1.0</data>
+  <data key="d8">target of shareholding</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661100</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10203385" target="[EVENT] Shareholding 12175997 10203385 2006">
+  <data key="d7">1.0</data>
+  <data key="d8">target of shareholding</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661101</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10206223" target="[EVENT] Shareholding 12161442 10206223 2007">
+  <data key="d7">1.0</data>
+  <data key="d8">target of shareholding</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661102</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10206223" target="[EVENT] Shareholding 12161441 10206223 2007">
+  <data key="d7">1.0</data>
+  <data key="d8">target of shareholding</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661102</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10206223" target="[EVENT] Cessation 12161442 10206223 2009">
+  <data key="d7">1.0</data>
+  <data key="d8">target of cessation</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661102</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10206223" target="[EVENT] Shareholding 12161441 10206223 2009">
+  <data key="d7">1.0</data>
+  <data key="d8">target of shareholding</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661103</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10155456" target="[EVENT] Shareholding 12129717 10155456 2014">
+  <data key="d7">1.0</data>
+  <data key="d8">target of shareholding</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661103</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10179083" target="[ORGANIZATION] 20073694">
+  <data key="d7">3.0</data>
+  <data key="d8">same company as (Bahamas Leaks)&lt;SEP&gt;linked in Bahamas Leaks data source&lt;SEP&gt;identified as 'same company as'.</data>
+  <data key="d9">ASSOCIATED_WITH,SAME_AS</data>
+  <data key="d10">chunk-c16a9314613c92ad218da2c8bfffad4c&lt;SEP&gt;chunk-b6fe69959166baf0b9bd42329be6f142&lt;SEP&gt;chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661094</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10179083" target="[OBJECT] Bahamas Leaks">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record involving this entity</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661111</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10210092" target="[EVENT] Shareholding 12120458 10210092 2007">
+  <data key="d7">1.0</data>
+  <data key="d8">target of shareholding</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661101</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 10064371" target="[EVENT] Shareholding 12178546 10064371 1996">
+  <data key="d7">1.0</data>
+  <data key="d8">target of shareholding</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661097</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 61441" target="[LOCATION] 14048807">
+  <data key="d7">1.0</data>
+  <data key="d8">shares registered address 14048807.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c16a9314613c92ad218da2c8bfffad4c</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661092</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 12129717" target="[LOCATION] 14024758">
+  <data key="d7">1.0</data>
+  <data key="d8">shares registered address 14024758.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c16a9314613c92ad218da2c8bfffad4c</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661093</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 12129717" target="[ORGANIZATION] 13001828">
+  <data key="d7">1.0</data>
+  <data key="d8">noted as having 'similar name and address'.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c16a9314613c92ad218da2c8bfffad4c</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661094</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 13001828" target="[LOCATION] 14024758">
+  <data key="d7">1.0</data>
+  <data key="d8">shares registered address 14024758.</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-c16a9314613c92ad218da2c8bfffad4c</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661093</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[ORGANIZATION] 20073694" target="[OBJECT] Bahamas Leaks">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record involving this entity</data>
+  <data key="d9">ASSOCIATED_WITH</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661110</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[PERSON] 12176796" target="[EVENT] Shareholding 12176796 10203385 2006">
+  <data key="d7">1.0</data>
+  <data key="d8">became shareholder</data>
+  <data key="d9">PARTICIPATED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661100</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Shareholding 12025226 10203385 1993" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661103</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Shareholding 12178546 10064371 1996" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661104</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Shareholding 12025193 10122953 1994" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661104</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Cessation 12025193 10122953 2006" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661105</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Cessation 12025226 10203385 2006" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661105</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Shareholding 12114024 10122953 2006" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661106</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Shareholding 12114025 10122953 2006" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661106</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Shareholding 12176796 10203385 2006" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661107</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Shareholding 12175997 10203385 2006" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661107</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Shareholding 12120458 10210092 2007" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661108</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Shareholding 12161442 10206223 2007" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661108</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Shareholding 12161441 10206223 2007" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661109</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Cessation 12161442 10206223 2009" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661109</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Shareholding 12161441 10206223 2009" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661109</data>
+  <data key="d13"></data>
+</edge>
+<edge source="[EVENT] Shareholding 12129717 10155456 2014" target="[OBJECT] Panama Papers">
+  <data key="d7">1.0</data>
+  <data key="d8">provenance source for record</data>
+  <data key="d9">USED_IN</data>
+  <data key="d10">chunk-620072f822a1051ffc34e811f5ef627e</data>
+  <data key="d11">raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv</data>
+  <data key="d12">1782661110</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

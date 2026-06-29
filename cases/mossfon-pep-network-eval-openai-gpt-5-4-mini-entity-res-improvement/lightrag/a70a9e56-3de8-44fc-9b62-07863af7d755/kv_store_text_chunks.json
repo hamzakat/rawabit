@@ -1,0 +1,122 @@
+{
+  "chunk-c7b242664c55ee39a3bada42a7268b01": {
+    "tokens": 330,
+    "content": "Lokastigur 24; 101 Reykjavik; Iceland is an address in the Panama Papers (14048807).\n\n9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine is an address in the Panama Papers (14024758).\n\nNAWAZ TRUST C/O Nerine Trust Company Limited; 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI is an entity in the Panama Papers (14051308).\n\nNAWAZ TRUST is an organization named in the Panama Papers.\n\nNerine Trust Company Limited is the C/O organization for NAWAZ TRUST.\n\nLokastigur 24; 101 Reykjavik; Iceland is a location record.\n\n9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine is a location record.\n\n9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI is the address of NAWAZ TRUST.\n\nIceland is the country for the first address.\n\nUkraine is the country for the second address.\n\nBritish Virgin Islands is the country for the third address.\n\nThe Panama Papers  data is current through 2015,\n\nAll records originate from the Panama Papers database.\n\nThe internal identifier 14048807 corresponds to the first record.\n\nThe internal identifier 14024758 corresponds to the second record.\n\nThe internal identifier 14051308 corresponds to the third record.\n\nCountry codes: ISL for Iceland, UKR for Ukraine, VGB for British Virgin Islands.\n\nThe first two records have an empty name field.\n\nThe third record includes the entity name within the address field.\n\nThe valid_until field is empty for all records.",
+    "chunk_order_index": 0,
+    "full_doc_id": "3322037c-147a-4ec8-97d1-6e5415ab99bd",
+    "file_path": "raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv",
+    "llm_cache_list": [
+      "default:extract:854c000ec2476a7debd40a83e2e6ce7a",
+      "default:extract:d5ed73ad8c3ed1d2d0f2626217495f99"
+    ],
+    "create_time": 1778946548,
+    "update_time": 1778946692,
+    "_id": "chunk-c7b242664c55ee39a3bada42a7268b01"
+  },
+  "chunk-9bfb32bdd7c414f947145758260f981a": {
+    "tokens": 877,
+    "content": "WINTRIS INC. is an Active BVI company incorporated 09-OCT-2007.\n\nPrime Asset Partners Limited is an Active BVI company incorporated 21-AUG-2014.\n\nFLEG TRADING LTD (Panama Papers record) is a Defaulted Bahamas company.\n\nHANGON PROPERTY HOLDINGS LIMITED is a Changed agent BVI company.\n\nNIELSEN ENTERPRISES LIMITED is a Changed agent BVI company.\n\nNESCOLL LIMITED is a Changed agent BVI company.\n\nMARIADA HOLDINGS LIMITED is a Changed agent BVI company.\n\nFLEG TRADING LTD (Bahamas Leaks record) has a struck off status.\n\nWINTRIS INC. is a company in the British Virgin Islands.\n\nPrime Asset Partners Limited is a company in the British Virgin Islands.\n\nFLEG TRADING LTD is a company incorporated in the Bahamas.\n\nMossack Fonseca is the service provider for the Panama Papers entities.\n\nLUXEMBOURG INTERNATIONAL CONSULTING S.A. is the registered address for WINTRIS INC.\n\nMINERVA TRUST & CORPORATE SERVICES LIMITED is the agent for NIELSEN and NESCOLL.\n\nPRIMEWAY S.A. is the registered address for MARIADA HOLDINGS LIMITED.\n\nDR. K. CHRYSOSTOMIDES & CO. is the registered address for Prime Asset Partners.\n\nWINTRIS INC. was incorporated on 09-OCT-2007.\n\nPrime Asset Partners Limited was incorporated on 21-AUG-2014.\n\nFLEG TRADING LTD was incorporated on 31-MAR-1998 and inactivated on 05-JAN-2009.\n\nHANGON PROPERTY HOLDINGS LIMITED was incorporated 27-FEB-2007 and inactivated 25-FEB-2008.\n\nNIELSEN ENTERPRISES LIMITED was incorporated 14-APR-1994 and inactivated 22-JUL-2014.\n\nNESCOLL LIMITED was incorporated 27-JAN-1993 and inactivated 22-JUL-2014.\n\nMARIADA HOLDINGS LIMITED was incorporated 21-JUL-1995 and inactivated 06-JUN-2014.\n\nFLEG TRADING LTD's Bahamas Leaks record was struck off on 04-FEB-2009.\n\nFLEG TRADING LTD was struck off 31-DEC-2008 in its Panama Papers record.\n\nFLEG TRADING LTD was struck off 04-FEB-2009 in its Bahamas Leaks record.\n\nHANGON PROPERTY HOLDINGS LIMITED was struck off 31-OCT-2008.\n\nNIELSEN ENTERPRISES LIMITED was struck off 31-OCT-2015.\n\nNESCOLL LIMITED was struck off 31-OCT-2015.\n\nMARIADA HOLDINGS LIMITED was struck off 30-APR-2015.\n\nThe status of FLEG TRADING LTD (Panama Papers) changed to Defaulted.\n\nWINTRIS INC. and Prime Asset Partners Limited remain Active.\n\nThe first seven records are from the Panama Papers dataset.\n\nThe eighth record is from the Bahamas Leaks dataset.\n\nPanama Papers data is current through 2015.\n\nBahamas Leaks data is current through early 2016.\n\nMossack Fonseca is the service provider for all Panama Papers records.\n\nThe node_id for WINTRIS INC. is 10206223 in the source database.\n\nTwo distinct records exist for FLEG TRADING LTD across two datasets.\n\nEntity addresses and registered agents are explicitly recorded in the source.\n\nThe registered address for WINTRIS INC. is LUXEMBOURG INTERNATIONAL CONSULTING S.A. in Luxembourg.\n\nThe address for Prime Asset Partners is in Nicosia, Cyprus.\n\nThe address for FLEG TRADING LTD (Panama Papers) is in Montevideo, Uruguay.\n\nThe address for HANGON PROPERTY HOLDINGS LIMITED is MOSSFON MANAGERS LTD. in Nassau, Bahamas.\n\nThe address for NIELSEN ENTERPRISES LIMITED and NESCOLL LIMITED is MINERVA TRUST in St. Helier, Jersey.\n\nThe address for MARIADA HOLDINGS LIMITED is PRIMEWAY S.A. in Geneva, Switzerland.\n\nInternal identifiers for NIELSEN ENTERPRISES include internal_id 579413 and ibcRUC 114856.\n\nFLEG TRADING LTD in Bahamas Leaks has identifier 73694B.",
+    "chunk_order_index": 0,
+    "full_doc_id": "9e160d90-409b-45b2-b97a-9bfaeb19a28d",
+    "file_path": "raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv",
+    "llm_cache_list": [
+      "default:extract:3e798c4a8d2964e52e1e70c3a80f6b11",
+      "default:extract:12631811346702feea5ba74cef0d8198"
+    ],
+    "create_time": 1778946836,
+    "update_time": 1778947138,
+    "_id": "chunk-9bfb32bdd7c414f947145758260f981a"
+  },
+  "chunk-c5862f8c36e85d12931b2df05b3c1bb7": {
+    "tokens": 587,
+    "content": "LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT) appears in the Panama Papers as an ACTIVE entity from Luxembourg.\n\nDR. K. CHRYSOSTOMIDES & CO. appears in the Panama Papers as an ACTIVE entity from Cyprus.\n\nLUSSICH TORRENDELL, CR. SANTIAGO appears in the Panama Papers as an ACTIVE entity from Uruguay.\n\nMOSSFON MANAGERS LTD. appears in the Panama Papers as an ACTIVE entity from Bahamas.\n\nMINERVA TRUST & CORPORATE SERVICES LIMITED appears in the Panama Papers as an ACTIVE entity from Jersey and the United Kingdom.\n\nEntity: LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT), Status: ACTIVE, Country: Luxembourg (LUX), Role: Listed entity.\n\nEntity: DR. K. CHRYSOSTOMIDES & CO., Status: ACTIVE, Country: Cyprus (CYP), Role: Listed entity.\n\nEntity: LUSSICH TORRENDELL, CR. SANTIAGO, Status: ACTIVE, Country: Uruguay (URY), Role: Listed entity.\n\nEntity: MOSSFON MANAGERS LTD., Status: ACTIVE, Country: Bahamas (BHS), Role: Listed entity.\n\nEntity: MINERVA TRUST & CORPORATE SERVICES LIMITED, Status: ACTIVE, Country: Jersey; United Kingdom (JEY;GBR), Role: Listed entity.\n\nThe Panama Papers data is current through 2015.\n\nAll records are from the Panama Papers dataset.\n\nLUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT) node_id 11005663, internal_id 28765, address: 7, VAL SAINTE-CROIX L 1371 LUXEMBOURG  LUXEMBOURG.\n\nDR. K. CHRYSOSTOMIDES & CO. node_id 11002578, internal_id 21392, address: 1 LAMBOUSA STREET 1095 NICOSIA, CYPRUS.\n\nLUSSICH TORRENDELL, CR. SANTIAGO node_id 11011774, internal_id 9304, address: MISIONES N\u00b0 1.371  PISO 4\u00b0 ( C.P. 11.100 )  MONTEVIDEO, URUGUAY.\n\nMOSSFON MANAGERS LTD. node_id 11012290, internal_id 12819, address: SAFFREY SQUARE; SUITE 205; BANK LANE P.O. BOX N-8188 NASSAU **S.I**; NEW PROVIDENCE ISLAND BAHAMAS.\n\nMINERVA TRUST & CORPORATE SERVICES LIMITED node_id 11011597, internal_id 891, address: P.O. BOX 218 43-45 LA MOTTE STREET; ST. HELIER JE4 8SD; JERSEY UNITED KINGDOM.",
+    "chunk_order_index": 0,
+    "full_doc_id": "77eb3dc4-f533-4496-8d37-eb40da8ce9b3",
+    "file_path": "raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv",
+    "llm_cache_list": [
+      "default:extract:97841626d1b77a634ba59d3e6fe41e97",
+      "default:extract:6498fa691044e5b12038100d9de3b9cd"
+    ],
+    "create_time": 1778947328,
+    "update_time": 1778947536,
+    "_id": "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+  },
+  "chunk-76e1312de2d9c741149fb309c3436fd2": {
+    "tokens": 584,
+    "content": "Sigmundur David Gunnlaugsson and Anna Sigurlaug Palsdottir from Iceland appear in the Panama Papers.\n\nPetro Poroshenko from Ukraine has two records in the Panama Papers.\n\nMauricio Macri, Hasan Nawaz Sharif, and Hussain Nawaz Sharif were manually added from leaked documents.\n\nMariam Safdar from Saudi Arabia appears twice in the Panama Papers.\n\nNAWAZ TRUST is registered in British Virgin Islands and listed in the Panama Papers.\n\nCASCON HOLDINGS ESTABLISHMENT LIMITED is registered in Liberia and listed in the Panama Papers.\n\nMINERVA SERVICES LIMITED and MINERVA NOMINEES LIMITED are registered in Jersey and appear in the Panama Papers.\n\nTHE BEARER appears in the Panama Papers without country association.\n\nIceland persons: Sigmundur David Gunnlaugsson and Anna Sigurlaug Palsdottir.\n\nUkraine person: Petro Poroshenko.\n\nManually added persons: Mauricio Macri, Hasan Nawaz Sharif, Hussain Nawaz Sharif.\n\nSaudi Arabia person: Mariam Safdar.\n\nBritish Virgin Islands organization: NAWAZ TRUST.\n\nLiberia organization: CASCON HOLDINGS ESTABLISHMENT LIMITED.\n\nJersey organizations: MINERVA SERVICES LIMITED and MINERVA NOMINEES LIMITED.\n\nUnspecified entity: THE BEARER.\n\nThe Panama Papers data is current through 2015.\n\nRecords for Mauricio Macri, Hasan Nawaz Sharif, and Hussain Nawaz Sharif were manually added from leaked documents.\n\nNo explicit dates are provided for individual records in the provided fragment.\n\nAll records originate from the Panama Papers source.\n\nThe note 'The Panama Papers data is current through 2015' appears on most records.\n\nSome records include the note 'Record manually added from leaked documents'.\n\nEach record includes fields: node_id, name, countries, country_codes, sourceID, valid_until, note.\n\nThe node_id is a numeric identifier unique to each row.\n\nThe sourceID is 'Panama Papers' for all records.\n\nThe countries and country_codes provide location associations where known.\n\nThe valid_until field is empty for all records in this fragment.\n\nDuplicate records exist for Petro Poroshenko with node_ids 12129717 and 13001828.\n\nDuplicate records exist for Mariam Safdar with node_ids 13006286 and 13010742.\n\nDuplicate records exist for MINERVA NOMINEES LIMITED with node_ids 12114025 and 12176796.\n\nDuplicate records exist for MINERVA SERVICES LIMITED with node_ids 12114024 and 12175997.\n\nDuplicate records exist for THE BEARER with node_ids 12025193 and 12025226.\n\nMauricio Macri, Hasan Nawaz Sharif, and Hussain Nawaz Sharif have no country data.\n\nTHE BEARER has no country data.\n\nMINERVA SERVICES LIMITED appears with different capitalization across records.",
+    "chunk_order_index": 0,
+    "full_doc_id": "fa09dc06-fa59-4bfc-882b-c756a3786f34",
+    "file_path": "raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv",
+    "llm_cache_list": [
+      "default:extract:b9e65d289c409dc796c2b303f17ee524",
+      "default:extract:439353397f327a7d30701ce998f13d7b"
+    ],
+    "create_time": 1778947649,
+    "update_time": 1778947930,
+    "_id": "chunk-76e1312de2d9c741149fb309c3436fd2"
+  },
+  "chunk-b6fe69959166baf0b9bd42329be6f142": {
+    "tokens": 500,
+    "content": "12161442 registered_address 14048807 (Panama Papers)\n\n12161442 officer_of shareholder of 10206223 from 09-OCT-2007 to 31-DEC-2009 (Panama Papers)\n\n12161441 registered_address 14048807 (Panama Papers)\n\n12161441 officer_of shareholder of 10206223 from 31-DEC-2009 (Panama Papers)\n\n12161441 officer_of shareholder of 10206223 from 09-OCT-2007 (Panama Papers)\n\n12129717 registered_address 14024758 (Panama Papers)\n\n12129717 similar name and address as 13001828\n\n12129717 officer_of beneficial owner of 10155456 (Panama Papers)\n\n12129717 officer_of shareholder of 10155456 from 21-AUG-2014 (Panama Papers)\n\n13001828 registered_address 14024758 (Panama Papers)\n\n13001828 similar name and address as 12129717\n\n13001828 officer_of beneficiary of 10155456 (Panama Papers)\n\n15002701 officer_of director of 10179083 (Panama Papers)\n\n15001902 officer_of shareholder of 10210092 (Panama Papers)\n\n15001903 officer_of signatory of 10122953 (Panama Papers)\n\n15001903 officer_of signatory of 10203385 (Panama Papers)\n\n12178546 registered_address 14051308 (Panama Papers)\n\n12178546 officer_of shareholder of 10064371 from 24-OCT-1996 (Panama Papers)\n\n11005663 intermediary_of intermediary of 10206223 (Panama Papers)\n\n11002578 intermediary_of intermediary of 10155456 (Panama Papers)\n\n11011774 intermediary_of intermediary of 10179083 (Panama Papers)\n\n20073694 same_company_as same company as 10179083 (Bahamas Leaks)\n\n11012290 intermediary_of intermediary of 10210092 (Panama Papers)\n\n12120458 officer_of shareholder of 10210092 from 24-APR-2007 (Panama Papers)\n\n11011597 intermediary_of intermediary of 10122953 (Panama Papers)\n\n13006286 officer_of beneficiary of 10122953 (Panama Papers)\n\n12114024 officer_of shareholder of 10122953 from 04-JUL-2006 (Panama Papers)\n\n12114025 officer_of shareholder of 10122953 from 04",
+    "chunk_order_index": 0,
+    "full_doc_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "file_path": "raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv",
+    "llm_cache_list": [
+      "default:extract:cb3f92a0f74201d6d5e6723538518e9a",
+      "default:extract:450bf397d6cdde98fecf12180bc88508"
+    ],
+    "create_time": 1782660727,
+    "update_time": 1782660797,
+    "_id": "chunk-b6fe69959166baf0b9bd42329be6f142",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "chunk-65fc149b888a0d0d5418ef80bf527050": {
+    "tokens": 500,
+    "content": "_of beneficiary of 10122953 (Panama Papers)\n\n12114024 officer_of shareholder of 10122953 from 04-JUL-2006 (Panama Papers)\n\n12114025 officer_of shareholder of 10122953 from 04-JUL-2006 (Panama Papers)\n\n12025193 officer_of shareholder of 10122953 from 22-NOV-1994 to 04-JUL-2006 (Panama Papers)\n\n11011597 intermediary_of intermediary of 10203385 (Panama Papers)\n\n13010742 officer_of beneficiary of 10203385 (Panama Papers)\n\n12176796 officer_of shareholder of 10203385 from 04-JUL-2006 (Panama Papers)\n\n12025226 officer_of shareholder of 10203385 from 29-APR-1993 to 04-JUL-2006 (Panama Papers)\n\n12175997 officer_of shareholder of 10203385 from 04-JUL-2006 (Panama Papers)\n\nEntity 12161442 is a shareholder of 10206223\n\nEntity 12161441 is a shareholder of 10206223\n\nEntity 12129717 is a beneficial owner of 10155456\n\nEntity 12129717 is a shareholder of 10155456\n\nEntity 13001828 is a beneficiary of 10155456\n\nEntity 15002701 is a director of 10179083\n\nEntity 15001902 is a shareholder of 10210092\n\nEntity 15001903 is a signatory of 10122953\n\nEntity 15001903 is a signatory of 10203385\n\nEntity 12178546 is a shareholder of 10064371\n\nEntity 11005663 is an intermediary of 10206223\n\nEntity 11002578 is an intermediary of 10155456\n\nEntity 11011774 is an intermediary of 10179083\n\nEntity 11012290 is an intermediary of 10210092\n\nEntity 12120458 is a shareholder of 10210092\n\nEntity 11011597 is an intermediary of 10122953\n\nEntity 13006286 is a beneficiary of 10122953\n\nEntity 12114024 is a shareholder of 10122953\n\nEntity 12114025 is a shareholder of 10122953\n\nEntity 12025193 is a shareholder of 10122953\n\nEntity 11011597 is an intermediary of 10203385",
+    "chunk_order_index": 1,
+    "full_doc_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "file_path": "raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv",
+    "llm_cache_list": [
+      "default:extract:351d5a43462ac946ba64fab4533bbd72",
+      "default:extract:0944ebf2a04bc9d57adcb3c8d37b95ec"
+    ],
+    "create_time": 1782660727,
+    "update_time": 1782660890,
+    "_id": "chunk-65fc149b888a0d0d5418ef80bf527050",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "chunk-620072f822a1051ffc34e811f5ef627e": {
+    "tokens": 500,
+    "content": "is a shareholder of 10122953\n\nEntity 12114025 is a shareholder of 10122953\n\nEntity 12025193 is a shareholder of 10122953\n\nEntity 11011597 is an intermediary of 10203385\n\nEntity 13010742 is a beneficiary of 10203385\n\nEntity 12176796 is a shareholder of 10203385\n\nEntity 12025226 is a shareholder of 10203385\n\nEntity 12175997 is a shareholder of 10203385\n\n29-APR-1993: Entity 12025226 became shareholder of 10203385\n\n24-OCT-1996: Entity 12178546 became shareholder of 10064371\n\n22-NOV-1994: Entity 12025193 became shareholder of 10122953\n\n04-JUL-2006: Entity 12025193 ceased being shareholder of 10122953\n\n04-JUL-2006: Entity 12025226 ceased being shareholder of 10203385\n\n04-JUL-2006: Entity 12114024 became shareholder of 10122953\n\n04-JUL-2006: Entity 12114025 became shareholder of 10122953\n\n04-JUL-2006: Entity 12176796 became shareholder of 10203385\n\n04-JUL-2006: Entity 12175997 became shareholder of 10203385\n\n24-APR-2007: Entity 12120458 became shareholder of 10210092\n\n09-OCT-2007: Entity 12161442 became shareholder of 10206223\n\n09-OCT-2007: Entity 12161441 became shareholder of 10206223\n\n31-DEC-2009: Entity 12161442 ceased being shareholder of 10206223\n\n31-DEC-2009: Entity 12161441 became shareholder of 10206223\n\n21-AUG-2014: Entity 12129717 became shareholder of 10155456\n\nData source for most records is 'Panama Papers'\n\nData source for record involving 20073694 and 10179083 is 'Bahamas Leaks'\n\nEntity 12161442 and 12161441 both share registered address 14048807\n\nEntity 12129717 and 13001828 both share registered address 14024758\n\nEntity 12129717 and 13001828 are noted as having 'similar name and address'",
+    "chunk_order_index": 2,
+    "full_doc_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "file_path": "raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv",
+    "llm_cache_list": [
+      "default:extract:3d80a0660b227e6010a09db71a10a51e",
+      "default:extract:4155ee0511c9a2676be3662c83d3c1e7"
+    ],
+    "create_time": 1782660727,
+    "update_time": 1782661045,
+    "_id": "chunk-620072f822a1051ffc34e811f5ef627e",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "chunk-c16a9314613c92ad218da2c8bfffad4c": {
+    "tokens": 67,
+    "content": "61441 both share registered address 14048807\n\nEntity 12129717 and 13001828 both share registered address 14024758\n\nEntity 12129717 and 13001828 are noted as having 'similar name and address'\n\nEntity 20073694 is identified as 'same company as' 10179083",
+    "chunk_order_index": 3,
+    "full_doc_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "file_path": "raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv",
+    "llm_cache_list": [
+      "default:extract:a5618a5bccf51edd33338062353fd2ac",
+      "default:extract:573174f4172177e4b9964a35ce41de44"
+    ],
+    "create_time": 1782660727,
+    "update_time": 1782661065,
+    "_id": "chunk-c16a9314613c92ad218da2c8bfffad4c",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  }
+}

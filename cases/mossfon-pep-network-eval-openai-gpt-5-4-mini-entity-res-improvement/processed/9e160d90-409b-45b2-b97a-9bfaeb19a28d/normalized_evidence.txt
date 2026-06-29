@@ -1,0 +1,95 @@
+WINTRIS INC. is an Active BVI company incorporated 09-OCT-2007.
+
+Prime Asset Partners Limited is an Active BVI company incorporated 21-AUG-2014.
+
+FLEG TRADING LTD (Panama Papers record) is a Defaulted Bahamas company.
+
+HANGON PROPERTY HOLDINGS LIMITED is a Changed agent BVI company.
+
+NIELSEN ENTERPRISES LIMITED is a Changed agent BVI company.
+
+NESCOLL LIMITED is a Changed agent BVI company.
+
+MARIADA HOLDINGS LIMITED is a Changed agent BVI company.
+
+FLEG TRADING LTD (Bahamas Leaks record) has a struck off status.
+
+WINTRIS INC. is a company in the British Virgin Islands.
+
+Prime Asset Partners Limited is a company in the British Virgin Islands.
+
+FLEG TRADING LTD is a company incorporated in the Bahamas.
+
+Mossack Fonseca is the service provider for the Panama Papers entities.
+
+LUXEMBOURG INTERNATIONAL CONSULTING S.A. is the registered address for WINTRIS INC.
+
+MINERVA TRUST & CORPORATE SERVICES LIMITED is the agent for NIELSEN and NESCOLL.
+
+PRIMEWAY S.A. is the registered address for MARIADA HOLDINGS LIMITED.
+
+DR. K. CHRYSOSTOMIDES & CO. is the registered address for Prime Asset Partners.
+
+WINTRIS INC. was incorporated on 09-OCT-2007.
+
+Prime Asset Partners Limited was incorporated on 21-AUG-2014.
+
+FLEG TRADING LTD was incorporated on 31-MAR-1998 and inactivated on 05-JAN-2009.
+
+HANGON PROPERTY HOLDINGS LIMITED was incorporated 27-FEB-2007 and inactivated 25-FEB-2008.
+
+NIELSEN ENTERPRISES LIMITED was incorporated 14-APR-1994 and inactivated 22-JUL-2014.
+
+NESCOLL LIMITED was incorporated 27-JAN-1993 and inactivated 22-JUL-2014.
+
+MARIADA HOLDINGS LIMITED was incorporated 21-JUL-1995 and inactivated 06-JUN-2014.
+
+FLEG TRADING LTD's Bahamas Leaks record was struck off on 04-FEB-2009.
+
+FLEG TRADING LTD was struck off 31-DEC-2008 in its Panama Papers record.
+
+FLEG TRADING LTD was struck off 04-FEB-2009 in its Bahamas Leaks record.
+
+HANGON PROPERTY HOLDINGS LIMITED was struck off 31-OCT-2008.
+
+NIELSEN ENTERPRISES LIMITED was struck off 31-OCT-2015.
+
+NESCOLL LIMITED was struck off 31-OCT-2015.
+
+MARIADA HOLDINGS LIMITED was struck off 30-APR-2015.
+
+The status of FLEG TRADING LTD (Panama Papers) changed to Defaulted.
+
+WINTRIS INC. and Prime Asset Partners Limited remain Active.
+
+The first seven records are from the Panama Papers dataset.
+
+The eighth record is from the Bahamas Leaks dataset.
+
+Panama Papers data is current through 2015.
+
+Bahamas Leaks data is current through early 2016.
+
+Mossack Fonseca is the service provider for all Panama Papers records.
+
+The node_id for WINTRIS INC. is 10206223 in the source database.
+
+Two distinct records exist for FLEG TRADING LTD across two datasets.
+
+Entity addresses and registered agents are explicitly recorded in the source.
+
+The registered address for WINTRIS INC. is LUXEMBOURG INTERNATIONAL CONSULTING S.A. in Luxembourg.
+
+The address for Prime Asset Partners is in Nicosia, Cyprus.
+
+The address for FLEG TRADING LTD (Panama Papers) is in Montevideo, Uruguay.
+
+The address for HANGON PROPERTY HOLDINGS LIMITED is MOSSFON MANAGERS LTD. in Nassau, Bahamas.
+
+The address for NIELSEN ENTERPRISES LIMITED and NESCOLL LIMITED is MINERVA TRUST in St. Helier, Jersey.
+
+The address for MARIADA HOLDINGS LIMITED is PRIMEWAY S.A. in Geneva, Switzerland.
+
+Internal identifiers for NIELSEN ENTERPRISES include internal_id 579413 and ibcRUC 114856.
+
+FLEG TRADING LTD in Bahamas Leaks has identifier 73694B.

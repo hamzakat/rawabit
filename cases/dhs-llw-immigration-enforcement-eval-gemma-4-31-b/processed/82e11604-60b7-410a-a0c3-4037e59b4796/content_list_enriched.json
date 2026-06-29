@@ -1,0 +1,2577 @@
+[
+  {
+    "type": "text",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across the US ",
+    "text_level": 1,
+    "bbox": [
+      81,
+      126,
+      882,
+      196
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "March 17, 2026 Border Patrol ICE Immigration ",
+    "bbox": [
+      81,
+      219,
+      299,
+      250
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "This investigation is part of a collaboration between Bellingcat, Evident Media and CalMatters. You can watch Evident\u2019s investigative video here, and read CalMatters\u2019 report here. ",
+    "bbox": [
+      81,
+      267,
+      882,
+      342
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "In early January 2025, a gardener named Ernesto Campos was pulled over by Border Patrol agents in the city of Bakersfi eld, California. ",
+    "bbox": [
+      81,
+      363,
+      913,
+      411
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The agents were a long way from home: Bakersfi eld is over 240 miles (386km) from the US border with Mexico. ",
+    "bbox": [
+      80,
+      431,
+      908,
+      478
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "They were there as part of Operation Return to Sender, a Border Patrol surge in the city that acted as a portent of what was to come across the US in 2025. ",
+    "bbox": [
+      80,
+      500,
+      900,
+      547
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Support Bellingcat ",
+    "bbox": [
+      84,
+      606,
+      333,
+      632
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Your donations directly contribute to our ability to publish groundbreaking investigations and uncover wrongdoing around the world. ",
+    "bbox": [
+      63,
+      643,
+      797,
+      691
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Donate ",
+    "bbox": [
+      101,
+      723,
+      179,
+      742
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Video footage shows one agent threatening to break Campos\u2019 car window as they believed he was transporting an undocumented individual. ",
+    "bbox": [
+      80,
+      815,
+      887,
+      863
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Campos fi lmed the agents, who he said slashed his tyres before arresting him and a passenger. The agents\u2019 faces later appeared on local news reports detailing the incident. ",
+    "bbox": [
+      80,
+      882,
+      906,
+      955
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "1/16 ",
+    "bbox": [
+      934,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/ ",
+    "bbox": [
+      35,
+      968,
+      477,
+      982
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US Investigatio  Resourc  Ukrain  Worksho EN ",
+    "bbox": [
+      295,
+      17,
+      794,
+      53
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ns es e ps ",
+    "bbox": [
+      348,
+      80,
+      678,
+      98
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Dona te ",
+    "bbox": [
+      836,
+      42,
+      892,
+      87
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "",
+    "bbox": [
+      63,
+      606,
+      99,
+      636
+    ],
+    "page_idx": 0,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Ten months later, two of the agents visible in footage recorded by Campos were fi lmed in Chicago as Border Patrol agents descended on the city for what was dubbed \u201cOperation Midway Blitz\u201d. ",
+    "bbox": [
+      80,
+      37,
+      866,
+      111
+    ],
+    "page_idx": 1,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "One was seen grabbing a man by the throat before slamming him to the ground with help from other agents. ",
+    "bbox": [
+      80,
+      131,
+      916,
+      179
+    ],
+    "page_idx": 1,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ttps://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/",
+    "bbox": [
+      47,
+      968,
+      473,
+      981
+    ],
+    "page_idx": 1,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/16 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 1,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 1,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      352,
+      17,
+      794,
+      31
+    ],
+    "page_idx": 1,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "37 and Kedzie, East Garfield, Illinois. ",
+    "bbox": [
+      158,
+      160,
+      508,
+      180
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "This is assault. ",
+    "bbox": [
+      158,
+      208,
+      297,
+      227
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The other was seen punching a man in the face before pulling his gun on protesters in a Chicago suburb. ",
+    "bbox": [
+      81,
+      869,
+      905,
+      917
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "These confrontations were not isolated incidents. ",
+    "bbox": [
+      76,
+      938,
+      568,
+      959
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "3/16 ",
+    "bbox": [
+      933,
+      968,
+      960,
+      981
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      352,
+      18,
+      789,
+      31
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Bluesky ",
+    "bbox": [
+      691,
+      801,
+      843,
+      832
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "0:00 ",
+    "bbox": [
+      215,
+      717,
+      253,
+      731
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/ ",
+    "bbox": [
+      35,
+      968,
+      477,
+      982
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "7.4K 890 3.5K 10:56 PM \u00b7 Oct 4, 2025 ",
+    "bbox": [
+      156,
+      785,
+      388,
+      829
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "",
+    "bbox": [
+      156,
+      55,
+      209,
+      95
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Daniel Connerton @lordnad.bsky.social \u00b7 Follow ",
+    "bbox": [
+      217,
+      56,
+      460,
+      94
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "@govpritzker.illinois.gov ",
+    "bbox": [
+      160,
+      114,
+      400,
+      135
+    ],
+    "page_idx": 2,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\82e11604-60b7-410a-a0c3-4037e59b4796\\82e11604-60b7-410a-a0c3-4037e59b4796_Agents_of_Chaos__Unpacking_the_Actions_of_Border_Patrol_Agents_Across_US\\txt\\images\\d8ccf53238709084212f1abe4ee5e76d811e02537e9253e6a92929b957f78240.jpg",
+    "image_caption": [
+      "An image from court documents shows a Border Patrol agent unholstering his gun at an incident in Evanston, Illinois. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      36,
+      915,
+      398
+    ],
+    "page_idx": 3,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "A federal judge in Illinois said in November that the use of force by federal agents in Chicago \u2013 including the use of tear gas and other less lethal munitions on multiple occasions \u2013 \u201cshocks the conscience\u201d. ",
+    "bbox": [
+      81,
+      462,
+      908,
+      536
+    ],
+    "page_idx": 3,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "A restraining order issued by that Illinois judge was vacated on appeal earlier this month. But what took place on the streets of Chicago also happened in other locations, with some of the same agents involved. ",
+    "bbox": [
+      81,
+      556,
+      885,
+      631
+    ],
+    "page_idx": 3,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Bellingcat has worked with our partners at Evident Media and CalMatters to analyse over 85 hours of social media and bodycam footage, as well as court documents and incident reports, to try to unpack the actions of Border Patrol agents across the country. ",
+    "bbox": [
+      80,
+      651,
+      915,
+      752
+    ],
+    "page_idx": 3,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "With agents often masked and badge or identifi cation numbers not always visible, understanding exactly who has enforced the immigration surges of the past year has been diff icult. This, in turn, has made public questioning and accountability around use-of-force incidents challenging. ",
+    "bbox": [
+      80,
+      772,
+      916,
+      875
+    ],
+    "page_idx": 3,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Subscribe to the Bellingcat newsletter ",
+    "text_level": 1,
+    "bbox": [
+      62,
+      933,
+      511,
+      957
+    ],
+    "page_idx": 3,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      37,
+      18,
+      138,
+      30
+    ],
+    "page_idx": 3,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "4/16 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 3,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      361,
+      18,
+      789,
+      30
+    ],
+    "page_idx": 3,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/ ",
+    "bbox": [
+      34,
+      968,
+      477,
+      981
+    ],
+    "page_idx": 3,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Subscribe to our newsletter for fi rst access to our published content and events that our staff and contributors are involved with, including interviews and training workshops. ",
+    "bbox": [
+      62,
+      37,
+      929,
+      85
+    ],
+    "page_idx": 4,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "email@example.com ",
+    "bbox": [
+      88,
+      114,
+      274,
+      132
+    ],
+    "page_idx": 4,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Subscribe ",
+    "bbox": [
+      808,
+      113,
+      911,
+      132
+    ],
+    "page_idx": 4,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Nonetheless, we observed over 25 agents who appeared in more than one city, either by recognising their faces or matching badge numbers that were visible on their vests or arm patches. Many were seen alongside former Border Patrol Commander at Large, Gregory Bovino, on at least one occasion. ",
+    "bbox": [
+      80,
+      205,
+      913,
+      306
+    ],
+    "page_idx": 4,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "But this is likely just a fraction of the agents who moved around the country to take part in Border Patrol surges in cities like Los Angeles, Chicago and Minneapolis. When speaking to reporters in January, Border Czar Tom Homan said he had spoken to some agents who had \u201cbeen in theatre for eight months\u201d. Many wore masks in the videos viewed by Bellingcat, and it was not always possible to identify number patches from social media or bodycam footage alone. ",
+    "bbox": [
+      78,
+      325,
+      915,
+      481
+    ],
+    "page_idx": 4,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Although some of the agents we logged appeared on neighbourhood walkabouts or in footage where little happened, others could be seen using force on multiple occasions. For this story, we have focused on the actions of fi ve agents whom we have been able to identify and who appear to have repeatedly used force in at least two, but often more, locations. We have decided to name those we have been able to identify just as we would name any off icer involved in incidents like those detailed. But these were by no means the only agents whom we saw using force across one or multiple cities. ",
+    "bbox": [
+      78,
+      501,
+      915,
+      707
+    ],
+    "page_idx": 4,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The footage we analysed also appears to show a steady escalation of violence and confrontational incidents as 2025 progressed, culminating in widespread use-offorce incidents in Chicago and Minneapolis, where two people, Renee Good and Alex Pretti, were killed by Immigration and Customs Enforcement (ICE) and Border Patrol agents, respectively, in early 2026. ",
+    "bbox": [
+      78,
+      727,
+      919,
+      854
+    ],
+    "page_idx": 4,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/16 ",
+    "bbox": [
+      933,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 4,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      352,
+      17,
+      794,
+      31
+    ],
+    "page_idx": 4,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/ ",
+    "bbox": [
+      35,
+      968,
+      477,
+      981
+    ],
+    "page_idx": 4,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      31
+    ],
+    "page_idx": 4,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Agents of Chaos: Border Patrol's Year of Unchecked Force Evident Media ",
+    "text_level": 1,
+    "bbox": [
+      133,
+      46,
+      818,
+      84
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Agents on the Move ",
+    "text_level": 1,
+    "bbox": [
+      83,
+      333,
+      316,
+      356
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "While former Border Patrol Commander at Large Gregory Bovino is no longer in a national role, some of the agents observed and documented for this report appear to have travelled from his El Centro sector over the past year. ",
+    "bbox": [
+      80,
+      366,
+      913,
+      439
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "These included agent Timothy Donahue and Georgy Simeon, who were fi lmed by Ernesto Campos in Bakersfi eld. Donahue was the agent who was subsequently pictured pointing his gun at citizens just outside Chicago after a traff ic incident (Donahue stated in his incident report that his car was rammed by an activist \u2013 something also described in Illinois federal judge Sara Ellis\u2019 opinion \u2013 although Donahue\u2019s report made no mention of punching a man in the face or unholstering his weapon). It was Simeon, meanwhile, who was fi lmed slamming a man to the ground after grabbing him by the throat. ",
+    "bbox": [
+      78,
+      459,
+      918,
+      666
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Donahue was also spotted in social media footage in Los Angeles in June last year pushing a citizen who was blocking his vehicle, as well as grabbing a man on an immigration raid inside a car wash. ",
+    "bbox": [
+      81,
+      686,
+      893,
+      761
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The Chicago publication, Unraveled Press, previously reported that Donahue was the owner of a social media account that made seemingly racist and sexist posts. Bellingcat and others have checked this account and found that an old profi le picture showed an image of Donahue. Bodycam footage from outside a detention centre near Chicago also showed Donahue tackle a journalist from Unraveled without apparent warning. ",
+    "bbox": [
+      78,
+      781,
+      919,
+      935
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/ ",
+    "bbox": [
+      34,
+      968,
+      477,
+      981
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "6/16 ",
+    "bbox": [
+      931,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "",
+    "bbox": [
+      135,
+      256,
+      169,
+      279
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      356,
+      17,
+      794,
+      31
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "D ",
+    "bbox": [
+      454,
+      145,
+      544,
+      191
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Watch on ",
+    "bbox": [
+      647,
+      258,
+      741,
+      275
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "E ",
+    "bbox": [
+      117,
+      47,
+      165,
+      85
+    ],
+    "page_idx": 5,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Footage from Donahue\u2019s own bodycam on Oct. 3 also appears to show him compiling an incident report with ChatGPT. The possibility of CBP agents using ChatGPT to compile incident reports was addressed by Judge Ellis in her ruling issuing a restraining order in November. She wrote that using ChatGPT to write reports \u201cundermines their credibility and may explain the inaccuracy of some reports fi led by CBP off icers\u201d. ",
+    "bbox": [
+      78,
+      37,
+      916,
+      189
+    ],
+    "page_idx": 6,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The evidence doesn\u2019t enable us to determine if Donahue used ChatGPT to compile the Oct. 31 incident report in which he did not mention he punched a man and unholstered his gun. ",
+    "bbox": [
+      80,
+      210,
+      898,
+      285
+    ],
+    "page_idx": 6,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\82e11604-60b7-410a-a0c3-4037e59b4796\\82e11604-60b7-410a-a0c3-4037e59b4796_Agents_of_Chaos__Unpacking_the_Actions_of_Border_Patrol_Agents_Across_US\\txt\\images\\86cc288d5d225da6db16148674197c5c8b81ecb098355b8b8dc81ece18c8a716.jpg",
+    "image_caption": [
+      "Bodycam footage released with court documents shows a Border Patrol agent using ChatGPT to compile an incident report. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      303,
+      916,
+      777
+    ],
+    "page_idx": 6,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Our reporting partners CalMatters emailed and called Donahue prior to publication. The email received no response. Donahue answered his cellphone but said, \u201cnever, ever call my cellphone again,\u201d and hung up. ",
+    "bbox": [
+      80,
+      842,
+      901,
+      916
+    ],
+    "page_idx": 6,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      37,
+      17,
+      137,
+      30
+    ],
+    "page_idx": 6,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "7/16 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 6,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      361,
+      17,
+      792,
+      31
+    ],
+    "page_idx": 6,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/ ",
+    "bbox": [
+      34,
+      968,
+      477,
+      981
+    ],
+    "page_idx": 6,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Simeon did not respond to emailed questions prior to publication, and calls to a number listed under his name went unanswered. ",
+    "bbox": [
+      81,
+      37,
+      867,
+      84
+    ],
+    "page_idx": 7,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The Department of Homeland Security (DHS) did not respond to questions posed about the actions of Donahue and Simeon detailed in this report or the agency\u2019s useof-force policies. They also did not respond to questions about whether it was permissible for agents to use generative AI platforms like ChatGPT to compile incident reports. ",
+    "bbox": [
+      78,
+      104,
+      915,
+      232
+    ],
+    "page_idx": 7,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "While the actions of Donahue and Simeon made news reports in various cities, the pair were far from alone in having their actions fi lmed and documented across the country. ",
+    "bbox": [
+      81,
+      252,
+      898,
+      327
+    ],
+    "page_idx": 7,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Kristopher Hewson, a supervisory agent based out of Bovino\u2019s El Centro sector, was seen on bodycam footage in Chicago spraying an individual who was being held down by agents with what he detailed in his incident report as oleoresin capsicum (OC), also known as pepper spray, from what appears to be just a few inches away. The individual was on the ground and had one hand behind his back, but agents could be heard asking for his other hand during the incident. Hewson said in his incident report (see here and here) that the individual had been resisting arrest, but he also stated that he deployed the pepper spray from two feet away. Bodycam footage (see below) showed the canister beside the individual\u2019s head right after a burst of spray can be heard. ",
+    "bbox": [
+      78,
+      347,
+      901,
+      606
+    ],
+    "page_idx": 7,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 7,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "00:21 ",
+    "bbox": [
+      758,
+      943,
+      794,
+      953
+    ],
+    "page_idx": 7,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      357,
+      17,
+      790,
+      31
+    ],
+    "page_idx": 7,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ttps://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/",
+    "bbox": [
+      49,
+      968,
+      472,
+      981
+    ],
+    "page_idx": 7,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "8/16 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 7,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "00:00 ",
+    "bbox": [
+      165,
+      943,
+      200,
+      954
+    ],
+    "page_idx": 7,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\82e11604-60b7-410a-a0c3-4037e59b4796\\82e11604-60b7-410a-a0c3-4037e59b4796_Agents_of_Chaos__Unpacking_the_Actions_of_Border_Patrol_Agents_Across_US\\txt\\images\\9a0ffdf403f98144ee157202da87930339d1275e2236f0b4c95b2b2ae3c7b7e8.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      75,
+      37,
+      911,
+      375
+    ],
+    "page_idx": 8,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "In bodycam footage from Chicago a man can be heard saying that the person Hewson pepper-sprayed was his son, who was just 15 years old. This appears to be backed up by an incident report showing the individual\u2019s date of birth. A short time later, Hewson can be heard shouting \u201cget back or you will be gassed\u201d at a group of protesters immediately before deploying tear gas towards them. As he throws the canister, a person can be heard shouting, \u201cYou\u2019re not de-escalating shit, bro\u201d. Hewson stated in his incident report (see here and here) that he gave a warning that CS gas was coming, but he did not detail how that warning was virtually instantaneous. ",
+    "bbox": [
+      76,
+      377,
+      903,
+      608
+    ],
+    "page_idx": 8,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Related articles by Bellingcat ",
+    "text_level": 1,
+    "bbox": [
+      65,
+      667,
+      405,
+      691
+    ],
+    "page_idx": 8,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "INVESTIGATIONS ",
+    "bbox": [
+      210,
+      715,
+      346,
+      731
+    ],
+    "page_idx": 8,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\82e11604-60b7-410a-a0c3-4037e59b4796\\82e11604-60b7-410a-a0c3-4037e59b4796_Agents_of_Chaos__Unpacking_the_Actions_of_Border_Patrol_Agents_Across_US\\txt\\images\\265cc00fc1d6a2214a4ecc4660396e072a586e69fc1b18a8abfee4b4b210bb29.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      63,
+      710,
+      187,
+      808
+    ],
+    "page_idx": 8,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "\u2018Pattern of Extreme Brutality\u2019: Tear Gas, Pepper Balls Among Weapons Deployed Against Protesters in Illinois ",
+    "bbox": [
+      212,
+      736,
+      875,
+      779
+    ],
+    "page_idx": 8,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "All of these actions came two weeks after a judge issued a temporary restraining order on Oct. 9, preventing agents from using chemical agents on protesters and journalists unless there was an imminent threat of physical danger to federal forces. ",
+    "bbox": [
+      78,
+      839,
+      903,
+      915
+    ],
+    "page_idx": 8,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "9/16 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 8,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      37,
+      18,
+      138,
+      30
+    ],
+    "page_idx": 8,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      356,
+      18,
+      790,
+      30
+    ],
+    "page_idx": 8,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ttps://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/",
+    "bbox": [
+      34,
+      968,
+      475,
+      981
+    ],
+    "page_idx": 8,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "While that order was lifted in March 2026, it was still in force during the incidents detailed in this story. ",
+    "bbox": [
+      80,
+      37,
+      892,
+      84
+    ],
+    "page_idx": 9,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Hewson was seen in Minneapolis in early 2026 alongside Bovino. He was captured on footage marching towards and tackling a Target employee, a teenage US citizen, who was directing insults at agents. A melee ensued at the front door of the Target store before two people were handcuff ed and taken away by agents. Hewson\u2019s C-29 number was visible as he led one of the men away. Both of those arrested were later released. ",
+    "bbox": [
+      80,
+      104,
+      911,
+      257
+    ],
+    "page_idx": 9,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Hewson was questioned as part of a preliminary injunction hearing in Chicago, where, among other things, he stated (pages 183 and 184) that protesters have the right to shout and even swear at off icers as long as they aren\u2019t impeding their ability to carry out their work. He also said during questioning that tear gas \u201cdoesn\u2019t harm people\u201d (page 189). Multiple individuals who were impacted by the release of gas and chemical irritants in Chicago stated otherwise in incidents detailed in Judge Ellis\u2019 ruling. ",
+    "bbox": [
+      80,
+      279,
+      911,
+      459
+    ],
+    "page_idx": 9,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "When reached on the phone by CalMatters, Hewson said he could not comment. DHS did not respond to questions posed about the actions of Hewson detailed in this report or the agency\u2019s use-of-force policies. ",
+    "bbox": [
+      81,
+      479,
+      880,
+      553
+    ],
+    "page_idx": 9,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "El Paso Agents ",
+    "text_level": 1,
+    "bbox": [
+      81,
+      574,
+      258,
+      597
+    ],
+    "page_idx": 9,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Hewson was present and visible in footage when ex-Border Patrol Commander at Large Bovino appeared to push and manhandle a protester who crossed his path on Nicollet Avenue in Minneapolis. ",
+    "bbox": [
+      81,
+      608,
+      908,
+      681
+    ],
+    "page_idx": 9,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Also beside Bovino and Hewson that day were two off icers based out of El Paso bearing the ID numbers EZ-2 and EZ-17. Both of these agents are seen wearing vests of the Border Patrol Tactical Division (BORTAC), a specialised unit that, according to the CBP, has a selection process \u201cdesigned to mirror aspects of the US Special Operations Forces\u2019 selection courses\u201d. ",
+    "bbox": [
+      80,
+      702,
+      916,
+      829
+    ],
+    "page_idx": 9,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Bellingcat and Evident Media previously reported how EZ-17 fi red less lethal munitions at protesters from close range a day after Renee Good was shot and killed by an Immigration and Customs Enforcement (ICE) off icer in Minneapolis. ",
+    "bbox": [
+      80,
+      849,
+      915,
+      924
+    ],
+    "page_idx": 9,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 9,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/ ",
+    "bbox": [
+      35,
+      968,
+      477,
+      981
+    ],
+    "page_idx": 9,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "10/16 ",
+    "bbox": [
+      926,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 9,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      359,
+      17,
+      790,
+      31
+    ],
+    "page_idx": 9,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "EZ-17 was accompanied during that incident by EZ-2, who could be seen spraying a chemical irritant in the face of a man who appeared to have thrown a snowball at him. EZ-2 was also seen throwing two female protesters to the ground outside Roosevelt High School in Minneapolis on Jan. 7. ",
+    "bbox": [
+      80,
+      37,
+      901,
+      137
+    ],
+    "page_idx": 10,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Both EZ-17 and EZ-2 were present in Chicago. EZ-17 was seen passing a tear gas canister to Bovino at an incident in the city\u2019s Little Village neighbourhood on Oct. 23. ",
+    "bbox": [
+      81,
+      157,
+      883,
+      231
+    ],
+    "page_idx": 10,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The Chicago publication, Unraveled, previously identifi ed EZ-17 as Edgar Vazquez and EZ-2 as Michael Sveum. Bellingcat was able to corroborate these identifi cations using similar techniques. Firstly, for Vazquez we compared images on his Facebook page with footage from EZ-2\u2019s bodycam, which showed Vazquez inside a vehicle without a mask. ",
+    "bbox": [
+      80,
+      252,
+      915,
+      378
+    ],
+    "page_idx": 10,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\82e11604-60b7-410a-a0c3-4037e59b4796\\82e11604-60b7-410a-a0c3-4037e59b4796_Agents_of_Chaos__Unpacking_the_Actions_of_Border_Patrol_Agents_Across_US\\txt\\images\\6059e73d85ad1ad7e8cad11ad8376784a4766ba2082930e2083c4b53c7384840.jpg",
+    "image_caption": [
+      "Ernesto Vazquez photo taken from Facebook (left) and image taken from bodycam footage in Chicago (right). Source: CBP via Loevy.com "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      78,
+      397,
+      916,
+      845
+    ],
+    "page_idx": 10,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "EZ-2 was identifi ed in a similar manner. Bodycam footage from EZ-2 showed him looking at his phone. On the lockscreen was a picture of a man smiling and wearing a blue jacket. That same picture was posted on Sveum\u2019s social media accounts and appeared to have been taken at an ultramarathon event whose organisers posted Sveum\u2019s name alongside that same image. ",
+    "bbox": [
+      80,
+      911,
+      908,
+      958
+    ],
+    "page_idx": 10,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 10,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "11/16 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 10,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/ ",
+    "bbox": [
+      35,
+      968,
+      477,
+      981
+    ],
+    "page_idx": 10,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      352,
+      17,
+      792,
+      31
+    ],
+    "page_idx": 10,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      80,
+      37,
+      900,
+      111
+    ],
+    "page_idx": 11,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\82e11604-60b7-410a-a0c3-4037e59b4796\\82e11604-60b7-410a-a0c3-4037e59b4796_Agents_of_Chaos__Unpacking_the_Actions_of_Border_Patrol_Agents_Across_US\\txt\\images\\f2676e1b2431b6091eb0b9e16a1c302caf08973eaa7b82005097e8e2be804c37.jpg",
+    "image_caption": [
+      "Bodycam footage (left) shows a lockscreen with a picture of a man that matches images seen on archived posts from the social media accounts of Michael Sveum. "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      127,
+      913,
+      628
+    ],
+    "page_idx": 11,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "When reached by phone by CalMatters reporters, Vazquez said that he could not comment. Sveum hung up immediately after CalMatters\u2019 reporter introduced himself. DHS did not respond to questions posed about the actions of Vazquez or Sveum detailed in this report or the agency\u2019s use-of-force policies. ",
+    "bbox": [
+      80,
+      694,
+      883,
+      795
+    ],
+    "page_idx": 11,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Dozens of other incidents where agents appeared to escalate rather than de-escalate situations, as well as use force or less lethal munitions, were logged as part of this investigation. This included agents pointing guns at protesters (see here and here) as well as using violent force and less lethal munitions on protesters, journalists and bystanders. ",
+    "bbox": [
+      78,
+      814,
+      921,
+      941
+    ],
+    "page_idx": 11,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 11,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/ ",
+    "bbox": [
+      34,
+      968,
+      477,
+      981
+    ],
+    "page_idx": 11,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "12/16 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 11,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      357,
+      17,
+      792,
+      31
+    ],
+    "page_idx": 11,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Bovino himself appeared to instigate confrontations with people, such as in Chicago, when he can be seen throwing a man to the ground before agents pounce on him, although he stated during his Illinois deposition that he did not think such actions represented a use-of-force incident. ",
+    "bbox": [
+      81,
+      37,
+      916,
+      137
+    ],
+    "page_idx": 12,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The former Border Patrol Commander at Large told CalMatters that he could not speak to the media without DHS approval prior to publication of this story. Requests sent to DHS to speak with Bovino went unanswered. ",
+    "bbox": [
+      81,
+      157,
+      913,
+      232
+    ],
+    "page_idx": 12,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "\u2018Unusual and Beyond the Pale\u2019 ",
+    "bbox": [
+      81,
+      253,
+      434,
+      276
+    ],
+    "page_idx": 12,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "According to John Roth, a former DHS Inspector General, and Steve Burnell, a former DHS General Counsel, the events of the past year, involving masked agents descending on select cities, have eroded trust and credibility in DHS and law enforcement. ",
+    "bbox": [
+      80,
+      285,
+      898,
+      386
+    ],
+    "page_idx": 12,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "While both agreed that there had to be professional immigration enforcement operations, they said that has to be done in a way that is responsible and ensures accountability when lines are crossed. ",
+    "bbox": [
+      80,
+      406,
+      882,
+      481
+    ],
+    "page_idx": 12,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "\u201cThis is sort of a scary Orwellian thing\u201d, Roth said. \u201cI don\u2019t think the public understands how unusual and beyond the pale it is to have these roving sort of groups of masked agents, out there handling the public.\u201d ",
+    "bbox": [
+      81,
+      501,
+      861,
+      575
+    ],
+    "page_idx": 12,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Burnell said that the inability to identify agents carrying out their work as enforcement off icers was a particular concern: \u201cAt the end of the day, ICE and everybody at DHS are public servants. They\u2019re supposed to be working for the public. And, you know, if somebody is working for you, you should have a right to know who they are, and you should have a right to hold them accountable and protest what they\u2019re doing.\u201d ",
+    "bbox": [
+      78,
+      595,
+      916,
+      751
+    ],
+    "page_idx": 12,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Roth and Burnell both served under President Barack Obama and during President Donald Trump\u2019s fi rst term. The pair have testifi ed to Congress in recent months, raising the alarm about what they see as a dismantling of accountability at DHS. Prominent members of the US government, including President Trump, have off ered repeated support to Border Patrol agents, even after the death of protesters such as Renee Good. ",
+    "bbox": [
+      78,
+      768,
+      910,
+      924
+    ],
+    "page_idx": 12,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/ ",
+    "bbox": [
+      34,
+      968,
+      477,
+      981
+    ],
+    "page_idx": 12,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "13/16 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 12,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 12,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      352,
+      17,
+      792,
+      31
+    ],
+    "page_idx": 12,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Our partners at Evident and CalMatters showed Roth and Burnell some of the footage described in this report. While they refrained from commenting on individual incidents, Roth described the footage generally as \u201cdiff icult to watch\u201d. ",
+    "bbox": [
+      80,
+      37,
+      866,
+      111
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "\u201cThe question I\u2019d ask. Have [agents] inserted themselves into something that requires them to use force,\u201d said Roth. \u201cIn which case that would be a violation of DHS policy,\u201d he added, referring to use-of-force policies that detail how law enforcement off icers may use force when no \u201creasonably, safe and feasible alternative appears to exist\u201d. ",
+    "bbox": [
+      80,
+      131,
+      882,
+      257
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "\u201cIt\u2019s actually DHS policy that you [are required] to attempt to de-escalate when that\u2019s possible. I mean, they don\u2019t have a duty to retreat, but they do have a duty not to insert themselves into a place where use of force is necessary,\u201d Roth said. ",
+    "bbox": [
+      80,
+      279,
+      916,
+      353
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Burnell described a lot of what has happened over the past year as a type of \u201cdominance display\u201d. ",
+    "bbox": [
+      81,
+      373,
+      831,
+      421
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "\u201cIt\u2019s there to send a message. And that is not de-escalatory. It\u2019s the opposite,\u201d he said. ",
+    "bbox": [
+      88,
+      441,
+      916,
+      463
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Bellingcat, CalMatters and Evident Media jointly sought to contact DHS as well as all of the agents mentioned in this story prior to publication. ",
+    "bbox": [
+      81,
+      483,
+      897,
+      531
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "We asked DHS whether any of the incidents detailed in this report violated DHS use-of-force policies or whether those policies had been updated under the current administration. ",
+    "bbox": [
+      80,
+      551,
+      900,
+      625
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "We also asked if DHS was taking any action or providing further training to agents to ensure the public\u2019s constitutional rights are respected during immigration enforcement operations carried out by Border Patrol. ",
+    "bbox": [
+      80,
+      645,
+      897,
+      719
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "DHS did not respond before publication. ",
+    "bbox": [
+      81,
+      741,
+      480,
+      761
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Youri van der Weide, Kolina Koltai and Eoghan Macguire from Bellingcat, as well as Sergio Olmos from CalMatters and Kevin Clancy from Evident Media, contributed reporting to this piece. ",
+    "bbox": [
+      81,
+      829,
+      885,
+      905
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "14/16 ",
+    "bbox": [
+      926,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/ ",
+    "bbox": [
+      35,
+      968,
+      477,
+      981
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      352,
+      17,
+      794,
+      31
+    ],
+    "page_idx": 13,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Bellingcat is a non-profi t and the ability to carry out our work is dependent on the kind support of individual donors. If you would like to support our work, you can do so here. You can also subscribe to our Patreon channel here. Subscribe to our Newsletter and follow us on Bluesky here, Instagram here, Reddit here and YouTube here. ",
+    "bbox": [
+      80,
+      36,
+      913,
+      138
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Share this article ",
+    "bbox": [
+      83,
+      191,
+      277,
+      213
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\82e11604-60b7-410a-a0c3-4037e59b4796\\82e11604-60b7-410a-a0c3-4037e59b4796_Agents_of_Chaos__Unpacking_the_Actions_of_Border_Patrol_Agents_Across_US\\txt\\images\\41b8c8e7062aaccb0e9731a9faa8f2bf245e6276f50919d9d592ea645714023c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      111,
+      272,
+      176,
+      359
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Bellingcat Investigation Team ",
+    "text_level": 1,
+    "bbox": [
+      81,
+      381,
+      374,
+      400
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The Bellingcat Investigation Team is an award winning group of volunteers and full time investigators who make up the core of the Bellingcat's investigative eff orts. ",
+    "bbox": [
+      81,
+      409,
+      830,
+      449
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Related articles ",
+    "bbox": [
+      83,
+      465,
+      264,
+      488
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\82e11604-60b7-410a-a0c3-4037e59b4796\\82e11604-60b7-410a-a0c3-4037e59b4796_Agents_of_Chaos__Unpacking_the_Actions_of_Border_Patrol_Agents_Across_US\\txt\\images\\83bfbcdea68402623732f5d639da1bf283577abb3569edda82a2e46c4e7420bf.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      81,
+      512,
+      194,
+      599
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Border Patrol ICE Immigration Alex Pretti: Analysing Footage of Minneapolis CBP Shooting ",
+    "bbox": [
+      539,
+      508,
+      893,
+      574
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Your donations directly contribute to our ability to publish groundbreaking investigations and uncover wrongdoing around the world. ",
+    "bbox": [
+      506,
+      689,
+      712,
+      800
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Don ate ",
+    "bbox": [
+      833,
+      718,
+      877,
+      757
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Fun din g & Su ",
+    "bbox": [
+      875,
+      866,
+      915,
+      950
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ttps://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/",
+    "bbox": [
+      49,
+      968,
+      473,
+      981
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      352,
+      17,
+      794,
+      31
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "15/16 ",
+    "bbox": [
+      926,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "General Information ",
+    "bbox": [
+      508,
+      919,
+      697,
+      935
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "",
+    "bbox": [
+      292,
+      183,
+      519,
+      223
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Who We Are ",
+    "bbox": [
+      508,
+      866,
+      630,
+      883
+    ],
+    "page_idx": 14,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "ppo Our Team rter ",
+    "bbox": [
+      506,
+      45,
+      916,
+      71
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Awards ",
+    "text_level": 1,
+    "bbox": [
+      508,
+      106,
+      915,
+      122
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "s ",
+    "bbox": [
+      509,
+      85,
+      905,
+      99
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Sta ",
+    "bbox": [
+      509,
+      135,
+      915,
+      151
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Newsletter nda ",
+    "bbox": [
+      508,
+      159,
+      915,
+      175
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      509,
+      183,
+      906,
+      196
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "rds ",
+    "bbox": [
+      875,
+      132,
+      918,
+      289
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "& ",
+    "bbox": [
+      513,
+      203,
+      906,
+      218
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Pra ctic es ",
+    "bbox": [
+      506,
+      227,
+      911,
+      241
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      504,
+      250,
+      913,
+      265
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      504,
+      275,
+      905,
+      287
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Prin cipl es for Dat a Coll ecti on ",
+    "bbox": [
+      875,
+      324,
+      919,
+      526
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Dat a Priv acy ",
+    "bbox": [
+      875,
+      559,
+      1000,
+      647
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Car eer s ",
+    "bbox": [
+      875,
+      680,
+      1000,
+      744
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Co nta ct Us ",
+    "bbox": [
+      875,
+      777,
+      1000,
+      866
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "ttps://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/",
+    "bbox": [
+      49,
+      968,
+      473,
+      981
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "16/16 ",
+    "bbox": [
+      926,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:32 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across US ",
+    "bbox": [
+      352,
+      17,
+      790,
+      31
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "",
+    "bbox": [
+      91,
+      578,
+      140,
+      616
+    ],
+    "page_idx": 15,
+    "document_id": "82e11604-60b7-410a-a0c3-4037e59b4796",
+    "confidence_code": "A2"
+  }
+]

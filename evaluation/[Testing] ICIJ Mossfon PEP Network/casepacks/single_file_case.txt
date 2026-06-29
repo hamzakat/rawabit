@@ -1,0 +1,83 @@
+nodes-addresses
+node_id,address,name,countries,country_codes,sourceID,valid_until,note
+14048807,Lokastigur 24; 101 Reykjavik; Iceland,,Iceland,ISL,Panama Papers,The Panama Papers  data is current through 2015,
+14024758,9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine,,Ukraine,UKR,Panama Papers,The Panama Papers  data is current through 2015,
+14051308,NAWAZ TRUST C/O Nerine Trust Company Limited; 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI,,British Virgin Islands,VGB,Panama Papers,The Panama Papers  data is current through 2015,
+
+
+nodes-entities
+node_id,name,original_name,former_name,jurisdiction,jurisdiction_description,company_type,address,internal_id,incorporation_date,inactivation_date,struck_off_date,dorm_date,status,service_provider,ibcRUC,country_codes,countries,sourceID,valid_until,note
+10206223,WINTRIS INC.,WINTRIS INC.,,BVI,British Virgin Islands,,LUXEMBOURG INTERNATIONAL CONSULTING S.A. 11; AVENUE DE LA PORTE NEUVE LUXEMBOURG CITY L-2227; LUXEMBOURG DISTRICT LUXEMBOURG,590298,09-OCT-2007,,,,Active,Mossack Fonseca,,LUX,Luxembourg,Panama Papers,The Panama Papers data is current through 2015,
+10155456,Prime Asset Partners Limited,Prime Asset Partners Limited,,BVI,British Virgin Islands,,"DR. K. CHRYSOSTOMIDES & CO.  1 LAMBOUSA STREET 1095 NICOSIA, CYPRUS",6041333,21-AUG-2014,,,,Active,Mossack Fonseca,,CYP,Cyprus,Panama Papers,The Panama Papers data is current through 2015,
+10179083,FLEG TRADING LTD,FLEG TRADING LTD,,BAH,Bahamas,,"CR. SANTIAGO LUSSICH TORRENDELL MISIONES N� 1.371  PISO 4� ( C.P. 11.100 )  MONTEVIDEO, URUGUAY",809627,31-MAR-1998,05-JAN-2009,31-DEC-2008,,Defaulted,Mossack Fonseca,"73,694 B",URY,Uruguay,Panama Papers,The Panama Papers data is current through 2015,
+10210092,HANGON PROPERTY HOLDINGS LIMITED,HANGON PROPERTY HOLDINGS LIMITED,,BVI,British Virgin Islands,,MOSSFON MANAGERS LTD. SAFFREY SQUARE; SUITE 205; BANK LANE P.O. BOX N-8188 NASSAU **S.I**; NEW PROVIDENCE ISLAND BAHAMAS,584956,27-FEB-2007,25-FEB-2008,31-OCT-2008,,Changed agent,Mossack Fonseca,,BHS,Bahamas,Panama Papers,The Panama Papers data is current through 2015,
+10122953,NIELSEN ENTERPRISES LIMITED,NIELSEN ENTERPRISES LIMITED,,BVI,British Virgin Islands,,MINERVA TRUST & CORPORATE SERVICES LIMITED P.O. BOX 218 43-45 LA MOTTE STREET; ST. HELIER JE4 8SD; JERSEY UNITED KINGDOM,579413,14-APR-1994,22-JUL-2014,31-OCT-2015,,Changed agent,Mossack Fonseca,114856,JEY,Jersey,Panama Papers,The Panama Papers data is current through 2015,
+10203385,NESCOLL LIMITED,NESCOLL LIMITED,,BVI,British Virgin Islands,,MINERVA TRUST & CORPORATE SERVICES LIMITED P.O. BOX 218 43-45 LA MOTTE STREET; ST. HELIER JE4 8SD; JERSEY UNITED KINGDOM,579412,27-JAN-1993,22-JUL-2014,31-OCT-2015,,Changed agent,Mossack Fonseca,77606,JEY,Jersey,Panama Papers,The Panama Papers data is current through 2015,
+10064371,MARIADA HOLDINGS LIMITED,MARIADA HOLDINGS LIMITED,,BVI,British Virgin Islands,,"PRIMEWAY S.A. 7, RUE DU RHONE 1204 GENEVE SWITZERLAND",514758,21-JUL-1995,06-JUN-2014,30-APR-2015,,Changed agent,Mossack Fonseca,156189,CHE,Switzerland,Panama Papers,The Panama Papers data is current through 2015,
+20073694,FLEG TRADING LTD,FLEG TRADING LTD,,BAH,Bahamas,,,73694,31-MAR-1998,,04-FEB-2009,,,,73694B,,,Bahamas Leaks,The Bahamas Leaks data is current through early 2016.,
+
+nodes-intermediaries
+node_id,name,status,internal_id,address,countries,country_codes,sourceID,valid_until,note
+11005663,LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT),ACTIVE,28765,"LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT) 7, VAL SAINTE-CROIX L 1371 LUXEMBOURG  LUXEMBOURG",Luxembourg,LUX,Panama Papers,The Panama Papers  data is current through 2015,
+11002578,DR. K. CHRYSOSTOMIDES & CO.,ACTIVE,21392,"DR. K. CHRYSOSTOMIDES & CO.  1 LAMBOUSA STREET 1095 NICOSIA, CYPRUS",Cyprus,CYP,Panama Papers,The Panama Papers  data is current through 2015,
+11011774,"LUSSICH TORRENDELL, CR. SANTIAGO",ACTIVE,9304,"CR. SANTIAGO LUSSICH TORRENDELL MISIONES N� 1.371  PISO 4� ( C.P. 11.100 )  MONTEVIDEO, URUGUAY",Uruguay,URY,Panama Papers,The Panama Papers  data is current through 2015,
+11012290,MOSSFON MANAGERS LTD.,ACTIVE,12819,MOSSFON MANAGERS LTD. SAFFREY SQUARE; SUITE 205; BANK LANE P.O. BOX N-8188 NASSAU **S.I**; NEW PROVIDENCE ISLAND BAHAMAS,Bahamas,BHS,Panama Papers,The Panama Papers  data is current through 2015,
+11011597,MINERVA TRUST & CORPORATE SERVICES LIMITED,ACTIVE,891,MINERVA TRUST & CORPORATE SERVICES LIMITED P.O. BOX 218 43-45 LA MOTTE STREET; ST. HELIER JE4 8SD; JERSEY UNITED KINGDOM,Jersey;United Kingdom,JEY;GBR,Panama Papers,The Panama Papers  data is current through 2015,
+
+nodes-officers
+node_id,name,countries,country_codes,sourceID,valid_until,note
+12161442,Sigmundur David Gunnlaugsson,Iceland,ISL,Panama Papers,The Panama Papers data is current through 2015,
+12161441,Anna Sigurlaug Palsdottir,Iceland,ISL,Panama Papers,The Panama Papers data is current through 2015,
+12129717,Petro Poroshenko,Ukraine,UKR,Panama Papers,The Panama Papers data is current through 2015,
+13001828,Petro Poroshenko,Ukraine,UKR,Panama Papers,The Panama Papers data is current through 2015,
+15002701,Mauricio Macri,,,Panama Papers,The Panama Papers data is current through 2015,Record manually added from leaked documents
+15001902,Hasan Nawaz Sharif,,,Panama Papers,The Panama Papers data is current through 2015,Record manually added from leaked documents
+15001903,Hussain Nawaz Sharif,,,Panama Papers,The Panama Papers data is current through 2015,Record manually added from leaked documents
+12178546,NAWAZ TRUST,British Virgin Islands,VGB,Panama Papers,The Panama Papers data is current through 2015,
+12120458,CASCON HOLDINGS ESTABLISHMENT LIMITED,Liberia,LBR,Panama Papers,The Panama Papers data is current through 2015,
+13006286,Mariam Safdar,Saudi Arabia,SAU,Panama Papers,The Panama Papers data is current through 2015,
+12114024,MINERVA SERVICES LIMITED,Jersey,JEY,Panama Papers,The Panama Papers data is current through 2015,
+12114025,MINERVA NOMINEES LIMITED,Jersey,JEY,Panama Papers,The Panama Papers data is current through 2015,
+12025193,THE BEARER,,,Panama Papers,The Panama Papers data is current through 2015,
+13010742,Mariam Safdar,Saudi Arabia,SAU,Panama Papers,The Panama Papers data is current through 2015,
+12176796,MINERVA NOMINEES LIMITED,Jersey,JEY,Panama Papers,The Panama Papers data is current through 2015,
+12025226,THE BEARER,,,Panama Papers,The Panama Papers data is current through 2015,
+12175997,Minerva Services Limited,Jersey,JEY,Panama Papers,The Panama Papers data is current through 2015,
+
+
+relationships
+node_id_start,node_id_end,rel_type,link,status,start_date,end_date,sourceID
+12161442,14048807,registered_address,registered address,,,,Panama Papers
+12161442,10206223,officer_of,shareholder of,,09-OCT-2007,31-DEC-2009,Panama Papers
+12161441,14048807,registered_address,registered address,,,,Panama Papers
+12161441,10206223,officer_of,shareholder of,,31-DEC-2009,,Panama Papers
+12161441,10206223,officer_of,shareholder of,,09-OCT-2007,,Panama Papers
+12129717,14024758,registered_address,registered address,,,,Panama Papers
+12129717,13001828,similar,similar name and address as,,,,
+12129717,10155456,officer_of,beneficial owner of,,,,Panama Papers
+12129717,10155456,officer_of,shareholder of,,21-AUG-2014,,Panama Papers
+13001828,14024758,registered_address,registered address,,,,Panama Papers
+12129717,13001828,similar,similar name and address as,,,,
+13001828,10155456,officer_of,beneficiary of,,,,Panama Papers
+15002701,10179083,officer_of,director of,,,,Panama Papers
+15001902,10210092,officer_of,shareholder of,,,,Panama Papers
+15001903,10122953,officer_of,signatory of,,,,Panama Papers
+15001903,10203385,officer_of,signatory of,,,,Panama Papers
+12178546,14051308,registered_address,registered address,,,,Panama Papers
+12178546,10064371,officer_of,shareholder of,,24-OCT-1996,,Panama Papers
+11005663,10206223,intermediary_of,intermediary of,,,,Panama Papers
+11002578,10155456,intermediary_of,intermediary of,,,,Panama Papers
+11011774,10179083,intermediary_of,intermediary of,,,,Panama Papers
+20073694,10179083,same_company_as,same company as,,,,Bahamas Leaks
+11012290,10210092,intermediary_of,intermediary of,,,,Panama Papers
+12120458,10210092,officer_of,shareholder of,,24-APR-2007,,Panama Papers
+11011597,10122953,intermediary_of,intermediary of,,,,Panama Papers
+13006286,10122953,officer_of,beneficiary of,,,,Panama Papers
+12114024,10122953,officer_of,shareholder of,,04-JUL-2006,,Panama Papers
+12114025,10122953,officer_of,shareholder of,,04-JUL-2006,,Panama Papers
+12025193,10122953,officer_of,shareholder of,,22-NOV-1994,04-JUL-2006,Panama Papers
+11011597,10203385,intermediary_of,intermediary of,,,,Panama Papers
+13010742,10203385,officer_of,beneficiary of,,,,Panama Papers
+12176796,10203385,officer_of,shareholder of,,04-JUL-2006,,Panama Papers
+12025226,10203385,officer_of,shareholder of,,29-APR-1993,04-JUL-2006,Panama Papers
+12175997,10203385,officer_of,shareholder of,,04-JUL-2006,,Panama Papers

@@ -1,0 +1,90 @@
+{
+  "used": true,
+  "source_chars": 6716,
+  "normalized_chars": 3220,
+  "low_value_items": 29,
+  "payload": {
+    "primary_evidence_text": [
+      "Chicago anti-ICE protesters block vehicles, get hit with tear gas and pepper balls",
+      "At least 50 protesters were seen midday Friday at an ICE processing center in Broadview, Illinois, a suburb of Chicago.",
+      "An ICE spokesperson told Fox News that two were arrested, one of whom was carrying a firearm.",
+      "video showed federal law enforcement attempting to clear the protesters out of the area.",
+      "The demonstrators were also seen trying to block vehicles from leaving.",
+      "Last week, violent clashes between protesters and ICE agents at the facility led to 16 arrests.",
+      "The crowds protesting Friday are in opposition to the transfer of ICE detainees to out-of-state holding centers, according to Fox 32 Chicago.",
+      "A shooter opened fire at an ICE facility in Dallas, Texas.",
+      "The gunman in that incident killed one detainee and injured two others before taking his own life, authorities said."
+    ],
+    "entities_and_roles": [
+      "Greg Norman-Diamond, Reporter at Fox News Digital",
+      "Patrick McGovern, Contributor to report",
+      "Michael Tobin, Contributor to report",
+      "Peter Pinedo, Contributor to report",
+      "ICE (Immigration and Customs Enforcement), Organization",
+      "DHS (Department of Homeland Security), Organization",
+      "Governor [JB] Pritzker, Governor of Illinois",
+      "Fox News, Media Outlet",
+      "Fox 32 Chicago, Media Outlet",
+      "Federal law enforcement, Agency",
+      "Anti-ICE protesters, Group"
+    ],
+    "events_and_timeline": [
+      "September 26, 2025 1:44pm EDT: Publication date of the report",
+      "Friday, midday: At least 50 protesters gathered at an ICE processing center in Broadview, Illinois",
+      "Friday, midday: Federal law enforcement used tear gas and pepper balls against protesters",
+      "Friday, midday: Two protesters were arrested at the Broadview facility",
+      "Two days prior to September 26, 2025: A shooter opened fire at an ICE facility in Dallas, Texas",
+      "Two days prior to September 26, 2025: A gunman killed one detainee at the Dallas ICE facility",
+      "Two days prior to September 26, 2025: A gunman injured two others at the Dallas ICE facility",
+      "Two days prior to September 26, 2025: The gunman in Dallas took his own life",
+      "Last week: Violent clashes between protesters and ICE agents at the Broadview facility led to 16 arrests"
+    ],
+    "movements_and_transfers": [
+      "Protesters are opposing the transfer of ICE detainees to out-of-state holding centers"
+    ],
+    "source_and_reporting_context": [
+      "Source: Fox News article",
+      "URL: https://www.foxnews.com/us/chicago-anti-ice-protesters-block-vehicles-get-hit-tear-gas-pepper-balls",
+      "Page 1/10: Headline 'Chicago anti-ICE protesters block vehicles, get hit with tear gas and pepper balls'",
+      "Page 2/10: Visual depiction of five individuals in tactical gear and helmets behind a chain-link fence, three holding firearms, facing five civilians",
+      "Page 3/10: DHS quote regarding 'criminal illegal aliens who flocked to Chicago and Illinois because they knew Governor [JB] Pritzker and his sanctuary policies would protect them'",
+      "Page 3/10: DHS statement on X: 'Sanctuary politicians have demonized federal law enforcement as the enemy \u2014 placing a target squarely on the backs of the brave men and women of ICE.'",
+      "Page 3/10: DHS statement on X: 'Hateful anti-ICE rhetoric costs lives. Stop now, before these lies damage more innocent people.'"
+    ],
+    "supporting_observations": [
+      "One arrested protester in Broadview was carrying a firearm",
+      "Protesters attempted to block vehicles from leaving the Broadview facility"
+    ],
+    "low_value_content": [
+      "Log In",
+      "Watch TV",
+      "RFK Jr speaks directly with Alabama teen battling...",
+      "Fast-moving Sandy Fire in Southern California",
+      "Alabama teen's emotional cancer plea goes viral",
+      "Alabama boy b cancer lands e",
+      "Add Fox News on Google",
+      "Sign In",
+      "No comments yet",
+      "Be the first to start the conversation",
+      "U.S. Blue City Crime Campus Radicals Border Crisis True Crime",
+      "Politics Donald Trump Senate House Judiciary Foreign Policy Fox News Polls Elections",
+      "World U.N. Conflicts Terrorism Disasters Global Economy Environment Religion Scandals",
+      "Opinion Media FOX Nation Coverage",
+      "Entertainment Sydney Sweeney Royal Families Country Music",
+      "NHL Golf Tennis FIFA WORLD CUP 26 UFC WWE",
+      "Lifestyle Travel Food & Drink Faith Discovery Games & Quizzes",
+      "Health Longevity Brain Health Weight Loss Sleep Health Cancer News Mental Health Heart Health Healthy Living",
+      "Deals Trending Deals Gift Guides Home Deals Kitchen Deals Tech and Electronic Deals Health and Fitness Deals Beauty and Fashion Deals",
+      "FOX Business Personal Finance Economy Markets Watchlist Lifestyle Real Estate Tech",
+      "Icon Match Daily Crossword Puzzle Mini Crossword Puzzle",
+      "Watch Live FOX News Shows Programming Schedule On Air Personalities Full Episodes Show Clips News Clips",
+      "About Contact Us Careers Fox Around the World Advertise With Us Media Relations Corporate Information Compliance",
+      "Apps & Products FOX News Go FOX Weather FOX Nation FOX Noticias FOX News Shop FOX News Radio FOX News Newsletters FOX News Podcasts FOX One",
+      "Wild Nature Media FOX Nation Coverage Sports OutKick NFL College Football MLB NASCAR INDYCAR NBA NHL Golf Tennis FIFA WORLD CUP 26 UFC WWE",
+      "Science & Tech Air & Space Security Innovation Video Games Military Tech Planet Earth Wild Nature",
+      "Games Scattergories Daily 5 Across the Letter Word Game Downwords Sudoku Word Swap Word Search Icon Match Daily Crossword Puzzle Mini Crossword Puzzle",
+      "Terms of Use Privacy Policy Your Privacy Choices Closed Caption Policy Help Contact Us Accessibility Statement News Sitemap Video Sitemap",
+      "This material may not be published, broadcast, rewritten, or redistributed. \u00a92026 FOX News Network, LLC. All rights reserved."
+    ]
+  }
+}

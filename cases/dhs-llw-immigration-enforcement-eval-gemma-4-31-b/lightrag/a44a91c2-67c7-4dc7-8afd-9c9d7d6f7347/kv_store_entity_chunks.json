@@ -1,0 +1,5439 @@
+{
+  "[PERSON] Edgar Vazquez": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947",
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b"
+    ],
+    "count": 2,
+    "create_time": 1780566644,
+    "update_time": 1780566644,
+    "_id": "[PERSON] Edgar Vazquez"
+  },
+  "[PERSON] Michael Sveum": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947",
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b"
+    ],
+    "count": 2,
+    "create_time": 1780566644,
+    "update_time": 1780566644,
+    "_id": "[PERSON] Michael Sveum"
+  },
+  "[PERSON] Bovino": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947",
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65",
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462",
+      "chunk-c62092979a3f2ca6e48f697d46cc52ea",
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 6,
+    "update_time": 1780569646,
+    "_id": "[PERSON] Bovino"
+  },
+  "[PERSON] John Roth": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947"
+    ],
+    "count": 1,
+    "create_time": 1780566645,
+    "update_time": 1780566645,
+    "_id": "[PERSON] John Roth"
+  },
+  "[PERSON] Steve Burnell": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947"
+    ],
+    "count": 1,
+    "create_time": 1780566646,
+    "update_time": 1780566646,
+    "_id": "[PERSON] Steve Burnell"
+  },
+  "[ORGANIZATION] Bellingcat": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947",
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d",
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65",
+      "chunk-8d45ca0699542b947318572c00e10851",
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7",
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab",
+      "chunk-cba89918434092130fbfcd87a7a7a4d7",
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7",
+      "chunk-b912941ec62704454d7a4f6ea0a43c24",
+      "chunk-5c355d6ad3168c8541938edacef73db2",
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752",
+      "chunk-afec13b58ac09eba645258028762d519",
+      "chunk-528d792138baa043a098b55be76593b2",
+      "chunk-0be230485af952dad48ebfd858e152b7",
+      "chunk-180af3952c4d75447a2acd11a8bca48a",
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9",
+      "chunk-44de13747f538fd5aea71e9f9f17af12",
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9",
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e",
+      "chunk-cff84815afd023d8e8bbca3290354599",
+      "chunk-c62092979a3f2ca6e48f697d46cc52ea",
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144",
+      "chunk-cf3b9eec46720c6dc296e97815683ad3",
+      "chunk-e88518d6859e408eed3931911f349632",
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a",
+      "chunk-b9105d4bba19aade035da9b3a25e5ca4",
+      "chunk-cb30c633d5049dcab722f2ef0da09357",
+      "chunk-31e0d82f3c8dd8bab2a9bd241ca5125d",
+      "chunk-135dd9fb97837e61fde5461feedbba67",
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108",
+      "chunk-033eff3da049499c50400c71bf5b6058",
+      "chunk-df00c56f336c81374b54c428982985f2",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 34,
+    "update_time": 1780570389,
+    "_id": "[ORGANIZATION] Bellingcat"
+  },
+  "[ORGANIZATION] CalMatters": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947",
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-8d45ca0699542b947318572c00e10851",
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7",
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab",
+      "chunk-cba89918434092130fbfcd87a7a7a4d7",
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7"
+    ],
+    "count": 7,
+    "create_time": 1780566647,
+    "update_time": 1780566647,
+    "_id": "[ORGANIZATION] CalMatters"
+  },
+  "[ORGANIZATION] DHS": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947",
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-cba89918434092130fbfcd87a7a7a4d7",
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7",
+      "chunk-b912941ec62704454d7a4f6ea0a43c24",
+      "chunk-5c355d6ad3168c8541938edacef73db2",
+      "chunk-528d792138baa043a098b55be76593b2",
+      "chunk-0be230485af952dad48ebfd858e152b7",
+      "chunk-01b7723ae953bf130422ee19615d0a06",
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e",
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9",
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e",
+      "chunk-ab3c23dc96eb032c4cf34a6c4dd9a23b",
+      "chunk-e88518d6859e408eed3931911f349632",
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a",
+      "chunk-31e0d82f3c8dd8bab2a9bd241ca5125d",
+      "chunk-135dd9fb97837e61fde5461feedbba67",
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6",
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108",
+      "chunk-033eff3da049499c50400c71bf5b6058",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251",
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 22,
+    "update_time": 1780570407,
+    "_id": "[ORGANIZATION] DHS"
+  },
+  "[ORGANIZATION] Border Patrol": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947",
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d",
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7",
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab",
+      "chunk-cba89918434092130fbfcd87a7a7a4d7",
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7",
+      "chunk-528d792138baa043a098b55be76593b2",
+      "chunk-0be230485af952dad48ebfd858e152b7",
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a",
+      "chunk-cb30c633d5049dcab722f2ef0da09357"
+    ],
+    "count": 10,
+    "update_time": 1780570395,
+    "_id": "[ORGANIZATION] Border Patrol"
+  },
+  "[OBJECT] EZ-2 bodycam": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947"
+    ],
+    "count": 1,
+    "create_time": 1780566649,
+    "update_time": 1780566649,
+    "_id": "[OBJECT] EZ-2 bodycam"
+  },
+  "[OBJECT] EZ-2 phone": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947"
+    ],
+    "count": 1,
+    "create_time": 1780566649,
+    "update_time": 1780566649,
+    "_id": "[OBJECT] EZ-2 phone"
+  },
+  "[LOCATION] Chicago": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947",
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d",
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65",
+      "chunk-8d45ca0699542b947318572c00e10851",
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab",
+      "chunk-01b7723ae953bf130422ee19615d0a06",
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9",
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e",
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 10,
+    "update_time": 1780569611,
+    "_id": "[LOCATION] Chicago"
+  },
+  "[EVENT] Identification of EZ-1 and EZ-2": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947"
+    ],
+    "count": 1,
+    "create_time": 1780566651,
+    "update_time": 1780566651,
+    "_id": "[EVENT] Identification of EZ-1 and EZ-2"
+  },
+  "[EVENT] CalMatters contact with Vazquez": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947"
+    ],
+    "count": 1,
+    "create_time": 1780566651,
+    "update_time": 1780566651,
+    "_id": "[EVENT] CalMatters contact with Vazquez"
+  },
+  "[EVENT] CalMatters contact with Sveum": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947"
+    ],
+    "count": 1,
+    "create_time": 1780566651,
+    "update_time": 1780566651,
+    "_id": "[EVENT] CalMatters contact with Sveum"
+  },
+  "[EVENT] Bovino confrontation in Chicago": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947"
+    ],
+    "count": 1,
+    "create_time": 1780566651,
+    "update_time": 1780566651,
+    "_id": "[EVENT] Bovino confrontation in Chicago"
+  },
+  "[EVENT] Bovino Illinois deposition": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947"
+    ],
+    "count": 1,
+    "create_time": 1780566652,
+    "update_time": 1780566652,
+    "_id": "[EVENT] Bovino Illinois deposition"
+  },
+  "[EVENT] Masked agents operations in select cities": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947"
+    ],
+    "count": 1,
+    "create_time": 1780566652,
+    "update_time": 1780566652,
+    "_id": "[EVENT] Masked agents operations in select cities"
+  },
+  "[EVENT] Use-of-force incidents by agents": {
+    "chunk_ids": [
+      "chunk-3ba6044269b8dd10ab25c05ea471e947"
+    ],
+    "count": 1,
+    "create_time": 1780566652,
+    "update_time": 1780566652,
+    "_id": "[EVENT] Use-of-force incidents by agents"
+  },
+  "[PERSON] Hewson": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 2,
+    "create_time": 1780566652,
+    "update_time": 1780566652,
+    "_id": "[PERSON] Hewson"
+  },
+  "[PERSON] EZ-17": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-b912941ec62704454d7a4f6ea0a43c24",
+      "chunk-5c355d6ad3168c8541938edacef73db2",
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752",
+      "chunk-afec13b58ac09eba645258028762d519",
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462",
+      "chunk-528d792138baa043a098b55be76593b2",
+      "chunk-180af3952c4d75447a2acd11a8bca48a"
+    ],
+    "count": 8,
+    "update_time": 1780568330,
+    "_id": "[PERSON] EZ-17"
+  },
+  "[PERSON] EZ-2": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-5c355d6ad3168c8541938edacef73db2",
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752",
+      "chunk-afec13b58ac09eba645258028762d519",
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462"
+    ],
+    "count": 5,
+    "update_time": 1780568338,
+    "_id": "[PERSON] EZ-2"
+  },
+  "[PERSON] Renee Good": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d",
+      "chunk-cba89918434092130fbfcd87a7a7a4d7",
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 4,
+    "update_time": 1780570432,
+    "_id": "[PERSON] Renee Good"
+  },
+  "[ORGANIZATION] Border Patrol Tactical Division (BORTAC)": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b"
+    ],
+    "count": 1,
+    "create_time": 1780566654,
+    "update_time": 1780566654,
+    "_id": "[ORGANIZATION] Border Patrol Tactical Division (BORTAC)"
+  },
+  "[ORGANIZATION] CBP": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-8d45ca0699542b947318572c00e10851",
+      "chunk-b912941ec62704454d7a4f6ea0a43c24",
+      "chunk-5c355d6ad3168c8541938edacef73db2",
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752",
+      "chunk-afec13b58ac09eba645258028762d519",
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462",
+      "chunk-528d792138baa043a098b55be76593b2",
+      "chunk-0be230485af952dad48ebfd858e152b7",
+      "chunk-180af3952c4d75447a2acd11a8bca48a",
+      "chunk-44de13747f538fd5aea71e9f9f17af12",
+      "chunk-e88518d6859e408eed3931911f349632",
+      "chunk-b9105d4bba19aade035da9b3a25e5ca4",
+      "chunk-cb30c633d5049dcab722f2ef0da09357",
+      "chunk-31e0d82f3c8dd8bab2a9bd241ca5125d",
+      "chunk-135dd9fb97837e61fde5461feedbba67",
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6",
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108",
+      "chunk-033eff3da049499c50400c71bf5b6058",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251",
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 21,
+    "update_time": 1780570388,
+    "_id": "[ORGANIZATION] CBP"
+  },
+  "[ORGANIZATION] Immigration and Customs Enforcement (ICE)": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d",
+      "chunk-528d792138baa043a098b55be76593b2"
+    ],
+    "count": 3,
+    "update_time": 1780568356,
+    "_id": "[ORGANIZATION] Immigration and Customs Enforcement (ICE)"
+  },
+  "[ORGANIZATION] Evident Media": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7",
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab",
+      "chunk-cba89918434092130fbfcd87a7a7a4d7",
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7",
+      "chunk-528d792138baa043a098b55be76593b2"
+    ],
+    "count": 6,
+    "update_time": 1780568356,
+    "_id": "[ORGANIZATION] Evident Media"
+  },
+  "[ORGANIZATION] Unraveled": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 2,
+    "create_time": 1780566655,
+    "update_time": 1780566655,
+    "_id": "[ORGANIZATION] Unraveled"
+  },
+  "[LOCATION] Little Village": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-44de13747f538fd5aea71e9f9f17af12",
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144",
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 4,
+    "update_time": 1780569622,
+    "_id": "[LOCATION] Little Village"
+  },
+  "[LOCATION] Minneapolis": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d",
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65",
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab",
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7",
+      "chunk-528d792138baa043a098b55be76593b2",
+      "chunk-0be230485af952dad48ebfd858e152b7",
+      "chunk-31e0d82f3c8dd8bab2a9bd241ca5125d",
+      "chunk-033eff3da049499c50400c71bf5b6058",
+      "chunk-df00c56f336c81374b54c428982985f2",
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 11,
+    "update_time": 1780570970,
+    "_id": "[LOCATION] Minneapolis",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] Nicollet Avenue": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b"
+    ],
+    "count": 1,
+    "create_time": 1780566656,
+    "update_time": 1780566656,
+    "_id": "[LOCATION] Nicollet Avenue"
+  },
+  "[LOCATION] Roosevelt High School": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-b912941ec62704454d7a4f6ea0a43c24",
+      "chunk-afec13b58ac09eba645258028762d519",
+      "chunk-180af3952c4d75447a2acd11a8bca48a"
+    ],
+    "count": 4,
+    "update_time": 1780568336,
+    "_id": "[LOCATION] Roosevelt High School"
+  },
+  "[EVENT] Preliminary injunction hearing": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 2,
+    "create_time": 1780566656,
+    "update_time": 1780566656,
+    "_id": "[EVENT] Preliminary injunction hearing"
+  },
+  "[EVENT] Manhandling of protester on Nicollet Avenue": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b"
+    ],
+    "count": 1,
+    "create_time": 1780566657,
+    "update_time": 1780566657,
+    "_id": "[EVENT] Manhandling of protester on Nicollet Avenue"
+  },
+  "[EVENT] Shooting of Renee Good": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 2,
+    "update_time": 1780570434,
+    "_id": "[EVENT] Shooting of Renee Good"
+  },
+  "[EVENT] Firing of less lethal munitions": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b"
+    ],
+    "count": 1,
+    "create_time": 1780566658,
+    "update_time": 1780566658,
+    "_id": "[EVENT] Firing of less lethal munitions"
+  },
+  "[EVENT] Chemical irritant spraying incident": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b"
+    ],
+    "count": 1,
+    "create_time": 1780566658,
+    "update_time": 1780566658,
+    "_id": "[EVENT] Chemical irritant spraying incident"
+  },
+  "[EVENT] Assault of female protesters": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b"
+    ],
+    "count": 1,
+    "create_time": 1780566658,
+    "update_time": 1780566658,
+    "_id": "[EVENT] Assault of female protesters"
+  },
+  "[EVENT] Tear gas canister transfer": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b"
+    ],
+    "count": 1,
+    "create_time": 1780566659,
+    "update_time": 1780566659,
+    "_id": "[EVENT] Tear gas canister transfer"
+  },
+  "[OBJECT] Tear gas canister": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65",
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 3,
+    "update_time": 1780569670,
+    "_id": "[OBJECT] Tear gas canister"
+  },
+  "[OBJECT] Less lethal munitions": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b"
+    ],
+    "count": 1,
+    "create_time": 1780566659,
+    "update_time": 1780566659,
+    "_id": "[OBJECT] Less lethal munitions"
+  },
+  "[OBJECT] Chemical irritant": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 2,
+    "update_time": 1780569634,
+    "_id": "[OBJECT] Chemical irritant"
+  },
+  "[PERSON] Judge Ellis": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-8d45ca0699542b947318572c00e10851",
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 3,
+    "update_time": 1780569639,
+    "_id": "[PERSON] Judge Ellis"
+  },
+  "[EVENT] Judge Ellis' ruling": {
+    "chunk_ids": [
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b"
+    ],
+    "count": 1,
+    "create_time": 1780566660,
+    "update_time": 1780566660,
+    "_id": "[EVENT] Judge Ellis' ruling"
+  },
+  "[PERSON] Alex Pretti": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d",
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7",
+      "chunk-0be230485af952dad48ebfd858e152b7",
+      "chunk-b9105d4bba19aade035da9b3a25e5ca4",
+      "chunk-31e0d82f3c8dd8bab2a9bd241ca5125d"
+    ],
+    "count": 5,
+    "update_time": 1780570391,
+    "_id": "[PERSON] Alex Pretti"
+  },
+  "[PERSON] Gregory Bovino": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d",
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab",
+      "chunk-5c355d6ad3168c8541938edacef73db2",
+      "chunk-528d792138baa043a098b55be76593b2",
+      "chunk-cf3b9eec46720c6dc296e97815683ad3",
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 6,
+    "update_time": 1780569663,
+    "_id": "[PERSON] Gregory Bovino"
+  },
+  "[LOCATION] El Centro sector": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566661,
+    "update_time": 1780566661,
+    "_id": "[LOCATION] El Centro sector"
+  },
+  "[PERSON] Timothy Donahue": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566661,
+    "update_time": 1780566661,
+    "_id": "[PERSON] Timothy Donahue"
+  },
+  "[PERSON] Georgy Simeon": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566661,
+    "update_time": 1780566661,
+    "_id": "[PERSON] Georgy Simeon"
+  },
+  "[PERSON] Ernesto Campos": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d",
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 2,
+    "create_time": 1780566661,
+    "update_time": 1780566661,
+    "_id": "[PERSON] Ernesto Campos"
+  },
+  "[LOCATION] Bakersfield": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566662,
+    "update_time": 1780566662,
+    "_id": "[LOCATION] Bakersfield"
+  },
+  "[EVENT] Traffic incident in Chicago": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566662,
+    "update_time": 1780566662,
+    "_id": "[EVENT] Traffic incident in Chicago"
+  },
+  "[OBJECT] Timothy Donahue's gun": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566662,
+    "update_time": 1780566662,
+    "_id": "[OBJECT] Timothy Donahue's gun"
+  },
+  "[OBJECT] Timothy Donahue's incident report": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566663,
+    "update_time": 1780566663,
+    "_id": "[OBJECT] Timothy Donahue's incident report"
+  },
+  "[PERSON] Sara Ellis": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d",
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 2,
+    "update_time": 1780569663,
+    "_id": "[PERSON] Sara Ellis"
+  },
+  "[EVENT] Use-of-force incident in Chicago": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566664,
+    "update_time": 1780566664,
+    "_id": "[EVENT] Use-of-force incident in Chicago"
+  },
+  "[EVENT] Assault by Georgy Simeon": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566664,
+    "update_time": 1780566664,
+    "_id": "[EVENT] Assault by Georgy Simeon"
+  },
+  "[EVENT] Pushing incident in Los Angeles": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566664,
+    "update_time": 1780566664,
+    "_id": "[EVENT] Pushing incident in Los Angeles"
+  },
+  "[LOCATION] Los Angeles": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d",
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab",
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9",
+      "chunk-2dade3d40613d6fbdef7e671644df73c",
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 5,
+    "update_time": 1780570962,
+    "_id": "[LOCATION] Los Angeles",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Immigration raid at car wash": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566665,
+    "update_time": 1780566665,
+    "_id": "[EVENT] Immigration raid at car wash"
+  },
+  "[OBJECT] Car wash": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566665,
+    "update_time": 1780566665,
+    "_id": "[OBJECT] Car wash"
+  },
+  "[ORGANIZATION] Unraveled Press": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566665,
+    "update_time": 1780566665,
+    "_id": "[ORGANIZATION] Unraveled Press"
+  },
+  "[OBJECT] Timothy Donahue's social media account": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566666,
+    "update_time": 1780566666,
+    "_id": "[OBJECT] Timothy Donahue's social media account"
+  },
+  "[EVENT] Killing of Renee Good": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566666,
+    "update_time": 1780566666,
+    "_id": "[EVENT] Killing of Renee Good"
+  },
+  "[EVENT] Killing of Alex Pretti": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566666,
+    "update_time": 1780566666,
+    "_id": "[EVENT] Killing of Alex Pretti"
+  },
+  "[EVENT] Filming of Donahue and Simeon in Bakersfield": {
+    "chunk_ids": [
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d"
+    ],
+    "count": 1,
+    "create_time": 1780566667,
+    "update_time": 1780566667,
+    "_id": "[EVENT] Filming of Donahue and Simeon in Bakersfield"
+  },
+  "[PERSON] 15-year-old son": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566667,
+    "update_time": 1780566667,
+    "_id": "[PERSON] 15-year-old son"
+  },
+  "[PERSON] Target employee": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566668,
+    "update_time": 1780566668,
+    "_id": "[PERSON] Target employee"
+  },
+  "[PERSON] Father": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566668,
+    "update_time": 1780566668,
+    "_id": "[PERSON] Father"
+  },
+  "[ORGANIZATION] Target": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566668,
+    "update_time": 1780566668,
+    "_id": "[ORGANIZATION] Target"
+  },
+  "[OBJECT] Pepper spray canister": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566669,
+    "update_time": 1780566669,
+    "_id": "[OBJECT] Pepper spray canister"
+  },
+  "[OBJECT] Bodycam footage": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566669,
+    "update_time": 1780566669,
+    "_id": "[OBJECT] Bodycam footage"
+  },
+  "[OBJECT] Incident report": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566669,
+    "update_time": 1780566669,
+    "_id": "[OBJECT] Incident report"
+  },
+  "[LOCATION] Target store front door": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566669,
+    "update_time": 1780566669,
+    "_id": "[LOCATION] Target store front door"
+  },
+  "[EVENT] Pepper-spraying incident": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566670,
+    "update_time": 1780566670,
+    "_id": "[EVENT] Pepper-spraying incident"
+  },
+  "[EVENT] Tear gas deployment": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566670,
+    "update_time": 1780566670,
+    "_id": "[EVENT] Tear gas deployment"
+  },
+  "[EVENT] Temporary restraining order issuance": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566671,
+    "update_time": 1780566671,
+    "_id": "[EVENT] Temporary restraining order issuance"
+  },
+  "[EVENT] Minneapolis tackle and melee": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566671,
+    "update_time": 1780566671,
+    "_id": "[EVENT] Minneapolis tackle and melee"
+  },
+  "[OBJECT] C-29": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566671,
+    "update_time": 1780566671,
+    "_id": "[OBJECT] C-29"
+  },
+  "[EVENT] Arrest of two men in Minneapolis": {
+    "chunk_ids": [
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65"
+    ],
+    "count": 1,
+    "create_time": 1780566672,
+    "update_time": 1780566672,
+    "_id": "[EVENT] Arrest of two men in Minneapolis"
+  },
+  "[PERSON] Donahue": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566672,
+    "update_time": 1780566672,
+    "_id": "[PERSON] Donahue"
+  },
+  "[PERSON] Simeon": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566672,
+    "update_time": 1780566672,
+    "_id": "[PERSON] Simeon"
+  },
+  "[PERSON] Kristopher Hewson": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566672,
+    "update_time": 1780566672,
+    "_id": "[PERSON] Kristopher Hewson"
+  },
+  "[PERSON] Journalist from Unraveled": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566673,
+    "update_time": 1780566673,
+    "_id": "[PERSON] Journalist from Unraveled"
+  },
+  "[PERSON] Individual sprayed by Hewson": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566673,
+    "update_time": 1780566673,
+    "_id": "[PERSON] Individual sprayed by Hewson"
+  },
+  "[ORGANIZATION] Department of Homeland Security (DHS)": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851",
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 2,
+    "update_time": 1780570961,
+    "_id": "[ORGANIZATION] Department of Homeland Security (DHS)",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] Donahue's social media account": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566674,
+    "update_time": 1780566674,
+    "_id": "[OBJECT] Donahue's social media account"
+  },
+  "[OBJECT] Donahue's bodycam": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566674,
+    "update_time": 1780566674,
+    "_id": "[OBJECT] Donahue's bodycam"
+  },
+  "[OBJECT] ChatGPT": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566674,
+    "update_time": 1780566674,
+    "_id": "[OBJECT] ChatGPT"
+  },
+  "[OBJECT] Oct. 31 incident report": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566675,
+    "update_time": 1780566675,
+    "_id": "[OBJECT] Oct. 31 incident report"
+  },
+  "[OBJECT] Donahue's cellphone": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566675,
+    "update_time": 1780566675,
+    "_id": "[OBJECT] Donahue's cellphone"
+  },
+  "[OBJECT] Pepper spray (OC)": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566675,
+    "update_time": 1780566675,
+    "_id": "[OBJECT] Pepper spray (OC)"
+  },
+  "[OBJECT] Hewson's incident report": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566675,
+    "update_time": 1780566675,
+    "_id": "[OBJECT] Hewson's incident report"
+  },
+  "[LOCATION] Detention centre near Chicago": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566676,
+    "update_time": 1780566676,
+    "_id": "[LOCATION] Detention centre near Chicago"
+  },
+  "[LOCATION] Bovino's El Centro sector": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566676,
+    "update_time": 1780566676,
+    "_id": "[LOCATION] Bovino's El Centro sector"
+  },
+  "[EVENT] Donahue tackling journalist": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566676,
+    "update_time": 1780566676,
+    "_id": "[EVENT] Donahue tackling journalist"
+  },
+  "[EVENT] Donahue compiling report Oct 3": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566676,
+    "update_time": 1780566676,
+    "_id": "[EVENT] Donahue compiling report Oct 3"
+  },
+  "[EVENT] Restraining order ruling November": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566677,
+    "update_time": 1780566677,
+    "_id": "[EVENT] Restraining order ruling November"
+  },
+  "[EVENT] CalMatters contact with Donahue": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566677,
+    "update_time": 1780566677,
+    "_id": "[EVENT] CalMatters contact with Donahue"
+  },
+  "[EVENT] Hewson spraying individual": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566677,
+    "update_time": 1780566677,
+    "_id": "[EVENT] Hewson spraying individual"
+  },
+  "[EVENT] Simeon contact attempt": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566677,
+    "update_time": 1780566677,
+    "_id": "[EVENT] Simeon contact attempt"
+  },
+  "[OBJECT] Simeon's phone number": {
+    "chunk_ids": [
+      "chunk-8d45ca0699542b947318572c00e10851"
+    ],
+    "count": 1,
+    "create_time": 1780566678,
+    "update_time": 1780566678,
+    "_id": "[OBJECT] Simeon's phone number"
+  },
+  "[ORGANIZATION] ICE": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7",
+      "chunk-cba89918434092130fbfcd87a7a7a4d7",
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7",
+      "chunk-0be230485af952dad48ebfd858e152b7",
+      "chunk-01b7723ae953bf130422ee19615d0a06",
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e",
+      "chunk-44de13747f538fd5aea71e9f9f17af12",
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e",
+      "chunk-b9105d4bba19aade035da9b3a25e5ca4",
+      "chunk-cb30c633d5049dcab722f2ef0da09357",
+      "chunk-31e0d82f3c8dd8bab2a9bd241ca5125d",
+      "chunk-135dd9fb97837e61fde5461feedbba67",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 13,
+    "update_time": 1780570390,
+    "_id": "[ORGANIZATION] ICE"
+  },
+  "[LOCATION] Bakersfield, California": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566679,
+    "update_time": 1780566679,
+    "_id": "[LOCATION] Bakersfield, California"
+  },
+  "[LOCATION] Chicago, Illinois": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566679,
+    "update_time": 1780566679,
+    "_id": "[LOCATION] Chicago, Illinois"
+  },
+  "[LOCATION] 37 and Kedzie, East Garfield, Illinois": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566679,
+    "update_time": 1780566679,
+    "_id": "[LOCATION] 37 and Kedzie, East Garfield, Illinois"
+  },
+  "[LOCATION] Chicago suburb": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566679,
+    "update_time": 1780566679,
+    "_id": "[LOCATION] Chicago suburb"
+  },
+  "[EVENT] Operation Return to Sender": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566680,
+    "update_time": 1780566680,
+    "_id": "[EVENT] Operation Return to Sender"
+  },
+  "[EVENT] Arrest of Ernesto Campos": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566680,
+    "update_time": 1780566680,
+    "_id": "[EVENT] Arrest of Ernesto Campos"
+  },
+  "[EVENT] Operation Midway Blitz": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7",
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e",
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 3,
+    "update_time": 1780569635,
+    "_id": "[EVENT] Operation Midway Blitz"
+  },
+  "[EVENT] Assault at 37 and Kedzie": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566681,
+    "update_time": 1780566681,
+    "_id": "[EVENT] Assault at 37 and Kedzie"
+  },
+  "[EVENT] Confrontation in Chicago suburb": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566681,
+    "update_time": 1780566681,
+    "_id": "[EVENT] Confrontation in Chicago suburb"
+  },
+  "[OBJECT] Ernesto Campos' car": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566681,
+    "update_time": 1780566681,
+    "_id": "[OBJECT] Ernesto Campos' car"
+  },
+  "[OBJECT] Video footage of Bakersfield incident": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566682,
+    "update_time": 1780566682,
+    "_id": "[OBJECT] Video footage of Bakersfield incident"
+  },
+  "[OBJECT] Video footage of Chicago incident": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566682,
+    "update_time": 1780566682,
+    "_id": "[OBJECT] Video footage of Chicago incident"
+  },
+  "[PERSON] Passenger of Ernesto Campos": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566683,
+    "update_time": 1780566683,
+    "_id": "[PERSON] Passenger of Ernesto Campos"
+  },
+  "[OBJECT] Agent's gun": {
+    "chunk_ids": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7"
+    ],
+    "count": 1,
+    "create_time": 1780566683,
+    "update_time": 1780566683,
+    "_id": "[OBJECT] Agent's gun"
+  },
+  "[PERSON] Daniel Connerton": {
+    "chunk_ids": [
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab"
+    ],
+    "count": 1,
+    "create_time": 1780566683,
+    "update_time": 1780566683,
+    "_id": "[PERSON] Daniel Connerton"
+  },
+  "[PERSON] Tom Homan": {
+    "chunk_ids": [
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab"
+    ],
+    "count": 1,
+    "create_time": 1780566683,
+    "update_time": 1780566683,
+    "_id": "[PERSON] Tom Homan"
+  },
+  "[LOCATION] Illinois": {
+    "chunk_ids": [
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab",
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462",
+      "chunk-528d792138baa043a098b55be76593b2",
+      "chunk-01b7723ae953bf130422ee19615d0a06",
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9",
+      "chunk-c62092979a3f2ca6e48f697d46cc52ea",
+      "chunk-cf3b9eec46720c6dc296e97815683ad3",
+      "chunk-033eff3da049499c50400c71bf5b6058",
+      "chunk-df00c56f336c81374b54c428982985f2",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 10,
+    "update_time": 1780570422,
+    "_id": "[LOCATION] Illinois"
+  },
+  "[EVENT] Use of force in Chicago": {
+    "chunk_ids": [
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab"
+    ],
+    "count": 1,
+    "create_time": 1780566684,
+    "update_time": 1780566684,
+    "_id": "[EVENT] Use of force in Chicago"
+  },
+  "[EVENT] Restraining order issuance": {
+    "chunk_ids": [
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab"
+    ],
+    "count": 1,
+    "create_time": 1780566684,
+    "update_time": 1780566684,
+    "_id": "[EVENT] Restraining order issuance"
+  },
+  "[EVENT] Restraining order vacation": {
+    "chunk_ids": [
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab"
+    ],
+    "count": 1,
+    "create_time": 1780566685,
+    "update_time": 1780566685,
+    "_id": "[EVENT] Restraining order vacation"
+  },
+  "[EVENT] Border Patrol surges": {
+    "chunk_ids": [
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab"
+    ],
+    "count": 1,
+    "create_time": 1780566685,
+    "update_time": 1780566685,
+    "_id": "[EVENT] Border Patrol surges"
+  },
+  "[OBJECT] Social media and bodycam footage": {
+    "chunk_ids": [
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab"
+    ],
+    "count": 1,
+    "create_time": 1780566685,
+    "update_time": 1780566685,
+    "_id": "[OBJECT] Social media and bodycam footage"
+  },
+  "[OBJECT] Court documents and incident reports": {
+    "chunk_ids": [
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab"
+    ],
+    "count": 1,
+    "create_time": 1780566685,
+    "update_time": 1780566685,
+    "_id": "[OBJECT] Court documents and incident reports"
+  },
+  "[PERSON] Roth": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7"
+    ],
+    "count": 1,
+    "create_time": 1780566686,
+    "update_time": 1780566686,
+    "_id": "[PERSON] Roth"
+  },
+  "[PERSON] Burnell": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7"
+    ],
+    "count": 1,
+    "create_time": 1780566686,
+    "update_time": 1780566686,
+    "_id": "[PERSON] Burnell"
+  },
+  "[PERSON] Barack Obama": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7"
+    ],
+    "count": 1,
+    "create_time": 1780566687,
+    "update_time": 1780566687,
+    "_id": "[PERSON] Barack Obama"
+  },
+  "[PERSON] Donald Trump": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7"
+    ],
+    "count": 1,
+    "create_time": 1780566687,
+    "update_time": 1780566687,
+    "_id": "[PERSON] Donald Trump"
+  },
+  "[ORGANIZATION] Congress": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7"
+    ],
+    "count": 1,
+    "create_time": 1780566687,
+    "update_time": 1780566687,
+    "_id": "[ORGANIZATION] Congress"
+  },
+  "[ORGANIZATION] Evident": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7",
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 2,
+    "update_time": 1780569663,
+    "_id": "[ORGANIZATION] Evident"
+  },
+  "[EVENT] Testimony to Congress": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7"
+    ],
+    "count": 1,
+    "create_time": 1780566688,
+    "update_time": 1780566688,
+    "_id": "[EVENT] Testimony to Congress"
+  },
+  "[EVENT] Death of Renee Good": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7"
+    ],
+    "count": 1,
+    "create_time": 1780566689,
+    "update_time": 1780566689,
+    "_id": "[EVENT] Death of Renee Good"
+  },
+  "[EVENT] Footage Review": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7"
+    ],
+    "count": 1,
+    "create_time": 1780566689,
+    "update_time": 1780566689,
+    "_id": "[EVENT] Footage Review"
+  },
+  "[OBJECT] Footage": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7"
+    ],
+    "count": 1,
+    "create_time": 1780566689,
+    "update_time": 1780566689,
+    "_id": "[OBJECT] Footage"
+  },
+  "[OBJECT] DHS use-of-force policies": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7"
+    ],
+    "count": 1,
+    "create_time": 1780566689,
+    "update_time": 1780566689,
+    "_id": "[OBJECT] DHS use-of-force policies"
+  },
+  "[PERSON] Masked agents": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7"
+    ],
+    "count": 1,
+    "create_time": 1780566690,
+    "update_time": 1780566690,
+    "_id": "[PERSON] Masked agents"
+  },
+  "[EVENT] Dominance display": {
+    "chunk_ids": [
+      "chunk-cba89918434092130fbfcd87a7a7a4d7"
+    ],
+    "count": 1,
+    "create_time": 1780566690,
+    "update_time": 1780566690,
+    "_id": "[EVENT] Dominance display"
+  },
+  "[PERSON] Youri van der Weide": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7",
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 2,
+    "update_time": 1780569640,
+    "_id": "[PERSON] Youri van der Weide"
+  },
+  "[PERSON] Kolina Koltai": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7",
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 2,
+    "update_time": 1780569640,
+    "_id": "[PERSON] Kolina Koltai"
+  },
+  "[PERSON] Eoghan Macguire": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7"
+    ],
+    "count": 1,
+    "create_time": 1780566691,
+    "update_time": 1780566691,
+    "_id": "[PERSON] Eoghan Macguire"
+  },
+  "[PERSON] Sergio Olmos": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7"
+    ],
+    "count": 1,
+    "create_time": 1780566691,
+    "update_time": 1780566691,
+    "_id": "[PERSON] Sergio Olmos"
+  },
+  "[PERSON] Kevin Clancy": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7"
+    ],
+    "count": 1,
+    "create_time": 1780566691,
+    "update_time": 1780566691,
+    "_id": "[PERSON] Kevin Clancy"
+  },
+  "[EVENT] Bellingcat Investigation": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7"
+    ],
+    "count": 1,
+    "create_time": 1780566692,
+    "update_time": 1780566692,
+    "_id": "[EVENT] Bellingcat Investigation"
+  },
+  "[EVENT] Minneapolis CBP Shooting": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7",
+      "chunk-0be230485af952dad48ebfd858e152b7",
+      "chunk-31e0d82f3c8dd8bab2a9bd241ca5125d"
+    ],
+    "count": 3,
+    "update_time": 1780570404,
+    "_id": "[EVENT] Minneapolis CBP Shooting"
+  },
+  "[OBJECT] Bellingcat Patreon channel": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7"
+    ],
+    "count": 1,
+    "create_time": 1780566692,
+    "update_time": 1780566692,
+    "_id": "[OBJECT] Bellingcat Patreon channel"
+  },
+  "[OBJECT] Bellingcat Newsletter": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7"
+    ],
+    "count": 1,
+    "create_time": 1780566693,
+    "update_time": 1780566693,
+    "_id": "[OBJECT] Bellingcat Newsletter"
+  },
+  "[OBJECT] Bellingcat Bluesky account": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7"
+    ],
+    "count": 1,
+    "create_time": 1780566693,
+    "update_time": 1780566693,
+    "_id": "[OBJECT] Bellingcat Bluesky account"
+  },
+  "[OBJECT] Bellingcat Instagram account": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7"
+    ],
+    "count": 1,
+    "create_time": 1780566694,
+    "update_time": 1780566694,
+    "_id": "[OBJECT] Bellingcat Instagram account"
+  },
+  "[OBJECT] Bellingcat Reddit account": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7"
+    ],
+    "count": 1,
+    "create_time": 1780566694,
+    "update_time": 1780566694,
+    "_id": "[OBJECT] Bellingcat Reddit account"
+  },
+  "[OBJECT] Bellingcat YouTube channel": {
+    "chunk_ids": [
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7"
+    ],
+    "count": 1,
+    "create_time": 1780566694,
+    "update_time": 1780566694,
+    "_id": "[OBJECT] Bellingcat YouTube channel"
+  },
+  "[PERSON] Patrick Wilcken": {
+    "chunk_ids": [
+      "chunk-b912941ec62704454d7a4f6ea0a43c24"
+    ],
+    "count": 1,
+    "create_time": 1780568330,
+    "update_time": 1780568330,
+    "_id": "[PERSON] Patrick Wilcken"
+  },
+  "[ORGANIZATION] Amnesty International": {
+    "chunk_ids": [
+      "chunk-b912941ec62704454d7a4f6ea0a43c24"
+    ],
+    "count": 1,
+    "create_time": 1780568331,
+    "update_time": 1780568331,
+    "_id": "[ORGANIZATION] Amnesty International"
+  },
+  "[ORGANIZATION] University of St Thomas": {
+    "chunk_ids": [
+      "chunk-b912941ec62704454d7a4f6ea0a43c24"
+    ],
+    "count": 1,
+    "create_time": 1780568333,
+    "update_time": 1780568333,
+    "_id": "[ORGANIZATION] University of St Thomas"
+  },
+  "[PERSON] Rachel Moran": {
+    "chunk_ids": [
+      "chunk-b912941ec62704454d7a4f6ea0a43c24",
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752",
+      "chunk-afec13b58ac09eba645258028762d519"
+    ],
+    "count": 3,
+    "create_time": 1780568334,
+    "update_time": 1780568334,
+    "_id": "[PERSON] Rachel Moran"
+  },
+  "[OBJECT] B&T GL06": {
+    "chunk_ids": [
+      "chunk-b912941ec62704454d7a4f6ea0a43c24",
+      "chunk-afec13b58ac09eba645258028762d519"
+    ],
+    "count": 2,
+    "create_time": 1780568334,
+    "update_time": 1780568334,
+    "_id": "[OBJECT] B&T GL06"
+  },
+  "[EVENT] EZ-17 firing B&T GL06": {
+    "chunk_ids": [
+      "chunk-b912941ec62704454d7a4f6ea0a43c24"
+    ],
+    "count": 1,
+    "create_time": 1780568335,
+    "update_time": 1780568335,
+    "_id": "[EVENT] EZ-17 firing B&T GL06"
+  },
+  "[EVENT] Review of footage by Patrick Wilcken": {
+    "chunk_ids": [
+      "chunk-b912941ec62704454d7a4f6ea0a43c24"
+    ],
+    "count": 1,
+    "create_time": 1780568335,
+    "update_time": 1780568335,
+    "_id": "[EVENT] Review of footage by Patrick Wilcken"
+  },
+  "[EVENT] Protest incident at Roosevelt High School": {
+    "chunk_ids": [
+      "chunk-b912941ec62704454d7a4f6ea0a43c24"
+    ],
+    "count": 1,
+    "create_time": 1780568336,
+    "update_time": 1780568336,
+    "_id": "[EVENT] Protest incident at Roosevelt High School"
+  },
+  "[OBJECT] CBP vehicle": {
+    "chunk_ids": [
+      "chunk-b912941ec62704454d7a4f6ea0a43c24"
+    ],
+    "count": 1,
+    "create_time": 1780568337,
+    "update_time": 1780568337,
+    "_id": "[OBJECT] CBP vehicle"
+  },
+  "[ORGANIZATION] BORTAC": {
+    "chunk_ids": [
+      "chunk-5c355d6ad3168c8541938edacef73db2",
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462"
+    ],
+    "count": 2,
+    "create_time": 1780568339,
+    "update_time": 1780568339,
+    "_id": "[ORGANIZATION] BORTAC"
+  },
+  "[ORGANIZATION] Mercado Media": {
+    "chunk_ids": [
+      "chunk-5c355d6ad3168c8541938edacef73db2"
+    ],
+    "count": 1,
+    "create_time": 1780568339,
+    "update_time": 1780568339,
+    "_id": "[ORGANIZATION] Mercado Media"
+  },
+  "[ORGANIZATION] Status Coup News": {
+    "chunk_ids": [
+      "chunk-5c355d6ad3168c8541938edacef73db2",
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462",
+      "chunk-180af3952c4d75447a2acd11a8bca48a"
+    ],
+    "count": 3,
+    "create_time": 1780568340,
+    "update_time": 1780568340,
+    "_id": "[ORGANIZATION] Status Coup News"
+  },
+  "[OBJECT] 40mm munitions": {
+    "chunk_ids": [
+      "chunk-5c355d6ad3168c8541938edacef73db2",
+      "chunk-cb30c633d5049dcab722f2ef0da09357"
+    ],
+    "count": 2,
+    "update_time": 1780570402,
+    "_id": "[OBJECT] 40mm munitions"
+  },
+  "[OBJECT] sponge-nose impact rounds": {
+    "chunk_ids": [
+      "chunk-5c355d6ad3168c8541938edacef73db2"
+    ],
+    "count": 1,
+    "create_time": 1780568340,
+    "update_time": 1780568340,
+    "_id": "[OBJECT] sponge-nose impact rounds"
+  },
+  "[OBJECT] Muzzle Blast munition": {
+    "chunk_ids": [
+      "chunk-5c355d6ad3168c8541938edacef73db2"
+    ],
+    "count": 1,
+    "create_time": 1780568340,
+    "update_time": 1780568340,
+    "_id": "[OBJECT] Muzzle Blast munition"
+  },
+  "[OBJECT] truck": {
+    "chunk_ids": [
+      "chunk-5c355d6ad3168c8541938edacef73db2"
+    ],
+    "count": 1,
+    "create_time": 1780568341,
+    "update_time": 1780568341,
+    "_id": "[OBJECT] truck"
+  },
+  "[EVENT] Use of force incident Jan 7": {
+    "chunk_ids": [
+      "chunk-5c355d6ad3168c8541938edacef73db2"
+    ],
+    "count": 1,
+    "create_time": 1780568341,
+    "update_time": 1780568341,
+    "_id": "[EVENT] Use of force incident Jan 7"
+  },
+  "[EVENT] Immigration raids": {
+    "chunk_ids": [
+      "chunk-5c355d6ad3168c8541938edacef73db2"
+    ],
+    "count": 1,
+    "create_time": 1780568341,
+    "update_time": 1780568341,
+    "_id": "[EVENT] Immigration raids"
+  },
+  "[LOCATION] crime scene perimeter": {
+    "chunk_ids": [
+      "chunk-5c355d6ad3168c8541938edacef73db2"
+    ],
+    "count": 1,
+    "create_time": 1780568342,
+    "update_time": 1780568342,
+    "_id": "[LOCATION] crime scene perimeter"
+  },
+  "[OBJECT] EZ-17's vest": {
+    "chunk_ids": [
+      "chunk-5c355d6ad3168c8541938edacef73db2"
+    ],
+    "count": 1,
+    "create_time": 1780568342,
+    "update_time": 1780568342,
+    "_id": "[OBJECT] EZ-17's vest"
+  },
+  "[PERSON] Man filming": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568343,
+    "update_time": 1780568343,
+    "_id": "[PERSON] Man filming"
+  },
+  "[PERSON] Man throwing snowballs": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568343,
+    "update_time": 1780568343,
+    "_id": "[PERSON] Man throwing snowballs"
+  },
+  "[PERSON] Person banging on truck windows": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568343,
+    "update_time": 1780568343,
+    "_id": "[PERSON] Person banging on truck windows"
+  },
+  "[ORGANIZATION] Vexor": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568343,
+    "update_time": 1780568343,
+    "_id": "[ORGANIZATION] Vexor"
+  },
+  "[ORGANIZATION] University of St. Thomas School of Law": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568344,
+    "update_time": 1780568344,
+    "_id": "[ORGANIZATION] University of St. Thomas School of Law"
+  },
+  "[OBJECT] Vexor Professional-branded canister": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568344,
+    "update_time": 1780568344,
+    "_id": "[OBJECT] Vexor Professional-branded canister"
+  },
+  "[OBJECT] 40mm canister": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568344,
+    "update_time": 1780568344,
+    "_id": "[OBJECT] 40mm canister"
+  },
+  "[OBJECT] 40mm Muzzle Blast munition": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568344,
+    "update_time": 1780568344,
+    "_id": "[OBJECT] 40mm Muzzle Blast munition"
+  },
+  "[OBJECT] Unmarked white CBP truck": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568345,
+    "update_time": 1780568345,
+    "_id": "[OBJECT] Unmarked white CBP truck"
+  },
+  "[EVENT] Second Shot": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568345,
+    "update_time": 1780568345,
+    "_id": "[EVENT] Second Shot"
+  },
+  "[EVENT] Third Shot": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568346,
+    "update_time": 1780568346,
+    "_id": "[EVENT] Third Shot"
+  },
+  "[EVENT] OC Spraying of Man": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568346,
+    "update_time": 1780568346,
+    "_id": "[EVENT] OC Spraying of Man"
+  },
+  "[EVENT] Fourth Shot": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568346,
+    "update_time": 1780568346,
+    "_id": "[EVENT] Fourth Shot"
+  },
+  "[EVENT] Blocking of CBP Truck": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568346,
+    "update_time": 1780568346,
+    "_id": "[EVENT] Blocking of CBP Truck"
+  },
+  "[LOCATION] Alley": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568347,
+    "update_time": 1780568347,
+    "_id": "[LOCATION] Alley"
+  },
+  "[OBJECT] Mercado Media video": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568347,
+    "update_time": 1780568347,
+    "_id": "[OBJECT] Mercado Media video"
+  },
+  "[OBJECT] Dymanh Chhoun annotations": {
+    "chunk_ids": [
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752"
+    ],
+    "count": 1,
+    "create_time": 1780568347,
+    "update_time": 1780568347,
+    "_id": "[OBJECT] Dymanh Chhoun annotations"
+  },
+  "[ORGANIZATION] Thomas School of Law": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519"
+    ],
+    "count": 1,
+    "create_time": 1780568347,
+    "update_time": 1780568347,
+    "_id": "[ORGANIZATION] Thomas School of Law"
+  },
+  "[PERSON] CBP Agent with PepperBall gun": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519"
+    ],
+    "count": 1,
+    "create_time": 1780568348,
+    "update_time": 1780568348,
+    "_id": "[PERSON] CBP Agent with PepperBall gun"
+  },
+  "[OBJECT] SKAT Shell": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 2,
+    "update_time": 1780570438,
+    "_id": "[OBJECT] SKAT Shell"
+  },
+  "[ORGANIZATION] Defense Technology": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519",
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462",
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6",
+      "chunk-033eff3da049499c50400c71bf5b6058",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251",
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 6,
+    "update_time": 1780570418,
+    "_id": "[ORGANIZATION] Defense Technology"
+  },
+  "[OBJECT] Tear gas grenade": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519"
+    ],
+    "count": 1,
+    "create_time": 1780568349,
+    "update_time": 1780568349,
+    "_id": "[OBJECT] Tear gas grenade"
+  },
+  "[OBJECT] OC spray": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519"
+    ],
+    "count": 1,
+    "create_time": 1780568349,
+    "update_time": 1780568349,
+    "_id": "[OBJECT] OC spray"
+  },
+  "[OBJECT] PepperBall gun": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519",
+      "chunk-528d792138baa043a098b55be76593b2"
+    ],
+    "count": 2,
+    "create_time": 1780568350,
+    "update_time": 1780568350,
+    "_id": "[OBJECT] PepperBall gun"
+  },
+  "[OBJECT] CBP truck": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519"
+    ],
+    "count": 1,
+    "create_time": 1780568350,
+    "update_time": 1780568350,
+    "_id": "[OBJECT] CBP truck"
+  },
+  "[EVENT] Firing of the fifth shot": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519"
+    ],
+    "count": 1,
+    "create_time": 1780568350,
+    "update_time": 1780568350,
+    "_id": "[EVENT] Firing of the fifth shot"
+  },
+  "[EVENT] Deployment of tear gas": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519"
+    ],
+    "count": 1,
+    "create_time": 1780568350,
+    "update_time": 1780568350,
+    "_id": "[EVENT] Deployment of tear gas"
+  },
+  "[EVENT] Firing at Roosevelt High School": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519"
+    ],
+    "count": 1,
+    "create_time": 1780568350,
+    "update_time": 1780568350,
+    "_id": "[EVENT] Firing at Roosevelt High School"
+  },
+  "[PERSON] Protesters": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519",
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 2,
+    "update_time": 1780569669,
+    "_id": "[PERSON] Protesters"
+  },
+  "[EVENT] Firing of the first four shots": {
+    "chunk_ids": [
+      "chunk-afec13b58ac09eba645258028762d519"
+    ],
+    "count": 1,
+    "create_time": 1780568351,
+    "update_time": 1780568351,
+    "_id": "[EVENT] Firing of the first four shots"
+  },
+  "[PERSON] Good": {
+    "chunk_ids": [
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462",
+      "chunk-cb30c633d5049dcab722f2ef0da09357",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 3,
+    "update_time": 1780570403,
+    "_id": "[PERSON] Good"
+  },
+  "[PERSON] Protester 1": {
+    "chunk_ids": [
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462"
+    ],
+    "count": 1,
+    "create_time": 1780568352,
+    "update_time": 1780568352,
+    "_id": "[PERSON] Protester 1"
+  },
+  "[PERSON] Protester 2": {
+    "chunk_ids": [
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462"
+    ],
+    "count": 1,
+    "create_time": 1780568352,
+    "update_time": 1780568352,
+    "_id": "[PERSON] Protester 2"
+  },
+  "[PERSON] Protester 3": {
+    "chunk_ids": [
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462"
+    ],
+    "count": 1,
+    "create_time": 1780568352,
+    "update_time": 1780568352,
+    "_id": "[PERSON] Protester 3"
+  },
+  "[OBJECT] 40mm Muzzle Blast munitions": {
+    "chunk_ids": [
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462"
+    ],
+    "count": 1,
+    "create_time": 1780568352,
+    "update_time": 1780568352,
+    "_id": "[OBJECT] 40mm Muzzle Blast munitions"
+  },
+  "[LOCATION] Minnesota": {
+    "chunk_ids": [
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462",
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 2,
+    "update_time": 1780570423,
+    "_id": "[LOCATION] Minnesota"
+  },
+  "[EVENT] Immigration Raids Minnesota": {
+    "chunk_ids": [
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462"
+    ],
+    "count": 1,
+    "create_time": 1780568354,
+    "update_time": 1780568354,
+    "_id": "[EVENT] Immigration Raids Minnesota"
+  },
+  "[EVENT] Illinois Incident": {
+    "chunk_ids": [
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462"
+    ],
+    "count": 1,
+    "create_time": 1780568354,
+    "update_time": 1780568354,
+    "_id": "[EVENT] Illinois Incident"
+  },
+  "[EVENT] Shooting of Protester 2": {
+    "chunk_ids": [
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462"
+    ],
+    "count": 1,
+    "create_time": 1780568354,
+    "update_time": 1780568354,
+    "_id": "[EVENT] Shooting of Protester 2"
+  },
+  "[EVENT] Shooting of Protester 3": {
+    "chunk_ids": [
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462"
+    ],
+    "count": 1,
+    "create_time": 1780568354,
+    "update_time": 1780568354,
+    "_id": "[EVENT] Shooting of Protester 3"
+  },
+  "[EVENT] Good Death Scene": {
+    "chunk_ids": [
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462"
+    ],
+    "count": 1,
+    "create_time": 1780568354,
+    "update_time": 1780568354,
+    "_id": "[EVENT] Good Death Scene"
+  },
+  "[PERSON] Dymanh": {
+    "chunk_ids": [
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462"
+    ],
+    "count": 1,
+    "create_time": 1780568355,
+    "update_time": 1780568355,
+    "_id": "[PERSON] Dymanh"
+  },
+  "[PERSON] Renee Nicole Good": {
+    "chunk_ids": [
+      "chunk-528d792138baa043a098b55be76593b2"
+    ],
+    "count": 1,
+    "create_time": 1780568355,
+    "update_time": 1780568355,
+    "_id": "[PERSON] Renee Nicole Good"
+  },
+  "[PERSON] Jonathan Ross": {
+    "chunk_ids": [
+      "chunk-528d792138baa043a098b55be76593b2"
+    ],
+    "count": 1,
+    "create_time": 1780568355,
+    "update_time": 1780568355,
+    "_id": "[PERSON] Jonathan Ross"
+  },
+  "[PERSON] Unnamed Protester": {
+    "chunk_ids": [
+      "chunk-528d792138baa043a098b55be76593b2"
+    ],
+    "count": 1,
+    "create_time": 1780568356,
+    "update_time": 1780568356,
+    "_id": "[PERSON] Unnamed Protester"
+  },
+  "[OBJECT] B&T GL06 40mm less-lethal launcher": {
+    "chunk_ids": [
+      "chunk-528d792138baa043a098b55be76593b2"
+    ],
+    "count": 1,
+    "create_time": 1780568357,
+    "update_time": 1780568357,
+    "_id": "[OBJECT] B&T GL06 40mm less-lethal launcher"
+  },
+  "[LOCATION] California": {
+    "chunk_ids": [
+      "chunk-528d792138baa043a098b55be76593b2",
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 2,
+    "update_time": 1780570433,
+    "_id": "[LOCATION] California"
+  },
+  "[EVENT] Fatal shooting of Renee Nicole Good": {
+    "chunk_ids": [
+      "chunk-528d792138baa043a098b55be76593b2"
+    ],
+    "count": 1,
+    "create_time": 1780568359,
+    "update_time": 1780568359,
+    "_id": "[EVENT] Fatal shooting of Renee Nicole Good"
+  },
+  "[EVENT] Minneapolis Protests": {
+    "chunk_ids": [
+      "chunk-528d792138baa043a098b55be76593b2",
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 2,
+    "update_time": 1780570434,
+    "_id": "[EVENT] Minneapolis Protests"
+  },
+  "[EVENT] Firing of less-lethal launcher by EZ-17": {
+    "chunk_ids": [
+      "chunk-528d792138baa043a098b55be76593b2"
+    ],
+    "count": 1,
+    "create_time": 1780568360,
+    "update_time": 1780568360,
+    "_id": "[EVENT] Firing of less-lethal launcher by EZ-17"
+  },
+  "[EVENT] California Protest Shooting": {
+    "chunk_ids": [
+      "chunk-528d792138baa043a098b55be76593b2"
+    ],
+    "count": 1,
+    "create_time": 1780568361,
+    "update_time": 1780568361,
+    "_id": "[EVENT] California Protest Shooting"
+  },
+  "[EVENT] Illinois Use of Force Injunction": {
+    "chunk_ids": [
+      "chunk-528d792138baa043a098b55be76593b2"
+    ],
+    "count": 1,
+    "create_time": 1780568361,
+    "update_time": 1780568361,
+    "_id": "[EVENT] Illinois Use of Force Injunction"
+  },
+  "[EVENT] Immigration raids in Illinois": {
+    "chunk_ids": [
+      "chunk-528d792138baa043a098b55be76593b2"
+    ],
+    "count": 1,
+    "create_time": 1780568361,
+    "update_time": 1780568361,
+    "_id": "[EVENT] Immigration raids in Illinois"
+  },
+  "[PERSON] Norton": {
+    "chunk_ids": [
+      "chunk-0be230485af952dad48ebfd858e152b7"
+    ],
+    "count": 1,
+    "create_time": 1780568361,
+    "update_time": 1780568361,
+    "_id": "[PERSON] Norton"
+  },
+  "[PERSON] Pooja Chaudhuri": {
+    "chunk_ids": [
+      "chunk-0be230485af952dad48ebfd858e152b7",
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 2,
+    "update_time": 1780569640,
+    "_id": "[PERSON] Pooja Chaudhuri"
+  },
+  "[PERSON] Trevor Ball": {
+    "chunk_ids": [
+      "chunk-0be230485af952dad48ebfd858e152b7",
+      "chunk-cff84815afd023d8e8bbca3290354599",
+      "chunk-b9105d4bba19aade035da9b3a25e5ca4"
+    ],
+    "count": 3,
+    "update_time": 1780570390,
+    "_id": "[PERSON] Trevor Ball"
+  },
+  "[OBJECT] Less-Lethal Launcher": {
+    "chunk_ids": [
+      "chunk-0be230485af952dad48ebfd858e152b7",
+      "chunk-31e0d82f3c8dd8bab2a9bd241ca5125d"
+    ],
+    "count": 2,
+    "update_time": 1780570410,
+    "_id": "[OBJECT] Less-Lethal Launcher"
+  },
+  "[OBJECT] Footage of Minneapolis CBP Shooting": {
+    "chunk_ids": [
+      "chunk-0be230485af952dad48ebfd858e152b7"
+    ],
+    "count": 1,
+    "create_time": 1780568363,
+    "update_time": 1780568363,
+    "_id": "[OBJECT] Footage of Minneapolis CBP Shooting"
+  },
+  "[PERSON] Moran": {
+    "chunk_ids": [
+      "chunk-180af3952c4d75447a2acd11a8bca48a"
+    ],
+    "count": 1,
+    "create_time": 1780568364,
+    "update_time": 1780568364,
+    "_id": "[PERSON] Moran"
+  },
+  "[PERSON] Travis Norton": {
+    "chunk_ids": [
+      "chunk-180af3952c4d75447a2acd11a8bca48a"
+    ],
+    "count": 1,
+    "create_time": 1780568364,
+    "update_time": 1780568364,
+    "_id": "[PERSON] Travis Norton"
+  },
+  "[OBJECT] B&T GL06 40mm launcher": {
+    "chunk_ids": [
+      "chunk-180af3952c4d75447a2acd11a8bca48a"
+    ],
+    "count": 1,
+    "create_time": 1780568364,
+    "update_time": 1780568364,
+    "_id": "[OBJECT] B&T GL06 40mm launcher"
+  },
+  "[EVENT] Shooting at Roosevelt High School": {
+    "chunk_ids": [
+      "chunk-180af3952c4d75447a2acd11a8bca48a"
+    ],
+    "count": 1,
+    "create_time": 1780568364,
+    "update_time": 1780568364,
+    "_id": "[EVENT] Shooting at Roosevelt High School"
+  },
+  "[EVENT] Shooting of man with hands up": {
+    "chunk_ids": [
+      "chunk-180af3952c4d75447a2acd11a8bca48a"
+    ],
+    "count": 1,
+    "create_time": 1780568365,
+    "update_time": 1780568365,
+    "_id": "[EVENT] Shooting of man with hands up"
+  },
+  "[EVENT] Bellingcat analysis of six shots": {
+    "chunk_ids": [
+      "chunk-180af3952c4d75447a2acd11a8bca48a"
+    ],
+    "count": 1,
+    "create_time": 1780568365,
+    "update_time": 1780568365,
+    "_id": "[EVENT] Bellingcat analysis of six shots"
+  },
+  "[PERSON] Protester": {
+    "chunk_ids": [
+      "chunk-180af3952c4d75447a2acd11a8bca48a"
+    ],
+    "count": 1,
+    "create_time": 1780568366,
+    "update_time": 1780568366,
+    "_id": "[PERSON] Protester"
+  },
+  "[EVENT] Fifth shot identified by Bellingcat": {
+    "chunk_ids": [
+      "chunk-180af3952c4d75447a2acd11a8bca48a"
+    ],
+    "count": 1,
+    "create_time": 1780568366,
+    "update_time": 1780568366,
+    "_id": "[EVENT] Fifth shot identified by Bellingcat"
+  },
+  "[PERSON] JB Pritzker": {
+    "chunk_ids": [
+      "chunk-01b7723ae953bf130422ee19615d0a06",
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 2,
+    "create_time": 1780568757,
+    "update_time": 1780568757,
+    "_id": "[PERSON] JB Pritzker"
+  },
+  "[ORGANIZATION] Fox News": {
+    "chunk_ids": [
+      "chunk-01b7723ae953bf130422ee19615d0a06",
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 2,
+    "create_time": 1780568758,
+    "update_time": 1780568758,
+    "_id": "[ORGANIZATION] Fox News"
+  },
+  "[LOCATION] Broadview facility": {
+    "chunk_ids": [
+      "chunk-01b7723ae953bf130422ee19615d0a06"
+    ],
+    "count": 1,
+    "create_time": 1780568759,
+    "update_time": 1780568759,
+    "_id": "[LOCATION] Broadview facility"
+  },
+  "[EVENT] Chicago anti-ICE protests": {
+    "chunk_ids": [
+      "chunk-01b7723ae953bf130422ee19615d0a06"
+    ],
+    "count": 1,
+    "create_time": 1780568759,
+    "update_time": 1780568759,
+    "_id": "[EVENT] Chicago anti-ICE protests"
+  },
+  "[EVENT] Broadview arrest": {
+    "chunk_ids": [
+      "chunk-01b7723ae953bf130422ee19615d0a06"
+    ],
+    "count": 1,
+    "create_time": 1780568759,
+    "update_time": 1780568759,
+    "_id": "[EVENT] Broadview arrest"
+  },
+  "[OBJECT] firearm": {
+    "chunk_ids": [
+      "chunk-01b7723ae953bf130422ee19615d0a06"
+    ],
+    "count": 1,
+    "create_time": 1780568760,
+    "update_time": 1780568760,
+    "_id": "[OBJECT] firearm"
+  },
+  "[OBJECT] tear gas and pepper balls": {
+    "chunk_ids": [
+      "chunk-01b7723ae953bf130422ee19615d0a06"
+    ],
+    "count": 1,
+    "create_time": 1780568760,
+    "update_time": 1780568760,
+    "_id": "[OBJECT] tear gas and pepper balls"
+  },
+  "[OBJECT] Fox News article": {
+    "chunk_ids": [
+      "chunk-01b7723ae953bf130422ee19615d0a06",
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 2,
+    "create_time": 1780568760,
+    "update_time": 1780568760,
+    "_id": "[OBJECT] Fox News article"
+  },
+  "[PERSON] arrested protester": {
+    "chunk_ids": [
+      "chunk-01b7723ae953bf130422ee19615d0a06"
+    ],
+    "count": 1,
+    "create_time": 1780568760,
+    "update_time": 1780568760,
+    "_id": "[PERSON] arrested protester"
+  },
+  "[EVENT] DHS X statements": {
+    "chunk_ids": [
+      "chunk-01b7723ae953bf130422ee19615d0a06"
+    ],
+    "count": 1,
+    "create_time": 1780568761,
+    "update_time": 1780568761,
+    "_id": "[EVENT] DHS X statements"
+  },
+  "[PERSON] Greg Norman-Diamond": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568761,
+    "update_time": 1780568761,
+    "_id": "[PERSON] Greg Norman-Diamond"
+  },
+  "[PERSON] Patrick McGovern": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568761,
+    "update_time": 1780568761,
+    "_id": "[PERSON] Patrick McGovern"
+  },
+  "[PERSON] Michael Tobin": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568762,
+    "update_time": 1780568762,
+    "_id": "[PERSON] Michael Tobin"
+  },
+  "[PERSON] Peter Pinedo": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568762,
+    "update_time": 1780568762,
+    "_id": "[PERSON] Peter Pinedo"
+  },
+  "[PERSON] Dallas Gunman": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568762,
+    "update_time": 1780568762,
+    "_id": "[PERSON] Dallas Gunman"
+  },
+  "[PERSON] Dallas Detainee Victim": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568762,
+    "update_time": 1780568762,
+    "_id": "[PERSON] Dallas Detainee Victim"
+  },
+  "[ORGANIZATION] Fox 32 Chicago": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568763,
+    "update_time": 1780568763,
+    "_id": "[ORGANIZATION] Fox 32 Chicago"
+  },
+  "[ORGANIZATION] Federal law enforcement": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568763,
+    "update_time": 1780568763,
+    "_id": "[ORGANIZATION] Federal law enforcement"
+  },
+  "[ORGANIZATION] Anti-ICE protesters": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568763,
+    "update_time": 1780568763,
+    "_id": "[ORGANIZATION] Anti-ICE protesters"
+  },
+  "[OBJECT] Firearm": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568764,
+    "update_time": 1780568764,
+    "_id": "[OBJECT] Firearm"
+  },
+  "[OBJECT] Tear gas": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e",
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 2,
+    "update_time": 1780569665,
+    "_id": "[OBJECT] Tear gas"
+  },
+  "[OBJECT] Pepper balls": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e",
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 2,
+    "update_time": 1780569665,
+    "_id": "[OBJECT] Pepper balls"
+  },
+  "[LOCATION] Broadview ICE processing center": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568764,
+    "update_time": 1780568764,
+    "_id": "[LOCATION] Broadview ICE processing center"
+  },
+  "[LOCATION] Broadview, Illinois": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568765,
+    "update_time": 1780568765,
+    "_id": "[LOCATION] Broadview, Illinois"
+  },
+  "[LOCATION] Dallas ICE facility": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568765,
+    "update_time": 1780568765,
+    "_id": "[LOCATION] Dallas ICE facility"
+  },
+  "[LOCATION] Dallas, Texas": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568765,
+    "update_time": 1780568765,
+    "_id": "[LOCATION] Dallas, Texas"
+  },
+  "[EVENT] Broadview Protest Friday": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568765,
+    "update_time": 1780568765,
+    "_id": "[EVENT] Broadview Protest Friday"
+  },
+  "[EVENT] Broadview Arrests Friday": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568766,
+    "update_time": 1780568766,
+    "_id": "[EVENT] Broadview Arrests Friday"
+  },
+  "[EVENT] Broadview Clashes Last Week": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568766,
+    "update_time": 1780568766,
+    "_id": "[EVENT] Broadview Clashes Last Week"
+  },
+  "[EVENT] Dallas Shooting": {
+    "chunk_ids": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e"
+    ],
+    "count": 1,
+    "create_time": 1780568766,
+    "update_time": 1780568766,
+    "_id": "[EVENT] Dallas Shooting"
+  },
+  "[ORGANIZATION] Department of Homeland Security": {
+    "chunk_ids": [
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9",
+      "chunk-cff84815afd023d8e8bbca3290354599",
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 3,
+    "update_time": 1780570431,
+    "_id": "[ORGANIZATION] Department of Homeland Security"
+  },
+  "[ORGANIZATION] Customs and Border Patrol": {
+    "chunk_ids": [
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9",
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 2,
+    "update_time": 1780570432,
+    "_id": "[ORGANIZATION] Customs and Border Patrol"
+  },
+  "[ORGANIZATION] United States Immigration and Customs Enforcement": {
+    "chunk_ids": [
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9"
+    ],
+    "count": 1,
+    "create_time": 1780569608,
+    "update_time": 1780569608,
+    "_id": "[ORGANIZATION] United States Immigration and Customs Enforcement"
+  },
+  "[ORGANIZATION] NPR": {
+    "chunk_ids": [
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9"
+    ],
+    "count": 1,
+    "create_time": 1780569609,
+    "update_time": 1780569609,
+    "_id": "[ORGANIZATION] NPR"
+  },
+  "[PERSON] Tricia McLaughlin": {
+    "chunk_ids": [
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9"
+    ],
+    "count": 1,
+    "create_time": 1780569609,
+    "update_time": 1780569609,
+    "_id": "[PERSON] Tricia McLaughlin"
+  },
+  "[LOCATION] Portland": {
+    "chunk_ids": [
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9"
+    ],
+    "count": 1,
+    "create_time": 1780569611,
+    "update_time": 1780569611,
+    "_id": "[LOCATION] Portland"
+  },
+  "[EVENT] Federal Judge TRO": {
+    "chunk_ids": [
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9"
+    ],
+    "count": 1,
+    "create_time": 1780569613,
+    "update_time": 1780569613,
+    "_id": "[EVENT] Federal Judge TRO"
+  },
+  "[EVENT] Use of force incidents in Illinois": {
+    "chunk_ids": [
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9"
+    ],
+    "count": 1,
+    "create_time": 1780569613,
+    "update_time": 1780569613,
+    "_id": "[EVENT] Use of force incidents in Illinois"
+  },
+  "[EVENT] NPR Court Record Analysis": {
+    "chunk_ids": [
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9"
+    ],
+    "count": 1,
+    "create_time": 1780569613,
+    "update_time": 1780569613,
+    "_id": "[EVENT] NPR Court Record Analysis"
+  },
+  "[PERSON] Bahena": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569614,
+    "update_time": 1780569614,
+    "_id": "[PERSON] Bahena"
+  },
+  "[PERSON] Ismael Cordova-Clough": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569614,
+    "update_time": 1780569614,
+    "_id": "[PERSON] Ismael Cordova-Clough"
+  },
+  "[ORGANIZATION] Chicago Block Club": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569615,
+    "update_time": 1780569615,
+    "_id": "[ORGANIZATION] Chicago Block Club"
+  },
+  "[ORGANIZATION] DHS Office of Inspector General": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 2,
+    "update_time": 1780570438,
+    "_id": "[ORGANIZATION] DHS Office of Inspector General"
+  },
+  "[ORGANIZATION] B&T": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569618,
+    "update_time": 1780569618,
+    "_id": "[ORGANIZATION] B&T"
+  },
+  "[OBJECT] black firearm": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569618,
+    "update_time": 1780569618,
+    "_id": "[OBJECT] black firearm"
+  },
+  "[OBJECT] black tactical launcher": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569619,
+    "update_time": 1780569619,
+    "_id": "[OBJECT] black tactical launcher"
+  },
+  "[OBJECT] launcher with orange component": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569619,
+    "update_time": 1780569619,
+    "_id": "[OBJECT] launcher with orange component"
+  },
+  "[OBJECT] PepperBall launcher": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569620,
+    "update_time": 1780569620,
+    "_id": "[OBJECT] PepperBall launcher"
+  },
+  "[OBJECT] 40mm projectiles": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569620,
+    "update_time": 1780569620,
+    "_id": "[OBJECT] 40mm projectiles"
+  },
+  "[OBJECT] 40MM launcher": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569620,
+    "update_time": 1780569620,
+    "_id": "[OBJECT] 40MM launcher"
+  },
+  "[OBJECT] less-lethal weapons": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569621,
+    "update_time": 1780569621,
+    "_id": "[OBJECT] less-lethal weapons"
+  },
+  "[OBJECT] silver sedan": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569621,
+    "update_time": 1780569621,
+    "_id": "[OBJECT] silver sedan"
+  },
+  "[OBJECT] Compressed Air Launchers": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12",
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e",
+      "chunk-135dd9fb97837e61fde5461feedbba67"
+    ],
+    "count": 3,
+    "update_time": 1780570414,
+    "_id": "[OBJECT] Compressed Air Launchers"
+  },
+  "[OBJECT] Munitions Launchers": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569622,
+    "update_time": 1780569622,
+    "_id": "[OBJECT] Munitions Launchers"
+  },
+  "[EVENT] Protest in Little Village": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569623,
+    "update_time": 1780569623,
+    "_id": "[EVENT] Protest in Little Village"
+  },
+  "[EVENT] Interview with Chicago Block Club": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569623,
+    "update_time": 1780569623,
+    "_id": "[EVENT] Interview with Chicago Block Club"
+  },
+  "[EVENT] DHS OIG Report 2021": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 2,
+    "update_time": 1780570439,
+    "_id": "[EVENT] DHS OIG Report 2021"
+  },
+  "[EVENT] TRO Restriction": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569624,
+    "update_time": 1780569624,
+    "_id": "[EVENT] TRO Restriction"
+  },
+  "[PERSON] federal officer": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569624,
+    "update_time": 1780569624,
+    "_id": "[PERSON] federal officer"
+  },
+  "[OBJECT] gas canisters": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12"
+    ],
+    "count": 1,
+    "create_time": 1780569624,
+    "update_time": 1780569624,
+    "_id": "[OBJECT] gas canisters"
+  },
+  "[OBJECT] Facebook": {
+    "chunk_ids": [
+      "chunk-44de13747f538fd5aea71e9f9f17af12",
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 2,
+    "create_time": 1780569624,
+    "update_time": 1780569624,
+    "_id": "[OBJECT] Facebook"
+  },
+  "[PERSON] Figueroa": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569625,
+    "update_time": 1780569625,
+    "_id": "[PERSON] Figueroa"
+  },
+  "[PERSON] Masked man with a rifle": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569625,
+    "update_time": 1780569625,
+    "_id": "[PERSON] Masked man with a rifle"
+  },
+  "[PERSON] Person filming in Arlington Heights": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569625,
+    "update_time": 1780569625,
+    "_id": "[PERSON] Person filming in Arlington Heights"
+  },
+  "[PERSON] Assaulted woman": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569625,
+    "update_time": 1780569625,
+    "_id": "[PERSON] Assaulted woman"
+  },
+  "[PERSON] Masked agent": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569626,
+    "update_time": 1780569626,
+    "_id": "[PERSON] Masked agent"
+  },
+  "[PERSON] Arrested man in Arlington Heights": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569626,
+    "update_time": 1780569626,
+    "_id": "[PERSON] Arrested man in Arlington Heights"
+  },
+  "[PERSON] Person filming in Rolling Meadows": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569627,
+    "update_time": 1780569627,
+    "_id": "[PERSON] Person filming in Rolling Meadows"
+  },
+  "[OBJECT] Figueroas car": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569628,
+    "update_time": 1780569628,
+    "_id": "[OBJECT] Figueroas car"
+  },
+  "[OBJECT] Phone of assaulted woman": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569628,
+    "update_time": 1780569628,
+    "_id": "[OBJECT] Phone of assaulted woman"
+  },
+  "[OBJECT] Rifle": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569628,
+    "update_time": 1780569628,
+    "_id": "[OBJECT] Rifle"
+  },
+  "[OBJECT] Pepper spray": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569628,
+    "update_time": 1780569628,
+    "_id": "[OBJECT] Pepper spray"
+  },
+  "[OBJECT] Pepper ball gun": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9",
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 2,
+    "create_time": 1780569629,
+    "update_time": 1780569629,
+    "_id": "[OBJECT] Pepper ball gun"
+  },
+  "[OBJECT] Moving vehicle in Rolling Meadows": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569629,
+    "update_time": 1780569629,
+    "_id": "[OBJECT] Moving vehicle in Rolling Meadows"
+  },
+  "[LOCATION] Arlington Heights, Chicago": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569629,
+    "update_time": 1780569629,
+    "_id": "[LOCATION] Arlington Heights, Chicago"
+  },
+  "[LOCATION] Evanston neighbourhood, Chicago": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569629,
+    "update_time": 1780569629,
+    "_id": "[LOCATION] Evanston neighbourhood, Chicago"
+  },
+  "[LOCATION] Rolling Meadows": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9",
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 2,
+    "create_time": 1780569630,
+    "update_time": 1780569630,
+    "_id": "[LOCATION] Rolling Meadows"
+  },
+  "[EVENT] Arrest of Figueroa": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569630,
+    "update_time": 1780569630,
+    "_id": "[EVENT] Arrest of Figueroa"
+  },
+  "[EVENT] Confrontation in Arlington Heights Oct 24": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569630,
+    "update_time": 1780569630,
+    "_id": "[EVENT] Confrontation in Arlington Heights Oct 24"
+  },
+  "[EVENT] Arrest in Arlington Heights Oct 24": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569630,
+    "update_time": 1780569630,
+    "_id": "[EVENT] Arrest in Arlington Heights Oct 24"
+  },
+  "[EVENT] Protester dispersal in Evanston Oct 16": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569631,
+    "update_time": 1780569631,
+    "_id": "[EVENT] Protester dispersal in Evanston Oct 16"
+  },
+  "[EVENT] Parking lot incident in Rolling Meadows Oct 19": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569631,
+    "update_time": 1780569631,
+    "_id": "[EVENT] Parking lot incident in Rolling Meadows Oct 19"
+  },
+  "[EVENT] TRO issuance": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569631,
+    "update_time": 1780569631,
+    "_id": "[EVENT] TRO issuance"
+  },
+  "[EVENT] DHS Use of Force Policy Inquiry": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569631,
+    "update_time": 1780569631,
+    "_id": "[EVENT] DHS Use of Force Policy Inquiry"
+  },
+  "[OBJECT] Department of Homeland Security Use of Force Policy": {
+    "chunk_ids": [
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9"
+    ],
+    "count": 1,
+    "create_time": 1780569632,
+    "update_time": 1780569632,
+    "_id": "[OBJECT] Department of Homeland Security Use of Force Policy"
+  },
+  "[EVENT] TRO Issuance": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 1,
+    "create_time": 1780569632,
+    "update_time": 1780569632,
+    "_id": "[EVENT] TRO Issuance"
+  },
+  "[OBJECT] 40mm launchers": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 2,
+    "update_time": 1780570438,
+    "_id": "[OBJECT] 40mm launchers"
+  },
+  "[EVENT] Chemical Irritant Spraying Incident": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 1,
+    "create_time": 1780569632,
+    "update_time": 1780569632,
+    "_id": "[EVENT] Chemical Irritant Spraying Incident"
+  },
+  "[PERSON] Federal Officers": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 1,
+    "create_time": 1780569633,
+    "update_time": 1780569633,
+    "_id": "[PERSON] Federal Officers"
+  },
+  "[LOCATION] Sam's Club store": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 1,
+    "create_time": 1780569633,
+    "update_time": 1780569633,
+    "_id": "[LOCATION] Sam's Club store"
+  },
+  "[LOCATION] Cicero neighbourhood": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 1,
+    "create_time": 1780569634,
+    "update_time": 1780569634,
+    "_id": "[LOCATION] Cicero neighbourhood"
+  },
+  "[OBJECT] Dark grey Chevrolet Tahoe": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 1,
+    "create_time": 1780569634,
+    "update_time": 1780569634,
+    "_id": "[OBJECT] Dark grey Chevrolet Tahoe"
+  },
+  "[EVENT] Little Village protests": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 1,
+    "create_time": 1780569634,
+    "update_time": 1780569634,
+    "_id": "[EVENT] Little Village protests"
+  },
+  "[EVENT] Hoffman Estates Arrest": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 1,
+    "create_time": 1780569635,
+    "update_time": 1780569635,
+    "_id": "[EVENT] Hoffman Estates Arrest"
+  },
+  "[PERSON] Teenage girl": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 1,
+    "create_time": 1780569635,
+    "update_time": 1780569635,
+    "_id": "[PERSON] Teenage girl"
+  },
+  "[LOCATION] Hoffman Estates": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e",
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 2,
+    "create_time": 1780569635,
+    "update_time": 1780569635,
+    "_id": "[LOCATION] Hoffman Estates"
+  },
+  "[PERSON] Assistant Secretary McLaughlin": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 1,
+    "create_time": 1780569636,
+    "update_time": 1780569636,
+    "_id": "[PERSON] Assistant Secretary McLaughlin"
+  },
+  "[OBJECT] Handcuffs": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 1,
+    "create_time": 1780569636,
+    "update_time": 1780569636,
+    "_id": "[OBJECT] Handcuffs"
+  },
+  "[EVENT] Operation Midway Blitz Arrests": {
+    "chunk_ids": [
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e"
+    ],
+    "count": 1,
+    "create_time": 1780569636,
+    "update_time": 1780569636,
+    "_id": "[EVENT] Operation Midway Blitz Arrests"
+  },
+  "[EVENT] Rolling Meadows Incident Oct 19": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569636,
+    "update_time": 1780569636,
+    "_id": "[EVENT] Rolling Meadows Incident Oct 19"
+  },
+  "[PERSON] Rolling Meadows Officer": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569637,
+    "update_time": 1780569637,
+    "_id": "[PERSON] Rolling Meadows Officer"
+  },
+  "[PERSON] Rolling Meadows Filmer": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569637,
+    "update_time": 1780569637,
+    "_id": "[PERSON] Rolling Meadows Filmer"
+  },
+  "[PERSON] Federal Judge": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569637,
+    "update_time": 1780569637,
+    "_id": "[PERSON] Federal Judge"
+  },
+  "[LOCATION] Berwyn": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569637,
+    "update_time": 1780569637,
+    "_id": "[LOCATION] Berwyn"
+  },
+  "[EVENT] Berwyn Incident Oct 20": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569638,
+    "update_time": 1780569638,
+    "_id": "[EVENT] Berwyn Incident Oct 20"
+  },
+  "[PERSON] Berwyn Agent": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569638,
+    "update_time": 1780569638,
+    "_id": "[PERSON] Berwyn Agent"
+  },
+  "[PERSON] Pregnant Woman": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569638,
+    "update_time": 1780569638,
+    "_id": "[PERSON] Pregnant Woman"
+  },
+  "[OBJECT] Gun": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569638,
+    "update_time": 1780569638,
+    "_id": "[OBJECT] Gun"
+  },
+  "[EVENT] Judge Ellis TRO": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569639,
+    "update_time": 1780569639,
+    "_id": "[EVENT] Judge Ellis TRO"
+  },
+  "[EVENT] TRO Hearing Nov 5": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569639,
+    "update_time": 1780569639,
+    "_id": "[EVENT] TRO Hearing Nov 5"
+  },
+  "[ORGANIZATION] Newsweek": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599",
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 2,
+    "create_time": 1780569639,
+    "update_time": 1780569639,
+    "_id": "[ORGANIZATION] Newsweek"
+  },
+  "[PERSON] Sebastian Vandermeersch": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569641,
+    "update_time": 1780569641,
+    "_id": "[PERSON] Sebastian Vandermeersch"
+  },
+  "[PERSON] Melissa Zhu": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569641,
+    "update_time": 1780569641,
+    "_id": "[PERSON] Melissa Zhu"
+  },
+  "[PERSON] Fraser Crichton": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569641,
+    "update_time": 1780569641,
+    "_id": "[PERSON] Fraser Crichton"
+  },
+  "[PERSON] Olivia Gresham": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569642,
+    "update_time": 1780569642,
+    "_id": "[PERSON] Olivia Gresham"
+  },
+  "[PERSON] Bonny Albo": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569642,
+    "update_time": 1780569642,
+    "_id": "[PERSON] Bonny Albo"
+  },
+  "[PERSON] Vladimir Zaha": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569642,
+    "update_time": 1780569642,
+    "_id": "[PERSON] Vladimir Zaha"
+  },
+  "[ORGANIZATION] Bellingcat Global Authentication Project": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569642,
+    "update_time": 1780569642,
+    "_id": "[ORGANIZATION] Bellingcat Global Authentication Project"
+  },
+  "[ORGANIZATION] Bellingcat Investigation Team": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569643,
+    "update_time": 1780569643,
+    "_id": "[ORGANIZATION] Bellingcat Investigation Team"
+  },
+  "[LOCATION] Evanston neighbourhood": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569643,
+    "update_time": 1780569643,
+    "_id": "[LOCATION] Evanston neighbourhood"
+  },
+  "[EVENT] Evanston Incident": {
+    "chunk_ids": [
+      "chunk-cff84815afd023d8e8bbca3290354599"
+    ],
+    "count": 1,
+    "create_time": 1780569643,
+    "update_time": 1780569643,
+    "_id": "[EVENT] Evanston Incident"
+  },
+  "[PERSON] Ellis": {
+    "chunk_ids": [
+      "chunk-c62092979a3f2ca6e48f697d46cc52ea"
+    ],
+    "count": 1,
+    "create_time": 1780569646,
+    "update_time": 1780569646,
+    "_id": "[PERSON] Ellis"
+  },
+  "[EVENT] Order for reports and footage": {
+    "chunk_ids": [
+      "chunk-c62092979a3f2ca6e48f697d46cc52ea"
+    ],
+    "count": 1,
+    "create_time": 1780569646,
+    "update_time": 1780569646,
+    "_id": "[EVENT] Order for reports and footage"
+  },
+  "[OBJECT] reports": {
+    "chunk_ids": [
+      "chunk-c62092979a3f2ca6e48f697d46cc52ea"
+    ],
+    "count": 1,
+    "create_time": 1780569646,
+    "update_time": 1780569646,
+    "_id": "[OBJECT] reports"
+  },
+  "[OBJECT] body camera footage": {
+    "chunk_ids": [
+      "chunk-c62092979a3f2ca6e48f697d46cc52ea"
+    ],
+    "count": 1,
+    "create_time": 1780569647,
+    "update_time": 1780569647,
+    "_id": "[OBJECT] body camera footage"
+  },
+  "[EVENT] Temporary Restraining Order": {
+    "chunk_ids": [
+      "chunk-c62092979a3f2ca6e48f697d46cc52ea",
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 2,
+    "update_time": 1780570435,
+    "_id": "[EVENT] Temporary Restraining Order"
+  },
+  "[EVENT] Analysis of social media videos": {
+    "chunk_ids": [
+      "chunk-c62092979a3f2ca6e48f697d46cc52ea"
+    ],
+    "count": 1,
+    "create_time": 1780569656,
+    "update_time": 1780569656,
+    "_id": "[EVENT] Analysis of social media videos"
+  },
+  "[OBJECT] social media videos": {
+    "chunk_ids": [
+      "chunk-c62092979a3f2ca6e48f697d46cc52ea"
+    ],
+    "count": 1,
+    "create_time": 1780569657,
+    "update_time": 1780569657,
+    "_id": "[OBJECT] social media videos"
+  },
+  "[EVENT] Tear gas deployment Albany Park Oct 12": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569657,
+    "update_time": 1780569657,
+    "_id": "[EVENT] Tear gas deployment Albany Park Oct 12"
+  },
+  "[LOCATION] Albany Park": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144",
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 2,
+    "create_time": 1780569658,
+    "update_time": 1780569658,
+    "_id": "[LOCATION] Albany Park"
+  },
+  "[EVENT] Tear gas deployment East Side of Chicago Oct 14": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569658,
+    "update_time": 1780569658,
+    "_id": "[EVENT] Tear gas deployment East Side of Chicago Oct 14"
+  },
+  "[LOCATION] East Side of Chicago": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144",
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 2,
+    "create_time": 1780569658,
+    "update_time": 1780569658,
+    "_id": "[LOCATION] East Side of Chicago"
+  },
+  "[EVENT] Tear gas deployment Lakeview Oct 24": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569658,
+    "update_time": 1780569658,
+    "_id": "[EVENT] Tear gas deployment Lakeview Oct 24"
+  },
+  "[LOCATION] Lakeview": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144",
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 2,
+    "create_time": 1780569659,
+    "update_time": 1780569659,
+    "_id": "[LOCATION] Lakeview"
+  },
+  "[EVENT] Tear gas deployment Avondale Oct 25": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569659,
+    "update_time": 1780569659,
+    "_id": "[EVENT] Tear gas deployment Avondale Oct 25"
+  },
+  "[LOCATION] Avondale": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144",
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 2,
+    "create_time": 1780569660,
+    "update_time": 1780569660,
+    "_id": "[LOCATION] Avondale"
+  },
+  "[EVENT] Little Village protests Oct 23": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569660,
+    "update_time": 1780569660,
+    "_id": "[EVENT] Little Village protests Oct 23"
+  },
+  "[PERSON] Enrique Bahena": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569660,
+    "update_time": 1780569660,
+    "_id": "[PERSON] Enrique Bahena"
+  },
+  "[OBJECT] B&T GL-06 40mm launcher": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569660,
+    "update_time": 1780569660,
+    "_id": "[OBJECT] B&T GL-06 40mm launcher"
+  },
+  "[OBJECT] Pepper ball": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569661,
+    "update_time": 1780569661,
+    "_id": "[OBJECT] Pepper ball"
+  },
+  "[EVENT] Shooting of Enrique Bahena Oct 23": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569661,
+    "update_time": 1780569661,
+    "_id": "[EVENT] Shooting of Enrique Bahena Oct 23"
+  },
+  "[EVENT] Court filing Oct 26": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569661,
+    "update_time": 1780569661,
+    "_id": "[EVENT] Court filing Oct 26"
+  },
+  "[OBJECT] Video of Little Village protests": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569662,
+    "update_time": 1780569662,
+    "_id": "[OBJECT] Video of Little Village protests"
+  },
+  "[OBJECT] Temporary Restraining Order (TRO)": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144",
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 2,
+    "create_time": 1780569662,
+    "update_time": 1780569662,
+    "_id": "[OBJECT] Temporary Restraining Order (TRO)"
+  },
+  "[PERSON] Unidentified Agent 1": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569662,
+    "update_time": 1780569662,
+    "_id": "[PERSON] Unidentified Agent 1"
+  },
+  "[OBJECT] Tan-colored van": {
+    "chunk_ids": [
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144"
+    ],
+    "count": 1,
+    "create_time": 1780569662,
+    "update_time": 1780569662,
+    "_id": "[OBJECT] Tan-colored van"
+  },
+  "[ORGANIZATION] US Customs and Border Patrol": {
+    "chunk_ids": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 1,
+    "create_time": 1780569663,
+    "update_time": 1780569663,
+    "_id": "[ORGANIZATION] US Customs and Border Patrol"
+  },
+  "[ORGANIZATION] Trump administration": {
+    "chunk_ids": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 1,
+    "create_time": 1780569664,
+    "update_time": 1780569664,
+    "_id": "[ORGANIZATION] Trump administration"
+  },
+  "[LOCATION] Old Irving Park neighbourhood": {
+    "chunk_ids": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 1,
+    "create_time": 1780569664,
+    "update_time": 1780569664,
+    "_id": "[LOCATION] Old Irving Park neighbourhood"
+  },
+  "[OBJECT] Use-of-force reports": {
+    "chunk_ids": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 1,
+    "create_time": 1780569666,
+    "update_time": 1780569666,
+    "_id": "[OBJECT] Use-of-force reports"
+  },
+  "[OBJECT] Body camera footage": {
+    "chunk_ids": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 1,
+    "create_time": 1780569666,
+    "update_time": 1780569666,
+    "_id": "[OBJECT] Body camera footage"
+  },
+  "[EVENT] Deployment of tear gas in Old Irving Park": {
+    "chunk_ids": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 1,
+    "create_time": 1780569666,
+    "update_time": 1780569666,
+    "_id": "[EVENT] Deployment of tear gas in Old Irving Park"
+  },
+  "[EVENT] Lawsuit against Trump administration": {
+    "chunk_ids": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 1,
+    "create_time": 1780569666,
+    "update_time": 1780569666,
+    "_id": "[EVENT] Lawsuit against Trump administration"
+  },
+  "[EVENT] Issuance of Temporary Restraining Order": {
+    "chunk_ids": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 1,
+    "create_time": 1780569667,
+    "update_time": 1780569667,
+    "_id": "[EVENT] Issuance of Temporary Restraining Order"
+  },
+  "[EVENT] Court hearing on Tuesday": {
+    "chunk_ids": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 1,
+    "create_time": 1780569667,
+    "update_time": 1780569667,
+    "_id": "[EVENT] Court hearing on Tuesday"
+  },
+  "[PERSON] Journalists": {
+    "chunk_ids": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 1,
+    "create_time": 1780569668,
+    "update_time": 1780569668,
+    "_id": "[PERSON] Journalists"
+  },
+  "[PERSON] Faith leaders": {
+    "chunk_ids": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 1,
+    "create_time": 1780569668,
+    "update_time": 1780569668,
+    "_id": "[PERSON] Faith leaders"
+  },
+  "[PERSON] Children in Old Irving Park": {
+    "chunk_ids": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3"
+    ],
+    "count": 1,
+    "create_time": 1780569669,
+    "update_time": 1780569669,
+    "_id": "[PERSON] Children in Old Irving Park"
+  },
+  "[EVENT] DHS Immigration Raids and Protests": {
+    "chunk_ids": [
+      "chunk-ab3c23dc96eb032c4cf34a6c4dd9a23b"
+    ],
+    "count": 1,
+    "create_time": 1780569669,
+    "update_time": 1780569669,
+    "_id": "[EVENT] DHS Immigration Raids and Protests"
+  },
+  "[OBJECT] Less-Lethal Weapons": {
+    "chunk_ids": [
+      "chunk-ab3c23dc96eb032c4cf34a6c4dd9a23b"
+    ],
+    "count": 1,
+    "create_time": 1780569670,
+    "update_time": 1780569670,
+    "_id": "[OBJECT] Less-Lethal Weapons"
+  },
+  "[OBJECT] Facebook video": {
+    "chunk_ids": [
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 1,
+    "create_time": 1780569671,
+    "update_time": 1780569671,
+    "_id": "[OBJECT] Facebook video"
+  },
+  "[LOCATION] Little Village neighbourhood": {
+    "chunk_ids": [
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 1,
+    "create_time": 1780569671,
+    "update_time": 1780569671,
+    "_id": "[LOCATION] Little Village neighbourhood"
+  },
+  "[EVENT] Oct 23 clashes in Little Village": {
+    "chunk_ids": [
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 1,
+    "create_time": 1780569671,
+    "update_time": 1780569671,
+    "_id": "[EVENT] Oct 23 clashes in Little Village"
+  },
+  "[EVENT] Oct 12 tear gas deployment in Albany Park": {
+    "chunk_ids": [
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 1,
+    "create_time": 1780569671,
+    "update_time": 1780569671,
+    "_id": "[EVENT] Oct 12 tear gas deployment in Albany Park"
+  },
+  "[EVENT] Oct 14 tear gas deployment in East Side of Chicago": {
+    "chunk_ids": [
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 1,
+    "create_time": 1780569672,
+    "update_time": 1780569672,
+    "_id": "[EVENT] Oct 14 tear gas deployment in East Side of Chicago"
+  },
+  "[EVENT] Oct 24 tear gas deployment in Lakeview": {
+    "chunk_ids": [
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 1,
+    "create_time": 1780569672,
+    "update_time": 1780569672,
+    "_id": "[EVENT] Oct 24 tear gas deployment in Lakeview"
+  },
+  "[EVENT] Oct 25 tear gas deployment in Avondale": {
+    "chunk_ids": [
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 1,
+    "create_time": 1780569672,
+    "update_time": 1780569672,
+    "_id": "[EVENT] Oct 25 tear gas deployment in Avondale"
+  },
+  "[PERSON] 16-year-old US citizen": {
+    "chunk_ids": [
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 1,
+    "create_time": 1780569672,
+    "update_time": 1780569672,
+    "_id": "[PERSON] 16-year-old US citizen"
+  },
+  "[PERSON] Protester who filmed the encounter": {
+    "chunk_ids": [
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 1,
+    "create_time": 1780569673,
+    "update_time": 1780569673,
+    "_id": "[PERSON] Protester who filmed the encounter"
+  },
+  "[EVENT] Arrest of eight people in Little Village": {
+    "chunk_ids": [
+      "chunk-e88518d6859e408eed3931911f349632"
+    ],
+    "count": 1,
+    "create_time": 1780569673,
+    "update_time": 1780569673,
+    "_id": "[EVENT] Arrest of eight people in Little Village"
+  },
+  "[PERSON] McLaughlin": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569673,
+    "update_time": 1780569673,
+    "_id": "[PERSON] McLaughlin"
+  },
+  "[EVENT] Burglary arrest in Hoffman Estates 2024": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569674,
+    "update_time": 1780569674,
+    "_id": "[EVENT] Burglary arrest in Hoffman Estates 2024"
+  },
+  "[OBJECT] X": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569674,
+    "update_time": 1780569674,
+    "_id": "[OBJECT] X"
+  },
+  "[PERSON] Eddie Guillen": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569674,
+    "update_time": 1780569674,
+    "_id": "[PERSON] Eddie Guillen"
+  },
+  "[EVENT] Deployment of chemical agents against Illinois protesters": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569675,
+    "update_time": 1780569675,
+    "_id": "[EVENT] Deployment of chemical agents against Illinois protesters"
+  },
+  "[PERSON] Isabel Mata": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569675,
+    "update_time": 1780569675,
+    "_id": "[PERSON] Isabel Mata"
+  },
+  "[EVENT] Arrest of Isabel Mata Oct 22": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569676,
+    "update_time": 1780569676,
+    "_id": "[EVENT] Arrest of Isabel Mata Oct 22"
+  },
+  "[PERSON] Dayanne Figueroa": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569676,
+    "update_time": 1780569676,
+    "_id": "[PERSON] Dayanne Figueroa"
+  },
+  "[EVENT] Arrest of Dayanne Figueroa Oct 10": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569676,
+    "update_time": 1780569676,
+    "_id": "[EVENT] Arrest of Dayanne Figueroa Oct 10"
+  },
+  "[LOCATION] Hubbard Street": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569677,
+    "update_time": 1780569677,
+    "_id": "[LOCATION] Hubbard Street"
+  },
+  "[OBJECT] Figueroa's car": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569677,
+    "update_time": 1780569677,
+    "_id": "[OBJECT] Figueroa's car"
+  },
+  "[OBJECT] Unmarked government vehicle": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569677,
+    "update_time": 1780569677,
+    "_id": "[OBJECT] Unmarked government vehicle"
+  },
+  "[OBJECT] Video of Isabel Mata arrest": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569677,
+    "update_time": 1780569677,
+    "_id": "[OBJECT] Video of Isabel Mata arrest"
+  },
+  "[OBJECT] Video of Dayanne Figueroa arrest": {
+    "chunk_ids": [
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a"
+    ],
+    "count": 1,
+    "create_time": 1780569678,
+    "update_time": 1780569678,
+    "_id": "[OBJECT] Video of Dayanne Figueroa arrest"
+  },
+  "[OBJECT] court records": {
+    "chunk_ids": [
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9"
+    ],
+    "count": 1,
+    "create_time": 1780569681,
+    "update_time": 1780569681,
+    "_id": "[OBJECT] court records"
+  },
+  "[ORGANIZATION] Axon": {
+    "chunk_ids": [
+      "chunk-b9105d4bba19aade035da9b3a25e5ca4"
+    ],
+    "count": 1,
+    "create_time": 1780570385,
+    "update_time": 1780570385,
+    "_id": "[ORGANIZATION] Axon"
+  },
+  "[OBJECT] TASER 10": {
+    "chunk_ids": [
+      "chunk-b9105d4bba19aade035da9b3a25e5ca4"
+    ],
+    "count": 1,
+    "create_time": 1780570385,
+    "update_time": 1780570385,
+    "_id": "[OBJECT] TASER 10"
+  },
+  "[OBJECT] TASER 7": {
+    "chunk_ids": [
+      "chunk-b9105d4bba19aade035da9b3a25e5ca4"
+    ],
+    "count": 1,
+    "create_time": 1780570386,
+    "update_time": 1780570386,
+    "_id": "[OBJECT] TASER 7"
+  },
+  "[OBJECT] ECW": {
+    "chunk_ids": [
+      "chunk-b9105d4bba19aade035da9b3a25e5ca4"
+    ],
+    "count": 1,
+    "create_time": 1780570386,
+    "update_time": 1780570386,
+    "_id": "[OBJECT] ECW"
+  },
+  "[EVENT] CBP 2021 use-of-force policy issuance": {
+    "chunk_ids": [
+      "chunk-b9105d4bba19aade035da9b3a25e5ca4",
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6"
+    ],
+    "count": 2,
+    "create_time": 1780570388,
+    "update_time": 1780570388,
+    "_id": "[EVENT] CBP 2021 use-of-force policy issuance"
+  },
+  "[OBJECT] Axon policy guide": {
+    "chunk_ids": [
+      "chunk-b9105d4bba19aade035da9b3a25e5ca4"
+    ],
+    "count": 1,
+    "create_time": 1780570392,
+    "update_time": 1780570392,
+    "_id": "[OBJECT] Axon policy guide"
+  },
+  "[ORGANIZATION] US Office of Inspector General": {
+    "chunk_ids": [
+      "chunk-cb30c633d5049dcab722f2ef0da09357"
+    ],
+    "count": 1,
+    "create_time": 1780570393,
+    "update_time": 1780570393,
+    "_id": "[ORGANIZATION] US Office of Inspector General"
+  },
+  "[OBJECT] PepperBall guns": {
+    "chunk_ids": [
+      "chunk-cb30c633d5049dcab722f2ef0da09357",
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108"
+    ],
+    "count": 2,
+    "create_time": 1780570399,
+    "update_time": 1780570399,
+    "_id": "[OBJECT] PepperBall guns"
+  },
+  "[OBJECT] FN303": {
+    "chunk_ids": [
+      "chunk-cb30c633d5049dcab722f2ef0da09357",
+      "chunk-135dd9fb97837e61fde5461feedbba67",
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108"
+    ],
+    "count": 3,
+    "create_time": 1780570400,
+    "update_time": 1780570400,
+    "_id": "[OBJECT] FN303"
+  },
+  "[OBJECT] B&T GL06 launcher": {
+    "chunk_ids": [
+      "chunk-cb30c633d5049dcab722f2ef0da09357"
+    ],
+    "count": 1,
+    "create_time": 1780570400,
+    "update_time": 1780570400,
+    "_id": "[OBJECT] B&T GL06 launcher"
+  },
+  "[OBJECT] Penn Arms 40mm multi-shot launchers": {
+    "chunk_ids": [
+      "chunk-cb30c633d5049dcab722f2ef0da09357"
+    ],
+    "count": 1,
+    "create_time": 1780570400,
+    "update_time": 1780570400,
+    "_id": "[OBJECT] Penn Arms 40mm multi-shot launchers"
+  },
+  "[EVENT] 2021 OIG Report": {
+    "chunk_ids": [
+      "chunk-cb30c633d5049dcab722f2ef0da09357"
+    ],
+    "count": 1,
+    "create_time": 1780570402,
+    "update_time": 1780570402,
+    "_id": "[EVENT] 2021 OIG Report"
+  },
+  "[EVENT] Clashes between Border Patrol and protesters": {
+    "chunk_ids": [
+      "chunk-cb30c633d5049dcab722f2ef0da09357"
+    ],
+    "count": 1,
+    "create_time": 1780570403,
+    "update_time": 1780570403,
+    "_id": "[EVENT] Clashes between Border Patrol and protesters"
+  },
+  "[EVENT] Protests following Good's death": {
+    "chunk_ids": [
+      "chunk-cb30c633d5049dcab722f2ef0da09357",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 2,
+    "create_time": 1780570403,
+    "update_time": 1780570403,
+    "_id": "[EVENT] Protests following Good's death"
+  },
+  "[PERSON] Border Patrol agent": {
+    "chunk_ids": [
+      "chunk-cb30c633d5049dcab722f2ef0da09357"
+    ],
+    "count": 1,
+    "create_time": 1780570403,
+    "update_time": 1780570403,
+    "_id": "[PERSON] Border Patrol agent"
+  },
+  "[OBJECT] CBP Use of Force Policy": {
+    "chunk_ids": [
+      "chunk-cb30c633d5049dcab722f2ef0da09357"
+    ],
+    "count": 1,
+    "create_time": 1780570404,
+    "update_time": 1780570404,
+    "_id": "[OBJECT] CBP Use of Force Policy"
+  },
+  "[OBJECT] OC chemical irritant": {
+    "chunk_ids": [
+      "chunk-cb30c633d5049dcab722f2ef0da09357"
+    ],
+    "count": 1,
+    "create_time": 1780570404,
+    "update_time": 1780570404,
+    "_id": "[OBJECT] OC chemical irritant"
+  },
+  "[OBJECT] CS chemical irritant": {
+    "chunk_ids": [
+      "chunk-cb30c633d5049dcab722f2ef0da09357"
+    ],
+    "count": 1,
+    "create_time": 1780570404,
+    "update_time": 1780570404,
+    "_id": "[OBJECT] CS chemical irritant"
+  },
+  "[EVENT] Minneapolis ICE Shooting": {
+    "chunk_ids": [
+      "chunk-31e0d82f3c8dd8bab2a9bd241ca5125d"
+    ],
+    "count": 1,
+    "create_time": 1780570405,
+    "update_time": 1780570405,
+    "_id": "[EVENT] Minneapolis ICE Shooting"
+  },
+  "[EVENT] Use of Less-Lethal Launcher in Minneapolis": {
+    "chunk_ids": [
+      "chunk-31e0d82f3c8dd8bab2a9bd241ca5125d"
+    ],
+    "count": 1,
+    "create_time": 1780570410,
+    "update_time": 1780570410,
+    "_id": "[EVENT] Use of Less-Lethal Launcher in Minneapolis"
+  },
+  "[PERSON] Federal Agent": {
+    "chunk_ids": [
+      "chunk-31e0d82f3c8dd8bab2a9bd241ca5125d"
+    ],
+    "count": 1,
+    "create_time": 1780570411,
+    "update_time": 1780570411,
+    "_id": "[PERSON] Federal Agent"
+  },
+  "[ORGANIZATION] FN America": {
+    "chunk_ids": [
+      "chunk-135dd9fb97837e61fde5461feedbba67",
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108"
+    ],
+    "count": 2,
+    "create_time": 1780570411,
+    "update_time": 1780570411,
+    "_id": "[ORGANIZATION] FN America"
+  },
+  "[ORGANIZATION] PepperBall": {
+    "chunk_ids": [
+      "chunk-135dd9fb97837e61fde5461feedbba67"
+    ],
+    "count": 1,
+    "create_time": 1780570412,
+    "update_time": 1780570412,
+    "_id": "[ORGANIZATION] PepperBall"
+  },
+  "[OBJECT] DHS use-of-force policy": {
+    "chunk_ids": [
+      "chunk-135dd9fb97837e61fde5461feedbba67"
+    ],
+    "count": 1,
+    "create_time": 1780570413,
+    "update_time": 1780570413,
+    "_id": "[OBJECT] DHS use-of-force policy"
+  },
+  "[OBJECT] CBP use-of-force policy": {
+    "chunk_ids": [
+      "chunk-135dd9fb97837e61fde5461feedbba67"
+    ],
+    "count": 1,
+    "create_time": 1780570414,
+    "update_time": 1780570414,
+    "_id": "[OBJECT] CBP use-of-force policy"
+  },
+  "[OBJECT] ICE Firearms and Use of Force Directive": {
+    "chunk_ids": [
+      "chunk-135dd9fb97837e61fde5461feedbba67"
+    ],
+    "count": 1,
+    "create_time": 1780570414,
+    "update_time": 1780570414,
+    "_id": "[OBJECT] ICE Firearms and Use of Force Directive"
+  },
+  "[EVENT] Bellingcat request for policies": {
+    "chunk_ids": [
+      "chunk-135dd9fb97837e61fde5461feedbba67"
+    ],
+    "count": 1,
+    "create_time": 1780570415,
+    "update_time": 1780570415,
+    "_id": "[EVENT] Bellingcat request for policies"
+  },
+  "[EVENT] Immigration operations": {
+    "chunk_ids": [
+      "chunk-135dd9fb97837e61fde5461feedbba67"
+    ],
+    "count": 1,
+    "create_time": 1780570415,
+    "update_time": 1780570415,
+    "_id": "[EVENT] Immigration operations"
+  },
+  "[EVENT] Riot-control activities in protests": {
+    "chunk_ids": [
+      "chunk-135dd9fb97837e61fde5461feedbba67"
+    ],
+    "count": 1,
+    "create_time": 1780570416,
+    "update_time": 1780570416,
+    "_id": "[EVENT] Riot-control activities in protests"
+  },
+  "[OBJECT] Riot-control weapons": {
+    "chunk_ids": [
+      "chunk-135dd9fb97837e61fde5461feedbba67"
+    ],
+    "count": 1,
+    "create_time": 1780570416,
+    "update_time": 1780570416,
+    "_id": "[OBJECT] Riot-control weapons"
+  },
+  "[ORGANIZATION] SABRE": {
+    "chunk_ids": [
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6",
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 2,
+    "create_time": 1780570417,
+    "update_time": 1780570417,
+    "_id": "[ORGANIZATION] SABRE"
+  },
+  "[OBJECT] SABRE OC and CS sprays": {
+    "chunk_ids": [
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6"
+    ],
+    "count": 1,
+    "create_time": 1780570417,
+    "update_time": 1780570417,
+    "_id": "[OBJECT] SABRE OC and CS sprays"
+  },
+  "[ORGANIZATION] Air Force Research Laboratory": {
+    "chunk_ids": [
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6"
+    ],
+    "count": 1,
+    "create_time": 1780570417,
+    "update_time": 1780570417,
+    "_id": "[ORGANIZATION] Air Force Research Laboratory"
+  },
+  "[EVENT] Air Force Research Laboratory eye damage study": {
+    "chunk_ids": [
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6"
+    ],
+    "count": 1,
+    "create_time": 1780570418,
+    "update_time": 1780570418,
+    "_id": "[EVENT] Air Force Research Laboratory eye damage study"
+  },
+  "[ORGANIZATION] Mesa Police Department": {
+    "chunk_ids": [
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6"
+    ],
+    "count": 1,
+    "create_time": 1780570418,
+    "update_time": 1780570418,
+    "_id": "[ORGANIZATION] Mesa Police Department"
+  },
+  "[OBJECT] SABRE Red MK-9": {
+    "chunk_ids": [
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6"
+    ],
+    "count": 1,
+    "create_time": 1780570418,
+    "update_time": 1780570418,
+    "_id": "[OBJECT] SABRE Red MK-9"
+  },
+  "[OBJECT] CBP 2021 use-of-force policy": {
+    "chunk_ids": [
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6",
+      "chunk-033eff3da049499c50400c71bf5b6058",
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 3,
+    "create_time": 1780570419,
+    "update_time": 1780570419,
+    "_id": "[OBJECT] CBP 2021 use-of-force policy"
+  },
+  "[OBJECT] Electronic Control Weapons (ECWs)": {
+    "chunk_ids": [
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6"
+    ],
+    "count": 1,
+    "create_time": 1780570419,
+    "update_time": 1780570419,
+    "_id": "[OBJECT] Electronic Control Weapons (ECWs)"
+  },
+  "[EVENT] Immigration-related raids": {
+    "chunk_ids": [
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6"
+    ],
+    "count": 1,
+    "create_time": 1780570419,
+    "update_time": 1780570419,
+    "_id": "[EVENT] Immigration-related raids"
+  },
+  "[OBJECT] Handguns": {
+    "chunk_ids": [
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6"
+    ],
+    "count": 1,
+    "create_time": 1780570419,
+    "update_time": 1780570419,
+    "_id": "[OBJECT] Handguns"
+  },
+  "[PERSON] Justin Baird": {
+    "chunk_ids": [
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108",
+      "chunk-033eff3da049499c50400c71bf5b6058",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 3,
+    "create_time": 1780570420,
+    "update_time": 1780570420,
+    "_id": "[PERSON] Justin Baird"
+  },
+  "[OBJECT] TAC-SF PepperBall gun": {
+    "chunk_ids": [
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108"
+    ],
+    "count": 1,
+    "create_time": 1780570420,
+    "update_time": 1780570420,
+    "_id": "[OBJECT] TAC-SF PepperBall gun"
+  },
+  "[OBJECT] EL-2 hopper": {
+    "chunk_ids": [
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108"
+    ],
+    "count": 1,
+    "create_time": 1780570420,
+    "update_time": 1780570420,
+    "_id": "[OBJECT] EL-2 hopper"
+  },
+  "[OBJECT] TAC-SA Pro": {
+    "chunk_ids": [
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108"
+    ],
+    "count": 1,
+    "create_time": 1780570420,
+    "update_time": 1780570420,
+    "_id": "[OBJECT] TAC-SA Pro"
+  },
+  "[OBJECT] PepperBall VKS Pro": {
+    "chunk_ids": [
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108"
+    ],
+    "count": 1,
+    "create_time": 1780570421,
+    "update_time": 1780570421,
+    "_id": "[OBJECT] PepperBall VKS Pro"
+  },
+  "[EVENT] Immigration enforcement activities": {
+    "chunk_ids": [
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108"
+    ],
+    "count": 1,
+    "create_time": 1780570421,
+    "update_time": 1780570421,
+    "_id": "[EVENT] Immigration enforcement activities"
+  },
+  "[EVENT] January 2021 CBP Use of Force Policy": {
+    "chunk_ids": [
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108"
+    ],
+    "count": 1,
+    "create_time": 1780570421,
+    "update_time": 1780570421,
+    "_id": "[EVENT] January 2021 CBP Use of Force Policy"
+  },
+  "[PERSON] federal agents": {
+    "chunk_ids": [
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108"
+    ],
+    "count": 1,
+    "create_time": 1780570421,
+    "update_time": 1780570421,
+    "_id": "[PERSON] federal agents"
+  },
+  "[ORGANIZATION] Combined Tactical Systems": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058",
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 2,
+    "create_time": 1780570422,
+    "update_time": 1780570422,
+    "_id": "[ORGANIZATION] Combined Tactical Systems"
+  },
+  "[ORGANIZATION] Newsy": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 1,
+    "create_time": 1780570422,
+    "update_time": 1780570422,
+    "_id": "[ORGANIZATION] Newsy"
+  },
+  "[PERSON] Nick Sortor": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 1,
+    "create_time": 1780570422,
+    "update_time": 1780570422,
+    "_id": "[PERSON] Nick Sortor"
+  },
+  "[PERSON] Andrew Hazzard": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 1,
+    "create_time": 1780570422,
+    "update_time": 1780570422,
+    "_id": "[PERSON] Andrew Hazzard"
+  },
+  "[OBJECT] Triple-Chaser grenade": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 1,
+    "create_time": 1780570423,
+    "update_time": 1780570423,
+    "_id": "[OBJECT] Triple-Chaser grenade"
+  },
+  "[OBJECT] Riot Control CS Grenade": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 1,
+    "create_time": 1780570426,
+    "update_time": 1780570426,
+    "_id": "[OBJECT] Riot Control CS Grenade"
+  },
+  "[EVENT] Deployment of weapons against protesters in Illinois": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 1,
+    "create_time": 1780570428,
+    "update_time": 1780570428,
+    "_id": "[EVENT] Deployment of weapons against protesters in Illinois"
+  },
+  "[EVENT] Deployment of green smoke grenades in Minnesota": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 1,
+    "create_time": 1780570428,
+    "update_time": 1780570428,
+    "_id": "[EVENT] Deployment of green smoke grenades in Minnesota"
+  },
+  "[EVENT] 2021 analysis of less-lethal munitions": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 1,
+    "create_time": 1780570428,
+    "update_time": 1780570428,
+    "_id": "[EVENT] 2021 analysis of less-lethal munitions"
+  },
+  "[OBJECT] Tear Gas": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 1,
+    "create_time": 1780570429,
+    "update_time": 1780570429,
+    "_id": "[OBJECT] Tear Gas"
+  },
+  "[OBJECT] Pepper Balls": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 1,
+    "create_time": 1780570430,
+    "update_time": 1780570430,
+    "_id": "[OBJECT] Pepper Balls"
+  },
+  "[OBJECT] Flash-bangs": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 1,
+    "create_time": 1780570430,
+    "update_time": 1780570430,
+    "_id": "[OBJECT] Flash-bangs"
+  },
+  "[OBJECT] Smoke grenades": {
+    "chunk_ids": [
+      "chunk-033eff3da049499c50400c71bf5b6058"
+    ],
+    "count": 1,
+    "create_time": 1780570430,
+    "update_time": 1780570430,
+    "_id": "[OBJECT] Smoke grenades"
+  },
+  "[ORGANIZATION] Immigration and Customs Enforcement": {
+    "chunk_ids": [
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 1,
+    "create_time": 1780570431,
+    "update_time": 1780570431,
+    "_id": "[ORGANIZATION] Immigration and Customs Enforcement"
+  },
+  "[PERSON] CBP Officer": {
+    "chunk_ids": [
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 1,
+    "create_time": 1780570433,
+    "update_time": 1780570433,
+    "_id": "[PERSON] CBP Officer"
+  },
+  "[PERSON] California Protesters": {
+    "chunk_ids": [
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 1,
+    "create_time": 1780570433,
+    "update_time": 1780570433,
+    "_id": "[PERSON] California Protesters"
+  },
+  "[OBJECT] 40mm less-lethal launcher": {
+    "chunk_ids": [
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 1,
+    "create_time": 1780570434,
+    "update_time": 1780570434,
+    "_id": "[OBJECT] 40mm less-lethal launcher"
+  },
+  "[OBJECT] Less-lethal weapons": {
+    "chunk_ids": [
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 1,
+    "create_time": 1780570434,
+    "update_time": 1780570434,
+    "_id": "[OBJECT] Less-lethal weapons"
+  },
+  "[EVENT] California Blinding Incidents": {
+    "chunk_ids": [
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 1,
+    "create_time": 1780570435,
+    "update_time": 1780570435,
+    "_id": "[EVENT] California Blinding Incidents"
+  },
+  "[EVENT] Illinois TRO Violations": {
+    "chunk_ids": [
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 1,
+    "create_time": 1780570435,
+    "update_time": 1780570435,
+    "_id": "[EVENT] Illinois TRO Violations"
+  },
+  "[EVENT] Nationwide Immigration Raids": {
+    "chunk_ids": [
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 1,
+    "create_time": 1780570436,
+    "update_time": 1780570436,
+    "_id": "[EVENT] Nationwide Immigration Raids"
+  },
+  "[PERSON] Trump": {
+    "chunk_ids": [
+      "chunk-df00c56f336c81374b54c428982985f2"
+    ],
+    "count": 1,
+    "create_time": 1780570436,
+    "update_time": 1780570436,
+    "_id": "[PERSON] Trump"
+  },
+  "[OBJECT] SPEDE-Heat shell": {
+    "chunk_ids": [
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 1,
+    "create_time": 1780570438,
+    "update_time": 1780570438,
+    "_id": "[OBJECT] SPEDE-Heat shell"
+  },
+  "[OBJECT] flashbangs": {
+    "chunk_ids": [
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 1,
+    "create_time": 1780570439,
+    "update_time": 1780570439,
+    "_id": "[OBJECT] flashbangs"
+  },
+  "[OBJECT] smoke grenades": {
+    "chunk_ids": [
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 1,
+    "create_time": 1780570439,
+    "update_time": 1780570439,
+    "_id": "[OBJECT] smoke grenades"
+  },
+  "[OBJECT] tear gas grenades": {
+    "chunk_ids": [
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 1,
+    "create_time": 1780570439,
+    "update_time": 1780570439,
+    "_id": "[OBJECT] tear gas grenades"
+  },
+  "[EVENT] Deployment of weapons in Illinois": {
+    "chunk_ids": [
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 1,
+    "create_time": 1780570440,
+    "update_time": 1780570440,
+    "_id": "[EVENT] Deployment of weapons in Illinois"
+  },
+  "[OBJECT] pepper balls": {
+    "chunk_ids": [
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251"
+    ],
+    "count": 1,
+    "create_time": 1780570440,
+    "update_time": 1780570440,
+    "_id": "[OBJECT] pepper balls"
+  },
+  "[OBJECT] chemical irritant sprays": {
+    "chunk_ids": [
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 1,
+    "create_time": 1780570440,
+    "update_time": 1780570440,
+    "_id": "[OBJECT] chemical irritant sprays"
+  },
+  "[OBJECT] Defense Technology sprays": {
+    "chunk_ids": [
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 1,
+    "create_time": 1780570440,
+    "update_time": 1780570440,
+    "_id": "[OBJECT] Defense Technology sprays"
+  },
+  "[LOCATION] US": {
+    "chunk_ids": [
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 1,
+    "create_time": 1780570441,
+    "update_time": 1780570441,
+    "_id": "[LOCATION] US"
+  },
+  "[EVENT] Use of chemical irritant sprays": {
+    "chunk_ids": [
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 1,
+    "create_time": 1780570441,
+    "update_time": 1780570441,
+    "_id": "[EVENT] Use of chemical irritant sprays"
+  },
+  "[OBJECT] MK- series canisters": {
+    "chunk_ids": [
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 1,
+    "create_time": 1780570441,
+    "update_time": 1780570441,
+    "_id": "[OBJECT] MK- series canisters"
+  },
+  "[OBJECT] white band spray": {
+    "chunk_ids": [
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 1,
+    "create_time": 1780570441,
+    "update_time": 1780570441,
+    "_id": "[OBJECT] white band spray"
+  },
+  "[OBJECT] yellow band spray": {
+    "chunk_ids": [
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 1,
+    "create_time": 1780570442,
+    "update_time": 1780570442,
+    "_id": "[OBJECT] yellow band spray"
+  },
+  "[OBJECT] orange band spray": {
+    "chunk_ids": [
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 1,
+    "create_time": 1780570442,
+    "update_time": 1780570442,
+    "_id": "[OBJECT] orange band spray"
+  },
+  "[OBJECT] red band spray": {
+    "chunk_ids": [
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 1,
+    "create_time": 1780570442,
+    "update_time": 1780570442,
+    "_id": "[OBJECT] red band spray"
+  },
+  "[OBJECT] grey band spray": {
+    "chunk_ids": [
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39"
+    ],
+    "count": 1,
+    "create_time": 1780570442,
+    "update_time": 1780570442,
+    "_id": "[OBJECT] grey band spray"
+  },
+  "[ORGANIZATION] USBP": {
+    "chunk_ids": [
+      "chunk-3a93a1e594aebb7d59bd7b5a66e2f011",
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 2,
+    "create_time": 1780570956,
+    "update_time": 1780570956,
+    "_id": "[ORGANIZATION] USBP",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] LAPD": {
+    "chunk_ids": [
+      "chunk-3a93a1e594aebb7d59bd7b5a66e2f011"
+    ],
+    "count": 1,
+    "create_time": 1780570956,
+    "update_time": 1780570956,
+    "_id": "[ORGANIZATION] LAPD",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] Powder blast dispersion rounds": {
+    "chunk_ids": [
+      "chunk-3a93a1e594aebb7d59bd7b5a66e2f011",
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 2,
+    "create_time": 1780570957,
+    "update_time": 1780570957,
+    "_id": "[OBJECT] Powder blast dispersion rounds",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] Chemical obscurants": {
+    "chunk_ids": [
+      "chunk-3a93a1e594aebb7d59bd7b5a66e2f011"
+    ],
+    "count": 1,
+    "create_time": 1780570957,
+    "update_time": 1780570957,
+    "_id": "[OBJECT] Chemical obscurants",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] HC smoke": {
+    "chunk_ids": [
+      "chunk-3a93a1e594aebb7d59bd7b5a66e2f011",
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 2,
+    "create_time": 1780570958,
+    "update_time": 1780570958,
+    "_id": "[OBJECT] HC smoke",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] 37mm Less-Lethal Launcher": {
+    "chunk_ids": [
+      "chunk-3a93a1e594aebb7d59bd7b5a66e2f011",
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 2,
+    "create_time": 1780570958,
+    "update_time": 1780570958,
+    "_id": "[OBJECT] 37mm Less-Lethal Launcher",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] LAPD Use of Force Directive no. 12": {
+    "chunk_ids": [
+      "chunk-3a93a1e594aebb7d59bd7b5a66e2f011"
+    ],
+    "count": 1,
+    "create_time": 1780570958,
+    "update_time": 1780570958,
+    "_id": "[EVENT] LAPD Use of Force Directive no. 12",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] Correctional facilities": {
+    "chunk_ids": [
+      "chunk-3a93a1e594aebb7d59bd7b5a66e2f011"
+    ],
+    "count": 1,
+    "create_time": 1780570958,
+    "update_time": 1780570958,
+    "_id": "[LOCATION] Correctional facilities",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] Streets": {
+    "chunk_ids": [
+      "chunk-3a93a1e594aebb7d59bd7b5a66e2f011"
+    ],
+    "count": 1,
+    "create_time": 1780570959,
+    "update_time": 1780570959,
+    "_id": "[LOCATION] Streets",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] tear gas": {
+    "chunk_ids": [
+      "chunk-3a93a1e594aebb7d59bd7b5a66e2f011"
+    ],
+    "count": 1,
+    "create_time": 1780570959,
+    "update_time": 1780570959,
+    "_id": "[OBJECT] tear gas",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[PERSON] Jorge Bautista": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570960,
+    "update_time": 1780570960,
+    "_id": "[PERSON] Jorge Bautista",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[PERSON] Greg Bovino": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c",
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 2,
+    "create_time": 1780570960,
+    "update_time": 1780570960,
+    "_id": "[PERSON] Greg Bovino",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[PERSON] Rohini J. Haar": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570960,
+    "update_time": 1780570960,
+    "_id": "[PERSON] Rohini J. Haar",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[PERSON] Scott Reynhout": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570960,
+    "update_time": 1780570960,
+    "_id": "[PERSON] Scott Reynhout",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[PERSON] Kimberly J. Saltz": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570961,
+    "update_time": 1780570961,
+    "_id": "[PERSON] Kimberly J. Saltz",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] PHR": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570961,
+    "update_time": 1780570961,
+    "_id": "[ORGANIZATION] PHR",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] International Network of Civil Liberties Organizations (INCLO)": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570961,
+    "update_time": 1780570961,
+    "_id": "[ORGANIZATION] International Network of Civil Liberties Organizations (INCLO)",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] Metropolitan Detention Center, Los Angeles": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570962,
+    "update_time": 1780570962,
+    "_id": "[LOCATION] Metropolitan Detention Center, Los Angeles",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] Oakland, California": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570962,
+    "update_time": 1780570962,
+    "_id": "[LOCATION] Oakland, California",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] Bryant Square Park, Minneapolis": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570962,
+    "update_time": 1780570962,
+    "_id": "[LOCATION] Bryant Square Park, Minneapolis",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Demonstration at Metropolitan Detention Center": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570963,
+    "update_time": 1780570963,
+    "_id": "[EVENT] Demonstration at Metropolitan Detention Center",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Anti-ICE protests in Los Angeles": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570963,
+    "update_time": 1780570963,
+    "_id": "[EVENT] Anti-ICE protests in Los Angeles",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shooting of Jorge Bautista": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570963,
+    "update_time": 1780570963,
+    "_id": "[EVENT] Shooting of Jorge Bautista",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Deployment of smoke grenades at Bryant Square Park": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570963,
+    "update_time": 1780570963,
+    "_id": "[EVENT] Deployment of smoke grenades at Bryant Square Park",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] USBP procurement of less-lethal munitions": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570964,
+    "update_time": 1780570964,
+    "_id": "[EVENT] USBP procurement of less-lethal munitions",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] 40mm grenade launcher": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c",
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 2,
+    "create_time": 1780570964,
+    "update_time": 1780570964,
+    "_id": "[OBJECT] 40mm grenade launcher",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] Green smoke grenades": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c",
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 2,
+    "create_time": 1780570964,
+    "update_time": 1780570964,
+    "_id": "[OBJECT] Green smoke grenades",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] Scattershot KIPs": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570964,
+    "update_time": 1780570964,
+    "_id": "[OBJECT] Scattershot KIPs",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Publication of Tools of Repression report": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570965,
+    "update_time": 1780570965,
+    "_id": "[EVENT] Publication of Tools of Repression report",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Graham v. Connor ruling": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570965,
+    "update_time": 1780570965,
+    "_id": "[EVENT] Graham v. Connor ruling",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] UN Basic Principles on the Use of Force and Firearms by Law Enforcement Officials": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570965,
+    "update_time": 1780570965,
+    "_id": "[EVENT] UN Basic Principles on the Use of Force and Firearms by Law Enforcement Officials",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] 2020 United Nations Human Rights Guidance on Less-Lethal Weapons in Law Enforcement": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570966,
+    "update_time": 1780570966,
+    "_id": "[EVENT] 2020 United Nations Human Rights Guidance on Less-Lethal Weapons in Law Enforcement",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] UN Chemical Weapons Convention": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570966,
+    "update_time": 1780570966,
+    "_id": "[EVENT] UN Chemical Weapons Convention",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Fourth Amendment of the Constitution of the United States": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570966,
+    "update_time": 1780570966,
+    "_id": "[EVENT] Fourth Amendment of the Constitution of the United States",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] First Amendment of the Constitution of the United States": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570967,
+    "update_time": 1780570967,
+    "_id": "[EVENT] First Amendment of the Constitution of the United States",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] 'Lethal in Disguise' report": {
+    "chunk_ids": [
+      "chunk-2dade3d40613d6fbdef7e671644df73c"
+    ],
+    "count": 1,
+    "create_time": 1780570967,
+    "update_time": 1780570967,
+    "_id": "[OBJECT] 'Lethal in Disguise' report",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Anti-ICE Protests Los Angeles June 2025": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570967,
+    "update_time": 1780570967,
+    "_id": "[EVENT] Anti-ICE Protests Los Angeles June 2025",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] Metropolitan Detention Center Los Angeles": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570967,
+    "update_time": 1780570967,
+    "_id": "[LOCATION] Metropolitan Detention Center Los Angeles",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] Los Angeles Police Department (LAPD)": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570968,
+    "update_time": 1780570968,
+    "_id": "[ORGANIZATION] Los Angeles Police Department (LAPD)",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] LAPD Use of Force Directive no. 12": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570968,
+    "update_time": 1780570968,
+    "_id": "[OBJECT] LAPD Use of Force Directive no. 12",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] Scattershot Kinetic Impact Projectile (KIP)": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570968,
+    "update_time": 1780570968,
+    "_id": "[OBJECT] Scattershot Kinetic Impact Projectile (KIP)",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shooting of Reverend Jorge Bautista October 23 2025": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570968,
+    "update_time": 1780570968,
+    "_id": "[EVENT] Shooting of Reverend Jorge Bautista October 23 2025",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[PERSON] Reverend Jorge Bautista": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570968,
+    "update_time": 1780570968,
+    "_id": "[PERSON] Reverend Jorge Bautista",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] Oakland California": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570969,
+    "update_time": 1780570969,
+    "_id": "[LOCATION] Oakland California",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] United States Border Patrol (USBP)": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570969,
+    "update_time": 1780570969,
+    "_id": "[ORGANIZATION] United States Border Patrol (USBP)",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shooting in Little Village Chicago": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570969,
+    "update_time": 1780570969,
+    "_id": "[EVENT] Shooting in Little Village Chicago",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] Little Village neighborhood Chicago": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570970,
+    "update_time": 1780570970,
+    "_id": "[LOCATION] Little Village neighborhood Chicago",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] USBP Firing in Minneapolis": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570970,
+    "update_time": 1780570970,
+    "_id": "[EVENT] USBP Firing in Minneapolis",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Grenade Deployment Bryant Square Park January 21 2026": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570970,
+    "update_time": 1780570970,
+    "_id": "[EVENT] Grenade Deployment Bryant Square Park January 21 2026",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] Bryant Square Park Minneapolis": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570971,
+    "update_time": 1780570971,
+    "_id": "[LOCATION] Bryant Square Park Minneapolis",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] USBP 2026 procurement document": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570971,
+    "update_time": 1780570971,
+    "_id": "[OBJECT] USBP 2026 procurement document",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] Crowd Management powder blast rounds": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570971,
+    "update_time": 1780570971,
+    "_id": "[OBJECT] Crowd Management powder blast rounds",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] Physicians for Human Rights (PHR)": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570971,
+    "update_time": 1780570971,
+    "_id": "[ORGANIZATION] Physicians for Human Rights (PHR)",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] US Customs and Border Patrol (CBP)": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570972,
+    "update_time": 1780570972,
+    "_id": "[ORGANIZATION] US Customs and Border Patrol (CBP)",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[PERSON] Rohini J. Haar, MD, MPH": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570972,
+    "update_time": 1780570972,
+    "_id": "[PERSON] Rohini J. Haar, MD, MPH",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[PERSON] Scott Reynhout, PhD": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570972,
+    "update_time": 1780570972,
+    "_id": "[PERSON] Scott Reynhout, PhD",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[PERSON] Unidentified Victim Little Village": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570973,
+    "update_time": 1780570973,
+    "_id": "[PERSON] Unidentified Victim Little Village",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] Solid projectile (Bautista incident)": {
+    "chunk_ids": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f"
+    ],
+    "count": 1,
+    "create_time": 1780570973,
+    "update_time": 1780570973,
+    "_id": "[OBJECT] Solid projectile (Bautista incident)",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  }
+}

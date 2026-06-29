@@ -1,0 +1,148 @@
+{
+  "84d7e0b9-ebfc-4681-b2ae-7048a4704aa1": {
+    "status": "processed",
+    "chunks_count": 10,
+    "chunks_list": [
+      "chunk-ebcdfff30be940995bf3bcfa689a2bdf",
+      "chunk-707f7c6c308b38bce8ce1972afbd8ff6",
+      "chunk-48ffeb8cda0384416cef68fda1fa6092",
+      "chunk-e5569f17f529fd10346ca691a582f1a8",
+      "chunk-4170a826ce256ee580815639136542ab",
+      "chunk-144039d9b499b5a1b6464126b5c11ea1",
+      "chunk-48865492ff6980fba6505562f4fd8f89",
+      "chunk-d17e0f591005ffb59a7f371310e5a906",
+      "chunk-b93e00a9cc3c6ea937c6c587abe580f8",
+      "chunk-aa26feef1c9d3d47396a5964562ca4a9"
+    ],
+    "content_summary": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across the US\n\nIn early January 2025, a gardener named Ernesto Campos was pulled over by Border Patrol agents in the city of Bakersfield, California.\n\nVideo footage shows one agent threat...",
+    "content_length": 23708,
+    "created_at": "2026-05-28T20:06:24.340169+00:00",
+    "updated_at": "2026-05-28T20:10:44.157896+00:00",
+    "file_path": "raw/84d7e0b9-ebfc-4681-b2ae-7048a4704aa1.pdf",
+    "track_id": "insert_20260528_230624_96c69298",
+    "metadata": {
+      "processing_start_time": 1779998784,
+      "processing_end_time": 1779999044
+    }
+  },
+  "c1731560-2392-47fb-814c-5a1da0d7084b": {
+    "status": "processed",
+    "chunks_count": 7,
+    "chunks_list": [
+      "chunk-8c623b1d6b3fdbe8556f7ed5defe698b",
+      "chunk-c9817d6c2a44499a793919afdc362415",
+      "chunk-5fef9d4f066439678dcf9e73935433d7",
+      "chunk-9d313e963f5afd4511121b3011aa2c20",
+      "chunk-4a6774ff001e7c0d324470176c02f568",
+      "chunk-430166eda1140532dd1c88ca903c35b2",
+      "chunk-791d993b170dda54c1f646cc730be410"
+    ],
+    "content_summary": "Five Shots in Five Minutes: Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis\n\nThe fatal shooting of Renee Nicole Good by Immigration and Customs Enforcement (ICE) agent Jonathan Ross in Minneapolis on Jan. 7 sparked nationwide...",
+    "content_length": 15519,
+    "created_at": "2026-05-28T20:14:06.066631+00:00",
+    "updated_at": "2026-05-28T20:17:37.171997+00:00",
+    "file_path": "raw/c1731560-2392-47fb-814c-5a1da0d7084b.pdf",
+    "track_id": "insert_20260528_231406_a2288be9",
+    "metadata": {
+      "processing_start_time": 1779999246,
+      "processing_end_time": 1779999457
+    }
+  },
+  "3563daa7-6e15-4566-9c9e-e18486301ed8": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-49b4df5b01d976649250f6436e21c973",
+      "chunk-0256a8b75cb8334fe03b715b6c84c437",
+      "chunk-9721c8d2aae00dfcfcd7caa49691f141"
+    ],
+    "content_summary": "At least 50 protesters were seen midday Friday at an ICE processing center in Broadview, Illinois, a suburb of Chicago.\n\nFederal law enforcement attempted to clear the protesters out of the area.\n\nThe demonstrators were seen trying to block vehicles ...",
+    "content_length": 7679,
+    "created_at": "2026-05-28T20:19:46.302603+00:00",
+    "updated_at": "2026-05-28T20:20:56.144294+00:00",
+    "file_path": "raw/3563daa7-6e15-4566-9c9e-e18486301ed8.pdf",
+    "track_id": "insert_20260528_231946_5164c9b2",
+    "metadata": {
+      "processing_start_time": 1779999586,
+      "processing_end_time": 1779999656
+    }
+  },
+  "8074ac13-a31c-438f-af03-f65b153c5122": {
+    "status": "processed",
+    "chunks_count": 11,
+    "chunks_list": [
+      "chunk-c836f96bf9d6ee01706c399b410c87c9",
+      "chunk-5c6946cf77d89e363da36211d90f9912",
+      "chunk-63051b407620cc9dc179a3eb02bac5dc",
+      "chunk-231d778102a2cbcc7f2f4300f5629d66",
+      "chunk-fd5847b97b78096be5085730e8050c4b",
+      "chunk-405d3a718f7ecf6421ab9b20b50849aa",
+      "chunk-c1033809decf9ea155de9688c644d3c4",
+      "chunk-7672b3b47339e0fa256bbc603183e57b",
+      "chunk-2a823d8c0102b14d5a5e7a1db6951caf",
+      "chunk-4e32f71ea37f2011ffa9c3166235ce93",
+      "chunk-91ffc897e45b8eba5d40b00e19343a5b"
+    ],
+    "content_summary": "Children in Chicago\u2019s Old Irving Park neighbourhood were preparing for a Halloween parade on Oct. 25 when federal agents reportedly deployed tear gas on the street to disperse protesters opposing immigration-related arrests in the neighbourhood.\n\nUS ...",
+    "content_length": 27326,
+    "created_at": "2026-05-28T20:24:04.206681+00:00",
+    "updated_at": "2026-05-28T20:29:53.095651+00:00",
+    "file_path": "raw/8074ac13-a31c-438f-af03-f65b153c5122.pdf",
+    "track_id": "insert_20260528_232404_6308d88c",
+    "metadata": {
+      "processing_start_time": 1779999844,
+      "processing_end_time": 1780000193
+    }
+  },
+  "3b1a02e9-1614-4381-944c-4fc7c7401511": {
+    "status": "processed",
+    "chunks_count": 12,
+    "chunks_list": [
+      "chunk-ddda38fff0b28618245a95601266bd62",
+      "chunk-601d339a4a493a5f03ee5c3181e3905b",
+      "chunk-abacff6e2984923123c9fdcc9f5afcb1",
+      "chunk-825d31ce533f64fd232a2407d882af7b",
+      "chunk-3af2defb9bc456081d4547c62ac2dbcc",
+      "chunk-f012afbc78a585fbfae845130e83a796",
+      "chunk-af8c6d503e4007ddea82e86657430f46",
+      "chunk-eb8aeb870066721a39cb33b3cacee828",
+      "chunk-2d9eac605e9363cf2b25e5d8a6f2fc3e",
+      "chunk-0a07ab4e361aefef70c10056e05aad7a",
+      "chunk-1667bfaf525736c23a6f45b271187506",
+      "chunk-e6e656cb305f32479815be46e053a3d7"
+    ],
+    "content_summary": "Federal agents have frequently used so-called \u201cless-lethal\u201d weapons against protesters, including impact projectiles, tear gas and pepper spray, since the Trump administration\u2019s nationwide immigration raids began last year.\n\nThe use of less-lethal we...",
+    "content_length": 30156,
+    "created_at": "2026-05-28T20:33:31.118719+00:00",
+    "updated_at": "2026-05-28T20:38:17.758495+00:00",
+    "file_path": "raw/3b1a02e9-1614-4381-944c-4fc7c7401511.pdf",
+    "track_id": "insert_20260528_233331_385237e7",
+    "metadata": {
+      "processing_start_time": 1780000411,
+      "processing_end_time": 1780000697
+    }
+  },
+  "46bef718-12ea-49d2-a532-6b247a9e4c45": {
+    "status": "processed",
+    "chunks_count": 5,
+    "chunks_list": [
+      "chunk-9b404c27fcd418c08782247364738a7d",
+      "chunk-5d8292ecd6d23098f17a3015d86836d6",
+      "chunk-a3fbf4484a5c27ccd7d2dc07a14cd7d5",
+      "chunk-c6ee6f41727ecb5f8ab33cc5a3136b99",
+      "chunk-62609d9c374df8488daf29e87f42be61"
+    ],
+    "content_summary": "On June 6, 2025, demonstrators began to assemble outside of the Metropolitan Detention Center in Los Angeles in response to accelerated federal raids targeting suspected undocumented immigrants.\n\nThe June 6, 2025 assembly catalyzed a series of mass p...",
+    "content_length": 13001,
+    "created_at": "2026-05-28T20:41:24.591376+00:00",
+    "updated_at": "2026-05-28T20:42:44.317172+00:00",
+    "file_path": "raw/46bef718-12ea-49d2-a532-6b247a9e4c45.pdf",
+    "track_id": "insert_20260528_234124_2a94e015",
+    "metadata": {
+      "processing_start_time": 1780000884,
+      "processing_end_time": 1780000964
+    },
+    "document_id": "46bef718-12ea-49d2-a532-6b247a9e4c45",
+    "confidence_code": "A1"
+  }
+}

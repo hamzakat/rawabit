@@ -1,0 +1,1097 @@
+{
+  "3322037c-147a-4ec8-97d1-6e5415ab99bd": {
+    "relation_pairs": [
+      [
+        "[OBJECT] 14024758",
+        "[OBJECT] Panama Papers database"
+      ],
+      [
+        "[LOCATION] British Virgin Islands",
+        "[OBJECT] VGB"
+      ],
+      [
+        "[LOCATION] 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI",
+        "[ORGANIZATION] NAWAZ TRUST"
+      ],
+      [
+        "[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland",
+        "[OBJECT] 14048807"
+      ],
+      [
+        "[OBJECT] 14051308",
+        "[ORGANIZATION] NAWAZ TRUST"
+      ],
+      [
+        "[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine",
+        "[OBJECT] Panama Papers database"
+      ],
+      [
+        "[LOCATION] Iceland",
+        "[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland"
+      ],
+      [
+        "[OBJECT] 14051308",
+        "[OBJECT] Panama Papers database"
+      ],
+      [
+        "[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine",
+        "[LOCATION] Ukraine"
+      ],
+      [
+        "[OBJECT] Panama Papers database",
+        "[ORGANIZATION] NAWAZ TRUST"
+      ],
+      [
+        "[LOCATION] Ukraine",
+        "[OBJECT] UKR"
+      ],
+      [
+        "[LOCATION] 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[ORGANIZATION] NAWAZ TRUST",
+        "[ORGANIZATION] Nerine Trust Company Limited"
+      ],
+      [
+        "[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland",
+        "[OBJECT] Panama Papers database"
+      ],
+      [
+        "[OBJECT] 14048807",
+        "[OBJECT] Panama Papers database"
+      ],
+      [
+        "[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine",
+        "[OBJECT] 14024758"
+      ],
+      [
+        "[LOCATION] Iceland",
+        "[OBJECT] ISL"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1778946702,
+    "update_time": 1778946702,
+    "_id": "3322037c-147a-4ec8-97d1-6e5415ab99bd"
+  },
+  "9e160d90-409b-45b2-b97a-9bfaeb19a28d": {
+    "relation_pairs": [
+      [
+        "[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted",
+        "[OBJECT] FLEG TRADING LTD Panama Papers record"
+      ],
+      [
+        "[EVENT] Strike-off of NIELSEN ENTERPRISES LIMITED on 31-OCT-2015",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[EVENT] Incorporation of FLEG TRADING LTD on 31-MAR-1998",
+        "[LOCATION] Bahamas"
+      ],
+      [
+        "[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO.",
+        "[ORGANIZATION] Prime Asset Partners Limited"
+      ],
+      [
+        "[EVENT] Inactivation of FLEG TRADING LTD on 05-JAN-2009",
+        "[LOCATION] Bahamas"
+      ],
+      [
+        "[LOCATION] St. Helier, Jersey",
+        "[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED"
+      ],
+      [
+        "[EVENT] Inactivation of NIELSEN ENTERPRISES LIMITED on 22-JUL-2014",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[EVENT] Strike-off of NIELSEN ENTERPRISES LIMITED on 31-OCT-2015",
+        "[ORGANIZATION] NIELSEN ENTERPRISES LIMITED"
+      ],
+      [
+        "[EVENT] Incorporation of NIELSEN ENTERPRISES LIMITED on 14-APR-1994",
+        "[ORGANIZATION] NIELSEN ENTERPRISES LIMITED"
+      ],
+      [
+        "[OBJECT] FLEG TRADING LTD Panama Papers record",
+        "[ORGANIZATION] FLEG TRADING LTD"
+      ],
+      [
+        "[EVENT] Incorporation of NESCOLL LIMITED on 27-JAN-1993",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[EVENT] Inactivation of NESCOLL LIMITED on 22-JUL-2014",
+        "[ORGANIZATION] NESCOLL LIMITED"
+      ],
+      [
+        "[LOCATION] Nicosia, Cyprus",
+        "[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO."
+      ],
+      [
+        "[EVENT] Strike-off of NESCOLL LIMITED on 31-OCT-2015",
+        "[ORGANIZATION] NESCOLL LIMITED"
+      ],
+      [
+        "[ORGANIZATION] Mossack Fonseca",
+        "[ORGANIZATION] NESCOLL LIMITED"
+      ],
+      [
+        "[ORGANIZATION] Mossack Fonseca",
+        "[ORGANIZATION] WINTRIS INC."
+      ],
+      [
+        "[EVENT] Inactivation of NIELSEN ENTERPRISES LIMITED on 22-JUL-2014",
+        "[ORGANIZATION] NIELSEN ENTERPRISES LIMITED"
+      ],
+      [
+        "[LOCATION] Nassau, Bahamas",
+        "[ORGANIZATION] MOSSFON MANAGERS LTD."
+      ],
+      [
+        "[OBJECT] FLEG TRADING LTD Panama Papers record",
+        "[OBJECT] Panama Papers dataset"
+      ],
+      [
+        "[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted",
+        "[ORGANIZATION] FLEG TRADING LTD"
+      ],
+      [
+        "[EVENT] Inactivation of MARIADA HOLDINGS LIMITED on 06-JUN-2014",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[OBJECT] Bahamas Leaks dataset",
+        "[OBJECT] FLEG TRADING LTD Bahamas Leaks record"
+      ],
+      [
+        "[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008",
+        "[OBJECT] FLEG TRADING LTD Panama Papers record"
+      ],
+      [
+        "[ORGANIZATION] Mossack Fonseca",
+        "[ORGANIZATION] Prime Asset Partners Limited"
+      ],
+      [
+        "[OBJECT] Panama Papers dataset",
+        "[ORGANIZATION] NIELSEN ENTERPRISES LIMITED"
+      ],
+      [
+        "[EVENT] Inactivation of HANGON PROPERTY HOLDINGS LIMITED on 25-FEB-2008",
+        "[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED"
+      ],
+      [
+        "[EVENT] Incorporation of WINTRIS INC. on 09-OCT-2007",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[EVENT] Strike-off of MARIADA HOLDINGS LIMITED on 30-APR-2015",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[OBJECT] Bahamas Leaks dataset",
+        "[ORGANIZATION] FLEG TRADING LTD"
+      ],
+      [
+        "[EVENT] Incorporation of HANGON PROPERTY HOLDINGS LIMITED on 27-FEB-2007",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[OBJECT] Panama Papers dataset",
+        "[ORGANIZATION] MARIADA HOLDINGS LIMITED"
+      ],
+      [
+        "[EVENT] Incorporation of Prime Asset Partners Limited on 21-AUG-2014",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted",
+        "[LOCATION] Bahamas"
+      ],
+      [
+        "[ORGANIZATION] MARIADA HOLDINGS LIMITED",
+        "[ORGANIZATION] Mossack Fonseca"
+      ],
+      [
+        "[EVENT] Inactivation of MARIADA HOLDINGS LIMITED on 06-JUN-2014",
+        "[ORGANIZATION] MARIADA HOLDINGS LIMITED"
+      ],
+      [
+        "[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008",
+        "[ORGANIZATION] FLEG TRADING LTD"
+      ],
+      [
+        "[LOCATION] Geneva, Switzerland",
+        "[ORGANIZATION] PRIMEWAY S.A."
+      ],
+      [
+        "[EVENT] Strike-off of MARIADA HOLDINGS LIMITED on 30-APR-2015",
+        "[ORGANIZATION] MARIADA HOLDINGS LIMITED"
+      ],
+      [
+        "[EVENT] Incorporation of NESCOLL LIMITED on 27-JAN-1993",
+        "[ORGANIZATION] NESCOLL LIMITED"
+      ],
+      [
+        "[ORGANIZATION] MARIADA HOLDINGS LIMITED",
+        "[ORGANIZATION] PRIMEWAY S.A."
+      ],
+      [
+        "[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009",
+        "[OBJECT] FLEG TRADING LTD Bahamas Leaks record"
+      ],
+      [
+        "[OBJECT] Panama Papers dataset",
+        "[ORGANIZATION] NESCOLL LIMITED"
+      ],
+      [
+        "[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED",
+        "[ORGANIZATION] Mossack Fonseca"
+      ],
+      [
+        "[EVENT] Strike-off of HANGON PROPERTY HOLDINGS LIMITED on 31-OCT-2008",
+        "[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED"
+      ],
+      [
+        "[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED",
+        "[ORGANIZATION] MOSSFON MANAGERS LTD."
+      ],
+      [
+        "[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009",
+        "[ORGANIZATION] FLEG TRADING LTD"
+      ],
+      [
+        "[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008",
+        "[LOCATION] Bahamas"
+      ],
+      [
+        "[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED",
+        "[ORGANIZATION] NIELSEN ENTERPRISES LIMITED"
+      ],
+      [
+        "[OBJECT] Panama Papers dataset",
+        "[ORGANIZATION] WINTRIS INC."
+      ],
+      [
+        "[LOCATION] Montevideo, Uruguay",
+        "[OBJECT] FLEG TRADING LTD Panama Papers record"
+      ],
+      [
+        "[ORGANIZATION] FLEG TRADING LTD",
+        "[ORGANIZATION] Mossack Fonseca"
+      ],
+      [
+        "[EVENT] Inactivation of HANGON PROPERTY HOLDINGS LIMITED on 25-FEB-2008",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[OBJECT] Panama Papers dataset",
+        "[ORGANIZATION] Prime Asset Partners Limited"
+      ],
+      [
+        "[OBJECT] Panama Papers dataset",
+        "[ORGANIZATION] FLEG TRADING LTD"
+      ],
+      [
+        "[EVENT] Incorporation of WINTRIS INC. on 09-OCT-2007",
+        "[ORGANIZATION] WINTRIS INC."
+      ],
+      [
+        "[EVENT] Strike-off of NESCOLL LIMITED on 31-OCT-2015",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[LOCATION] Luxembourg",
+        "[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A."
+      ],
+      [
+        "[EVENT] Incorporation of MARIADA HOLDINGS LIMITED on 21-JUL-1995",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[OBJECT] FLEG TRADING LTD Bahamas Leaks record",
+        "[ORGANIZATION] FLEG TRADING LTD"
+      ],
+      [
+        "[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009",
+        "[LOCATION] Bahamas"
+      ],
+      [
+        "[OBJECT] Panama Papers dataset",
+        "[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED"
+      ],
+      [
+        "[EVENT] Inactivation of NESCOLL LIMITED on 22-JUL-2014",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A.",
+        "[ORGANIZATION] WINTRIS INC."
+      ],
+      [
+        "[ORGANIZATION] Mossack Fonseca",
+        "[ORGANIZATION] NIELSEN ENTERPRISES LIMITED"
+      ],
+      [
+        "[LOCATION] Montevideo, Uruguay",
+        "[ORGANIZATION] FLEG TRADING LTD"
+      ],
+      [
+        "[EVENT] Incorporation of HANGON PROPERTY HOLDINGS LIMITED on 27-FEB-2007",
+        "[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED"
+      ],
+      [
+        "[EVENT] Incorporation of FLEG TRADING LTD on 31-MAR-1998",
+        "[ORGANIZATION] FLEG TRADING LTD"
+      ],
+      [
+        "[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED",
+        "[ORGANIZATION] NESCOLL LIMITED"
+      ],
+      [
+        "[EVENT] Incorporation of Prime Asset Partners Limited on 21-AUG-2014",
+        "[ORGANIZATION] Prime Asset Partners Limited"
+      ],
+      [
+        "[EVENT] Inactivation of FLEG TRADING LTD on 05-JAN-2009",
+        "[ORGANIZATION] FLEG TRADING LTD"
+      ],
+      [
+        "[EVENT] Incorporation of MARIADA HOLDINGS LIMITED on 21-JUL-1995",
+        "[ORGANIZATION] MARIADA HOLDINGS LIMITED"
+      ],
+      [
+        "[EVENT] Strike-off of HANGON PROPERTY HOLDINGS LIMITED on 31-OCT-2008",
+        "[LOCATION] British Virgin Islands"
+      ],
+      [
+        "[EVENT] Incorporation of NIELSEN ENTERPRISES LIMITED on 14-APR-1994",
+        "[LOCATION] British Virgin Islands"
+      ]
+    ],
+    "count": 73,
+    "create_time": 1778947182,
+    "update_time": 1778947182,
+    "_id": "9e160d90-409b-45b2-b97a-9bfaeb19a28d"
+  },
+  "77eb3dc4-f533-4496-8d37-eb40da8ce9b3": {
+    "relation_pairs": [
+      [
+        "[LOCATION] 1 Lambousa Street, Nicosia, Cyprus",
+        "[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO."
+      ],
+      [
+        "[LOCATION] Luxembourg",
+        "[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)"
+      ],
+      [
+        "[LOCATION] Uruguay",
+        "[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO"
+      ],
+      [
+        "[LOCATION] Bahamas",
+        "[LOCATION] Saffrey Square, Suite 205, Bank Lane, Nassau, Bahamas"
+      ],
+      [
+        "[LOCATION] Misiones 1371, Piso 4, Montevideo, Uruguay",
+        "[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO"
+      ],
+      [
+        "[LOCATION] 43-45 La Motte Street, St. Helier, Jersey",
+        "[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED"
+      ],
+      [
+        "[LOCATION] Jersey",
+        "[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED"
+      ],
+      [
+        "[LOCATION] 7 Val Sainte-Croix, Luxembourg",
+        "[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)"
+      ],
+      [
+        "[EVENT] Panama Papers dataset listing of entities",
+        "[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED"
+      ],
+      [
+        "[LOCATION] 7 Val Sainte-Croix, Luxembourg",
+        "[LOCATION] Luxembourg"
+      ],
+      [
+        "[LOCATION] Bahamas",
+        "[ORGANIZATION] MOSSFON MANAGERS LTD."
+      ],
+      [
+        "[LOCATION] Cyprus",
+        "[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO."
+      ],
+      [
+        "[EVENT] Panama Papers dataset listing of entities",
+        "[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)"
+      ],
+      [
+        "[EVENT] Panama Papers dataset listing of entities",
+        "[OBJECT] Panama Papers dataset"
+      ],
+      [
+        "[EVENT] Panama Papers dataset listing of entities",
+        "[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO."
+      ],
+      [
+        "[LOCATION] Saffrey Square, Suite 205, Bank Lane, Nassau, Bahamas",
+        "[ORGANIZATION] MOSSFON MANAGERS LTD."
+      ],
+      [
+        "[LOCATION] United Kingdom",
+        "[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED"
+      ],
+      [
+        "[LOCATION] 1 Lambousa Street, Nicosia, Cyprus",
+        "[LOCATION] Cyprus"
+      ],
+      [
+        "[EVENT] Panama Papers dataset listing of entities",
+        "[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO"
+      ],
+      [
+        "[EVENT] Panama Papers dataset listing of entities",
+        "[ORGANIZATION] MOSSFON MANAGERS LTD."
+      ],
+      [
+        "[LOCATION] Misiones 1371, Piso 4, Montevideo, Uruguay",
+        "[LOCATION] Uruguay"
+      ],
+      [
+        "[LOCATION] 43-45 La Motte Street, St. Helier, Jersey",
+        "[LOCATION] Jersey"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1778947548,
+    "update_time": 1778947548,
+    "_id": "77eb3dc4-f533-4496-8d37-eb40da8ce9b3"
+  },
+  "fa09dc06-fa59-4bfc-882b-c756a3786f34": {
+    "relation_pairs": [
+      [
+        "[LOCATION] Iceland",
+        "[PERSON] Anna Sigurlaug Palsdottir"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] 12175997"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[PERSON] Mariam Safdar"
+      ],
+      [
+        "[OBJECT] 12129717",
+        "[OBJECT] 13001828"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] Hasan Nawaz Sharif's Panama Papers record"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] 12025226"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] Hussain Nawaz Sharif's Panama Papers record"
+      ],
+      [
+        "[OBJECT] 13010742",
+        "[PERSON] Mariam Safdar"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[PERSON] Anna Sigurlaug Palsdottir"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[PERSON] Hasan Nawaz Sharif"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[PERSON] Petro Poroshenko"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] Mauricio Macri's Panama Papers record"
+      ],
+      [
+        "[EVENT] Manual addition of records from leaked documents",
+        "[OBJECT] Hussain Nawaz Sharif's Panama Papers record"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[ORGANIZATION] CASCON HOLDINGS ESTABLISHMENT LIMITED"
+      ],
+      [
+        "[EVENT] Manual addition of records from leaked documents",
+        "[OBJECT] Hasan Nawaz Sharif's Panama Papers record"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] 12129717"
+      ],
+      [
+        "[LOCATION] British Virgin Islands",
+        "[ORGANIZATION] NAWAZ TRUST"
+      ],
+      [
+        "[OBJECT] 12114024",
+        "[ORGANIZATION] MINERVA SERVICES LIMITED"
+      ],
+      [
+        "[OBJECT] 12025193",
+        "[ORGANIZATION] THE BEARER"
+      ],
+      [
+        "[LOCATION] Jersey",
+        "[ORGANIZATION] MINERVA SERVICES LIMITED"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] 13001828"
+      ],
+      [
+        "[OBJECT] 12025226",
+        "[ORGANIZATION] THE BEARER"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[ORGANIZATION] MINERVA NOMINEES LIMITED"
+      ],
+      [
+        "[EVENT] Manual addition of records from leaked documents",
+        "[PERSON] Hasan Nawaz Sharif"
+      ],
+      [
+        "[OBJECT] 13006286",
+        "[OBJECT] 13010742"
+      ],
+      [
+        "[EVENT] Manual addition of records from leaked documents",
+        "[OBJECT] Mauricio Macri's Panama Papers record"
+      ],
+      [
+        "[OBJECT] 12114024",
+        "[OBJECT] 12175997"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] 12114025"
+      ],
+      [
+        "[OBJECT] Hussain Nawaz Sharif's Panama Papers record",
+        "[PERSON] Hussain Nawaz Sharif"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[ORGANIZATION] THE BEARER"
+      ],
+      [
+        "[EVENT] Manual addition of records from leaked documents",
+        "[OBJECT] Leaked documents"
+      ],
+      [
+        "[LOCATION] Liberia",
+        "[ORGANIZATION] CASCON HOLDINGS ESTABLISHMENT LIMITED"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] 13010742"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] 12114024"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] 13006286"
+      ],
+      [
+        "[OBJECT] 12114025",
+        "[OBJECT] 12176796"
+      ],
+      [
+        "[LOCATION] Saudi Arabia",
+        "[PERSON] Mariam Safdar"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[ORGANIZATION] NAWAZ TRUST"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[PERSON] Hussain Nawaz Sharif"
+      ],
+      [
+        "[LOCATION] Iceland",
+        "[PERSON] Sigmundur David Gunnlaugsson"
+      ],
+      [
+        "[OBJECT] 12175997",
+        "[ORGANIZATION] MINERVA SERVICES LIMITED"
+      ],
+      [
+        "[OBJECT] Mauricio Macri's Panama Papers record",
+        "[PERSON] Mauricio Macri"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[PERSON] Mauricio Macri"
+      ],
+      [
+        "[OBJECT] Hasan Nawaz Sharif's Panama Papers record",
+        "[PERSON] Hasan Nawaz Sharif"
+      ],
+      [
+        "[OBJECT] 13001828",
+        "[PERSON] Petro Poroshenko"
+      ],
+      [
+        "[EVENT] Manual addition of records from leaked documents",
+        "[PERSON] Hussain Nawaz Sharif"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[PERSON] Sigmundur David Gunnlaugsson"
+      ],
+      [
+        "[LOCATION] Jersey",
+        "[ORGANIZATION] MINERVA NOMINEES LIMITED"
+      ],
+      [
+        "[OBJECT] 12176796",
+        "[ORGANIZATION] MINERVA NOMINEES LIMITED"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] Panama Papers database"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] 12025193"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[ORGANIZATION] MINERVA SERVICES LIMITED"
+      ],
+      [
+        "[LOCATION] Ukraine",
+        "[PERSON] Petro Poroshenko"
+      ],
+      [
+        "[OBJECT] 12129717",
+        "[PERSON] Petro Poroshenko"
+      ],
+      [
+        "[OBJECT] 12025193",
+        "[OBJECT] 12025226"
+      ],
+      [
+        "[OBJECT] 13006286",
+        "[PERSON] Mariam Safdar"
+      ],
+      [
+        "[OBJECT] 12114025",
+        "[ORGANIZATION] MINERVA NOMINEES LIMITED"
+      ],
+      [
+        "[EVENT] Panama Papers records compilation",
+        "[OBJECT] 12176796"
+      ],
+      [
+        "[EVENT] Manual addition of records from leaked documents",
+        "[PERSON] Mauricio Macri"
+      ]
+    ],
+    "count": 59,
+    "create_time": 1778947966,
+    "update_time": 1778947966,
+    "_id": "fa09dc06-fa59-4bfc-882b-c756a3786f34"
+  },
+  "1ed67414-f7f0-4345-89af-1b26e631f12a": {
+    "relation_pairs": [
+      [
+        "[EVENT] Shareholding 12129717 10155456 2014",
+        "[PERSON] 12129717"
+      ],
+      [
+        "[ORGANIZATION] 10203385",
+        "[PERSON] 13010742"
+      ],
+      [
+        "[OBJECT] Bahamas Leaks",
+        "[ORGANIZATION] 20073694"
+      ],
+      [
+        "[ORGANIZATION] 10203385",
+        "[PERSON] 12025226"
+      ],
+      [
+        "[LOCATION] 14051308",
+        "[PERSON] 12178546"
+      ],
+      [
+        "[EVENT] Shareholding 12175997 10203385 2006",
+        "[PERSON] 12175997"
+      ],
+      [
+        "[EVENT] Shareholding 12114025 10122953 2006",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[ORGANIZATION] 10179083",
+        "[PERSON] 15002701"
+      ],
+      [
+        "[EVENT] Shareholding 12161442 10206223 2007",
+        "[ORGANIZATION] 10206223"
+      ],
+      [
+        "[EVENT] Shareholding 12114025 10122953 2006",
+        "[PERSON] 12114025"
+      ],
+      [
+        "[EVENT] Shareholding 12114025 10122953 2006",
+        "[ORGANIZATION] 10122953"
+      ],
+      [
+        "[EVENT] Shareholding 12025226 10203385 1993",
+        "[ORGANIZATION] 10203385"
+      ],
+      [
+        "[EVENT] Shareholding 12114024 10122953 2006",
+        "[PERSON] 12114024"
+      ],
+      [
+        "[ORGANIZATION] 10203385",
+        "[PERSON] 12175997"
+      ],
+      [
+        "[EVENT] Shareholding 12161441 10206223 2007",
+        "[PERSON] 12161441"
+      ],
+      [
+        "[LOCATION] 14048807",
+        "[ORGANIZATION] 61441"
+      ],
+      [
+        "[EVENT] Shareholding 12178546 10064371 1996",
+        "[PERSON] 12178546"
+      ],
+      [
+        "[ORGANIZATION] 10155456",
+        "[PERSON] 12129717"
+      ],
+      [
+        "[ORGANIZATION] 10155456",
+        "[PERSON] 11002578"
+      ],
+      [
+        "[EVENT] Shareholding 12120458 10210092 2007",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[ORGANIZATION] 10122953",
+        "[PERSON] 13006286"
+      ],
+      [
+        "[EVENT] Panama Papers",
+        "[PERSON] 12176996"
+      ],
+      [
+        "[EVENT] Shareholding 12161442 10206223 2007",
+        "[PERSON] 12161442"
+      ],
+      [
+        "[LOCATION] 14048807",
+        "[PERSON] 12161442"
+      ],
+      [
+        "[EVENT] Cessation 12025226 10203385 2006",
+        "[ORGANIZATION] 10203385"
+      ],
+      [
+        "[ORGANIZATION] 10122953",
+        "[PERSON] 12114025"
+      ],
+      [
+        "[EVENT] Shareholding 12161441 10206223 2007",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[ORGANIZATION] 10179083",
+        "[ORGANIZATION] 20073694"
+      ],
+      [
+        "[EVENT] Cessation 12025193 10122953 2006",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[EVENT] Shareholding 12120458 10210092 2007",
+        "[PERSON] 12120458"
+      ],
+      [
+        "[EVENT] Panama Papers",
+        "[PERSON] 12114025"
+      ],
+      [
+        "[OBJECT] Bahamas Leaks",
+        "[ORGANIZATION] 10179083"
+      ],
+      [
+        "[ORGANIZATION] 10203385",
+        "[PERSON] 12176796"
+      ],
+      [
+        "[EVENT] Cessation 12025193 10122953 2006",
+        "[ORGANIZATION] 10122953"
+      ],
+      [
+        "[ORGANIZATION] 10122953",
+        "[PERSON] 15001903"
+      ],
+      [
+        "[EVENT] Shareholding 12175997 10203385 2006",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[EVENT] Cessation 12161442 10206223 2009",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[ORGANIZATION] 10206223",
+        "[PERSON] 12161441"
+      ],
+      [
+        "[ORGANIZATION] 10210092",
+        "[PERSON] 15001902"
+      ],
+      [
+        "[ORGANIZATION] 10203385",
+        "[PERSON] 12176996"
+      ],
+      [
+        "[EVENT] Cessation 12025226 10203385 2006",
+        "[PERSON] 12025226"
+      ],
+      [
+        "[EVENT] Shareholding 12025193 10122953 1994",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[EVENT] Shareholding 12129717 10155456 2014",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[ORGANIZATION] 10179083",
+        "[PERSON] 11011774"
+      ],
+      [
+        "[ORGANIZATION] 10206223",
+        "[PERSON] 11005663"
+      ],
+      [
+        "[EVENT] Shareholding 12161441 10206223 2007",
+        "[ORGANIZATION] 10206223"
+      ],
+      [
+        "[EVENT] Shareholding 12120458 10210092 2007",
+        "[ORGANIZATION] 10210092"
+      ],
+      [
+        "[EVENT] Shareholding 12025193 10122953 1994",
+        "[ORGANIZATION] 10122953"
+      ],
+      [
+        "[ORGANIZATION] 10210092",
+        "[PERSON] 12120458"
+      ],
+      [
+        "[ORGANIZATION] 10122953",
+        "[PERSON] 11011597"
+      ],
+      [
+        "[EVENT] Shareholding 12025226 10203385 1993",
+        "[PERSON] 12025226"
+      ],
+      [
+        "[EVENT] Panama Papers",
+        "[PERSON] 11011597"
+      ],
+      [
+        "[EVENT] Shareholding 12176796 10203385 2006",
+        "[PERSON] 12176796"
+      ],
+      [
+        "[LOCATION] 14024758",
+        "[ORGANIZATION] 12129717"
+      ],
+      [
+        "[EVENT] Cessation 12161442 10206223 2009",
+        "[ORGANIZATION] 10206223"
+      ],
+      [
+        "[EVENT] Shareholding 12178546 10064371 1996",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[EVENT] Shareholding 12175997 10203385 2006",
+        "[ORGANIZATION] 10203385"
+      ],
+      [
+        "[EVENT] Panama Papers",
+        "[PERSON] 13006286"
+      ],
+      [
+        "[ORGANIZATION] 10155456",
+        "[PERSON] 13001828"
+      ],
+      [
+        "[EVENT] Shareholding 12161441 10206223 2009",
+        "[PERSON] 12161441"
+      ],
+      [
+        "[EVENT] Shareholding 12176796 10203385 2006",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[LOCATION] 14024758",
+        "[PERSON] 12129717"
+      ],
+      [
+        "[ORGANIZATION] 10203385",
+        "[PERSON] 11011597"
+      ],
+      [
+        "[EVENT] Shareholding 12178546 10064371 1996",
+        "[ORGANIZATION] 10064371"
+      ],
+      [
+        "[ORGANIZATION] 10122953",
+        "[PERSON] 12025193"
+      ],
+      [
+        "[ORGANIZATION] 10122953",
+        "[PERSON] 12114024"
+      ],
+      [
+        "[EVENT] Panama Papers",
+        "[PERSON] 12025193"
+      ],
+      [
+        "[EVENT] Shareholding 12114024 10122953 2006",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[EVENT] Panama Papers",
+        "[PERSON] 12114024"
+      ],
+      [
+        "[ORGANIZATION] 12129717",
+        "[ORGANIZATION] 13001828"
+      ],
+      [
+        "[EVENT] Cessation 12161442 10206223 2009",
+        "[PERSON] 12161442"
+      ],
+      [
+        "[EVENT] Shareholding 12161441 10206223 2009",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[EVENT] Shareholding 12114024 10122953 2006",
+        "[ORGANIZATION] 10122953"
+      ],
+      [
+        "[PERSON] 12129717",
+        "[PERSON] 13001828"
+      ],
+      [
+        "[EVENT] Shareholding 12129717 10155456 2014",
+        "[ORGANIZATION] 10155456"
+      ],
+      [
+        "[ORGANIZATION] 10210092",
+        "[PERSON] 11012290"
+      ],
+      [
+        "[LOCATION] 14048807",
+        "[PERSON] 12161441"
+      ],
+      [
+        "[LOCATION] 14024758",
+        "[PERSON] 13001828"
+      ],
+      [
+        "[ORGANIZATION] 10203385",
+        "[PERSON] 15001903"
+      ],
+      [
+        "[EVENT] Shareholding 12176796 10203385 2006",
+        "[ORGANIZATION] 10203385"
+      ],
+      [
+        "[EVENT] Shareholding 12025193 10122953 1994",
+        "[PERSON] 12025193"
+      ],
+      [
+        "[EVENT] Cessation 12025226 10203385 2006",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[EVENT] Panama Papers",
+        "[PERSON] 13010742"
+      ],
+      [
+        "[LOCATION] 14024758",
+        "[ORGANIZATION] 13001828"
+      ],
+      [
+        "[ORGANIZATION] 10206223",
+        "[PERSON] 12161442"
+      ],
+      [
+        "[EVENT] Panama Papers",
+        "[PERSON] 12025226"
+      ],
+      [
+        "[ORGANIZATION] 10064371",
+        "[PERSON] 12178546"
+      ],
+      [
+        "[EVENT] Shareholding 12161441 10206223 2009",
+        "[ORGANIZATION] 10206223"
+      ],
+      [
+        "[EVENT] Shareholding 12161442 10206223 2007",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[EVENT] Shareholding 12025226 10203385 1993",
+        "[OBJECT] Panama Papers"
+      ],
+      [
+        "[EVENT] Cessation 12025193 10122953 2006",
+        "[PERSON] 12025193"
+      ],
+      [
+        "[EVENT] Panama Papers",
+        "[PERSON] 12175997"
+      ]
+    ],
+    "count": 92,
+    "create_time": 1782661111,
+    "update_time": 1782661111,
+    "_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2",
+    "file_path": "raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv"
+  }
+}

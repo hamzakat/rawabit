@@ -1,0 +1,143 @@
+{
+  "82e11604-60b7-410a-a0c3-4037e59b4796": {
+    "status": "processed",
+    "chunks_count": 9,
+    "chunks_list": [
+      "chunk-9cd87f2d79c6c5c695102b3e8ebb9af7",
+      "chunk-1e8f0e5ea764556ba7aba3f8e5f4f3ab",
+      "chunk-7fa9f82f8e577c2a95faf40eb71d330d",
+      "chunk-8d45ca0699542b947318572c00e10851",
+      "chunk-a8698953f32fa1e034a49c9bfb64ca65",
+      "chunk-598ab38354c1c57cfa72acf1b3d3aa3b",
+      "chunk-3ba6044269b8dd10ab25c05ea471e947",
+      "chunk-cba89918434092130fbfcd87a7a7a4d7",
+      "chunk-31a06cf7ccdb26fd20a38348a67a66e7"
+    ],
+    "content_summary": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across the US\n\nMarch 17, 2026 Border Patrol ICE Immigration\n\nThis investigation is part of a collaboration between Bellingcat, Evident Media and CalMatters. You can watch Evident\u2019s invest...",
+    "content_length": 18637,
+    "created_at": "2026-06-04T09:42:36.187587+00:00",
+    "updated_at": "2026-06-04T09:53:22.496766+00:00",
+    "file_path": "raw/82e11604-60b7-410a-a0c3-4037e59b4796.pdf",
+    "track_id": "insert_20260604_124236_7d3e6a22",
+    "metadata": {
+      "processing_start_time": 1780566156,
+      "processing_end_time": 1780566802
+    }
+  },
+  "71151b33-9bc5-49eb-baf6-0d1494a8043d": {
+    "status": "processed",
+    "chunks_count": 8,
+    "chunks_list": [
+      "chunk-528d792138baa043a098b55be76593b2",
+      "chunk-5c355d6ad3168c8541938edacef73db2",
+      "chunk-d4333b56c71504cc5db99aeb9b9a3462",
+      "chunk-da4a4d3c6ea14f387f993aedce4ed752",
+      "chunk-afec13b58ac09eba645258028762d519",
+      "chunk-b912941ec62704454d7a4f6ea0a43c24",
+      "chunk-180af3952c4d75447a2acd11a8bca48a",
+      "chunk-0be230485af952dad48ebfd858e152b7"
+    ],
+    "content_summary": "Five Shots in Five Minutes: Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis\n\nJanuary 16, 2026 ICE Immigration Police\n\nThis investigation is part of a collaboration between Bellingcat and Evident Media. You can watch Evident\u2019s...",
+    "content_length": 15565,
+    "created_at": "2026-06-04T10:13:03.349904+00:00",
+    "updated_at": "2026-06-04T10:20:25.040845+00:00",
+    "file_path": "raw/71151b33-9bc5-49eb-baf6-0d1494a8043d.pdf",
+    "track_id": "insert_20260604_131303_e65db8f3",
+    "metadata": {
+      "processing_start_time": 1780567983,
+      "processing_end_time": 1780568425
+    }
+  },
+  "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-452ea0db42b7631cfe71bfe396adcd0e",
+      "chunk-01b7723ae953bf130422ee19615d0a06"
+    ],
+    "content_summary": "Chicago anti-ICE protesters block vehicles, get hit with tear gas and pepper balls\n\nAt least 50 protesters were seen midday Friday at an ICE processing center in Broadview, Illinois, a suburb of Chicago.\n\nAn ICE spokesperson told Fox News that two we...",
+    "content_length": 3220,
+    "created_at": "2026-06-04T10:24:13.987235+00:00",
+    "updated_at": "2026-06-04T10:26:22.041508+00:00",
+    "file_path": "raw/ec2b6645-9847-4c98-8ae8-3e14ee0c97fc.pdf",
+    "track_id": "insert_20260604_132413_218c0191",
+    "metadata": {
+      "processing_start_time": 1780568654,
+      "processing_end_time": 1780568782
+    }
+  },
+  "39b5e294-cadd-481b-9498-670b6e3121d4": {
+    "status": "processed",
+    "chunks_count": 11,
+    "chunks_list": [
+      "chunk-cf3b9eec46720c6dc296e97815683ad3",
+      "chunk-c62092979a3f2ca6e48f697d46cc52ea",
+      "chunk-d6a73f6c7351e7d12ae6e6090f3e8da9",
+      "chunk-e88518d6859e408eed3931911f349632",
+      "chunk-7a8efc1fd3d7ac1fc9bccad7f9f5d144",
+      "chunk-44de13747f538fd5aea71e9f9f17af12",
+      "chunk-989afbffe5b91ac7cd0290e0dcf9f37e",
+      "chunk-87ca45c76499d3c98272200fa6ea4e7a",
+      "chunk-e391d49ad1a5cbcdfbe5489080420dd9",
+      "chunk-cff84815afd023d8e8bbca3290354599",
+      "chunk-ab3c23dc96eb032c4cf34a6c4dd9a23b"
+    ],
+    "content_summary": "'Pattern of Extreme Brutality ': Tear Gas, Pepper Balls Among Weapons Deployed Against Protesters in Illinois\n\nOctober 31, 2025 Police United States\n\nTo stay up to date on our latest investigations, join Bellingcat\u2019s new WhatsApp channel here.\n\nThis ...",
+    "content_length": 21468,
+    "created_at": "2026-06-04T10:31:13.937740+00:00",
+    "updated_at": "2026-06-04T10:43:04.783757+00:00",
+    "file_path": "raw/39b5e294-cadd-481b-9498-670b6e3121d4.pdf",
+    "track_id": "insert_20260604_133113_5d74f043",
+    "metadata": {
+      "processing_start_time": 1780569074,
+      "processing_end_time": 1780569784
+    }
+  },
+  "8c786cd1-aaf0-4b14-bff3-89560b40f36e": {
+    "status": "processed",
+    "chunks_count": 10,
+    "chunks_list": [
+      "chunk-df00c56f336c81374b54c428982985f2",
+      "chunk-135dd9fb97837e61fde5461feedbba67",
+      "chunk-ef4a9dfa58d2b0d2772a3238fc5b8108",
+      "chunk-cb30c633d5049dcab722f2ef0da09357",
+      "chunk-58b830b38791cbe8b20eb03d5c9eb251",
+      "chunk-033eff3da049499c50400c71bf5b6058",
+      "chunk-8ee1a0fa15ce1a4282b12b0df7b1bf39",
+      "chunk-a8b0680bbf08daadbeefe30d6bf9e9a6",
+      "chunk-b9105d4bba19aade035da9b3a25e5ca4",
+      "chunk-31e0d82f3c8dd8bab2a9bd241ca5125d"
+    ],
+    "content_summary": "Identifying \u2018Less-Lethal\u2019 Weapons Used By DHS Agents in US Immigration Raids and Protests\n\nJanuary 27, 2026 ICE Immigration Police\n\nTo stay up to date on our latest investigations, join Bellingcat\u2019s WhatsApp channel here.\n\nFederal agents have frequen...",
+    "content_length": 19495,
+    "created_at": "2026-06-04T10:46:42.841525+00:00",
+    "updated_at": "2026-06-04T10:55:07.916903+00:00",
+    "file_path": "raw/8c786cd1-aaf0-4b14-bff3-89560b40f36e.pdf",
+    "track_id": "insert_20260604_134642_99cdc2fb",
+    "metadata": {
+      "processing_start_time": 1780570002,
+      "processing_end_time": 1780570507
+    }
+  },
+  "dea0def1-820a-41f5-a86e-38b8fdaa0152": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-bc81b3507aa1cb394712969e1bcf409f",
+      "chunk-2dade3d40613d6fbdef7e671644df73c",
+      "chunk-3a93a1e594aebb7d59bd7b5a66e2f011"
+    ],
+    "content_summary": "On June 6, 2025, demonstrators began to assemble outside of the Metropolitan Detention Center in Los Angeles in response to accelerated federal raids targeting suspected undocumented immigrants.\n\nNearly 100 journalists were shot with less-lethal weap...",
+    "content_length": 4361,
+    "created_at": "2026-06-04T10:59:47.422848+00:00",
+    "updated_at": "2026-06-04T11:03:22.272554+00:00",
+    "file_path": "raw/dea0def1-820a-41f5-a86e-38b8fdaa0152.pdf",
+    "track_id": "insert_20260604_135947_7794ad90",
+    "metadata": {
+      "processing_start_time": 1780570787,
+      "processing_end_time": 1780571002
+    },
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2"
+  }
+}

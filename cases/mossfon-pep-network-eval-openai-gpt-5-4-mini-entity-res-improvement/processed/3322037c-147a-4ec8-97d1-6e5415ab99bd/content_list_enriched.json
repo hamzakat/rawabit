@@ -1,0 +1,8 @@
+[
+  {
+    "type": "text",
+    "text": "node_id,address,name,countries,country_codes,sourceID,valid_until,note\r\n14048807,Lokastigur 24; 101 Reykjavik; Iceland,,Iceland,ISL,Panama Papers,The Panama Papers  data is current through 2015,\r\n14024758,9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine,,Ukraine,UKR,Panama Papers,The Panama Papers  data is current through 2015,\r\n14051308,NAWAZ TRUST C/O Nerine Trust Company Limited; 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI,,British Virgin Islands,VGB,Panama Papers,The Panama Papers  data is current through 2015,",
+    "document_id": "3322037c-147a-4ec8-97d1-6e5415ab99bd",
+    "confidence_code": "A2"
+  }
+]

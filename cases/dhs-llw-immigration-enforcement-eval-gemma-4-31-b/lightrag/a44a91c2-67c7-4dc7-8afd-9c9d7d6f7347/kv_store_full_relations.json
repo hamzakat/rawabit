@@ -1,0 +1,3261 @@
+{
+  "82e11604-60b7-410a-a0c3-4037e59b4796": {
+    "relation_pairs": [
+      [
+        "[OBJECT] Social media and bodycam footage",
+        "[ORGANIZATION] Evident Media"
+      ],
+      [
+        "[EVENT] Border Patrol surges",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[ORGANIZATION] CalMatters",
+        "[PERSON] Hewson"
+      ],
+      [
+        "[EVENT] Shooting of Renee Good",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Operation Midway Blitz",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[EVENT] Death of Renee Good",
+        "[PERSON] Renee Good"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[PERSON] John Roth"
+      ],
+      [
+        "[ORGANIZATION] Unraveled",
+        "[PERSON] Michael Sveum"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[ORGANIZATION] CalMatters"
+      ],
+      [
+        "[EVENT] Use of force in Chicago",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[OBJECT] Donahue's social media account",
+        "[PERSON] Donahue"
+      ],
+      [
+        "[EVENT] CalMatters contact with Donahue",
+        "[ORGANIZATION] CalMatters"
+      ],
+      [
+        "[EVENT] Donahue tackling journalist",
+        "[PERSON] Donahue"
+      ],
+      [
+        "[EVENT] Operation Midway Blitz",
+        "[OBJECT] Video footage of Chicago incident"
+      ],
+      [
+        "[LOCATION] Minneapolis",
+        "[LOCATION] Roosevelt High School"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Restraining order ruling November",
+        "[PERSON] Judge Ellis"
+      ],
+      [
+        "[EVENT] Use-of-force incident in Chicago",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[EVENT] Chemical irritant spraying incident",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Arrest of Ernesto Campos",
+        "[PERSON] Ernesto Campos"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[EVENT] Operation Return to Sender",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[EVENT] Border Patrol surges",
+        "[PERSON] Tom Homan"
+      ],
+      [
+        "[OBJECT] Timothy Donahue's social media account",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Use-of-force incidents by agents",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Testimony to Congress",
+        "[PERSON] Roth"
+      ],
+      [
+        "[EVENT] Bovino Illinois deposition",
+        "[PERSON] Bovino"
+      ],
+      [
+        "[OBJECT] EZ-2 phone",
+        "[PERSON] Michael Sveum"
+      ],
+      [
+        "[EVENT] CalMatters contact with Donahue",
+        "[OBJECT] Donahue's cellphone"
+      ],
+      [
+        "[EVENT] Pepper-spraying incident",
+        "[PERSON] Hewson"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol",
+        "[PERSON] Timothy Donahue"
+      ],
+      [
+        "[EVENT] Judge Ellis' ruling",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[EVENT] Pepper-spraying incident",
+        "[PERSON] Father"
+      ],
+      [
+        "[EVENT] Dominance display",
+        "[PERSON] Burnell"
+      ],
+      [
+        "[EVENT] Killing of Alex Pretti",
+        "[PERSON] Alex Pretti"
+      ],
+      [
+        "[EVENT] Pushing incident in Los Angeles",
+        "[PERSON] Timothy Donahue"
+      ],
+      [
+        "[EVENT] Restraining order issuance",
+        "[EVENT] Restraining order vacation"
+      ],
+      [
+        "[EVENT] Traffic incident in Chicago",
+        "[OBJECT] Timothy Donahue's gun"
+      ],
+      [
+        "[EVENT] Killing of Alex Pretti",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[EVENT] Bellingcat Investigation",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Bellingcat Investigation",
+        "[ORGANIZATION] CalMatters"
+      ],
+      [
+        "[EVENT] Assault at 37 and Kedzie",
+        "[LOCATION] 37 and Kedzie, East Garfield, Illinois"
+      ],
+      [
+        "[EVENT] Shooting of Renee Good",
+        "[ORGANIZATION] Immigration and Customs Enforcement (ICE)"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[PERSON] Bovino"
+      ],
+      [
+        "[EVENT] Preliminary injunction hearing",
+        "[PERSON] Hewson"
+      ],
+      [
+        "[EVENT] Traffic incident in Chicago",
+        "[PERSON] Georgy Simeon"
+      ],
+      [
+        "[EVENT] Judge Ellis' ruling",
+        "[PERSON] Judge Ellis"
+      ],
+      [
+        "[EVENT] CalMatters contact with Donahue",
+        "[PERSON] Donahue"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[PERSON] Hewson"
+      ],
+      [
+        "[EVENT] Arrest of Ernesto Campos",
+        "[LOCATION] Bakersfield, California"
+      ],
+      [
+        "[EVENT] Identification of EZ-1 and EZ-2",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Eoghan Macguire"
+      ],
+      [
+        "[EVENT] Simeon contact attempt",
+        "[OBJECT] Simeon's phone number"
+      ],
+      [
+        "[ORGANIZATION] CalMatters",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Hewson spraying individual",
+        "[PERSON] Individual sprayed by Hewson"
+      ],
+      [
+        "[EVENT] Confrontation in Chicago suburb",
+        "[LOCATION] Chicago suburb"
+      ],
+      [
+        "[OBJECT] Bellingcat Bluesky account",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Arrest of Ernesto Campos",
+        "[OBJECT] Video footage of Bakersfield incident"
+      ],
+      [
+        "[EVENT] CalMatters contact with Vazquez",
+        "[ORGANIZATION] CalMatters"
+      ],
+      [
+        "[EVENT] Tear gas deployment",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[EVENT] Tear gas canister transfer",
+        "[LOCATION] Little Village"
+      ],
+      [
+        "[EVENT] Filming of Donahue and Simeon in Bakersfield",
+        "[PERSON] Ernesto Campos"
+      ],
+      [
+        "[EVENT] Assault by Georgy Simeon",
+        "[LOCATION] Bakersfield"
+      ],
+      [
+        "[EVENT] Hewson spraying individual",
+        "[OBJECT] Hewson's incident report"
+      ],
+      [
+        "[OBJECT] Social media and bodycam footage",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Temporary restraining order issuance",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[EVENT] Chemical irritant spraying incident",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[OBJECT] Social media and bodycam footage",
+        "[ORGANIZATION] CalMatters"
+      ],
+      [
+        "[EVENT] Tear gas canister transfer",
+        "[PERSON] Bovino"
+      ],
+      [
+        "[EVENT] Testimony to Congress",
+        "[ORGANIZATION] Congress"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[PERSON] Alex Pretti"
+      ],
+      [
+        "[EVENT] Use of force in Chicago",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[PERSON] Masked agents"
+      ],
+      [
+        "[EVENT] Arrest of Ernesto Campos",
+        "[EVENT] Operation Return to Sender"
+      ],
+      [
+        "[PERSON] EZ-17",
+        "[PERSON] Edgar Vazquez"
+      ],
+      [
+        "[LOCATION] Minneapolis",
+        "[LOCATION] Nicollet Avenue"
+      ],
+      [
+        "[ORGANIZATION] CalMatters",
+        "[PERSON] Sergio Olmos"
+      ],
+      [
+        "[EVENT] Footage Review",
+        "[PERSON] Roth"
+      ],
+      [
+        "[EVENT] Arrest of two men in Minneapolis",
+        "[EVENT] Minneapolis tackle and melee"
+      ],
+      [
+        "[EVENT] Filming of Donahue and Simeon in Bakersfield",
+        "[LOCATION] Bakersfield"
+      ],
+      [
+        "[EVENT] Tear gas deployment",
+        "[OBJECT] Tear gas canister"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[PERSON] Burnell"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[EVENT] Minneapolis tackle and melee",
+        "[PERSON] Bovino"
+      ],
+      [
+        "[EVENT] Arrest of Ernesto Campos",
+        "[PERSON] Passenger of Ernesto Campos"
+      ],
+      [
+        "[EVENT] Traffic incident in Chicago",
+        "[PERSON] Sara Ellis"
+      ],
+      [
+        "[EVENT] Manhandling of protester on Nicollet Avenue",
+        "[PERSON] Bovino"
+      ],
+      [
+        "[EVENT] CalMatters contact with Vazquez",
+        "[PERSON] Edgar Vazquez"
+      ],
+      [
+        "[EVENT] Minneapolis tackle and melee",
+        "[PERSON] Hewson"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Kolina Koltai"
+      ],
+      [
+        "[OBJECT] Bellingcat Patreon channel",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Traffic incident in Chicago",
+        "[PERSON] Timothy Donahue"
+      ],
+      [
+        "[EVENT] Donahue compiling report Oct 3",
+        "[OBJECT] Donahue's bodycam"
+      ],
+      [
+        "[EVENT] Manhandling of protester on Nicollet Avenue",
+        "[PERSON] Hewson"
+      ],
+      [
+        "[EVENT] Use of force in Chicago",
+        "[PERSON] Daniel Connerton"
+      ],
+      [
+        "[EVENT] Minneapolis tackle and melee",
+        "[PERSON] Target employee"
+      ],
+      [
+        "[OBJECT] Video footage of Bakersfield incident",
+        "[PERSON] Ernesto Campos"
+      ],
+      [
+        "[EVENT] Identification of EZ-1 and EZ-2",
+        "[PERSON] Michael Sveum"
+      ],
+      [
+        "[EVENT] Identification of EZ-1 and EZ-2",
+        "[OBJECT] EZ-2 bodycam"
+      ],
+      [
+        "[OBJECT] Oct. 31 incident report",
+        "[PERSON] Donahue"
+      ],
+      [
+        "[EVENT] Pepper-spraying incident",
+        "[OBJECT] Bodycam footage"
+      ],
+      [
+        "[EVENT] Identification of EZ-1 and EZ-2",
+        "[OBJECT] EZ-2 phone"
+      ],
+      [
+        "[EVENT] Arrest of two men in Minneapolis",
+        "[LOCATION] Target store front door"
+      ],
+      [
+        "[EVENT] Testimony to Congress",
+        "[PERSON] Burnell"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol Tactical Division (BORTAC)",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[ORGANIZATION] Evident Media",
+        "[PERSON] Kevin Clancy"
+      ],
+      [
+        "[EVENT] Assault at 37 and Kedzie",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[OBJECT] EZ-2 bodycam",
+        "[PERSON] Michael Sveum"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Youri van der Weide"
+      ],
+      [
+        "[EVENT] Footage Review",
+        "[ORGANIZATION] CalMatters"
+      ],
+      [
+        "[EVENT] Border Patrol surges",
+        "[LOCATION] Los Angeles"
+      ],
+      [
+        "[EVENT] Masked agents operations in select cities",
+        "[PERSON] John Roth"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[PERSON] Steve Burnell"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[ORGANIZATION] Evident Media"
+      ],
+      [
+        "[EVENT] Killing of Renee Good",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[EVENT] Bovino confrontation in Chicago",
+        "[PERSON] Bovino"
+      ],
+      [
+        "[OBJECT] Bellingcat YouTube channel",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[PERSON] Bovino",
+        "[PERSON] Hewson"
+      ],
+      [
+        "[EVENT] Hewson spraying individual",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[EVENT] Restraining order issuance",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[EVENT] Filming of Donahue and Simeon in Bakersfield",
+        "[PERSON] Georgy Simeon"
+      ],
+      [
+        "[OBJECT] Incident report",
+        "[PERSON] Hewson"
+      ],
+      [
+        "[EVENT] Hewson spraying individual",
+        "[OBJECT] Pepper spray (OC)"
+      ],
+      [
+        "[EVENT] Confrontation in Chicago suburb",
+        "[EVENT] Operation Midway Blitz"
+      ],
+      [
+        "[EVENT] Killing of Renee Good",
+        "[PERSON] Renee Good"
+      ],
+      [
+        "[EVENT] Pepper-spraying incident",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[EVENT] Chemical irritant spraying incident",
+        "[OBJECT] Chemical irritant"
+      ],
+      [
+        "[EVENT] Simeon contact attempt",
+        "[PERSON] Simeon"
+      ],
+      [
+        "[ORGANIZATION] Department of Homeland Security (DHS)",
+        "[PERSON] Simeon"
+      ],
+      [
+        "[EVENT] Assault of female protesters",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[EVENT] Traffic incident in Chicago",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[EVENT] Hewson spraying individual",
+        "[PERSON] Kristopher Hewson"
+      ],
+      [
+        "[EVENT] CalMatters contact with Sveum",
+        "[ORGANIZATION] CalMatters"
+      ],
+      [
+        "[EVENT] Arrest of two men in Minneapolis",
+        "[PERSON] Hewson"
+      ],
+      [
+        "[EVENT] Identification of EZ-1 and EZ-2",
+        "[PERSON] Edgar Vazquez"
+      ],
+      [
+        "[EVENT] Preliminary injunction hearing",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[EVENT] Donahue tackling journalist",
+        "[OBJECT] Donahue's bodycam"
+      ],
+      [
+        "[OBJECT] DHS use-of-force policies",
+        "[PERSON] Roth"
+      ],
+      [
+        "[EVENT] Assault at 37 and Kedzie",
+        "[EVENT] Operation Midway Blitz"
+      ],
+      [
+        "[EVENT] Arrest of Ernesto Campos",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[EVENT] Confrontation in Chicago suburb",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[EVENT] Restraining order ruling November",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] Border Patrol surges",
+        "[PERSON] Gregory Bovino"
+      ],
+      [
+        "[EVENT] Pushing incident in Los Angeles",
+        "[LOCATION] Los Angeles"
+      ],
+      [
+        "[OBJECT] Donahue's social media account",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Operation Return to Sender",
+        "[LOCATION] Bakersfield, California"
+      ],
+      [
+        "[EVENT] Donahue compiling report Oct 3",
+        "[OBJECT] ChatGPT"
+      ],
+      [
+        "[EVENT] Arrest of Ernesto Campos",
+        "[OBJECT] Ernesto Campos' car"
+      ],
+      [
+        "[OBJECT] Timothy Donahue's social media account",
+        "[PERSON] Timothy Donahue"
+      ],
+      [
+        "[ORGANIZATION] CalMatters",
+        "[ORGANIZATION] Evident Media"
+      ],
+      [
+        "[EVENT] Traffic incident in Chicago",
+        "[OBJECT] Timothy Donahue's incident report"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol Tactical Division (BORTAC)",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Footage Review",
+        "[PERSON] Burnell"
+      ],
+      [
+        "[EVENT] Footage Review",
+        "[OBJECT] Footage"
+      ],
+      [
+        "[EVENT] Firing of less lethal munitions",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[EVENT] Pepper-spraying incident",
+        "[OBJECT] Incident report"
+      ],
+      [
+        "[EVENT] Assault by Georgy Simeon",
+        "[PERSON] Georgy Simeon"
+      ],
+      [
+        "[EVENT] Immigration raid at car wash",
+        "[OBJECT] Car wash"
+      ],
+      [
+        "[EVENT] Tear gas deployment",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[PERSON] EZ-2",
+        "[PERSON] Michael Sveum"
+      ],
+      [
+        "[EVENT] Manhandling of protester on Nicollet Avenue",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Filming of Donahue and Simeon in Bakersfield",
+        "[PERSON] Timothy Donahue"
+      ],
+      [
+        "[EVENT] Killing of Renee Good",
+        "[ORGANIZATION] Immigration and Customs Enforcement (ICE)"
+      ],
+      [
+        "[EVENT] Restraining order issuance",
+        "[EVENT] Use of force in Chicago"
+      ],
+      [
+        "[EVENT] Firing of less lethal munitions",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Shooting of Renee Good",
+        "[PERSON] Renee Good"
+      ],
+      [
+        "[EVENT] Border Patrol surges",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[LOCATION] Minneapolis",
+        "[LOCATION] Target store front door"
+      ],
+      [
+        "[OBJECT] DHS use-of-force policies",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[EVENT] Confrontation in Chicago suburb",
+        "[OBJECT] Agent's gun"
+      ],
+      [
+        "[LOCATION] El Centro sector",
+        "[PERSON] Gregory Bovino"
+      ],
+      [
+        "[EVENT] Tear gas deployment",
+        "[PERSON] Hewson"
+      ],
+      [
+        "[LOCATION] Chicago",
+        "[LOCATION] Little Village"
+      ],
+      [
+        "[EVENT] Donahue tackling journalist",
+        "[PERSON] Journalist from Unraveled"
+      ],
+      [
+        "[EVENT] Immigration raid at car wash",
+        "[PERSON] Timothy Donahue"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol",
+        "[PERSON] Gregory Bovino"
+      ],
+      [
+        "[OBJECT] Bellingcat Newsletter",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[OBJECT] Bellingcat Instagram account",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Manhandling of protester on Nicollet Avenue",
+        "[LOCATION] Nicollet Avenue"
+      ],
+      [
+        "[OBJECT] Timothy Donahue's social media account",
+        "[ORGANIZATION] Unraveled Press"
+      ],
+      [
+        "[LOCATION] Bovino's El Centro sector",
+        "[PERSON] Kristopher Hewson"
+      ],
+      [
+        "[EVENT] Donahue compiling report Oct 3",
+        "[PERSON] Donahue"
+      ],
+      [
+        "[ORGANIZATION] Department of Homeland Security (DHS)",
+        "[PERSON] Donahue"
+      ],
+      [
+        "[EVENT] Pepper-spraying incident",
+        "[PERSON] 15-year-old son"
+      ],
+      [
+        "[EVENT] CalMatters contact with Sveum",
+        "[PERSON] Michael Sveum"
+      ],
+      [
+        "[EVENT] Dominance display",
+        "[PERSON] Masked agents"
+      ],
+      [
+        "[EVENT] Footage Review",
+        "[ORGANIZATION] Evident"
+      ],
+      [
+        "[EVENT] Masked agents operations in select cities",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[ORGANIZATION] Evident Media"
+      ],
+      [
+        "[OBJECT] Bellingcat Reddit account",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol",
+        "[PERSON] Bovino"
+      ],
+      [
+        "[EVENT] Use-of-force incident in Chicago",
+        "[PERSON] Timothy Donahue"
+      ],
+      [
+        "[EVENT] Use of force in Chicago",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[EVENT] Donahue tackling journalist",
+        "[LOCATION] Detention centre near Chicago"
+      ],
+      [
+        "[EVENT] Bellingcat Investigation",
+        "[ORGANIZATION] Evident Media"
+      ],
+      [
+        "[EVENT] Tear gas canister transfer",
+        "[OBJECT] Tear gas canister"
+      ],
+      [
+        "[EVENT] Killing of Alex Pretti",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol Tactical Division (BORTAC)",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[EVENT] Traffic incident in Chicago",
+        "[PERSON] Ernesto Campos"
+      ],
+      [
+        "[EVENT] Tear gas canister transfer",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol",
+        "[PERSON] Georgy Simeon"
+      ],
+      [
+        "[OBJECT] Hewson's incident report",
+        "[PERSON] Kristopher Hewson"
+      ],
+      [
+        "[EVENT] Border Patrol surges",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[EVENT] Manhandling of protester on Nicollet Avenue",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Edgar Vazquez"
+      ],
+      [
+        "[EVENT] Assault of female protesters",
+        "[LOCATION] Roosevelt High School"
+      ],
+      [
+        "[EVENT] Masked agents operations in select cities",
+        "[PERSON] Steve Burnell"
+      ],
+      [
+        "[ORGANIZATION] Unraveled",
+        "[PERSON] Journalist from Unraveled"
+      ],
+      [
+        "[EVENT] Minneapolis tackle and melee",
+        "[LOCATION] Target store front door"
+      ],
+      [
+        "[EVENT] Operation Midway Blitz",
+        "[LOCATION] Chicago, Illinois"
+      ],
+      [
+        "[EVENT] Minneapolis tackle and melee",
+        "[ORGANIZATION] Target"
+      ],
+      [
+        "[EVENT] Pepper-spraying incident",
+        "[OBJECT] Pepper spray canister"
+      ],
+      [
+        "[EVENT] Bovino confrontation in Chicago",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[ORGANIZATION] Unraveled",
+        "[PERSON] Edgar Vazquez"
+      ],
+      [
+        "[EVENT] Restraining order ruling November",
+        "[OBJECT] ChatGPT"
+      ],
+      [
+        "[OBJECT] Court documents and incident reports",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol",
+        "[PERSON] Donald Trump"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[PERSON] Roth"
+      ],
+      [
+        "[OBJECT] C-29",
+        "[PERSON] Hewson"
+      ],
+      [
+        "[EVENT] Firing of less lethal munitions",
+        "[OBJECT] Less lethal munitions"
+      ]
+    ],
+    "count": 223,
+    "create_time": 1780566802,
+    "update_time": 1780566802,
+    "_id": "82e11604-60b7-410a-a0c3-4037e59b4796"
+  },
+  "71151b33-9bc5-49eb-baf6-0d1494a8043d": {
+    "relation_pairs": [
+      [
+        "[EVENT] Second Shot",
+        "[PERSON] Man filming"
+      ],
+      [
+        "[EVENT] Shooting at Roosevelt High School",
+        "[PERSON] Moran"
+      ],
+      [
+        "[EVENT] Shooting of Protester 3",
+        "[OBJECT] 40mm Muzzle Blast munitions"
+      ],
+      [
+        "[EVENT] Use of force incident Jan 7",
+        "[ORGANIZATION] Mercado Media"
+      ],
+      [
+        "[EVENT] Shooting of man with hands up",
+        "[PERSON] Moran"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Trevor Ball"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[ORGANIZATION] BORTAC",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[EVENT] Minneapolis Protests",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[EVENT] Shooting at Roosevelt High School",
+        "[LOCATION] Roosevelt High School"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Rachel Moran"
+      ],
+      [
+        "[EVENT] Immigration raids",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[EVENT] Blocking of CBP Truck",
+        "[OBJECT] Unmarked white CBP truck"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] California Protest Shooting",
+        "[LOCATION] California"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[EVENT] Third Shot",
+        "[PERSON] Man throwing snowballs"
+      ],
+      [
+        "[OBJECT] Dymanh Chhoun annotations",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Firing of less-lethal launcher by EZ-17",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Pooja Chaudhuri"
+      ],
+      [
+        "[ORGANIZATION] BORTAC",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Shooting of Protester 2",
+        "[PERSON] Dymanh"
+      ],
+      [
+        "[EVENT] Shooting of Protester 3",
+        "[PERSON] Dymanh"
+      ],
+      [
+        "[OBJECT] Mercado Media video",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Illinois Incident",
+        "[PERSON] Bovino"
+      ],
+      [
+        "[EVENT] Fatal shooting of Renee Nicole Good",
+        "[PERSON] Renee Nicole Good"
+      ],
+      [
+        "[OBJECT] 40mm Muzzle Blast munition",
+        "[OBJECT] Dymanh Chhoun annotations"
+      ],
+      [
+        "[EVENT] Protest incident at Roosevelt High School",
+        "[LOCATION] Roosevelt High School"
+      ],
+      [
+        "[EVENT] Firing of the fifth shot",
+        "[PERSON] Protesters"
+      ],
+      [
+        "[OBJECT] 40mm Muzzle Blast munitions",
+        "[ORGANIZATION] Defense Technology"
+      ],
+      [
+        "[EVENT] Shooting at Roosevelt High School",
+        "[OBJECT] B&T GL06 40mm launcher"
+      ],
+      [
+        "[ORGANIZATION] Thomas School of Law",
+        "[PERSON] Rachel Moran"
+      ],
+      [
+        "[EVENT] Second Shot",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Shooting of man with hands up",
+        "[OBJECT] B&T GL06 40mm launcher"
+      ],
+      [
+        "[PERSON] EZ-17",
+        "[PERSON] Gregory Bovino"
+      ],
+      [
+        "[ORGANIZATION] CBP",
+        "[PERSON] CBP Agent with PepperBall gun"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[OBJECT] 40mm munitions",
+        "[OBJECT] Muzzle Blast munition"
+      ],
+      [
+        "[ORGANIZATION] CBP",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[ORGANIZATION] University of St. Thomas School of Law",
+        "[PERSON] Rachel Moran"
+      ],
+      [
+        "[EVENT] Shooting at Roosevelt High School",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[OBJECT] Footage of Minneapolis CBP Shooting"
+      ],
+      [
+        "[EVENT] Firing of less-lethal launcher by EZ-17",
+        "[EVENT] Minneapolis Protests"
+      ],
+      [
+        "[OBJECT] 40mm Muzzle Blast munition",
+        "[OBJECT] 40mm canister"
+      ],
+      [
+        "[EVENT] Firing of the fifth shot",
+        "[OBJECT] CBP truck"
+      ],
+      [
+        "[EVENT] OC Spraying of Man",
+        "[PERSON] Man throwing snowballs"
+      ],
+      [
+        "[EVENT] Firing of less-lethal launcher by EZ-17",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[EVENT] EZ-17 firing B&T GL06",
+        "[OBJECT] B&T GL06"
+      ],
+      [
+        "[EVENT] Fourth Shot",
+        "[OBJECT] Unmarked white CBP truck"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[PERSON] Alex Pretti"
+      ],
+      [
+        "[EVENT] Use of force incident Jan 7",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Protest incident at Roosevelt High School",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Firing of less-lethal launcher by EZ-17",
+        "[OBJECT] B&T GL06 40mm less-lethal launcher"
+      ],
+      [
+        "[EVENT] Immigration raids",
+        "[ORGANIZATION] BORTAC"
+      ],
+      [
+        "[EVENT] Firing of less-lethal launcher by EZ-17",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Bellingcat analysis of six shots",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[OBJECT] PepperBall gun",
+        "[PERSON] CBP Agent with PepperBall gun"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[EVENT] Blocking of CBP Truck",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[OBJECT] EZ-17's vest",
+        "[ORGANIZATION] BORTAC"
+      ],
+      [
+        "[OBJECT] OC spray",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[OBJECT] SKAT Shell",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Review of footage by Patrick Wilcken",
+        "[PERSON] Patrick Wilcken"
+      ],
+      [
+        "[EVENT] Firing at Roosevelt High School",
+        "[LOCATION] Roosevelt High School"
+      ],
+      [
+        "[ORGANIZATION] CBP",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[EVENT] Immigration raids",
+        "[PERSON] Gregory Bovino"
+      ],
+      [
+        "[EVENT] Immigration Raids Minnesota",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[EVENT] Bellingcat analysis of six shots",
+        "[EVENT] Fifth shot identified by Bellingcat"
+      ],
+      [
+        "[EVENT] Third Shot",
+        "[OBJECT] Mercado Media video"
+      ],
+      [
+        "[EVENT] Illinois Incident",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Third Shot",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Fatal shooting of Renee Nicole Good",
+        "[ORGANIZATION] Immigration and Customs Enforcement (ICE)"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Firing of the fifth shot",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Deployment of tear gas",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[EVENT] Immigration Raids Minnesota",
+        "[LOCATION] Minnesota"
+      ],
+      [
+        "[EVENT] Protest incident at Roosevelt High School",
+        "[OBJECT] CBP vehicle"
+      ],
+      [
+        "[OBJECT] SKAT Shell",
+        "[ORGANIZATION] Defense Technology"
+      ],
+      [
+        "[EVENT] Immigration Raids Minnesota",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Fifth shot identified by Bellingcat",
+        "[OBJECT] B&T GL06 40mm launcher"
+      ],
+      [
+        "[EVENT] EZ-17 firing B&T GL06",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Shooting of man with hands up",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[OBJECT] Vexor Professional-branded canister",
+        "[ORGANIZATION] Vexor"
+      ],
+      [
+        "[OBJECT] 40mm munitions",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Bellingcat analysis of six shots",
+        "[PERSON] Travis Norton"
+      ],
+      [
+        "[EVENT] Use of force incident Jan 7",
+        "[LOCATION] crime scene perimeter"
+      ],
+      [
+        "[EVENT] Firing of less-lethal launcher by EZ-17",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[EVENT] Blocking of CBP Truck",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[EVENT] Use of force incident Jan 7",
+        "[PERSON] Gregory Bovino"
+      ],
+      [
+        "[EVENT] Use of force incident Jan 7",
+        "[ORGANIZATION] Status Coup News"
+      ],
+      [
+        "[EVENT] Illinois Use of Force Injunction",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[EVENT] Illinois Use of Force Injunction",
+        "[EVENT] Immigration raids in Illinois"
+      ],
+      [
+        "[EVENT] Fatal shooting of Renee Nicole Good",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[OBJECT] CBP truck",
+        "[PERSON] Protesters"
+      ],
+      [
+        "[EVENT] Shooting of Protester 2",
+        "[ORGANIZATION] Status Coup News"
+      ],
+      [
+        "[EVENT] Immigration raids in Illinois",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[EVENT] Shooting of Protester 3",
+        "[ORGANIZATION] Status Coup News"
+      ],
+      [
+        "[EVENT] Fifth shot identified by Bellingcat",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[OBJECT] 40mm munitions",
+        "[OBJECT] sponge-nose impact rounds"
+      ],
+      [
+        "[EVENT] Blocking of CBP Truck",
+        "[LOCATION] Alley"
+      ],
+      [
+        "[OBJECT] EZ-17's vest",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[ORGANIZATION] BORTAC",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Travis Norton"
+      ],
+      [
+        "[EVENT] Firing at Roosevelt High School",
+        "[OBJECT] B&T GL06"
+      ],
+      [
+        "[ORGANIZATION] University of St Thomas",
+        "[PERSON] Rachel Moran"
+      ],
+      [
+        "[EVENT] Shooting of Protester 3",
+        "[PERSON] Protester 3"
+      ],
+      [
+        "[EVENT] Firing of less-lethal launcher by EZ-17",
+        "[ORGANIZATION] Evident Media"
+      ],
+      [
+        "[EVENT] Third Shot",
+        "[OBJECT] 40mm canister"
+      ],
+      [
+        "[EVENT] Third Shot",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[EVENT] Fourth Shot",
+        "[PERSON] Person banging on truck windows"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[OBJECT] Less-Lethal Launcher"
+      ],
+      [
+        "[EVENT] California Protest Shooting",
+        "[OBJECT] PepperBall gun"
+      ],
+      [
+        "[EVENT] Use of force incident Jan 7",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Good Death Scene",
+        "[PERSON] Protester 1"
+      ],
+      [
+        "[EVENT] Good Death Scene",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] OC Spraying of Man",
+        "[OBJECT] Vexor Professional-branded canister"
+      ],
+      [
+        "[EVENT] Shooting of Protester 2",
+        "[PERSON] Protester 2"
+      ],
+      [
+        "[EVENT] Shooting of Protester 2",
+        "[OBJECT] 40mm Muzzle Blast munitions"
+      ],
+      [
+        "[PERSON] EZ-17",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[EVENT] California Protest Shooting",
+        "[PERSON] Unnamed Protester"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol",
+        "[PERSON] Gregory Bovino"
+      ],
+      [
+        "[ORGANIZATION] CBP",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Fatal shooting of Renee Nicole Good",
+        "[PERSON] Jonathan Ross"
+      ],
+      [
+        "[EVENT] Shooting at Roosevelt High School",
+        "[ORGANIZATION] Status Coup News"
+      ],
+      [
+        "[EVENT] Firing of the fifth shot",
+        "[OBJECT] SKAT Shell"
+      ],
+      [
+        "[EVENT] OC Spraying of Man",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[EVENT] Immigration raids",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Firing at Roosevelt High School",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[ORGANIZATION] Amnesty International",
+        "[PERSON] Patrick Wilcken"
+      ],
+      [
+        "[EVENT] Fourth Shot",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] California Protest Shooting",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Illinois Incident",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[EVENT] Immigration raids in Illinois",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[EVENT] Immigration Raids Minnesota",
+        "[PERSON] Bovino"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] Use of force incident Jan 7",
+        "[OBJECT] truck"
+      ],
+      [
+        "[EVENT] Firing of less-lethal launcher by EZ-17",
+        "[PERSON] Gregory Bovino"
+      ],
+      [
+        "[EVENT] Firing of less-lethal launcher by EZ-17",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Review of footage by Patrick Wilcken",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Bellingcat analysis of six shots",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Firing of the first four shots",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[LOCATION] crime scene perimeter",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Protest incident at Roosevelt High School",
+        "[PERSON] Rachel Moran"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[PERSON] Norton"
+      ],
+      [
+        "[EVENT] Shooting at Roosevelt High School",
+        "[PERSON] Protester"
+      ],
+      [
+        "[EVENT] Good Death Scene",
+        "[PERSON] EZ-2"
+      ],
+      [
+        "[EVENT] Deployment of tear gas",
+        "[OBJECT] Tear gas grenade"
+      ],
+      [
+        "[OBJECT] Unmarked white CBP truck",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] Immigration Raids Minnesota",
+        "[ORGANIZATION] BORTAC"
+      ],
+      [
+        "[ORGANIZATION] Border Patrol",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] Shooting of Protester 2",
+        "[PERSON] EZ-17"
+      ],
+      [
+        "[EVENT] Shooting of Protester 3",
+        "[PERSON] EZ-17"
+      ]
+    ],
+    "count": 152,
+    "create_time": 1780568425,
+    "update_time": 1780568425,
+    "_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d"
+  },
+  "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc": {
+    "relation_pairs": [
+      [
+        "[ORGANIZATION] Fox News",
+        "[PERSON] Peter Pinedo"
+      ],
+      [
+        "[EVENT] Broadview Protest Friday",
+        "[LOCATION] Broadview ICE processing center"
+      ],
+      [
+        "[EVENT] Chicago anti-ICE protests",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[PERSON] JB Pritzker"
+      ],
+      [
+        "[LOCATION] Illinois",
+        "[PERSON] JB Pritzker"
+      ],
+      [
+        "[EVENT] Chicago anti-ICE protests",
+        "[OBJECT] tear gas and pepper balls"
+      ],
+      [
+        "[EVENT] Dallas Shooting",
+        "[PERSON] Dallas Detainee Victim"
+      ],
+      [
+        "[EVENT] Broadview Arrests Friday",
+        "[LOCATION] Broadview ICE processing center"
+      ],
+      [
+        "[LOCATION] Dallas ICE facility",
+        "[LOCATION] Dallas, Texas"
+      ],
+      [
+        "[EVENT] Broadview Protest Friday",
+        "[OBJECT] Fox News article"
+      ],
+      [
+        "[EVENT] DHS X statements",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Broadview Clashes Last Week",
+        "[ORGANIZATION] Anti-ICE protesters"
+      ],
+      [
+        "[EVENT] Broadview Protest Friday",
+        "[ORGANIZATION] Fox 32 Chicago"
+      ],
+      [
+        "[EVENT] Chicago anti-ICE protests",
+        "[LOCATION] Broadview facility"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[EVENT] Broadview Protest Friday",
+        "[ORGANIZATION] Federal law enforcement"
+      ],
+      [
+        "[ORGANIZATION] Fox News",
+        "[PERSON] Greg Norman-Diamond"
+      ],
+      [
+        "[ORGANIZATION] Fox News",
+        "[PERSON] Patrick McGovern"
+      ],
+      [
+        "[ORGANIZATION] Fox News",
+        "[PERSON] Michael Tobin"
+      ],
+      [
+        "[OBJECT] Fox News article",
+        "[ORGANIZATION] Fox News"
+      ],
+      [
+        "[EVENT] Broadview Protest Friday",
+        "[ORGANIZATION] Anti-ICE protesters"
+      ],
+      [
+        "[EVENT] Broadview arrest",
+        "[LOCATION] Broadview facility"
+      ],
+      [
+        "[OBJECT] firearm",
+        "[PERSON] arrested protester"
+      ],
+      [
+        "[EVENT] Broadview arrest",
+        "[OBJECT] firearm"
+      ],
+      [
+        "[EVENT] Broadview Arrests Friday",
+        "[OBJECT] Firearm"
+      ],
+      [
+        "[EVENT] Broadview Clashes Last Week",
+        "[LOCATION] Broadview ICE processing center"
+      ],
+      [
+        "[EVENT] Broadview Arrests Friday",
+        "[ORGANIZATION] Anti-ICE protesters"
+      ],
+      [
+        "[EVENT] DHS X statements",
+        "[PERSON] JB Pritzker"
+      ],
+      [
+        "[EVENT] Broadview arrest",
+        "[PERSON] arrested protester"
+      ],
+      [
+        "[EVENT] Dallas Shooting",
+        "[PERSON] Dallas Gunman"
+      ],
+      [
+        "[EVENT] Broadview Clashes Last Week",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[EVENT] Chicago anti-ICE protests",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[LOCATION] Broadview, Illinois",
+        "[PERSON] JB Pritzker"
+      ],
+      [
+        "[EVENT] Chicago anti-ICE protests",
+        "[OBJECT] Fox News article"
+      ],
+      [
+        "[LOCATION] Broadview ICE processing center",
+        "[LOCATION] Broadview, Illinois"
+      ],
+      [
+        "[EVENT] Broadview Protest Friday",
+        "[OBJECT] Pepper balls"
+      ],
+      [
+        "[EVENT] Broadview Protest Friday",
+        "[OBJECT] Tear gas"
+      ],
+      [
+        "[EVENT] DHS X statements",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[EVENT] Dallas Shooting",
+        "[LOCATION] Dallas ICE facility"
+      ]
+    ],
+    "count": 39,
+    "create_time": 1780568782,
+    "update_time": 1780568782,
+    "_id": "ec2b6645-9847-4c98-8ae8-3e14ee0c97fc"
+  },
+  "39b5e294-cadd-481b-9498-670b6e3121d4": {
+    "relation_pairs": [
+      [
+        "[EVENT] Deployment of tear gas in Old Irving Park",
+        "[LOCATION] Old Irving Park neighbourhood"
+      ],
+      [
+        "[EVENT] DHS Immigration Raids and Protests",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Hoffman Estates Arrest",
+        "[PERSON] Assistant Secretary McLaughlin"
+      ],
+      [
+        "[EVENT] Arrest in Arlington Heights Oct 24",
+        "[PERSON] Arrested man in Arlington Heights"
+      ],
+      [
+        "[EVENT] Rolling Meadows Incident Oct 19",
+        "[OBJECT] Pepper ball gun"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Trevor Ball"
+      ],
+      [
+        "[LOCATION] Portland",
+        "[ORGANIZATION] Department of Homeland Security"
+      ],
+      [
+        "[EVENT] Tear gas deployment Lakeview Oct 24",
+        "[LOCATION] Lakeview"
+      ],
+      [
+        "[EVENT] Shooting of Enrique Bahena Oct 23",
+        "[OBJECT] B&T GL-06 40mm launcher"
+      ],
+      [
+        "[EVENT] Little Village protests Oct 23",
+        "[PERSON] Enrique Bahena"
+      ],
+      [
+        "[EVENT] Hoffman Estates Arrest",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat Global Authentication Project",
+        "[PERSON] Vladimir Zaha"
+      ],
+      [
+        "[EVENT] Protest in Little Village",
+        "[PERSON] Bahena"
+      ],
+      [
+        "[EVENT] Use of force incidents in Illinois",
+        "[ORGANIZATION] Department of Homeland Security"
+      ],
+      [
+        "[EVENT] Rolling Meadows Incident Oct 19",
+        "[PERSON] Rolling Meadows Filmer"
+      ],
+      [
+        "[ORGANIZATION] Department of Homeland Security",
+        "[ORGANIZATION] Newsweek"
+      ],
+      [
+        "[EVENT] Order for reports and footage",
+        "[OBJECT] reports"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[PERSON] Assistant Secretary McLaughlin"
+      ],
+      [
+        "[EVENT] Analysis of social media videos",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Arrest in Arlington Heights Oct 24",
+        "[LOCATION] Arlington Heights, Chicago"
+      ],
+      [
+        "[EVENT] Issuance of Temporary Restraining Order",
+        "[PERSON] Sara Ellis"
+      ],
+      [
+        "[EVENT] Arrest of Dayanne Figueroa Oct 10",
+        "[OBJECT] Figueroa's car"
+      ],
+      [
+        "[EVENT] Deployment of chemical agents against Illinois protesters",
+        "[OBJECT] Facebook"
+      ],
+      [
+        "[PERSON] Gregory Bovino",
+        "[PERSON] Isabel Mata"
+      ],
+      [
+        "[EVENT] Hoffman Estates Arrest",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[ORGANIZATION] Newsweek",
+        "[PERSON] Dayanne Figueroa"
+      ],
+      [
+        "[EVENT] DHS Use of Force Policy Inquiry",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Pooja Chaudhuri"
+      ],
+      [
+        "[EVENT] Protest in Little Village",
+        "[PERSON] Ismael Cordova-Clough"
+      ],
+      [
+        "[EVENT] Arrest of Figueroa",
+        "[PERSON] Figueroa"
+      ],
+      [
+        "[EVENT] Interview with Chicago Block Club",
+        "[PERSON] Bahena"
+      ],
+      [
+        "[EVENT] Shooting of Enrique Bahena Oct 23",
+        "[PERSON] Enrique Bahena"
+      ],
+      [
+        "[EVENT] Shooting of Enrique Bahena Oct 23",
+        "[OBJECT] Video of Little Village protests"
+      ],
+      [
+        "[EVENT] Analysis of social media videos",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[EVENT] Rolling Meadows Incident Oct 19",
+        "[LOCATION] Rolling Meadows"
+      ],
+      [
+        "[EVENT] Berwyn Incident Oct 20",
+        "[OBJECT] Gun"
+      ],
+      [
+        "[EVENT] Little Village protests Oct 23",
+        "[LOCATION] Little Village"
+      ],
+      [
+        "[EVENT] Arrest of Dayanne Figueroa Oct 10",
+        "[PERSON] Dayanne Figueroa"
+      ],
+      [
+        "[EVENT] Arrest of Isabel Mata Oct 22",
+        "[OBJECT] Video of Isabel Mata arrest"
+      ],
+      [
+        "[EVENT] Arrest of eight people in Little Village",
+        "[LOCATION] Little Village neighbourhood"
+      ],
+      [
+        "[EVENT] Arrest of Dayanne Figueroa Oct 10",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[EVENT] Little Village protests",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Oct 23 clashes in Little Village",
+        "[OBJECT] Facebook video"
+      ],
+      [
+        "[EVENT] Tear gas deployment Lakeview Oct 24",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Oct 24 tear gas deployment in Lakeview",
+        "[LOCATION] Lakeview"
+      ],
+      [
+        "[EVENT] DHS Immigration Raids and Protests",
+        "[OBJECT] Less-Lethal Weapons"
+      ],
+      [
+        "[EVENT] Analysis of social media videos",
+        "[EVENT] Temporary Restraining Order"
+      ],
+      [
+        "[EVENT] Hoffman Estates Arrest",
+        "[OBJECT] Handcuffs"
+      ],
+      [
+        "[EVENT] Arrest of eight people in Little Village",
+        "[EVENT] Oct 23 clashes in Little Village"
+      ],
+      [
+        "[EVENT] Parking lot incident in Rolling Meadows Oct 19",
+        "[OBJECT] Pepper ball gun"
+      ],
+      [
+        "[EVENT] Oct 12 tear gas deployment in Albany Park",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Arrest of Isabel Mata Oct 22",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[ORGANIZATION] Newsweek"
+      ],
+      [
+        "[EVENT] Berwyn Incident Oct 20",
+        "[PERSON] Berwyn Agent"
+      ],
+      [
+        "[EVENT] Burglary arrest in Hoffman Estates 2024",
+        "[LOCATION] Hoffman Estates"
+      ],
+      [
+        "[EVENT] Oct 14 tear gas deployment in East Side of Chicago",
+        "[LOCATION] East Side of Chicago"
+      ],
+      [
+        "[EVENT] Rolling Meadows Incident Oct 19",
+        "[PERSON] Federal Judge"
+      ],
+      [
+        "[EVENT] Arrest of Dayanne Figueroa Oct 10",
+        "[LOCATION] Hubbard Street"
+      ],
+      [
+        "[EVENT] Confrontation in Arlington Heights Oct 24",
+        "[PERSON] Person filming in Arlington Heights"
+      ],
+      [
+        "[EVENT] Arrest of Dayanne Figueroa Oct 10",
+        "[OBJECT] Video of Dayanne Figueroa arrest"
+      ],
+      [
+        "[OBJECT] Video of Little Village protests",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Tear gas deployment Albany Park Oct 12",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Protest in Little Village",
+        "[OBJECT] Facebook"
+      ],
+      [
+        "[EVENT] Judge Ellis TRO",
+        "[PERSON] Judge Ellis"
+      ],
+      [
+        "[EVENT] Evanston Incident",
+        "[LOCATION] Evanston neighbourhood"
+      ],
+      [
+        "[EVENT] Oct 24 tear gas deployment in Lakeview",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Oct 23 clashes in Little Village",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Court hearing on Tuesday",
+        "[PERSON] Gregory Bovino"
+      ],
+      [
+        "[ORGANIZATION] US Customs and Border Patrol",
+        "[PERSON] Gregory Bovino"
+      ],
+      [
+        "[EVENT] Oct 12 tear gas deployment in Albany Park",
+        "[LOCATION] Albany Park"
+      ],
+      [
+        "[EVENT] Protest in Little Village",
+        "[OBJECT] less-lethal weapons"
+      ],
+      [
+        "[EVENT] Arrest of Figueroa",
+        "[OBJECT] Figueroas car"
+      ],
+      [
+        "[EVENT] Tear gas deployment East Side of Chicago Oct 14",
+        "[LOCATION] East Side of Chicago"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Kolina Koltai"
+      ],
+      [
+        "[EVENT] Operation Midway Blitz",
+        "[ORGANIZATION] US Customs and Border Patrol"
+      ],
+      [
+        "[EVENT] Federal Judge TRO",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[ORGANIZATION] Evident"
+      ],
+      [
+        "[EVENT] Deployment of tear gas in Old Irving Park",
+        "[OBJECT] Pepper balls"
+      ],
+      [
+        "[EVENT] Lawsuit against Trump administration",
+        "[PERSON] Protesters"
+      ],
+      [
+        "[EVENT] Oct 14 tear gas deployment in East Side of Chicago",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Oct 23 clashes in Little Village",
+        "[PERSON] Bovino"
+      ],
+      [
+        "[EVENT] Confrontation in Arlington Heights Oct 24",
+        "[LOCATION] Arlington Heights, Chicago"
+      ],
+      [
+        "[EVENT] Deployment of tear gas in Old Irving Park",
+        "[OBJECT] Tear gas"
+      ],
+      [
+        "[EVENT] Tear gas deployment Albany Park Oct 12",
+        "[LOCATION] Albany Park"
+      ],
+      [
+        "[EVENT] Operation Midway Blitz Arrests",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] TRO Restriction",
+        "[OBJECT] Compressed Air Launchers"
+      ],
+      [
+        "[EVENT] Oct 23 clashes in Little Village",
+        "[PERSON] Protester who filmed the encounter"
+      ],
+      [
+        "[EVENT] Use of force incidents in Illinois",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Youri van der Weide"
+      ],
+      [
+        "[EVENT] TRO Issuance",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Oct 23 clashes in Little Village",
+        "[LOCATION] Little Village neighbourhood"
+      ],
+      [
+        "[EVENT] Operation Midway Blitz",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[ORGANIZATION] Bellingcat Investigation Team"
+      ],
+      [
+        "[EVENT] Tear gas deployment East Side of Chicago Oct 14",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Rolling Meadows Incident Oct 19",
+        "[PERSON] Rolling Meadows Officer"
+      ],
+      [
+        "[EVENT] Interview with Chicago Block Club",
+        "[ORGANIZATION] Chicago Block Club"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat Global Authentication Project",
+        "[PERSON] Fraser Crichton"
+      ],
+      [
+        "[EVENT] Shooting of Enrique Bahena Oct 23",
+        "[OBJECT] Tan-colored van"
+      ],
+      [
+        "[EVENT] TRO Restriction",
+        "[OBJECT] 40MM launcher"
+      ],
+      [
+        "[LOCATION] Cicero neighbourhood",
+        "[LOCATION] Sam's Club store"
+      ],
+      [
+        "[PERSON] Bovino",
+        "[PERSON] Protester who filmed the encounter"
+      ],
+      [
+        "[LOCATION] Chicago",
+        "[LOCATION] Cicero neighbourhood"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat Global Authentication Project",
+        "[PERSON] Bonny Albo"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Melissa Zhu"
+      ],
+      [
+        "[EVENT] Shooting of Enrique Bahena Oct 23",
+        "[PERSON] Unidentified Agent 1"
+      ],
+      [
+        "[EVENT] Arrest of eight people in Little Village",
+        "[PERSON] 16-year-old US citizen"
+      ],
+      [
+        "[EVENT] Confrontation in Arlington Heights Oct 24",
+        "[PERSON] Masked man with a rifle"
+      ],
+      [
+        "[EVENT] Operation Midway Blitz Arrests",
+        "[EVENT] TRO Issuance"
+      ],
+      [
+        "[EVENT] Deployment of tear gas in Old Irving Park",
+        "[PERSON] Protesters"
+      ],
+      [
+        "[EVENT] DHS OIG Report 2021",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[OBJECT] Temporary Restraining Order (TRO)",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] Arrest of Isabel Mata Oct 22",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[EVENT] Hoffman Estates Arrest",
+        "[PERSON] Teenage girl"
+      ],
+      [
+        "[EVENT] Parking lot incident in Rolling Meadows Oct 19",
+        "[PERSON] Person filming in Rolling Meadows"
+      ],
+      [
+        "[EVENT] Parking lot incident in Rolling Meadows Oct 19",
+        "[LOCATION] Rolling Meadows"
+      ],
+      [
+        "[EVENT] Tear gas deployment Avondale Oct 25",
+        "[LOCATION] Avondale"
+      ],
+      [
+        "[EVENT] TRO Restriction",
+        "[OBJECT] Munitions Launchers"
+      ],
+      [
+        "[OBJECT] B&T GL-06 40mm launcher",
+        "[OBJECT] Temporary Restraining Order (TRO)"
+      ],
+      [
+        "[EVENT] Arrest of Isabel Mata Oct 22",
+        "[PERSON] Isabel Mata"
+      ],
+      [
+        "[LOCATION] Los Angeles",
+        "[ORGANIZATION] Department of Homeland Security"
+      ],
+      [
+        "[EVENT] TRO Issuance",
+        "[OBJECT] Compressed Air Launchers"
+      ],
+      [
+        "[EVENT] Oct 25 tear gas deployment in Avondale",
+        "[LOCATION] Avondale"
+      ],
+      [
+        "[EVENT] Chemical Irritant Spraying Incident",
+        "[OBJECT] Chemical irritant"
+      ],
+      [
+        "[EVENT] Court filing Oct 26",
+        "[PERSON] Enrique Bahena"
+      ],
+      [
+        "[EVENT] Parking lot incident in Rolling Meadows Oct 19",
+        "[OBJECT] Moving vehicle in Rolling Meadows"
+      ],
+      [
+        "[EVENT] Court hearing on Tuesday",
+        "[PERSON] Sara Ellis"
+      ],
+      [
+        "[EVENT] Protest in Little Village",
+        "[OBJECT] 40MM launcher"
+      ],
+      [
+        "[EVENT] Court filing Oct 26",
+        "[OBJECT] Video of Little Village protests"
+      ],
+      [
+        "[EVENT] Shooting of Enrique Bahena Oct 23",
+        "[OBJECT] Pepper ball"
+      ],
+      [
+        "[EVENT] Lawsuit against Trump administration",
+        "[PERSON] Faith leaders"
+      ],
+      [
+        "[EVENT] Protest in Little Village",
+        "[LOCATION] Little Village"
+      ],
+      [
+        "[EVENT] Court hearing on Tuesday",
+        "[OBJECT] Use-of-force reports"
+      ],
+      [
+        "[EVENT] Protest in Little Village",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Protester dispersal in Evanston Oct 16",
+        "[LOCATION] Evanston neighbourhood, Chicago"
+      ],
+      [
+        "[EVENT] Little Village protests",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[EVENT] Berwyn Incident Oct 20",
+        "[LOCATION] Berwyn"
+      ],
+      [
+        "[EVENT] Chemical Irritant Spraying Incident",
+        "[OBJECT] Dark grey Chevrolet Tahoe"
+      ],
+      [
+        "[OBJECT] Department of Homeland Security Use of Force Policy",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] TRO Issuance",
+        "[OBJECT] 40mm launchers"
+      ],
+      [
+        "[OBJECT] Facebook video",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] DHS OIG Report 2021",
+        "[ORGANIZATION] DHS Office of Inspector General"
+      ],
+      [
+        "[EVENT] Oct 23 clashes in Little Village",
+        "[OBJECT] Tear gas canister"
+      ],
+      [
+        "[EVENT] Order for reports and footage",
+        "[OBJECT] body camera footage"
+      ],
+      [
+        "[OBJECT] Video of Isabel Mata arrest",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Order for reports and footage",
+        "[PERSON] Ellis"
+      ],
+      [
+        "[EVENT] Lawsuit against Trump administration",
+        "[PERSON] Journalists"
+      ],
+      [
+        "[EVENT] Little Village protests Oct 23",
+        "[EVENT] Shooting of Enrique Bahena Oct 23"
+      ],
+      [
+        "[EVENT] Analysis of social media videos",
+        "[OBJECT] social media videos"
+      ],
+      [
+        "[OBJECT] 40mm projectiles",
+        "[ORGANIZATION] B&T"
+      ],
+      [
+        "[EVENT] Berwyn Incident Oct 20",
+        "[ORGANIZATION] Department of Homeland Security"
+      ],
+      [
+        "[EVENT] Confrontation in Arlington Heights Oct 24",
+        "[PERSON] Masked agent"
+      ],
+      [
+        "[LOCATION] Little Village",
+        "[OBJECT] silver sedan"
+      ],
+      [
+        "[EVENT] NPR Court Record Analysis",
+        "[OBJECT] court records"
+      ],
+      [
+        "[EVENT] Court hearing on Tuesday",
+        "[OBJECT] Body camera footage"
+      ],
+      [
+        "[EVENT] Confrontation in Arlington Heights Oct 24",
+        "[OBJECT] Phone of assaulted woman"
+      ],
+      [
+        "[EVENT] Lawsuit against Trump administration",
+        "[ORGANIZATION] Trump administration"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat Global Authentication Project",
+        "[PERSON] Olivia Gresham"
+      ],
+      [
+        "[EVENT] Evanston Incident",
+        "[EVENT] Rolling Meadows Incident Oct 19"
+      ],
+      [
+        "[EVENT] DHS OIG Report 2021",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[LOCATION] Chicago",
+        "[LOCATION] Old Irving Park neighbourhood"
+      ],
+      [
+        "[OBJECT] X",
+        "[PERSON] McLaughlin"
+      ],
+      [
+        "[EVENT] TRO issuance",
+        "[OBJECT] Department of Homeland Security Use of Force Policy"
+      ],
+      [
+        "[EVENT] DHS Use of Force Policy Inquiry",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[ORGANIZATION] Bellingcat Global Authentication Project"
+      ],
+      [
+        "[EVENT] Confrontation in Arlington Heights Oct 24",
+        "[PERSON] Assaulted woman"
+      ],
+      [
+        "[EVENT] Protester dispersal in Evanston Oct 16",
+        "[OBJECT] Pepper spray"
+      ],
+      [
+        "[EVENT] Chemical Irritant Spraying Incident",
+        "[LOCATION] Sam's Club store"
+      ],
+      [
+        "[ORGANIZATION] Customs and Border Patrol",
+        "[ORGANIZATION] Department of Homeland Security"
+      ],
+      [
+        "[LOCATION] Chicago",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[EVENT] Protest in Little Village",
+        "[PERSON] federal officer"
+      ],
+      [
+        "[EVENT] Confrontation in Arlington Heights Oct 24",
+        "[OBJECT] Rifle"
+      ],
+      [
+        "[LOCATION] Chicago",
+        "[LOCATION] Hoffman Estates"
+      ],
+      [
+        "[EVENT] NPR Court Record Analysis",
+        "[ORGANIZATION] NPR"
+      ],
+      [
+        "[EVENT] Temporary Restraining Order",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Sebastian Vandermeersch"
+      ],
+      [
+        "[EVENT] Hoffman Estates Arrest",
+        "[LOCATION] Hoffman Estates"
+      ],
+      [
+        "[EVENT] Arrest of Dayanne Figueroa Oct 10",
+        "[OBJECT] Unmarked government vehicle"
+      ],
+      [
+        "[EVENT] Chemical Irritant Spraying Incident",
+        "[PERSON] Federal Officers"
+      ],
+      [
+        "[EVENT] Federal Judge TRO",
+        "[LOCATION] Chicago"
+      ],
+      [
+        "[EVENT] Tear gas deployment Avondale Oct 25",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] TRO issuance",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] TRO Hearing Nov 5",
+        "[PERSON] Judge Ellis"
+      ],
+      [
+        "[EVENT] Protest in Little Village",
+        "[OBJECT] gas canisters"
+      ],
+      [
+        "[EVENT] Berwyn Incident Oct 20",
+        "[PERSON] Pregnant Woman"
+      ],
+      [
+        "[EVENT] Oct 25 tear gas deployment in Avondale",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Issuance of Temporary Restraining Order",
+        "[EVENT] Lawsuit against Trump administration"
+      ],
+      [
+        "[EVENT] Order for reports and footage",
+        "[PERSON] Bovino"
+      ],
+      [
+        "[ORGANIZATION] Department of Homeland Security",
+        "[PERSON] Tricia McLaughlin"
+      ],
+      [
+        "[EVENT] Deployment of tear gas in Old Irving Park",
+        "[PERSON] Children in Old Irving Park"
+      ],
+      [
+        "[ORGANIZATION] Department of Homeland Security",
+        "[ORGANIZATION] United States Immigration and Customs Enforcement"
+      ],
+      [
+        "[EVENT] Arrest of Isabel Mata Oct 22",
+        "[LOCATION] Little Village"
+      ],
+      [
+        "[EVENT] Deployment of chemical agents against Illinois protesters",
+        "[PERSON] Eddie Guillen"
+      ]
+    ],
+    "count": 193,
+    "create_time": 1780569784,
+    "update_time": 1780569784,
+    "_id": "39b5e294-cadd-481b-9498-670b6e3121d4"
+  },
+  "8c786cd1-aaf0-4b14-bff3-89560b40f36e": {
+    "relation_pairs": [
+      [
+        "[EVENT] Immigration enforcement activities",
+        "[OBJECT] FN303"
+      ],
+      [
+        "[OBJECT] Defense Technology sprays",
+        "[OBJECT] grey band spray"
+      ],
+      [
+        "[OBJECT] Compressed Air Launchers",
+        "[ORGANIZATION] PepperBall"
+      ],
+      [
+        "[EVENT] Air Force Research Laboratory eye damage study",
+        "[OBJECT] SABRE OC and CS sprays"
+      ],
+      [
+        "[OBJECT] CBP 2021 use-of-force policy",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] Shooting of Renee Good",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Trevor Ball"
+      ],
+      [
+        "[OBJECT] TASER 10",
+        "[ORGANIZATION] Axon"
+      ],
+      [
+        "[EVENT] Clashes between Border Patrol and protesters",
+        "[OBJECT] OC chemical irritant"
+      ],
+      [
+        "[EVENT] Minneapolis Protests",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[OBJECT] Defense Technology sprays",
+        "[OBJECT] white band spray"
+      ],
+      [
+        "[OBJECT] Smoke grenades",
+        "[ORGANIZATION] Defense Technology"
+      ],
+      [
+        "[EVENT] Immigration-related raids",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] CBP 2021 use-of-force policy issuance",
+        "[OBJECT] ECW"
+      ],
+      [
+        "[OBJECT] flashbangs",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Nationwide Immigration Raids",
+        "[ORGANIZATION] Department of Homeland Security"
+      ],
+      [
+        "[ORGANIZATION] DHS",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[EVENT] Minneapolis ICE Shooting",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[OBJECT] Handguns",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[OBJECT] Triple-Chaser grenade",
+        "[ORGANIZATION] Defense Technology"
+      ],
+      [
+        "[EVENT] Nationwide Immigration Raids",
+        "[OBJECT] Less-lethal weapons"
+      ],
+      [
+        "[EVENT] Shooting of Renee Good",
+        "[ORGANIZATION] Immigration and Customs Enforcement"
+      ],
+      [
+        "[EVENT] Protests following Good's death",
+        "[OBJECT] 40mm munitions"
+      ],
+      [
+        "[EVENT] Deployment of weapons against protesters in Illinois",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[EVENT] Use of Less-Lethal Launcher in Minneapolis",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[EVENT] January 2021 CBP Use of Force Policy",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] Deployment of green smoke grenades in Minnesota",
+        "[OBJECT] Smoke grenades"
+      ],
+      [
+        "[EVENT] 2021 analysis of less-lethal munitions",
+        "[ORGANIZATION] Defense Technology"
+      ],
+      [
+        "[EVENT] Nationwide Immigration Raids",
+        "[PERSON] Trump"
+      ],
+      [
+        "[OBJECT] CBP Use of Force Policy",
+        "[OBJECT] FN303"
+      ],
+      [
+        "[EVENT] Protests following Good's death",
+        "[OBJECT] SKAT Shell"
+      ],
+      [
+        "[EVENT] Deployment of weapons against protesters in Illinois",
+        "[PERSON] Nick Sortor"
+      ],
+      [
+        "[EVENT] CBP 2021 use-of-force policy issuance",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] Clashes between Border Patrol and protesters",
+        "[OBJECT] B&T GL06 launcher"
+      ],
+      [
+        "[OBJECT] SABRE OC and CS sprays",
+        "[OBJECT] SABRE Red MK-9"
+      ],
+      [
+        "[EVENT] January 2021 CBP Use of Force Policy",
+        "[OBJECT] FN303"
+      ],
+      [
+        "[EVENT] Immigration operations",
+        "[OBJECT] Compressed Air Launchers"
+      ],
+      [
+        "[OBJECT] SABRE Red MK-9",
+        "[ORGANIZATION] Mesa Police Department"
+      ],
+      [
+        "[OBJECT] SABRE OC and CS sprays",
+        "[ORGANIZATION] Defense Technology"
+      ],
+      [
+        "[OBJECT] CBP 2021 use-of-force policy",
+        "[OBJECT] SABRE OC and CS sprays"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[PERSON] Alex Pretti"
+      ],
+      [
+        "[EVENT] Immigration operations",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[EVENT] Deployment of green smoke grenades in Minnesota",
+        "[LOCATION] Minnesota"
+      ],
+      [
+        "[EVENT] Illinois TRO Violations",
+        "[OBJECT] Less-lethal weapons"
+      ],
+      [
+        "[EVENT] Protests following Good's death",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[OBJECT] MK- series canisters",
+        "[OBJECT] chemical irritant sprays"
+      ],
+      [
+        "[OBJECT] EL-2 hopper",
+        "[OBJECT] TAC-SF PepperBall gun"
+      ],
+      [
+        "[EVENT] Use of chemical irritant sprays",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[OBJECT] ICE Firearms and Use of Force Directive",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[EVENT] Immigration operations",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Use of chemical irritant sprays",
+        "[OBJECT] chemical irritant sprays"
+      ],
+      [
+        "[EVENT] Deployment of weapons in Illinois",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[ORGANIZATION] Department of Homeland Security",
+        "[ORGANIZATION] Immigration and Customs Enforcement"
+      ],
+      [
+        "[EVENT] Clashes between Border Patrol and protesters",
+        "[OBJECT] 40mm munitions"
+      ],
+      [
+        "[EVENT] Bellingcat request for policies",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[OBJECT] Defense Technology sprays",
+        "[OBJECT] orange band spray"
+      ],
+      [
+        "[OBJECT] chemical irritant sprays",
+        "[ORGANIZATION] Combined Tactical Systems"
+      ],
+      [
+        "[EVENT] 2021 analysis of less-lethal munitions",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[ORGANIZATION] Bellingcat",
+        "[PERSON] Justin Baird"
+      ],
+      [
+        "[EVENT] 2021 OIG Report",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[OBJECT] FN303",
+        "[PERSON] federal agents"
+      ],
+      [
+        "[OBJECT] TASER 7",
+        "[ORGANIZATION] Axon"
+      ],
+      [
+        "[EVENT] Clashes between Border Patrol and protesters",
+        "[OBJECT] CS chemical irritant"
+      ],
+      [
+        "[EVENT] Immigration enforcement activities",
+        "[PERSON] federal agents"
+      ],
+      [
+        "[EVENT] California Blinding Incidents",
+        "[PERSON] California Protesters"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Clashes between Border Patrol and protesters",
+        "[OBJECT] Penn Arms 40mm multi-shot launchers"
+      ],
+      [
+        "[EVENT] Immigration-related raids",
+        "[OBJECT] Electronic Control Weapons (ECWs)"
+      ],
+      [
+        "[OBJECT] CBP Use of Force Policy",
+        "[OBJECT] PepperBall guns"
+      ],
+      [
+        "[EVENT] Use of Less-Lethal Launcher in Minneapolis",
+        "[OBJECT] Less-Lethal Launcher"
+      ],
+      [
+        "[OBJECT] SKAT Shell",
+        "[ORGANIZATION] Defense Technology"
+      ],
+      [
+        "[OBJECT] smoke grenades",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[OBJECT] Defense Technology sprays",
+        "[OBJECT] red band spray"
+      ],
+      [
+        "[EVENT] Immigration operations",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] Protests following Good's death",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[LOCATION] Minneapolis",
+        "[OBJECT] Riot Control CS Grenade"
+      ],
+      [
+        "[OBJECT] B&T GL06 launcher",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] Illinois TRO Violations",
+        "[ORGANIZATION] Department of Homeland Security"
+      ],
+      [
+        "[OBJECT] Compressed Air Launchers",
+        "[OBJECT] FN303"
+      ],
+      [
+        "[OBJECT] SABRE OC and CS sprays",
+        "[ORGANIZATION] SABRE"
+      ],
+      [
+        "[OBJECT] Defense Technology sprays",
+        "[OBJECT] yellow band spray"
+      ],
+      [
+        "[EVENT] Minneapolis Protests",
+        "[PERSON] CBP Officer"
+      ],
+      [
+        "[EVENT] DHS OIG Report 2021",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[EVENT] Deployment of weapons in Illinois",
+        "[OBJECT] pepper balls"
+      ],
+      [
+        "[OBJECT] 40mm launchers",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Air Force Research Laboratory eye damage study",
+        "[ORGANIZATION] Air Force Research Laboratory"
+      ],
+      [
+        "[EVENT] Immigration operations",
+        "[OBJECT] FN303"
+      ],
+      [
+        "[EVENT] 2021 OIG Report",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[OBJECT] Axon policy guide",
+        "[ORGANIZATION] Axon"
+      ],
+      [
+        "[OBJECT] tear gas grenades",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] 2021 OIG Report",
+        "[ORGANIZATION] US Office of Inspector General"
+      ],
+      [
+        "[OBJECT] Electronic Control Weapons (ECWs)",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Bellingcat request for policies",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Deployment of weapons against protesters in Illinois",
+        "[OBJECT] Tear Gas"
+      ],
+      [
+        "[EVENT] Deployment of weapons against protesters in Illinois",
+        "[OBJECT] Flash-bangs"
+      ],
+      [
+        "[EVENT] Deployment of green smoke grenades in Minnesota",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] 2021 analysis of less-lethal munitions",
+        "[ORGANIZATION] Newsy"
+      ],
+      [
+        "[EVENT] Deployment of weapons against protesters in Illinois",
+        "[PERSON] Andrew Hazzard"
+      ],
+      [
+        "[EVENT] Minneapolis ICE Shooting",
+        "[ORGANIZATION] ICE"
+      ],
+      [
+        "[OBJECT] FN303",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Riot-control activities in protests",
+        "[OBJECT] Riot-control weapons"
+      ],
+      [
+        "[EVENT] Protests following Good's death",
+        "[PERSON] Good"
+      ],
+      [
+        "[OBJECT] Axon policy guide",
+        "[OBJECT] ECW"
+      ],
+      [
+        "[OBJECT] DHS use-of-force policy",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] DHS OIG Report 2021",
+        "[ORGANIZATION] DHS Office of Inspector General"
+      ],
+      [
+        "[OBJECT] FN303",
+        "[ORGANIZATION] FN America"
+      ],
+      [
+        "[OBJECT] SPEDE-Heat shell",
+        "[ORGANIZATION] Defense Technology"
+      ],
+      [
+        "[ORGANIZATION] ICE",
+        "[PERSON] Alex Pretti"
+      ],
+      [
+        "[EVENT] California Blinding Incidents",
+        "[OBJECT] Less-lethal weapons"
+      ],
+      [
+        "[EVENT] Protests following Good's death",
+        "[PERSON] Border Patrol agent"
+      ],
+      [
+        "[OBJECT] CBP use-of-force policy",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] Clashes between Border Patrol and protesters",
+        "[ORGANIZATION] Border Patrol"
+      ],
+      [
+        "[EVENT] Minneapolis Protests",
+        "[OBJECT] 40mm less-lethal launcher"
+      ],
+      [
+        "[EVENT] Illinois TRO Violations",
+        "[EVENT] Temporary Restraining Order"
+      ],
+      [
+        "[EVENT] DHS OIG Report 2021",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] January 2021 CBP Use of Force Policy",
+        "[OBJECT] PepperBall guns"
+      ],
+      [
+        "[EVENT] California Blinding Incidents",
+        "[LOCATION] California"
+      ],
+      [
+        "[OBJECT] CBP Use of Force Policy",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[OBJECT] Electronic Control Weapons (ECWs)",
+        "[OBJECT] Handguns"
+      ],
+      [
+        "[EVENT] Deployment of weapons in Illinois",
+        "[OBJECT] tear gas grenades"
+      ],
+      [
+        "[ORGANIZATION] Customs and Border Patrol",
+        "[ORGANIZATION] Department of Homeland Security"
+      ],
+      [
+        "[EVENT] Minneapolis Protests",
+        "[OBJECT] Less-lethal weapons"
+      ],
+      [
+        "[EVENT] Riot-control activities in protests",
+        "[ORGANIZATION] DHS"
+      ],
+      [
+        "[EVENT] Use of Less-Lethal Launcher in Minneapolis",
+        "[PERSON] Federal Agent"
+      ],
+      [
+        "[LOCATION] US",
+        "[OBJECT] chemical irritant sprays"
+      ],
+      [
+        "[OBJECT] chemical irritant sprays",
+        "[ORGANIZATION] SABRE"
+      ],
+      [
+        "[OBJECT] ECW",
+        "[ORGANIZATION] Axon"
+      ],
+      [
+        "[EVENT] Minneapolis CBP Shooting",
+        "[ORGANIZATION] CBP"
+      ],
+      [
+        "[EVENT] Temporary Restraining Order",
+        "[LOCATION] Illinois"
+      ],
+      [
+        "[EVENT] Illinois TRO Violations",
+        "[ORGANIZATION] Bellingcat"
+      ],
+      [
+        "[EVENT] 2021 analysis of less-lethal munitions",
+        "[ORGANIZATION] Combined Tactical Systems"
+      ],
+      [
+        "[EVENT] CBP 2021 use-of-force policy issuance",
+        "[OBJECT] CBP 2021 use-of-force policy"
+      ],
+      [
+        "[OBJECT] Defense Technology sprays",
+        "[ORGANIZATION] Defense Technology"
+      ],
+      [
+        "[EVENT] California Blinding Incidents",
+        "[ORGANIZATION] Department of Homeland Security"
+      ],
+      [
+        "[EVENT] Deployment of weapons against protesters in Illinois",
+        "[OBJECT] Pepper Balls"
+      ],
+      [
+        "[EVENT] Shooting of Renee Good",
+        "[PERSON] Renee Good"
+      ]
+    ],
+    "count": 138,
+    "create_time": 1780570507,
+    "update_time": 1780570507,
+    "_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e"
+  },
+  "dea0def1-820a-41f5-a86e-38b8fdaa0152": {
+    "relation_pairs": [
+      [
+        "[EVENT] Shooting of Jorge Bautista",
+        "[LOCATION] Oakland, California"
+      ],
+      [
+        "[OBJECT] USBP 2026 procurement document",
+        "[ORGANIZATION] United States Border Patrol (USBP)"
+      ],
+      [
+        "[LOCATION] Bryant Square Park Minneapolis",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[OBJECT] 37mm Less-Lethal Launcher",
+        "[OBJECT] Scattershot Kinetic Impact Projectile (KIP)"
+      ],
+      [
+        "[EVENT] Demonstration at Metropolitan Detention Center",
+        "[LOCATION] Metropolitan Detention Center, Los Angeles"
+      ],
+      [
+        "[ORGANIZATION] Physicians for Human Rights (PHR)",
+        "[PERSON] Scott Reynhout, PhD"
+      ],
+      [
+        "[EVENT] Anti-ICE Protests Los Angeles June 2025",
+        "[LOCATION] Los Angeles"
+      ],
+      [
+        "[EVENT] UN Chemical Weapons Convention",
+        "[ORGANIZATION] PHR"
+      ],
+      [
+        "[EVENT] Shooting of Jorge Bautista",
+        "[OBJECT] 40mm grenade launcher"
+      ],
+      [
+        "[OBJECT] 'Lethal in Disguise' report",
+        "[ORGANIZATION] PHR"
+      ],
+      [
+        "[LOCATION] Los Angeles",
+        "[LOCATION] Metropolitan Detention Center Los Angeles"
+      ],
+      [
+        "[EVENT] Shooting in Little Village Chicago",
+        "[ORGANIZATION] United States Border Patrol (USBP)"
+      ],
+      [
+        "[EVENT] Deployment of smoke grenades at Bryant Square Park",
+        "[ORGANIZATION] USBP"
+      ],
+      [
+        "[EVENT] USBP procurement of less-lethal munitions",
+        "[ORGANIZATION] USBP"
+      ],
+      [
+        "[EVENT] Shooting of Jorge Bautista",
+        "[PERSON] Jorge Bautista"
+      ],
+      [
+        "[EVENT] Deployment of smoke grenades at Bryant Square Park",
+        "[LOCATION] Bryant Square Park, Minneapolis"
+      ],
+      [
+        "[OBJECT] Powder blast dispersion rounds",
+        "[ORGANIZATION] USBP"
+      ],
+      [
+        "[ORGANIZATION] USBP",
+        "[PERSON] Greg Bovino"
+      ],
+      [
+        "[ORGANIZATION] PHR",
+        "[PERSON] Rohini J. Haar"
+      ],
+      [
+        "[EVENT] Shooting of Reverend Jorge Bautista October 23 2025",
+        "[LOCATION] Oakland California"
+      ],
+      [
+        "[EVENT] Shooting in Little Village Chicago",
+        "[PERSON] Unidentified Victim Little Village"
+      ],
+      [
+        "[OBJECT] Chemical obscurants",
+        "[OBJECT] tear gas"
+      ],
+      [
+        "[EVENT] Shooting of Reverend Jorge Bautista October 23 2025",
+        "[OBJECT] Solid projectile (Bautista incident)"
+      ],
+      [
+        "[OBJECT] Green smoke grenades",
+        "[OBJECT] HC smoke"
+      ],
+      [
+        "[EVENT] Shooting of Reverend Jorge Bautista October 23 2025",
+        "[PERSON] Reverend Jorge Bautista"
+      ],
+      [
+        "[ORGANIZATION] International Network of Civil Liberties Organizations (INCLO)",
+        "[ORGANIZATION] PHR"
+      ],
+      [
+        "[ORGANIZATION] United States Border Patrol (USBP)",
+        "[PERSON] Greg Bovino"
+      ],
+      [
+        "[EVENT] USBP Firing in Minneapolis",
+        "[LOCATION] Minneapolis"
+      ],
+      [
+        "[ORGANIZATION] PHR",
+        "[PERSON] Scott Reynhout"
+      ],
+      [
+        "[ORGANIZATION] Physicians for Human Rights (PHR)",
+        "[PERSON] Rohini J. Haar, MD, MPH"
+      ],
+      [
+        "[ORGANIZATION] PHR",
+        "[PERSON] Kimberly J. Saltz"
+      ],
+      [
+        "[EVENT] LAPD Use of Force Directive no. 12",
+        "[ORGANIZATION] LAPD"
+      ],
+      [
+        "[OBJECT] Crowd Management powder blast rounds",
+        "[OBJECT] USBP 2026 procurement document"
+      ],
+      [
+        "[LOCATION] Correctional facilities",
+        "[OBJECT] Powder blast dispersion rounds"
+      ],
+      [
+        "[LOCATION] Streets",
+        "[OBJECT] Powder blast dispersion rounds"
+      ],
+      [
+        "[EVENT] 2020 United Nations Human Rights Guidance on Less-Lethal Weapons in Law Enforcement",
+        "[ORGANIZATION] PHR"
+      ],
+      [
+        "[EVENT] Grenade Deployment Bryant Square Park January 21 2026",
+        "[OBJECT] Green smoke grenades"
+      ],
+      [
+        "[EVENT] Shooting of Reverend Jorge Bautista October 23 2025",
+        "[ORGANIZATION] United States Border Patrol (USBP)"
+      ],
+      [
+        "[EVENT] Grenade Deployment Bryant Square Park January 21 2026",
+        "[LOCATION] Bryant Square Park Minneapolis"
+      ],
+      [
+        "[EVENT] Anti-ICE protests in Los Angeles",
+        "[LOCATION] Los Angeles"
+      ],
+      [
+        "[EVENT] Anti-ICE Protests Los Angeles June 2025",
+        "[ORGANIZATION] Los Angeles Police Department (LAPD)"
+      ],
+      [
+        "[EVENT] Deployment of smoke grenades at Bryant Square Park",
+        "[OBJECT] Green smoke grenades"
+      ],
+      [
+        "[EVENT] Shooting in Little Village Chicago",
+        "[LOCATION] Little Village neighborhood Chicago"
+      ],
+      [
+        "[EVENT] Anti-ICE Protests Los Angeles June 2025",
+        "[OBJECT] 37mm Less-Lethal Launcher"
+      ],
+      [
+        "[EVENT] Fourth Amendment of the Constitution of the United States",
+        "[ORGANIZATION] PHR"
+      ],
+      [
+        "[EVENT] Grenade Deployment Bryant Square Park January 21 2026",
+        "[ORGANIZATION] United States Border Patrol (USBP)"
+      ],
+      [
+        "[OBJECT] 37mm Less-Lethal Launcher",
+        "[OBJECT] LAPD Use of Force Directive no. 12"
+      ],
+      [
+        "[EVENT] Publication of Tools of Repression report",
+        "[ORGANIZATION] PHR"
+      ],
+      [
+        "[EVENT] UN Basic Principles on the Use of Force and Firearms by Law Enforcement Officials",
+        "[ORGANIZATION] PHR"
+      ],
+      [
+        "[EVENT] Grenade Deployment Bryant Square Park January 21 2026",
+        "[PERSON] Greg Bovino"
+      ],
+      [
+        "[EVENT] Anti-ICE Protests Los Angeles June 2025",
+        "[LOCATION] Metropolitan Detention Center Los Angeles"
+      ],
+      [
+        "[EVENT] First Amendment of the Constitution of the United States",
+        "[ORGANIZATION] PHR"
+      ],
+      [
+        "[EVENT] USBP Firing in Minneapolis",
+        "[ORGANIZATION] United States Border Patrol (USBP)"
+      ],
+      [
+        "[ORGANIZATION] US Customs and Border Patrol (CBP)",
+        "[ORGANIZATION] United States Border Patrol (USBP)"
+      ],
+      [
+        "[EVENT] LAPD Use of Force Directive no. 12",
+        "[OBJECT] 37mm Less-Lethal Launcher"
+      ],
+      [
+        "[ORGANIZATION] Department of Homeland Security (DHS)",
+        "[ORGANIZATION] USBP"
+      ],
+      [
+        "[EVENT] Shooting of Reverend Jorge Bautista October 23 2025",
+        "[OBJECT] 40mm grenade launcher"
+      ]
+    ],
+    "count": 57,
+    "create_time": 1780571002,
+    "update_time": 1780571002,
+    "_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "document_id": "dea0def1-820a-41f5-a86e-38b8fdaa0152",
+    "confidence_code": "A2",
+    "file_path": "raw/dea0def1-820a-41f5-a86e-38b8fdaa0152.pdf"
+  }
+}

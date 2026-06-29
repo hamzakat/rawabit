@@ -1,0 +1,1645 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2026-05-21",
+    "purpose": "Golden query set for GraphRAG system evaluation (RQ1 and RQ2)",
+    "thesis_title": "From Evidence to Insight: A GraphRAG Approach to Multimodal Investigative Intelligence",
+    "total_queries": 30,
+    "analysis_type_distribution": {
+      "link": 6,
+      "temporal": 5,
+      "flow": 5,
+      "factual_verification": 7,
+      "retrieval_honesty": 7
+    },
+    "entity_types": [
+      "person",
+      "organization",
+      "object",
+      "location",
+      "event"
+    ],
+    "corpus": {
+      "doc_1": {
+        "id": "bellingcat_less_lethal_guide",
+        "filename": "The 'Less-Lethal' Weapons Used by the DHS.pdf",
+        "title": "Identifying 'Less-Lethal' Weapons Used By DHS Agents in US Immigration Raids and Protests",
+        "url": "https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/",
+        "publisher": "Bellingcat",
+        "author": "Trevor Ball",
+        "date": "2026-01-27"
+      },
+      "doc_2": {
+        "id": "bellingcat_agents_of_chaos",
+        "filename": "Agents of Chaos_ Unpacking the Actions of Border Patrol Agents Across US.pdf",
+        "title": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across the US",
+        "url": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/",
+        "publisher": "Bellingcat",
+        "author": "Youri van der Weide, Kolina Koltai, Eoghan Macguire",
+        "date": "2026-03-17"
+      },
+      "doc_3": {
+        "id": "bellingcat_minneapolis_ez17",
+        "filename": "Analysing One Federal Agent's Use of Less-Lethal Launcher in Minneapolis.pdf",
+        "title": "Five Shots in Five Minutes: Analysing One Federal Agent's Use of Less-Lethal Launcher in Minneapolis",
+        "url": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/",
+        "publisher": "Bellingcat",
+        "author": "Pooja Chaudhuri",
+        "date": "2026-01-16"
+      },
+      "doc_4": {
+        "id": "bellingcat_illinois_protests",
+        "filename": "Tear Gas, Pepper Balls Among Weapons Deployed Against Illinois Protesters.pdf",
+        "title": "'Pattern of Extreme Brutality': Tear Gas, Pepper Balls Among Weapons Deployed Against Protesters in Illinois",
+        "url": "https://www.bellingcat.com/news/2025/10/31/illinois-immigration-protests/",
+        "publisher": "Bellingcat",
+        "author": "Pooja Chaudhuri, Kolina Koltai, Youri van der Weide, Sebastian Vandermeersch, Melissa Zhu, Trevor Ball",
+        "date": "2025-10-31"
+      },
+      "doc_5": {
+        "id": "foxnews_chicago_ice",
+        "filename": "Federal agents fire pepper balls at anti-ICE protesters outside of Chicago _ Fox News.pdf",
+        "title": "Chicago anti-ICE protesters block vehicles, get hit with tear gas and pepper balls",
+        "url": "https://www.foxnews.com/us/chicago-anti-ice-protesters-block-vehicles-get-hit-tear-gas-pepper-balls",
+        "publisher": "Fox News",
+        "author": "Fox News Staff",
+        "date": "2025-10-01"
+      },
+      "doc_6": {
+        "id": "phr_tools_of_repression",
+        "filename": "Tools of Repression - PHR.pdf",
+        "title": "Tools of Repression",
+        "url": "https://phr.org/our-work/resources/tools-of-repression/",
+        "publisher": "Physicians for Human Rights",
+        "author": "PHR Experts Team",
+        "date": "2026-01-01"
+      }
+    }
+  },
+  "queries": [
+    {
+      "id": "Q01",
+      "question": "Which Border Patrol agents were identified as appearing in both Bakersfield, California and Chicago, Illinois during Operation Return to Sender and Operation Midway Blitz respectively?",
+      "analysis_type": "link",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Timothy Donahue",
+          "type": "person"
+        },
+        {
+          "name": "Georgy Simeon",
+          "type": "person"
+        },
+        {
+          "name": "Operation Return to Sender",
+          "type": "event"
+        },
+        {
+          "name": "Operation Midway Blitz",
+          "type": "event"
+        },
+        {
+          "name": "Bakersfield",
+          "type": "location"
+        },
+        {
+          "name": "Chicago",
+          "type": "location"
+        },
+        {
+          "name": "Ernesto Campos",
+          "type": "person"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Timothy Donahue",
+          "relation": "PARTICIPATED_IN",
+          "tgt": "Operation Return to Sender"
+        },
+        {
+          "src": "Georgy Simeon",
+          "relation": "PARTICIPATED_IN",
+          "tgt": "Operation Return to Sender"
+        },
+        {
+          "src": "Timothy Donahue",
+          "relation": "PARTICIPATED_IN",
+          "tgt": "Operation Midway Blitz"
+        },
+        {
+          "src": "Georgy Simeon",
+          "relation": "PARTICIPATED_IN",
+          "tgt": "Operation Midway Blitz"
+        },
+        {
+          "src": "Operation Return to Sender",
+          "relation": "OCCURRED_AT",
+          "tgt": "Bakersfield"
+        },
+        {
+          "src": "Operation Midway Blitz",
+          "relation": "OCCURRED_AT",
+          "tgt": "Chicago"
+        },
+        {
+          "src": "Ernesto Campos",
+          "relation": "TARGET_OF",
+          "tgt": "Operation Return to Sender"
+        }
+      ],
+      "reference_answer": "Agents Timothy Donahue and Georgy Simeon were both filmed by Ernesto Campos during Operation Return to Sender in Bakersfield, California in early January 2025. Ten months later, both agents reappeared in Chicago during Operation Midway Blitz: Donahue was caught on video punching a man in the face and unholstering his weapon on protesters, while Simeon was filmed grabbing a man by the throat and slamming him to the ground.",
+      "source_ids": [
+        "doc_2"
+      ],
+      "citation_targets": [
+        "Agents of Chaos_ Unpacking the Actions of Border Patrol Agents Across US.pdf"
+      ],
+      "ground_truth_chunks": [
+        "Ten months later, two of the agents visible in footage recorded by Campos were filmed in Chicago as Border Patrol agents descended on the city for what was dubbed 'Operation Midway Blitz'.",
+        "These included agent Timothy Donahue and Georgy Simeon, who were filmed by Ernesto Campos in Bakersfield."
+      ],
+      "out_of_scope": false,
+      "notes": "Core cross-city link query. Tests multi-hop traversal: agents → two separate operations → two separate locations."
+    },
+    {
+      "id": "Q02",
+      "question": "Which agent used badge number EZ-17 and was identified by name, and which publication first identified them?",
+      "analysis_type": "link",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "EZ-17",
+          "type": "object"
+        },
+        {
+          "name": "Edgar Vazquez",
+          "type": "person"
+        },
+        {
+          "name": "Unraveled Press",
+          "type": "organization"
+        },
+        {
+          "name": "BORTAC",
+          "type": "organization"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "EZ-17",
+          "relation": "ALIAS_OF",
+          "tgt": "Edgar Vazquez"
+        },
+        {
+          "src": "Edgar Vazquez",
+          "relation": "MEMBER_OF",
+          "tgt": "BORTAC"
+        },
+        {
+          "src": "Unraveled Press",
+          "relation": "ASSOCIATED_WITH",
+          "tgt": "Edgar Vazquez"
+        }
+      ],
+      "reference_answer": "Badge number EZ-17 belongs to Edgar Vazquez, a BORTAC agent based out of El Paso. The Chicago publication Unraveled previously identified EZ-17 as Edgar Vazquez, and Bellingcat corroborated this identification by comparing images on Vazquez's Facebook page with footage from EZ-2's bodycam, which showed Vazquez inside a vehicle without a mask.",
+      "source_ids": [
+        "doc_2",
+        "doc_3"
+      ],
+      "citation_targets": [
+        "Agents of Chaos_ Unpacking the Actions of Border Patrol Agents Across US.pdf",
+        "Analysing One Federal Agent's Use of Less-Lethal Launcher in Minneapolis.pdf"
+      ],
+      "ground_truth_chunks": [
+        "The Chicago publication, Unraveled, previously identified EZ-17 as Edgar Vazquez and EZ-2 as Michael Sveum.",
+        "Both EZ-17 and EZ-2 were present in Chicago."
+      ],
+      "out_of_scope": false,
+      "notes": "Identity resolution link query. Tests alias-to-real-name traversal and source attribution."
+    },
+    {
+      "id": "Q03",
+      "question": "Which agent appeared in Los Angeles, Chicago, and Minneapolis, and what actions were documented at each location?",
+      "analysis_type": "link",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Kristopher Hewson",
+          "type": "person"
+        },
+        {
+          "name": "Los Angeles",
+          "type": "location"
+        },
+        {
+          "name": "Chicago",
+          "type": "location"
+        },
+        {
+          "name": "Minneapolis",
+          "type": "location"
+        },
+        {
+          "name": "Gregory Bovino",
+          "type": "person"
+        },
+        {
+          "name": "C-29",
+          "type": "object"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Kristopher Hewson",
+          "relation": "PRESENT_AT",
+          "tgt": "Los Angeles"
+        },
+        {
+          "src": "Kristopher Hewson",
+          "relation": "PRESENT_AT",
+          "tgt": "Chicago"
+        },
+        {
+          "src": "Kristopher Hewson",
+          "relation": "PRESENT_AT",
+          "tgt": "Minneapolis"
+        },
+        {
+          "src": "C-29",
+          "relation": "ALIAS_OF",
+          "tgt": "Kristopher Hewson"
+        },
+        {
+          "src": "Kristopher Hewson",
+          "relation": "ASSOCIATED_WITH",
+          "tgt": "Gregory Bovino"
+        }
+      ],
+      "reference_answer": "Kristopher Hewson, a supervisory agent identifiable by badge number C-29, appeared in Los Angeles (testified as present during the summer 2025 Border Patrol surge), Chicago (where he pepper-sprayed a 15-year-old who was being held down and deployed tear gas with virtually no warning), and Minneapolis (where he was seen tackling a teenage US citizen Target employee who was directing insults at agents). He was seen alongside Border Patrol Commander Gregory Bovino on numerous occasions across these cities.",
+      "source_ids": [
+        "doc_2"
+      ],
+      "citation_targets": [
+        "Agents of Chaos_ Unpacking the Actions of Border Patrol Agents Across US.pdf"
+      ],
+      "ground_truth_chunks": [
+        "Hewson, who wore a mask but was identifiable in several videos by the C-29 ID number on his uniform, was later spotted in Minneapolis.",
+        "Court testimony revealed that he was present in Los Angeles during a Border Patrol surge in the city in the summer of 2025.",
+        "Hewson was seen in Minneapolis in early 2026 alongside Bovino."
+      ],
+      "out_of_scope": false,
+      "notes": "Multi-city link query spanning three locations for one agent. High complexity."
+    },
+    {
+      "id": "Q04",
+      "question": "Which agents were present alongside Gregory Bovino at the Little Village neighbourhood incident in Chicago on October 23, and what weapons were used?",
+      "analysis_type": "link",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Gregory Bovino",
+          "type": "person"
+        },
+        {
+          "name": "EZ-17",
+          "type": "object"
+        },
+        {
+          "name": "Edgar Vazquez",
+          "type": "person"
+        },
+        {
+          "name": "Little Village",
+          "type": "location"
+        },
+        {
+          "name": "Chicago",
+          "type": "location"
+        },
+        {
+          "name": "B&T GL-06",
+          "type": "object"
+        },
+        {
+          "name": "Enrique Bahena",
+          "type": "person"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Gregory Bovino",
+          "relation": "PRESENT_AT",
+          "tgt": "Little Village"
+        },
+        {
+          "src": "Edgar Vazquez",
+          "relation": "PRESENT_AT",
+          "tgt": "Little Village"
+        },
+        {
+          "src": "EZ-17",
+          "relation": "ALIAS_OF",
+          "tgt": "Edgar Vazquez"
+        },
+        {
+          "src": "Little Village",
+          "relation": "LOCATED_IN",
+          "tgt": "Chicago"
+        },
+        {
+          "src": "B&T GL-06",
+          "relation": "USED_IN",
+          "tgt": "Little Village"
+        },
+        {
+          "src": "Enrique Bahena",
+          "relation": "TARGET_OF",
+          "tgt": "Little Village"
+        }
+      ],
+      "reference_answer": "On October 23, Gregory Bovino was present at the Little Village neighbourhood in Chicago, where he threw a tear gas canister. EZ-17 (Edgar Vazquez) was also present and passed a tear gas canister to Bovino. Additionally, a BORTAC agent used a B&T GL-06 40mm launcher to shoot protester Enrique Bahena in the throat from less than five feet away. Eight people were arrested at this event, including a 16-year-old US citizen.",
+      "source_ids": [
+        "doc_2",
+        "doc_4",
+        "doc_6"
+      ],
+      "citation_targets": [
+        "Agents of Chaos_ Unpacking the Actions of Border Patrol Agents Across US.pdf",
+        "Tear Gas, Pepper Balls Among Weapons Deployed Against Illinois Protesters.pdf",
+        "Tools of Repression - PHR.pdf"
+      ],
+      "ground_truth_chunks": [
+        "EZ-17 was seen passing a tear gas canister to Bovino at an incident in the city's Little Village neighbourhood on Oct. 23.",
+        "Another video from the Oct. 23 protests in Little Village, posted by a protester named Enrique Bahena, shows an agent shooting a less-lethal projectile directly at the person filming.",
+        "Bellingcat's analysis of the video...found that the video in fact shows the agent deploying a B&T GL-06 40mm launcher."
+      ],
+      "out_of_scope": false,
+      "notes": "Multi-document link query connecting agents, location, weapon, and victim across doc_2, doc_4, and doc_6."
+    },
+    {
+      "id": "Q05",
+      "question": "Which journalists were shot by LAPD scattershot projectiles during the Los Angeles anti-ICE protests in June 2025 and what outlets did they represent?",
+      "analysis_type": "link",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Sergio Olmos",
+          "type": "person"
+        },
+        {
+          "name": "Lauren Tomasi",
+          "type": "person"
+        },
+        {
+          "name": "Jeremy Lindenfeld",
+          "type": "person"
+        },
+        {
+          "name": "CalMatters",
+          "type": "organization"
+        },
+        {
+          "name": "9News Australia",
+          "type": "organization"
+        },
+        {
+          "name": "Capital & Main",
+          "type": "organization"
+        },
+        {
+          "name": "Los Angeles Police Department",
+          "type": "organization"
+        },
+        {
+          "name": "Los Angeles",
+          "type": "location"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Sergio Olmos",
+          "relation": "EMPLOYED_BY",
+          "tgt": "CalMatters"
+        },
+        {
+          "src": "Lauren Tomasi",
+          "relation": "EMPLOYED_BY",
+          "tgt": "9News Australia"
+        },
+        {
+          "src": "Jeremy Lindenfeld",
+          "relation": "EMPLOYED_BY",
+          "tgt": "Capital & Main"
+        },
+        {
+          "src": "Sergio Olmos",
+          "relation": "TARGET_OF",
+          "tgt": "Los Angeles Police Department"
+        },
+        {
+          "src": "Lauren Tomasi",
+          "relation": "TARGET_OF",
+          "tgt": "Los Angeles Police Department"
+        },
+        {
+          "src": "Jeremy Lindenfeld",
+          "relation": "TARGET_OF",
+          "tgt": "Los Angeles Police Department"
+        }
+      ],
+      "reference_answer": "Three journalists were shot by LAPD 37mm scattershot rounds during the Los Angeles anti-ICE protests in June 2025: Sergio Olmos (reporting for CalMatters), who was struck on June 8 by a stray projectile fired against a demonstrator; Lauren Tomasi (reporting for 9News Australia), who was shot on June 8 by a 37mm projectile while broadcasting live in front of a crowd; and Jeremy Lindenfeld (reporting for Capital & Main), who was shot in the abdomen on June 9 while retreating from police.",
+      "source_ids": [
+        "doc_6"
+      ],
+      "citation_targets": [
+        "Tools of Repression - PHR.pdf"
+      ],
+      "ground_truth_chunks": [
+        "On June 8, Sergio Olmos (reporting for Calmatters) was struck by a stray projectile fired against a demonstrator spraying a police officer with liquid;",
+        "On the same date, Lauren Tomasi (reporting for 9News Australia) was shot by a 37mm projectile while broadcasting live in front of a crowd;",
+        "One day later, Jeremy Lindenfeld (reporting for Capital & Main) was shot in the abdomen by a 37mm projectile while retreating from police."
+      ],
+      "out_of_scope": false,
+      "notes": "Link query connecting three victims to their employer organizations and the responsible agency, all within doc_6."
+    },
+    {
+      "id": "Q06",
+      "question": "Which agent was identified using both a badge number visible on his uniform and a slip of his mask that revealed his face, and in which cities was he documented?",
+      "analysis_type": "link",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Kristopher Hewson",
+          "type": "person"
+        },
+        {
+          "name": "C-29",
+          "type": "object"
+        },
+        {
+          "name": "Chicago",
+          "type": "location"
+        },
+        {
+          "name": "Minneapolis",
+          "type": "location"
+        },
+        {
+          "name": "Los Angeles",
+          "type": "location"
+        },
+        {
+          "name": "Gregory Bovino",
+          "type": "person"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "C-29",
+          "relation": "ALIAS_OF",
+          "tgt": "Kristopher Hewson"
+        },
+        {
+          "src": "Kristopher Hewson",
+          "relation": "PRESENT_AT",
+          "tgt": "Chicago"
+        },
+        {
+          "src": "Kristopher Hewson",
+          "relation": "PRESENT_AT",
+          "tgt": "Minneapolis"
+        },
+        {
+          "src": "Kristopher Hewson",
+          "relation": "PRESENT_AT",
+          "tgt": "Los Angeles"
+        },
+        {
+          "src": "Kristopher Hewson",
+          "relation": "ASSOCIATED_WITH",
+          "tgt": "Gregory Bovino"
+        }
+      ],
+      "reference_answer": "Kristopher Hewson was identified through multiple methods: his badge number C-29 was visible on his uniform in several videos, he stated his own name during one incident allowing investigators to find additional bodycam footage, and in one video his mask slipped and his face was compared to images from his social media accounts. He was documented in Chicago, Minneapolis, and Los Angeles.",
+      "source_ids": [
+        "doc_2"
+      ],
+      "citation_targets": [
+        "Agents of Chaos_ Unpacking the Actions of Border Patrol Agents Across US.pdf"
+      ],
+      "ground_truth_chunks": [
+        "Hewson, who wore a mask but was identifiable in several videos by the C-29 ID number on his uniform, was later spotted in Minneapolis. He also said his name during one incident that allowed us to find other bodycam footage releases that belonged to him. In one video, his mask slipped, which allowed us to compare his face to images on his social media accounts."
+      ],
+      "out_of_scope": false,
+      "notes": "Link query connecting agent identification methodology to multi-city presence. Tests entity resolution techniques described in the text."
+    },
+    {
+      "id": "Q07",
+      "question": "What was the sequence of key events from the start of Operation Midway Blitz in Illinois through the issuance and eventual vacation of the temporary restraining order?",
+      "analysis_type": "temporal",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Operation Midway Blitz",
+          "type": "event"
+        },
+        {
+          "name": "Sara Ellis",
+          "type": "person"
+        },
+        {
+          "name": "Illinois",
+          "type": "location"
+        },
+        {
+          "name": "temporary restraining order",
+          "type": "object"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Operation Midway Blitz",
+          "relation": "OCCURRED_AT",
+          "tgt": "Illinois"
+        },
+        {
+          "src": "Sara Ellis",
+          "relation": "ORGANIZED",
+          "tgt": "temporary restraining order"
+        },
+        {
+          "src": "temporary restraining order",
+          "relation": "EVIDENCE_FOR",
+          "tgt": "Operation Midway Blitz"
+        }
+      ],
+      "reference_answer": "Operation Midway Blitz began on September 2, 2025 in Illinois. On October 9, 2025, Judge Sara Ellis issued a temporary restraining order (TRO) restricting how DHS agents could use less-lethal weapons, after protesters filed a lawsuit describing a 'pattern of extreme brutality'. A court filing on October 27 alleged agents had violated the TRO 'almost every day' since it was issued. Bellingcat's analysis covered 28 events from October 9–27. The TRO was set to expire November 6, 2025, with a hearing on November 5. In November, Judge Ellis described agent use of force as something that 'shocks the conscience'. The restraining order was ultimately vacated on appeal in March 2026.",
+      "source_ids": [
+        "doc_2",
+        "doc_4"
+      ],
+      "citation_targets": [
+        "Agents of Chaos_ Unpacking the Actions of Border Patrol Agents Across US.pdf",
+        "Tear Gas, Pepper Balls Among Weapons Deployed Against Illinois Protesters.pdf"
+      ],
+      "ground_truth_chunks": [
+        "The Oct. 9 TRO was issued after a group of journalists, faith leaders and protesters filed a lawsuit against the Trump administration over what they described as a 'pattern of extreme brutality'.",
+        "Operation Midway Blitz – a multi-agency operation against 'criminal illegal aliens' in Illinois – began on Sept. 2.",
+        "A subsequent court filing on Oct. 27 alleges that federal agents have violated the TRO 'almost every day' since it was issued.",
+        "A restraining order issued by that Illinois judge was vacated on appeal earlier this month."
+      ],
+      "out_of_scope": false,
+      "notes": "Temporal sequence query spanning Sep–Mar across doc_2 and doc_4. Tests multi-date chain assembly."
+    },
+    {
+      "id": "Q08",
+      "question": "In what order did EZ-17 fire the five shots documented in Minneapolis on January 7, 2026, and what was the target of each shot?",
+      "analysis_type": "temporal",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "EZ-17",
+          "type": "object"
+        },
+        {
+          "name": "Edgar Vazquez",
+          "type": "person"
+        },
+        {
+          "name": "B&T GL06",
+          "type": "object"
+        },
+        {
+          "name": "Minneapolis",
+          "type": "location"
+        },
+        {
+          "name": "EZ-2",
+          "type": "object"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "EZ-17",
+          "relation": "ALIAS_OF",
+          "tgt": "Edgar Vazquez"
+        },
+        {
+          "src": "B&T GL06",
+          "relation": "USED_IN",
+          "tgt": "Minneapolis"
+        },
+        {
+          "src": "Edgar Vazquez",
+          "relation": "PRESENT_AT",
+          "tgt": "Minneapolis"
+        },
+        {
+          "src": "EZ-2",
+          "relation": "ASSOCIATED_WITH",
+          "tgt": "EZ-17"
+        }
+      ],
+      "reference_answer": "EZ-17 fired five shots in approximately five minutes on January 7, 2026 in Minneapolis. First shot: aimed at a nearby protester's face after pushing a man to the ground (EZ-17 had initially aimed at the fallen man but redirected). Second shot: fired towards a man filming in the direction from which a snowball came after EZ-17 was hit. Third shot: fired at a man who had thrown a snowball at EZ-2, hitting him in the face after he had already run away and raised his hands. Fourth shot: fired at a person banging on the windows of a CBP truck, which EZ-17 rushed around to address. Fifth shot: an apparent skip-fire toward the ground after EZ-2 deployed a tear gas grenade and the truck began to leave; three projectiles were visible going towards the crowd.",
+      "source_ids": [
+        "doc_3"
+      ],
+      "citation_targets": [
+        "Analysing One Federal Agent's Use of Less-Lethal Launcher in Minneapolis.pdf"
+      ],
+      "ground_truth_chunks": [
+        "EZ-17 initially aims at the man he had pushed to the ground, but then turns and aims at the face of another nearby protester",
+        "Seconds later, after EZ-17 is hit by a snowball, he turns and fires towards the face of a man who is filming",
+        "The third shot is at a man who was seen on video throwing a snowball that hits EZ-2.",
+        "A person begins banging on the windows of the truck, and EZ-17 rushes around the truck to fire his launcher towards this person's face.",
+        "This fifth shot appears to be 'skip-fired' or aimed towards the ground before ricocheting upwards, at close range"
+      ],
+      "out_of_scope": false,
+      "notes": "Temporal sequence query for a tightly-ordered 5-minute event. Tests granular ordering within a single document."
+    },
+    {
+      "id": "Q09",
+      "question": "What were the dates of specific tear gas deployment incidents in Illinois between October 12 and October 25, 2025, and in which neighbourhoods did they occur?",
+      "analysis_type": "temporal",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Albany Park",
+          "type": "location"
+        },
+        {
+          "name": "Little Village",
+          "type": "location"
+        },
+        {
+          "name": "Lakeview",
+          "type": "location"
+        },
+        {
+          "name": "Avondale",
+          "type": "location"
+        },
+        {
+          "name": "Illinois",
+          "type": "location"
+        },
+        {
+          "name": "Chicago",
+          "type": "location"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Albany Park",
+          "relation": "LOCATED_IN",
+          "tgt": "Chicago"
+        },
+        {
+          "src": "Little Village",
+          "relation": "LOCATED_IN",
+          "tgt": "Chicago"
+        },
+        {
+          "src": "Lakeview",
+          "relation": "LOCATED_IN",
+          "tgt": "Chicago"
+        },
+        {
+          "src": "Avondale",
+          "relation": "LOCATED_IN",
+          "tgt": "Chicago"
+        }
+      ],
+      "reference_answer": "According to Bellingcat's analysis, tear gas was deployed in the following Illinois locations during this period: October 12 in Albany Park; October 14 in the East Side of Chicago; October 23 in Little Village (where Gregory Bovino threw a tear gas canister); October 24 in Lakeview; and October 25 in Avondale, where children on their way to a Halloween parade were also affected. In each of these incidents, Bellingcat could not see threats to agents' safety in the videos before tear gas was deployed, nor could they hear audible warnings.",
+      "source_ids": [
+        "doc_4"
+      ],
+      "citation_targets": [
+        "Tear Gas, Pepper Balls Among Weapons Deployed Against Illinois Protesters.pdf"
+      ],
+      "ground_truth_chunks": [
+        "Tear gas was also deployed on Oct. 12 in Albany Park, Oct. 14 in the East Side of Chicago, Oct. 24 in Lakeview and Oct. 25 in Avondale.",
+        "Children in Chicago's Old Irving Park neighbourhood were preparing for a Halloween parade on Oct. 25 when federal agents reportedly deployed tear gas on the street."
+      ],
+      "out_of_scope": false,
+      "notes": "Temporal-geographic query testing date-location pair extraction from a structured list in doc_4."
+    },
+    {
+      "id": "Q10",
+      "question": "When did protests at the Metropolitan Detention Center in Los Angeles begin, and what was the significance of that date for the broader national protest movement?",
+      "analysis_type": "temporal",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Metropolitan Detention Center",
+          "type": "location"
+        },
+        {
+          "name": "Los Angeles",
+          "type": "location"
+        },
+        {
+          "name": "Physicians for Human Rights",
+          "type": "organization"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Metropolitan Detention Center",
+          "relation": "LOCATED_IN",
+          "tgt": "Los Angeles"
+        }
+      ],
+      "reference_answer": "On June 6, 2025, demonstrators began to assemble outside of the Metropolitan Detention Center in Los Angeles in response to accelerated federal raids targeting suspected undocumented immigrants. According to PHR, this catalyzed a series of mass protests across the country to denounce U.S. immigration policy, marking the beginning of a surge in reckless, indiscriminate, and dangerous uses of crowd-control weapons by federal law enforcement against both protesters and journalists.",
+      "source_ids": [
+        "doc_6"
+      ],
+      "citation_targets": [
+        "Tools of Repression - PHR.pdf"
+      ],
+      "ground_truth_chunks": [
+        "On June 6, 2025, demonstrators began to assemble outside of the Metropolitan Detention Center in Los Angeles in response to accelerated federal raids targeting suspected undocumented immigrants, catalyzing a series of mass protests across the country to denounce U.S. immigration policy."
+      ],
+      "out_of_scope": false,
+      "notes": "Simple temporal anchor query testing start-date retrieval for the broader protest wave."
+    },
+    {
+      "id": "Q11",
+      "question": "What was the timeline of Timothy Donahue's documented incidents across different cities from January 2025 through early 2026?",
+      "analysis_type": "temporal",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Timothy Donahue",
+          "type": "person"
+        },
+        {
+          "name": "Bakersfield",
+          "type": "location"
+        },
+        {
+          "name": "Los Angeles",
+          "type": "location"
+        },
+        {
+          "name": "Chicago",
+          "type": "location"
+        },
+        {
+          "name": "Operation Return to Sender",
+          "type": "event"
+        },
+        {
+          "name": "Operation Midway Blitz",
+          "type": "event"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Timothy Donahue",
+          "relation": "PARTICIPATED_IN",
+          "tgt": "Operation Return to Sender"
+        },
+        {
+          "src": "Timothy Donahue",
+          "relation": "PARTICIPATED_IN",
+          "tgt": "Operation Midway Blitz"
+        },
+        {
+          "src": "Operation Return to Sender",
+          "relation": "OCCURRED_AT",
+          "tgt": "Bakersfield"
+        },
+        {
+          "src": "Operation Midway Blitz",
+          "relation": "OCCURRED_AT",
+          "tgt": "Chicago"
+        },
+        {
+          "src": "Timothy Donahue",
+          "relation": "PRESENT_AT",
+          "tgt": "Los Angeles"
+        }
+      ],
+      "reference_answer": "Timothy Donahue's documented timeline: In early January 2025, he was filmed by Ernesto Campos in Bakersfield, California during Operation Return to Sender. In June 2025, he was spotted in social media footage in Los Angeles pushing a citizen blocking his vehicle and grabbing a man during an immigration raid inside a car wash. On October 3, 2025, bodycam footage appeared to show him compiling an incident report with ChatGPT. On October 31, 2025, he filed an incident report for the Chicago incident that made no mention of punching a man or unholstering his weapon. During Operation Midway Blitz in Chicago, he was filmed punching a man in the face and pulling his gun on protesters. Bodycam footage also showed him tackling a journalist from Unraveled near a detention center.",
+      "source_ids": [
+        "doc_2"
+      ],
+      "citation_targets": [
+        "Agents of Chaos_ Unpacking the Actions of Border Patrol Agents Across US.pdf"
+      ],
+      "ground_truth_chunks": [
+        "In early January 2025, a gardener named Ernesto Campos was pulled over by Border Patrol agents in the city of Bakersfield, California.",
+        "Donahue was also spotted in social media footage in Los Angeles in June last year pushing a citizen who was blocking his vehicle.",
+        "Footage from Donahue's own bodycam on Oct. 3 also appears to show him compiling an incident report with ChatGPT."
+      ],
+      "out_of_scope": false,
+      "notes": "Temporal biography query for a key agent. Tests multi-date, multi-city reconstruction across a one-year span."
+    },
+    {
+      "id": "Q12",
+      "question": "Trace how the LAPD's use of scattershot kinetic impact projectiles caused harm to journalists and led to legal proceedings.",
+      "analysis_type": "flow",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Los Angeles Police Department",
+          "type": "organization"
+        },
+        {
+          "name": "Sergio Olmos",
+          "type": "person"
+        },
+        {
+          "name": "Lauren Tomasi",
+          "type": "person"
+        },
+        {
+          "name": "Jeremy Lindenfeld",
+          "type": "person"
+        },
+        {
+          "name": "Los Angeles Press Club",
+          "type": "organization"
+        },
+        {
+          "name": "Los Angeles",
+          "type": "location"
+        },
+        {
+          "name": "Use of Force Directive no. 12",
+          "type": "object"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Los Angeles Police Department",
+          "relation": "USES_ASSET",
+          "tgt": "Use of Force Directive no. 12"
+        },
+        {
+          "src": "Sergio Olmos",
+          "relation": "TARGET_OF",
+          "tgt": "Los Angeles Police Department"
+        },
+        {
+          "src": "Lauren Tomasi",
+          "relation": "TARGET_OF",
+          "tgt": "Los Angeles Police Department"
+        },
+        {
+          "src": "Jeremy Lindenfeld",
+          "relation": "TARGET_OF",
+          "tgt": "Los Angeles Police Department"
+        },
+        {
+          "src": "Los Angeles Press Club",
+          "relation": "ASSOCIATED_WITH",
+          "tgt": "Los Angeles Police Department"
+        }
+      ],
+      "reference_answer": "The LAPD's Use of Force Directive no. 12 authorises the 37mm Less-Lethal Launcher with scattershot munitions. These inherently indiscriminate weapons were deployed during the June 2025 Los Angeles anti-ICE protests. On June 8, Sergio Olmos (CalMatters) and Lauren Tomasi (9News Australia) were shot; on June 9, Jeremy Lindenfeld (Capital & Main) was shot in the abdomen while retreating. These incidents contributed to 99 of 155 California journalist assault incidents recorded by the Freedom of the Press Foundation. The Los Angeles Press Club brought a lawsuit (Los Angeles Press Club v. City of Los Angeles) in which the City argued the journalists were unintentionally hit; a judge issued a preliminary injunction finding the use ran afoul of California PC 13652(b)(4) prohibiting indiscriminate fire into a crowd, though the injunction stopped short of completely restricting their use.",
+      "source_ids": [
+        "doc_6"
+      ],
+      "citation_targets": [
+        "Tools of Repression - PHR.pdf"
+      ],
+      "ground_truth_chunks": [
+        "In the ongoing federal lawsuit Los Angeles Press Club v. City of Los Angeles, the City repeatedly claimed that journalists' claims lacked merit",
+        "in issuing a preliminary injunction, a judge determined that the mentioned incidents ran afoul of California PC 13652(b)(4)'s directive that 'projectiles shall not be aimed indiscriminately into a crowd or group of persons.'"
+      ],
+      "out_of_scope": false,
+      "notes": "Causal flow query: weapon policy → deployment → journalist harm → lawsuit → legal outcome. Tests chain reasoning."
+    },
+    {
+      "id": "Q13",
+      "question": "How did the escalation from Renee Good's shooting lead to the use of less-lethal weapons in Minneapolis and subsequent documentation of policy violations by EZ-17?",
+      "analysis_type": "flow",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Renee Good",
+          "type": "person"
+        },
+        {
+          "name": "Jonathan Ross",
+          "type": "person"
+        },
+        {
+          "name": "EZ-17",
+          "type": "object"
+        },
+        {
+          "name": "Edgar Vazquez",
+          "type": "person"
+        },
+        {
+          "name": "Minneapolis",
+          "type": "location"
+        },
+        {
+          "name": "Gregory Bovino",
+          "type": "person"
+        },
+        {
+          "name": "B&T GL06",
+          "type": "object"
+        },
+        {
+          "name": "BORTAC",
+          "type": "organization"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Jonathan Ross",
+          "relation": "PERPETRATED",
+          "tgt": "Renee Good"
+        },
+        {
+          "src": "EZ-17",
+          "relation": "ALIAS_OF",
+          "tgt": "Edgar Vazquez"
+        },
+        {
+          "src": "Edgar Vazquez",
+          "relation": "MEMBER_OF",
+          "tgt": "BORTAC"
+        },
+        {
+          "src": "B&T GL06",
+          "relation": "USED_IN",
+          "tgt": "Minneapolis"
+        },
+        {
+          "src": "Edgar Vazquez",
+          "relation": "ASSOCIATED_WITH",
+          "tgt": "Gregory Bovino"
+        }
+      ],
+      "reference_answer": "ICE agent Jonathan Ross fatally shot Renee Good in Minneapolis on January 7, 2026, sparking nationwide protests. The most intense protests occurred in Minneapolis itself, where EZ-17 (Edgar Vazquez), an elite BORTAC officer, arrived at the crime scene perimeter alongside Commander Gregory Bovino carrying eight 40mm munitions. Over the next five minutes, EZ-17 fired his B&T GL06 launcher five times at protesters in Minneapolis. Experts including Patrick Wilcken of Amnesty International and law professor Rachel Moran reviewed the footage and described the actions as 'punitive and unlawful', finding that four of five shots appeared aimed directly at protesters' faces, violating CBP's own use-of-force policy.",
+      "source_ids": [
+        "doc_2",
+        "doc_3"
+      ],
+      "citation_targets": [
+        "Analysing One Federal Agent's Use of Less-Lethal Launcher in Minneapolis.pdf",
+        "Agents of Chaos_ Unpacking the Actions of Border Patrol Agents Across US.pdf"
+      ],
+      "ground_truth_chunks": [
+        "The fatal shooting of Renee Nicole Good by Immigration and Customs Enforcement (ICE) agent Jonathan Ross in Minneapolis on Jan. 7 sparked nationwide protests",
+        "This agent, an elite Border Patrol officer who was masked but identifiable through the uniform number patch EZ-17, was captured on camera firing his B&T GL06 40mm less-lethal launcher at protesters five times in five minutes",
+        "Wilcken...said the actions of agents shown in these videos – pursuing fleeing protesters and in some instances firing at protesters who appeared to be trying to protect themselves – were 'punitive and unlawful'."
+      ],
+      "out_of_scope": false,
+      "notes": "Causal flow: shooting → protest escalation → weapon deployment → expert assessment. Cross-document (doc_2, doc_3) chain."
+    },
+    {
+      "id": "Q14",
+      "question": "How did the identification process flow from seeing badge number EZ-2 on bodycam footage to confirming the agent's real identity as Michael Sveum?",
+      "analysis_type": "flow",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "EZ-2",
+          "type": "object"
+        },
+        {
+          "name": "Michael Sveum",
+          "type": "person"
+        },
+        {
+          "name": "Unraveled",
+          "type": "organization"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "EZ-2",
+          "relation": "ALIAS_OF",
+          "tgt": "Michael Sveum"
+        },
+        {
+          "src": "Unraveled",
+          "relation": "ASSOCIATED_WITH",
+          "tgt": "Michael Sveum"
+        }
+      ],
+      "reference_answer": "EZ-2's identification was established through an open-source process: Bodycam footage from EZ-2 showed him looking at his phone, with a picture of a smiling man in a blue jacket visible on the lockscreen. That same picture appeared on Michael Sveum's social media accounts and had been posted by ultramarathon event organisers alongside Sveum's name. Unraveled previously identified EZ-2 as Michael Sveum, and Bellingcat corroborated this through the same technique.",
+      "source_ids": [
+        "doc_2"
+      ],
+      "citation_targets": [
+        "Agents of Chaos_ Unpacking the Actions of Border Patrol Agents Across US.pdf"
+      ],
+      "ground_truth_chunks": [
+        "Bodycam footage from EZ-2 showed him looking at his phone. On the lockscreen was a picture of a man smiling and wearing a blue jacket. That same picture was posted on Sveum's social media accounts and appeared to have been taken at an ultramarathon event whose organisers posted Sveum's name alongside that same image."
+      ],
+      "out_of_scope": false,
+      "notes": "OSINT flow query: bodycam artifact → phone lockscreen image → social media cross-reference → identity confirmation."
+    },
+    {
+      "id": "Q15",
+      "question": "How did misinformation about the green smoke grenades used in Minneapolis spread and what was the actual composition of the munitions?",
+      "analysis_type": "flow",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Gregory Bovino",
+          "type": "person"
+        },
+        {
+          "name": "Minneapolis",
+          "type": "location"
+        },
+        {
+          "name": "Bryant Square Park",
+          "type": "location"
+        },
+        {
+          "name": "Defense Technology",
+          "type": "organization"
+        },
+        {
+          "name": "Grok",
+          "type": "object"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Gregory Bovino",
+          "relation": "PRESENT_AT",
+          "tgt": "Bryant Square Park"
+        },
+        {
+          "src": "Bryant Square Park",
+          "relation": "LOCATED_IN",
+          "tgt": "Minneapolis"
+        },
+        {
+          "src": "Defense Technology",
+          "relation": "ASSOCIATED_WITH",
+          "tgt": "Gregory Bovino"
+        }
+      ],
+      "reference_answer": "On January 21, 2026, at Bryant Square Park in Minneapolis, USBP agents including Gregory Bovino deployed green smoke grenades at protesters. A bystander was heard saying 'the green stuff is super carcinogenic,' and social media amplified false claims that it was adamsite (a toxic vomiting agent) or other hazardous chemical weapons. The AI assistant Grok (on x.com) reinforced this misinformation by claiming the green smoke was adamsite, citing the CDC's description of adamsite's 'light green to yellow' color and apparently hallucinating nonexistent reports by PBS and NBC. In reality, the used canisters collected at the scene correspond to pyrotechnic signaling smoke grenades by Defense Technology (Models 1067 and 1017G), which are largely composed of nitrocellulose dye, potassium chlorate, sugar, and terephthalic acid — similar to fireworks and not significantly hazardous.",
+      "source_ids": [
+        "doc_6"
+      ],
+      "citation_targets": [
+        "Tools of Repression - PHR.pdf"
+      ],
+      "ground_truth_chunks": [
+        "On January 21, 2026, at Bryant Square Park in Minneapolis, a group of USBP agents, including Commander-At-Large Greg Bovino, was seen deploying grenades that emitted clouds of bright green smoke at protesters.",
+        "Queries to Grok, x.com's AI assistant, about the green smoke used in Minneapolis resulted in repeated claims by Grok that it was adamsite.",
+        "Used canisters collected in Minneapolis in early 2026 correspond to signaling smoke grenades manufactured by Defense Technology, Models 1067 and 1017G."
+      ],
+      "out_of_scope": false,
+      "notes": "Information-flow query: weapon deployment → public fear → AI-amplified misinformation → forensic evidence. Demonstrates hallucination risk relevant to thesis."
+    },
+    {
+      "id": "Q16",
+      "question": "Trace the process by which Enrique Bahena was injured at the Little Village protest on October 23, 2025, including the initial misidentification of the weapon used.",
+      "analysis_type": "flow",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Enrique Bahena",
+          "type": "person"
+        },
+        {
+          "name": "Little Village",
+          "type": "location"
+        },
+        {
+          "name": "BORTAC",
+          "type": "organization"
+        },
+        {
+          "name": "B&T GL-06",
+          "type": "object"
+        },
+        {
+          "name": "Chicago",
+          "type": "location"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Enrique Bahena",
+          "relation": "TARGET_OF",
+          "tgt": "Little Village"
+        },
+        {
+          "src": "B&T GL-06",
+          "relation": "USED_IN",
+          "tgt": "Little Village"
+        },
+        {
+          "src": "Little Village",
+          "relation": "LOCATED_IN",
+          "tgt": "Chicago"
+        },
+        {
+          "src": "BORTAC",
+          "relation": "PRESENT_AT",
+          "tgt": "Little Village"
+        }
+      ],
+      "reference_answer": "On October 23, 2025, BORTAC agent shot protester Enrique Bahena at the Little Village neighbourhood in Chicago from less than five feet away using a B&T GL-06 40mm grenade launcher. Bahena caught the incident on video. Because a solid projectile was seen ricocheting after apparently striking Bahena in the throat, initial speculation held that he had been shot with a PepperBall round. However, Bellingcat's analysis confirmed the video showed a B&T GL-06 40mm launcher. PHR also documented an identical-weapon incident the same day against Reverend Jorge Bautista in Oakland, California. Bahena said agents gave no warnings before shooting and throwing gas canisters, though he acknowledged protesters had thrown objects at agents after agents had already used force.",
+      "source_ids": [
+        "doc_4",
+        "doc_6"
+      ],
+      "citation_targets": [
+        "Tear Gas, Pepper Balls Among Weapons Deployed Against Illinois Protesters.pdf",
+        "Tools of Repression - PHR.pdf"
+      ],
+      "ground_truth_chunks": [
+        "An Oct. 26 court filing said Bahena was shot in the 'neck from five feet away with a pepper ball'. Bellingcat's analysis of the video...found that the video in fact shows the agent deploying a B&T GL-06 40mm launcher.",
+        "On the very same day, some two thousand miles away, Enrique Bahena was shot at close range with an identical 40mm grenade launcher by an agent of the USBP's Border Tactical Unit (BORTAC) in the Little Village neighborhood of Chicago."
+      ],
+      "out_of_scope": false,
+      "notes": "Flow query tracking: incident → misidentification → correct forensic analysis. Cross-document (doc_4, doc_6)."
+    },
+    {
+      "id": "Q17",
+      "question": "TRUE or FALSE: ICE's 2023 'Firearms and Use of Force' Directive includes specific guidance on less-lethal weapons, similar to CBP's 2021 policy.",
+      "analysis_type": "factual_verification",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "ICE",
+          "type": "organization"
+        },
+        {
+          "name": "CBP",
+          "type": "organization"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "ICE",
+          "relation": "ASSOCIATED_WITH",
+          "tgt": "CBP"
+        }
+      ],
+      "reference_answer": "FALSE. ICE does not include specific guidance on less-lethal weapons in its 2023 'Firearms and Use of Force' Directive and does not appear to have any publicly available policy outlining such guidance. By contrast, CBP's use-of-force policy as of January 2021 is available on its website and includes detailed restrictions on the use of compressed air launchers, 40mm launchers, hand-thrown munitions, OC sprays, and ECWs.",
+      "source_ids": [
+        "doc_1"
+      ],
+      "citation_targets": [
+        "The 'Less-Lethal' Weapons Used by the DHS.pdf"
+      ],
+      "ground_truth_chunks": [
+        "While CBP's use-of-force policy as of January 2021 is available on its website, ICE does not include specific guidance on less-lethal weapons in its 2023 'Firearms and Use of Force' Directive, and does not appear to have any publicly available policy that outlines this guidance."
+      ],
+      "out_of_scope": false,
+      "notes": "Direct factual verification of a key policy gap. Evidence is a direct quote from doc_1."
+    },
+    {
+      "id": "Q18",
+      "question": "TRUE or FALSE: CBP requires annual recertification for both PepperBall guns and FN303s, and this requirement also applies to ICE agents.",
+      "analysis_type": "factual_verification",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "CBP",
+          "type": "organization"
+        },
+        {
+          "name": "ICE",
+          "type": "organization"
+        },
+        {
+          "name": "FN303",
+          "type": "object"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "FN303",
+          "relation": "USED_IN",
+          "tgt": "CBP"
+        },
+        {
+          "src": "ICE",
+          "relation": "ASSOCIATED_WITH",
+          "tgt": "CBP"
+        }
+      ],
+      "reference_answer": "FALSE. According to a 2021 report by the US Office of Inspector General, CBP does require its agents to recertify their training to use PepperBall guns and FN303s every year. However, this requirement does NOT apply to ICE — ICE does not require annual recertification for these weapons.",
+      "source_ids": [
+        "doc_1"
+      ],
+      "citation_targets": [
+        "The 'Less-Lethal' Weapons Used by the DHS.pdf"
+      ],
+      "ground_truth_chunks": [
+        "According to a 2021 report by the US Office of Inspector General, CBP requires its agents to recertify their training to use PepperBall guns and FN303s every year, but ICE does not."
+      ],
+      "out_of_scope": false,
+      "notes": "Partially-true nuanced claim. Tests whether system captures the ICE exception to the recertification rule."
+    },
+    {
+      "id": "Q19",
+      "question": "TRUE or FALSE: CBP's 2021 use-of-force policy classifies the 40mm launcher as deadly force when fired at someone.",
+      "analysis_type": "factual_verification",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "CBP",
+          "type": "organization"
+        },
+        {
+          "name": "ICE",
+          "type": "organization"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "ICE",
+          "relation": "ASSOCIATED_WITH",
+          "tgt": "CBP"
+        }
+      ],
+      "reference_answer": "FALSE. It is ICE's use-of-force policy, not CBP's, that classifies the 40mm launcher as deadly force when fired at someone. CBP's 2021 use-of-force policy only directs officers not to target a person's head or neck. This distinction is noted in a 2021 DHS Office of Inspector General Report and is confirmed in both doc_1 and doc_4.",
+      "source_ids": [
+        "doc_1",
+        "doc_4"
+      ],
+      "citation_targets": [
+        "The 'Less-Lethal' Weapons Used by the DHS.pdf",
+        "Tear Gas, Pepper Balls Among Weapons Deployed Against Illinois Protesters.pdf"
+      ],
+      "ground_truth_chunks": [
+        "A DHS Office of Inspector General Report in 2021 noted varying guidance on the use of 40mm launchers among the department's component agencies: 'ICE's use of force policy indicates that the 40MM launcher is deadly force when fired at someone, while the CBP use of force policy only directs officers not to target a person's head or neck.'"
+      ],
+      "out_of_scope": false,
+      "notes": "Common ICE/CBP confusion point. Tests whether the system correctly attributes the deadly-force classification to ICE, not CBP."
+    },
+    {
+      "id": "Q20",
+      "question": "TRUE or FALSE: The minimum safe distance for a PepperBall gun under CBP policy is 10 feet, and 3 feet for the FN303.",
+      "analysis_type": "factual_verification",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "CBP",
+          "type": "organization"
+        },
+        {
+          "name": "FN303",
+          "type": "object"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "FN303",
+          "relation": "USES_ASSET",
+          "tgt": "CBP"
+        }
+      ],
+      "reference_answer": "FALSE. The distances are reversed. Under CBP's 2021 Use of Force Policy, PepperBall guns should not be used within 3 feet (unless the use of deadly force is reasonable and necessary), and the minimum distance for the FN303 is the greater distance of 10 feet — not the other way around.",
+      "source_ids": [
+        "doc_1"
+      ],
+      "citation_targets": [
+        "The 'Less-Lethal' Weapons Used by the DHS.pdf"
+      ],
+      "ground_truth_chunks": [
+        "It also states that PepperBall guns should not be used within 3 feet 'unless the use of deadly force is reasonable and necessary'. When using the FN303, the minimum distance is increased to 10 feet."
+      ],
+      "out_of_scope": false,
+      "notes": "Reversal trap factual verification. Tests precision on numeric values and which weapon each distance applies to."
+    },
+    {
+      "id": "Q21",
+      "question": "TRUE or FALSE: DHS stated in response to the Illinois protests that its officers 'only use crowd control methods as a last resort when repeated warnings have been given'.",
+      "analysis_type": "factual_verification",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "DHS",
+          "type": "organization"
+        },
+        {
+          "name": "Tricia McLaughlin",
+          "type": "person"
+        },
+        {
+          "name": "Illinois",
+          "type": "location"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Tricia McLaughlin",
+          "relation": "REPRESENTS",
+          "tgt": "DHS"
+        }
+      ],
+      "reference_answer": "TRUE. In a response received after the publication of Bellingcat's October 2025 Illinois investigation, DHS Assistant Secretary Tricia McLaughlin stated that DHS officers 'only use crowd control methods as a last resort when repeated warnings have been given.' She did not directly address the temporary restraining order or allegations of violations, but made this claim as part of DHS's broader defense of its use of force.",
+      "source_ids": [
+        "doc_4"
+      ],
+      "citation_targets": [
+        "Tear Gas, Pepper Balls Among Weapons Deployed Against Illinois Protesters.pdf"
+      ],
+      "ground_truth_chunks": [
+        "Assistant Secretary Tricia McLaughlin did not directly address the TRO but said DHS officers 'only use crowd control methods as a last resort when repeated warnings have been given'."
+      ],
+      "out_of_scope": false,
+      "notes": "Straightforward true factual verification. Tests exact quote attribution to spokesperson and agency."
+    },
+    {
+      "id": "Q22",
+      "question": "TRUE or FALSE: DHS responded to all questions Bellingcat posed about agent use-of-force incidents in Chicago before the publication of the 'Agents of Chaos' report.",
+      "analysis_type": "factual_verification",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "DHS",
+          "type": "organization"
+        },
+        {
+          "name": "Bellingcat",
+          "type": "organization"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Bellingcat",
+          "relation": "ASSOCIATED_WITH",
+          "tgt": "DHS"
+        }
+      ],
+      "reference_answer": "FALSE. DHS did not respond before publication to any of Bellingcat's questions in the 'Agents of Chaos' report. Bellingcat, CalMatters, and Evident Media jointly sought to contact DHS and all agents mentioned prior to publication, but DHS did not respond to questions about whether the incidents violated use-of-force policies, whether those policies had been updated, or whether further training was being provided to agents.",
+      "source_ids": [
+        "doc_2"
+      ],
+      "citation_targets": [
+        "Agents of Chaos_ Unpacking the Actions of Border Patrol Agents Across US.pdf"
+      ],
+      "ground_truth_chunks": [
+        "DHS did not respond before publication.",
+        "Bellingcat, CalMatters and Evident Media jointly sought to contact DHS as well as all of the agents mentioned in this story prior to publication."
+      ],
+      "out_of_scope": false,
+      "notes": "Direct factual verification of DHS non-response. Simple but tests claim inversion."
+    },
+    {
+      "id": "Q23",
+      "question": "TRUE or FALSE: The Broadview, Illinois ICE processing center where the Fox News-reported protest took place was specifically described as the main processing center for Operation Midway Blitz.",
+      "analysis_type": "factual_verification",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [
+        {
+          "name": "Broadview",
+          "type": "location"
+        },
+        {
+          "name": "Illinois",
+          "type": "location"
+        },
+        {
+          "name": "Operation Midway Blitz",
+          "type": "event"
+        },
+        {
+          "name": "ICE",
+          "type": "organization"
+        }
+      ],
+      "ground_truth_relationships": [
+        {
+          "src": "Broadview",
+          "relation": "LOCATED_IN",
+          "tgt": "Illinois"
+        },
+        {
+          "src": "Operation Midway Blitz",
+          "relation": "OCCURRED_AT",
+          "tgt": "Broadview"
+        }
+      ],
+      "reference_answer": "TRUE. According to the Fox News report, the ICE processing center in Broadview, Illinois — where at least 50 protesters gathered and pepper balls and tear gas were deployed — is specifically described as 'the main processing center for Operation Midway Blitz'.",
+      "source_ids": [
+        "doc_5"
+      ],
+      "citation_targets": [
+        "Federal agents fire pepper balls at anti-ICE protesters outside of Chicago _ Fox News.pdf"
+      ],
+      "ground_truth_chunks": [
+        "The site is currently being used as the main processing center for Operation Midway Blitz."
+      ],
+      "out_of_scope": false,
+      "notes": "Factual verification anchored exclusively to doc_5 (Fox News). Tests whether the system retrieves content from this shorter source."
+    },
+    {
+      "id": "Q24",
+      "question": "What disciplinary actions, criminal charges, or terminations were formally imposed on agents Timothy Donahue, Georgy Simeon, or Kristopher Hewson as a result of the incidents documented in these reports?",
+      "analysis_type": "retrieval_honesty",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [],
+      "ground_truth_relationships": [],
+      "reference_answer": "The provided documents do not contain information about any formal disciplinary actions, criminal charges, or terminations imposed on Timothy Donahue, Georgy Simeon, or Kristopher Hewson. The articles document their actions and note that DHS did not respond to questions about its use-of-force policies or whether the incidents violated those policies, but no disciplinary outcomes are reported.",
+      "source_ids": [
+        "doc_2"
+      ],
+      "citation_targets": [],
+      "ground_truth_chunks": [],
+      "out_of_scope": true,
+      "notes": "Out-of-scope honesty test. Articles explicitly state no disciplinary outcome; system must not hallucinate consequences."
+    },
+    {
+      "id": "Q25",
+      "question": "What procurement price did CBP pay per unit for PepperBall TAC-SF guns under its standard contracts?",
+      "analysis_type": "retrieval_honesty",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [],
+      "ground_truth_relationships": [],
+      "reference_answer": "The provided documents do not contain information about CBP per-unit procurement prices for PepperBall TAC-SF guns. The articles reference publicly available price lists for Defense Technology and Combined Tactical Systems as tools for identifying munitions by model number, but no procurement prices are provided.",
+      "source_ids": [
+        "doc_1"
+      ],
+      "citation_targets": [],
+      "ground_truth_chunks": [],
+      "out_of_scope": true,
+      "notes": "Out-of-scope test. System must not hallucinate pricing data from general market knowledge."
+    },
+    {
+      "id": "Q26",
+      "question": "What exact testimony did Kristopher Hewson give about the 15-year-old he pepper-sprayed, during the preliminary injunction hearing in Chicago?",
+      "analysis_type": "retrieval_honesty",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [],
+      "ground_truth_relationships": [],
+      "reference_answer": "The provided documents do not contain the exact testimony Hewson gave about the 15-year-old pepper spray incident at the preliminary injunction hearing. The articles describe the incident itself and note that during the hearing Hewson stated protesters have the right to shout and swear at officers (pages 183–184) and that tear gas 'doesn't harm people' (page 189), but the specific testimony about the 15-year-old pepper spray incident is not reproduced in the corpus.",
+      "source_ids": [
+        "doc_2"
+      ],
+      "citation_targets": [],
+      "ground_truth_chunks": [],
+      "out_of_scope": true,
+      "notes": "Out-of-scope honesty test. The hearing transcript is cited by page number but specific testimony about this incident is not quoted."
+    },
+    {
+      "id": "Q27",
+      "question": "What were the immigration status and country of origin of Ernesto Campos' passenger who was arrested during Operation Return to Sender in Bakersfield?",
+      "analysis_type": "retrieval_honesty",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [],
+      "ground_truth_relationships": [],
+      "reference_answer": "The provided documents do not contain information about the immigration status, country of origin, or identity of the passenger arrested alongside Ernesto Campos in Bakersfield during Operation Return to Sender. The article only states that agents believed Campos was transporting an undocumented individual, and that Campos and a passenger were arrested.",
+      "source_ids": [
+        "doc_2"
+      ],
+      "citation_targets": [],
+      "ground_truth_chunks": [],
+      "out_of_scope": true,
+      "notes": "Out-of-scope test. Passenger details are not in the corpus; system must not fabricate personal information."
+    },
+    {
+      "id": "Q28",
+      "question": "What were the specific chemical compositions and batch numbers of the tear gas canisters deployed by Gregory Bovino at the Little Village incident?",
+      "analysis_type": "retrieval_honesty",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [],
+      "ground_truth_relationships": [],
+      "reference_answer": "The provided documents do not contain specific chemical compositions or batch numbers for the tear gas canisters deployed by Gregory Bovino at Little Village. The articles describe the incident and note that Bovino threw what looked like a tear gas canister, and that DHS defended the use as 'conducted in full accordance with CBP policy', but no chemical specifications or batch numbers are provided.",
+      "source_ids": [
+        "doc_4"
+      ],
+      "citation_targets": [],
+      "ground_truth_chunks": [],
+      "out_of_scope": true,
+      "notes": "Out-of-scope test. Chemical composition/batch information not present in corpus."
+    },
+    {
+      "id": "Q29",
+      "question": "What was the range in meters and muzzle velocity of the B&T GL06 launcher used by EZ-17 in Minneapolis?",
+      "analysis_type": "retrieval_honesty",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [],
+      "ground_truth_relationships": [],
+      "reference_answer": "The provided documents do not contain information about the range in meters or muzzle velocity of the B&T GL06 launcher. The articles identify EZ-17 as carrying a B&T GL06 40mm less-lethal launcher and describe its use during the Minneapolis protests, but no manufacturer technical specifications such as range or muzzle velocity are provided in the corpus.",
+      "source_ids": [
+        "doc_3"
+      ],
+      "citation_targets": [],
+      "ground_truth_chunks": [],
+      "out_of_scope": true,
+      "notes": "Out-of-scope technical specs test. System must not hallucinate weapon specs from manufacturer knowledge."
+    },
+    {
+      "id": "Q30",
+      "question": "What were the findings of CBP's internal investigation into the actions of EZ-17 following the Minneapolis incidents?",
+      "analysis_type": "retrieval_honesty",
+      "phases": [
+        "retrieval",
+        "generation"
+      ],
+      "ground_truth_entities": [],
+      "ground_truth_relationships": [],
+      "reference_answer": "The provided documents do not contain any information about a CBP internal investigation into the actions of EZ-17 following the Minneapolis incidents. The articles state that DHS had not responded to Bellingcat's requests for comment as of publication, and no internal investigation findings are described anywhere in the corpus.",
+      "source_ids": [
+        "doc_3"
+      ],
+      "citation_targets": [],
+      "ground_truth_chunks": [],
+      "out_of_scope": true,
+      "notes": "Out-of-scope test on investigative outcome. The corpus explicitly notes DHS non-response; any claimed investigation finding would be a hallucination."
+    }
+  ]
+}

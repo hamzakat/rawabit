@@ -1,0 +1,47 @@
+{
+  "document_id": "3b1a02e9-1614-4381-944c-4fc7c7401511",
+  "case_id": "09fb881d-a36f-4757-b671-cf95c4f2fc73",
+  "case_slug": "dhs-llw-immigration-enforcement-eval-openai-gpt-5-4-mini-20260528-230329",
+  "original_filename": "The \u2018Less-Lethal\u2019 Weapons Used by the DHS.pdf",
+  "parser": "mineru",
+  "parse_method": "txt",
+  "started_at": "2026-05-28T20:29:56+00:00",
+  "finished_at": "2026-05-28T20:38:19+00:00",
+  "status": "complete",
+  "stats": {
+    "ingest_profile": "balanced_fast_intel",
+    "processing_mode": "multimodal",
+    "route_type": "pdf_txt",
+    "source_kind": "pdf",
+    "complexity_class": "medium",
+    "llm_model": "openai/gpt-5.4-mini",
+    "vlm_model": "openai/gpt-5.4-mini",
+    "embedding_model": "baai/bge-m3",
+    "primary_ingest_model": "openai/gpt-5.4-mini",
+    "parse_duration_s": 145.543,
+    "content_blocks": 223,
+    "content_type_counts": {
+      "text": 99,
+      "discarded": 102,
+      "image": 22
+    },
+    "preinsert_enrichment": {
+      "images_analyzed": 22,
+      "visible_text_hits": 22,
+      "summary_added": 0
+    },
+    "evidence_normalization": {
+      "used": true,
+      "source_chars": 24000,
+      "normalized_chars": 30156,
+      "low_value_items": 17
+    },
+    "preinsert_text_chars": 25863,
+    "normalized_text_chars": 30156,
+    "insert_duration_s": 287.865,
+    "graph_entity_count": 403,
+    "graph_relation_count": 441,
+    "graph_retry_used": false,
+    "finalize_duration_s": 0.044
+  }
+}

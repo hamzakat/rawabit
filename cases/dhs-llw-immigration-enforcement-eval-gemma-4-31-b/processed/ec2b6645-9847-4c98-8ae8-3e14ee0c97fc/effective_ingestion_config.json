@@ -1,0 +1,22 @@
+{
+  "profile": "balanced_fast_intel",
+  "processing_mode": "multimodal",
+  "source_kind": "pdf",
+  "complexity_class": "small",
+  "eta_seconds": 156,
+  "ocr_mode": "off",
+  "parse_method": "",
+  "enable_vlm": true,
+  "enable_vlm_visible_text": true,
+  "enable_preinsert_summary": false,
+  "summary_max_tokens": 400,
+  "vlm_parallelism": 6,
+  "max_parallel_insert": 2,
+  "queue_priority": "normal",
+  "llm_model": "google/gemma-4-31b-it:free",
+  "vlm_model": "google/gemma-4-31b-it:free",
+  "embedding_model": "baai/bge-m3",
+  "used_vlm": true,
+  "entity_extract_max_gleaning": 1,
+  "primary_ingest_model": "google/gemma-4-31b-it:free"
+}

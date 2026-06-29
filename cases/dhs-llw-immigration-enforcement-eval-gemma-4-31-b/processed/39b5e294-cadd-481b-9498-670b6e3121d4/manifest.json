@@ -1,0 +1,45 @@
+{
+  "document_id": "39b5e294-cadd-481b-9498-670b6e3121d4",
+  "case_id": "a44a91c2-67c7-4dc7-8afd-9c9d7d6f7347",
+  "case_slug": "dhs-llw-immigration-enforcement-eval-gemma-4-31-b",
+  "original_filename": "Tear Gas, Pepper Balls Among Weapons Deployed Against Illinois Protesters.pdf",
+  "parser": "mineru",
+  "parse_method": "txt",
+  "started_at": "2026-06-04T10:26:23+00:00",
+  "finished_at": "2026-06-04T10:43:06+00:00",
+  "status": "complete",
+  "stats": {
+    "ingest_profile": "balanced_fast_intel",
+    "processing_mode": "multimodal",
+    "route_type": "pdf_txt",
+    "source_kind": "pdf",
+    "complexity_class": "medium",
+    "llm_model": "google/gemma-4-31b-it:free",
+    "vlm_model": "google/gemma-4-31b-it:free",
+    "embedding_model": "baai/bge-m3",
+    "primary_ingest_model": "google/gemma-4-31b-it:free",
+    "parse_duration_s": 230.72,
+    "content_blocks": 202,
+    "content_type_counts": {
+      "text": 98,
+      "discarded": 90,
+      "image": 14
+    },
+    "preinsert_enrichment": {
+      "images_analyzed": 4,
+      "visible_text_hits": 4,
+      "summary_added": 0
+    },
+    "evidence_normalization": {
+      "used": false,
+      "reason": "llm_failure"
+    },
+    "preinsert_text_chars": 21468,
+    "normalized_text_chars": 21468,
+    "insert_duration_s": 711.614,
+    "graph_entity_count": 179,
+    "graph_relation_count": 193,
+    "graph_retry_used": false,
+    "finalize_duration_s": 0.076
+  }
+}

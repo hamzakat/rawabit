@@ -1,0 +1,64 @@
+{
+  "used": true,
+  "source_chars": 1934,
+  "normalized_chars": 2597,
+  "low_value_items": 8,
+  "payload": {
+    "primary_evidence_text": [
+      "Sigmundur David Gunnlaugsson and Anna Sigurlaug Palsdottir from Iceland appear in the Panama Papers.",
+      "Petro Poroshenko from Ukraine has two records in the Panama Papers.",
+      "Mauricio Macri, Hasan Nawaz Sharif, and Hussain Nawaz Sharif were manually added from leaked documents.",
+      "Mariam Safdar from Saudi Arabia appears twice in the Panama Papers.",
+      "NAWAZ TRUST is registered in British Virgin Islands and listed in the Panama Papers.",
+      "CASCON HOLDINGS ESTABLISHMENT LIMITED is registered in Liberia and listed in the Panama Papers.",
+      "MINERVA SERVICES LIMITED and MINERVA NOMINEES LIMITED are registered in Jersey and appear in the Panama Papers.",
+      "THE BEARER appears in the Panama Papers without country association."
+    ],
+    "entities_and_roles": [
+      "Iceland persons: Sigmundur David Gunnlaugsson and Anna Sigurlaug Palsdottir.",
+      "Ukraine person: Petro Poroshenko.",
+      "Manually added persons: Mauricio Macri, Hasan Nawaz Sharif, Hussain Nawaz Sharif.",
+      "Saudi Arabia person: Mariam Safdar.",
+      "British Virgin Islands organization: NAWAZ TRUST.",
+      "Liberia organization: CASCON HOLDINGS ESTABLISHMENT LIMITED.",
+      "Jersey organizations: MINERVA SERVICES LIMITED and MINERVA NOMINEES LIMITED.",
+      "Unspecified entity: THE BEARER."
+    ],
+    "events_and_timeline": [
+      "The Panama Papers data is current through 2015.",
+      "Records for Mauricio Macri, Hasan Nawaz Sharif, and Hussain Nawaz Sharif were manually added from leaked documents.",
+      "No explicit dates are provided for individual records in the provided fragment."
+    ],
+    "movements_and_transfers": [],
+    "source_and_reporting_context": [
+      "All records originate from the Panama Papers source.",
+      "The note 'The Panama Papers data is current through 2015' appears on most records.",
+      "Some records include the note 'Record manually added from leaked documents'.",
+      "Each record includes fields: node_id, name, countries, country_codes, sourceID, valid_until, note.",
+      "The node_id is a numeric identifier unique to each row.",
+      "The sourceID is 'Panama Papers' for all records.",
+      "The countries and country_codes provide location associations where known.",
+      "The valid_until field is empty for all records in this fragment."
+    ],
+    "supporting_observations": [
+      "Duplicate records exist for Petro Poroshenko with node_ids 12129717 and 13001828.",
+      "Duplicate records exist for Mariam Safdar with node_ids 13006286 and 13010742.",
+      "Duplicate records exist for MINERVA NOMINEES LIMITED with node_ids 12114025 and 12176796.",
+      "Duplicate records exist for MINERVA SERVICES LIMITED with node_ids 12114024 and 12175997.",
+      "Duplicate records exist for THE BEARER with node_ids 12025193 and 12025226.",
+      "Mauricio Macri, Hasan Nawaz Sharif, and Hussain Nawaz Sharif have no country data.",
+      "THE BEARER has no country data.",
+      "MINERVA SERVICES LIMITED appears with different capitalization across records."
+    ],
+    "low_value_content": [
+      "The evidence is presented as a CSV table with header row 'node_id,name,countries,country_codes,sourceID,valid_until,note'.",
+      "Each row repeats the sourceID 'Panama Papers'.",
+      "Each row repeats the valid_until field empty.",
+      "The note 'The Panama Papers data is current through 2015' repeats for all rows.",
+      "The node_ids are large numbers like 12161442, 12161441, etc.",
+      "The country_codes are ISO codes (ISL, UKR, VGB, LBR, JEY, SAU).",
+      "Rows for manual addition have no country data.",
+      "The data is extracted without descriptive labels beyond the column names."
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "8c786cd1-aaf0-4b14-bff3-89560b40f36e",
+  "case_id": "a44a91c2-67c7-4dc7-8afd-9c9d7d6f7347",
+  "case_slug": "dhs-llw-immigration-enforcement-eval-gemma-4-31-b",
+  "original_filename": "The \u2018Less-Lethal\u2019 Weapons Used by the DHS.pdf",
+  "parser": "mineru",
+  "parse_method": "txt",
+  "started_at": "2026-06-04T10:43:07+00:00",
+  "finished_at": "2026-06-04T10:55:12+00:00",
+  "status": "complete",
+  "stats": {
+    "ingest_profile": "balanced_fast_intel",
+    "processing_mode": "multimodal",
+    "route_type": "pdf_txt",
+    "source_kind": "pdf",
+    "complexity_class": "medium",
+    "llm_model": "google/gemma-4-31b-it:free",
+    "vlm_model": "google/gemma-4-31b-it:free",
+    "embedding_model": "baai/bge-m3",
+    "primary_ingest_model": "google/gemma-4-31b-it:free",
+    "parse_duration_s": 182.93,
+    "content_blocks": 223,
+    "content_type_counts": {
+      "text": 99,
+      "discarded": 102,
+      "image": 22
+    },
+    "preinsert_enrichment": {
+      "images_analyzed": 0,
+      "visible_text_hits": 0,
+      "summary_added": 0
+    },
+    "evidence_normalization": {
+      "used": false,
+      "reason": "llm_failure"
+    },
+    "preinsert_text_chars": 19495,
+    "normalized_text_chars": 19495,
+    "insert_duration_s": 506.317,
+    "graph_entity_count": 113,
+    "graph_relation_count": 138,
+    "graph_retry_used": false,
+    "finalize_duration_s": 0.289
+  }
+}

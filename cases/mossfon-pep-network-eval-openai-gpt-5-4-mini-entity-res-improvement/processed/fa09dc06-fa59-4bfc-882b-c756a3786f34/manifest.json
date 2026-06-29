@@ -1,0 +1,45 @@
+{
+  "document_id": "fa09dc06-fa59-4bfc-882b-c756a3786f34",
+  "case_id": "a70a9e56-3de8-44fc-9b62-07863af7d755",
+  "case_slug": "mossfon-pep-network-eval-openai-gpt-5-4-mini-entity-res-improvement",
+  "original_filename": "nodes-officers.csv",
+  "parser": "mineru",
+  "parse_method": "txt-direct",
+  "started_at": "2026-05-16T16:05:49+00:00",
+  "finished_at": "2026-05-16T16:12:46+00:00",
+  "status": "complete",
+  "stats": {
+    "ingest_profile": "balanced_fast_intel",
+    "processing_mode": "text_first",
+    "route_type": "text_direct",
+    "source_kind": "text",
+    "complexity_class": "small",
+    "llm_model": "openai-gpt-5-4-mini",
+    "vlm_model": "openai-gpt-5-4-mini",
+    "embedding_model": "baai/bge-m3",
+    "primary_ingest_model": "openai-gpt-5-4-mini",
+    "parse_duration_s": 0.0,
+    "content_blocks": 1,
+    "content_type_counts": {
+      "text": 1
+    },
+    "preinsert_enrichment": {
+      "images_analyzed": 0,
+      "visible_text_hits": 0,
+      "summary_added": 0
+    },
+    "evidence_normalization": {
+      "used": true,
+      "source_chars": 1934,
+      "normalized_chars": 2597,
+      "low_value_items": 8
+    },
+    "preinsert_text_chars": 1934,
+    "normalized_text_chars": 2597,
+    "insert_duration_s": 316.435,
+    "graph_entity_count": 35,
+    "graph_relation_count": 59,
+    "graph_retry_used": false,
+    "finalize_duration_s": 0.044
+  }
+}

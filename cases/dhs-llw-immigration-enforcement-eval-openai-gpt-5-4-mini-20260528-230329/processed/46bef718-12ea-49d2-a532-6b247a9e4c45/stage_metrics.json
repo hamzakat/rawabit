@@ -1,0 +1,38 @@
+{
+  "ingest_profile": "balanced_fast_intel",
+  "processing_mode": "multimodal",
+  "route_type": "pdf_txt",
+  "source_kind": "pdf",
+  "complexity_class": "small",
+  "llm_model": "openai/gpt-5.4-mini",
+  "vlm_model": "openai/gpt-5.4-mini",
+  "embedding_model": "baai/bge-m3",
+  "primary_ingest_model": "openai/gpt-5.4-mini",
+  "parse_duration_s": 152.827,
+  "content_blocks": 206,
+  "content_type_counts": {
+    "text": 96,
+    "discarded": 103,
+    "image": 7
+  },
+  "preinsert_enrichment": {
+    "images_analyzed": 7,
+    "visible_text_hits": 7,
+    "summary_added": 0
+  },
+  "evidence_normalization": {
+    "used": true,
+    "source_chars": 22312,
+    "normalized_chars": 13001,
+    "low_value_items": 44
+  },
+  "preinsert_text_chars": 22312,
+  "normalized_text_chars": 13001,
+  "insert_duration_s": 80.939,
+  "graph_entity_count": 148,
+  "graph_relation_count": 100,
+  "graph_retry_used": false,
+  "case_graph_maintenance_duration_s": 51.279,
+  "finalize_duration_s": 0.044,
+  "case_summary_refresh_duration_s": 10.292
+}

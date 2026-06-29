@@ -1,0 +1,199 @@
+{
+  "case_id": "a44a91c2-67c7-4dc7-8afd-9c9d7d6f7347",
+  "case_name": "DHS LLW & Immigration Enforcement [Eval] \u2014 Gemma 4 31 B",
+  "case_slug": "dhs-llw-immigration-enforcement-eval-gemma-4-31-b",
+  "document_count": 6,
+  "completed_document_count": 6,
+  "evidence_count": 6,
+  "entity_count": 567,
+  "relationship_count": 1358,
+  "top_entity_types": [
+    {
+      "entity_type": "event",
+      "count": 173
+    },
+    {
+      "entity_type": "object",
+      "count": 164
+    },
+    {
+      "entity_type": "person",
+      "count": 121
+    },
+    {
+      "entity_type": "organization",
+      "count": 58
+    },
+    {
+      "entity_type": "location",
+      "count": 51
+    }
+  ],
+  "graph_context": {
+    "top_entities": [
+      {
+        "name": "Bellingcat",
+        "type": "organization",
+        "connections": 102,
+        "summary": "[ORGANIZATION] Bellingcat\nBellingcat is a non-profit, collaborating investigative organization that specializes in conflict research and conducting detailed inquiries through the analysis of documents"
+      },
+      {
+        "name": "DHS",
+        "type": "organization",
+        "connections": 76,
+        "summary": "[ORGANIZATION] DHS\nThe Department of Homeland Security (DHS) is a federal organization tasked with various security and enforcement operations. \n\nIn specific operational contexts, Department of Homela"
+      },
+      {
+        "name": "EZ-17",
+        "type": "person",
+        "connections": 69,
+        "summary": "[PERSON] EZ-17\nEZ-17 is a Customs and Border Protection (CBP) agent and a member of the Border Patrol Tactical Division (BORTAC), identified as Edgar Vazquez. He is recognized by the uniform number pa"
+      },
+      {
+        "name": "Border Patrol",
+        "type": "organization",
+        "connections": 41,
+        "summary": "[ORGANIZATION] Border Patrol\nThe Border Patrol is a federal law enforcement and immigration enforcement agency. The organization conducts operations across various locations, including Bakersfield and"
+      },
+      {
+        "name": "CBP",
+        "type": "organization",
+        "connections": 39,
+        "summary": "[ORGANIZATION] CBP\nCustoms and Border Protection (CBP) is a government agency that employs individuals such as Donahue. \n\nThe agency maintains specific use-of-force policies, which include guidelines "
+      },
+      {
+        "name": "Chicago",
+        "type": "location",
+        "connections": 35,
+        "summary": "[LOCATION] Chicago\nChicago is the city where a series of protests and legal proceedings took place, including an injunction hearing and the issuance of a Temporary Restraining Order (TRO) by a federal"
+      },
+      {
+        "name": "EZ-2",
+        "type": "person",
+        "connections": 31,
+        "summary": "[PERSON] EZ-2\nBorder Patrol Tactical Division (BORTAC) agent identified as Michael Sveum.<SEP>CBP agent frequently seen beside EZ-17.<SEP>CBP agent accompanying Bovino and EZ-17.<SEP>CBP agent who use"
+      },
+      {
+        "name": "Minneapolis",
+        "type": "location",
+        "connections": 28,
+        "summary": "[LOCATION] Minneapolis\nMinneapolis is a city that experienced a series of violent incidents and civil unrest in early 2026. The city was the site of a fatal shooting incident involving Renee Good, whi"
+      },
+      {
+        "name": "Bovino",
+        "type": "person",
+        "connections": 24,
+        "summary": "[PERSON] Bovino\nIndividual seen with Hewson in Minneapolis.<SEP>Ex-Border Patrol Commander at Large.<SEP>Former Border Patrol Commander at Large.<SEP>CBP agent leading immigration raids.<SEP>Individua"
+      },
+      {
+        "name": "Illinois",
+        "type": "location",
+        "connections": 24,
+        "summary": "[LOCATION] Illinois\nIllinois is a US state that served as the site for several verified events occurring between October 9 and October 27, 2025. During this period, the state was the location of prote"
+      },
+      {
+        "name": "ICE",
+        "type": "organization",
+        "connections": 22,
+        "summary": "[ORGANIZATION] ICE\nImmigration and Customs Enforcement.<SEP>Immigration and Customs Enforcement.<SEP>Immigration and Customs Enforcement.<SEP>Agency with a use of force policy regarding 40MM launchers"
+      },
+      {
+        "name": "PHR",
+        "type": "organization",
+        "connections": 22,
+        "summary": "[ORGANIZATION] PHR\nPhysicians for Human Rights."
+      },
+      {
+        "name": "Department of Homeland Security",
+        "type": "organization",
+        "connections": 19,
+        "summary": "[ORGANIZATION] Department of Homeland Security\nFederal agency overseeing CBP and ICE.<SEP>Agency that provided a response to Newsweek regarding the Berwyn incident.<SEP>US federal agency (DHS) oversee"
+      },
+      {
+        "name": "Hewson",
+        "type": "person",
+        "connections": 19,
+        "summary": "[PERSON] Hewson\nAgent involved in pepper-spraying and tear gas deployment.<SEP>Individual questioned in a preliminary injunction hearing and present during protests."
+      },
+      {
+        "name": "CalMatters",
+        "type": "organization",
+        "connections": 18,
+        "summary": "[ORGANIZATION] CalMatters\nCollaborating investigative organization.<SEP>Partner organization assisting Bellingcat.<SEP>Reporting partner that contacted Donahue.<SEP>Media organization that contacted H"
+      }
+    ],
+    "top_relation_types": [
+      {
+        "type": "ASSOCIATED_WITH",
+        "count": 924
+      },
+      {
+        "type": "OCCURRED_AT",
+        "count": 177
+      },
+      {
+        "type": "USED_IN",
+        "count": 88
+      },
+      {
+        "type": "LOCATED_AT",
+        "count": 65
+      },
+      {
+        "type": "PARTICIPATED_IN",
+        "count": 34
+      },
+      {
+        "type": "WITHIN",
+        "count": 34
+      },
+      {
+        "type": "SAME_AS",
+        "count": 17
+      },
+      {
+        "type": "USES_ASSET",
+        "count": 7
+      },
+      {
+        "type": "SUPERVISES",
+        "count": 5
+      },
+      {
+        "type": "COMMUNICATED_WITH",
+        "count": 3
+      }
+    ],
+    "temporal_scope": {
+      "earliest": null,
+      "latest": null
+    },
+    "pole_breakdown": {
+      "person": 121,
+      "object": 164,
+      "location": 51,
+      "event": 173
+    },
+    "document_count": 6
+  },
+  "latest_activity_at": "2026-06-04T11:07:46+00:00",
+  "five_w_one_h": {
+    "who": "Bellingcat, DHS, EZ-17 (Edgar Vazquez), Border Patrol, CBP, EZ-2 (Michael Sveum), Bovino, ICE, PHR, Hewson, CalMatters",
+    "what": "Immigration raids, civil unrest, a fatal shooting of Renee Good, and the deployment of tear gas and pepper spray during protests leading to a Temporary Restraining Order (TRO).",
+    "when": "October 9 to October 27, 2025 (Illinois events) and early 2026 (Minneapolis incidents).",
+    "where": "Chicago, Illinois, and Minneapolis.",
+    "why": "Immigration enforcement and security operations conducted by DHS agencies.",
+    "how": "Use of force including pepper-spraying, tear gas deployment, and 40MM launchers."
+  },
+  "unknowns": [
+    "The specific outcome of the injunction hearing in Chicago.",
+    "The exact cause of death and forensic details regarding the Renee Good shooting.",
+    "The specific internal DHS disciplinary actions taken against agents EZ-17, EZ-2, or Hewson.",
+    "The full content of the response provided by DHS to Newsweek regarding the Berwyn incident."
+  ],
+  "intelligence_summary": "The evidence details enforcement operations and civil unrest involving the Department of Homeland Security (DHS), specifically Customs and Border Protection (CBP) and Immigration and Customs Enforcement (ICE). Key personnel include BORTAC agents EZ-17 (Edgar Vazquez) and EZ-2 (Michael Sveum), as well as Bovino, a former Border Patrol Commander at Large who led immigration raids. Significant events occurred in Chicago, Illinois, between October 9 and October 27, 2025, involving protests and a Temporary Restraining Order (TRO), and in Minneapolis in early 2026, where a fatal shooting involving Renee Good took place. Agent Hewson was identified as being involved in the deployment of tear gas and pepper spray. Investigative efforts are being conducted by Bellingcat in collaboration with CalMatters, with Physicians for Human Rights (PHR) also noted as an involved organization.",
+  "investigation_summary": "The investigation has mapped a network of 567 entities and 1,358 relationships, identifying a strong link between BORTAC agents (EZ-17 and EZ-2) and leadership figures like Bovino during immigration enforcement and crowd control operations. The most connected entity is Bellingcat, indicating a heavy reliance on open-source investigative research. The investigation has established a timeline of events spanning from October 2025 in Illinois to early 2026 in Minneapolis. However, the specific chain of command for the fatal shooting of Renee Good and the full extent of the use-of-force policy violations regarding 40MM launchers remains under scrutiny.",
+  "summary_text": "The evidence details enforcement operations and civil unrest involving the Department of Homeland Security (DHS), specifically Customs and Border Protection (CBP) and Immigration and Customs Enforcement (ICE). Key personnel include BORTAC agents EZ-17 (Edgar Vazquez) and EZ-2 (Michael Sveum), as well as Bovino, a former Border Patrol Commander at Large who led immigration raids. Significant events occurred in Chicago, Illinois, between October 9 and October 27, 2025, involving protests and a Temporary Restraining Order (TRO), and in Minneapolis in early 2026, where a fatal shooting involving Renee Good took place. Agent Hewson was identified as being involved in the deployment of tear gas and pepper spray. Investigative efforts are being conducted by Bellingcat in collaboration with CalMatters, with Physicians for Human Rights (PHR) also noted as an involved organization.\n\nThe investigation has mapped a network of 567 entities and 1,358 relationships, identifying a strong link between BORTAC agents (EZ-17 and EZ-2) and leadership figures like Bovino during immigration enforcement and crowd control operations. The most connected entity is Bellingcat, indicating a heavy reliance on open-source investigative research. The investigation has established a timeline of events spanning from October 2025 in Illinois to early 2026 in Minneapolis. However, the specific chain of command for the fatal shooting of Renee Good and the full extent of the use-of-force policy violations regarding 40MM launchers remains under scrutiny.",
+  "last_refreshed_at": "2026-06-04T11:08:02+00:00",
+  "source_job_id": "fa2980b4-72be-432e-be85-a86aada6adbd"
+}

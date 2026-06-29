@@ -1,0 +1,39 @@
+Lokastigur 24; 101 Reykjavik; Iceland is an address in the Panama Papers (14048807).
+
+9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine is an address in the Panama Papers (14024758).
+
+NAWAZ TRUST C/O Nerine Trust Company Limited; 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI is an entity in the Panama Papers (14051308).
+
+NAWAZ TRUST is an organization named in the Panama Papers.
+
+Nerine Trust Company Limited is the C/O organization for NAWAZ TRUST.
+
+Lokastigur 24; 101 Reykjavik; Iceland is a location record.
+
+9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine is a location record.
+
+9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI is the address of NAWAZ TRUST.
+
+Iceland is the country for the first address.
+
+Ukraine is the country for the second address.
+
+British Virgin Islands is the country for the third address.
+
+The Panama Papers  data is current through 2015,
+
+All records originate from the Panama Papers database.
+
+The internal identifier 14048807 corresponds to the first record.
+
+The internal identifier 14024758 corresponds to the second record.
+
+The internal identifier 14051308 corresponds to the third record.
+
+Country codes: ISL for Iceland, UKR for Ukraine, VGB for British Virgin Islands.
+
+The first two records have an empty name field.
+
+The third record includes the entity name within the address field.
+
+The valid_until field is empty for all records.

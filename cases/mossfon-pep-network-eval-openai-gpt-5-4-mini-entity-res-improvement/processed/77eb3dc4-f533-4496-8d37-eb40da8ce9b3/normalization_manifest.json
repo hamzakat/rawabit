@@ -1,0 +1,43 @@
+{
+  "used": true,
+  "source_chars": 1298,
+  "normalized_chars": 1929,
+  "low_value_items": 5,
+  "payload": {
+    "primary_evidence_text": [
+      "LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT) appears in the Panama Papers as an ACTIVE entity from Luxembourg.",
+      "DR. K. CHRYSOSTOMIDES & CO. appears in the Panama Papers as an ACTIVE entity from Cyprus.",
+      "LUSSICH TORRENDELL, CR. SANTIAGO appears in the Panama Papers as an ACTIVE entity from Uruguay.",
+      "MOSSFON MANAGERS LTD. appears in the Panama Papers as an ACTIVE entity from Bahamas.",
+      "MINERVA TRUST & CORPORATE SERVICES LIMITED appears in the Panama Papers as an ACTIVE entity from Jersey and the United Kingdom."
+    ],
+    "entities_and_roles": [
+      "Entity: LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT), Status: ACTIVE, Country: Luxembourg (LUX), Role: Listed entity.",
+      "Entity: DR. K. CHRYSOSTOMIDES & CO., Status: ACTIVE, Country: Cyprus (CYP), Role: Listed entity.",
+      "Entity: LUSSICH TORRENDELL, CR. SANTIAGO, Status: ACTIVE, Country: Uruguay (URY), Role: Listed entity.",
+      "Entity: MOSSFON MANAGERS LTD., Status: ACTIVE, Country: Bahamas (BHS), Role: Listed entity.",
+      "Entity: MINERVA TRUST & CORPORATE SERVICES LIMITED, Status: ACTIVE, Country: Jersey; United Kingdom (JEY;GBR), Role: Listed entity."
+    ],
+    "events_and_timeline": [
+      "The Panama Papers data is current through 2015."
+    ],
+    "movements_and_transfers": [],
+    "source_and_reporting_context": [
+      "All records are from the Panama Papers dataset."
+    ],
+    "supporting_observations": [
+      "LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT) node_id 11005663, internal_id 28765, address: 7, VAL SAINTE-CROIX L 1371 LUXEMBOURG  LUXEMBOURG.",
+      "DR. K. CHRYSOSTOMIDES & CO. node_id 11002578, internal_id 21392, address: 1 LAMBOUSA STREET 1095 NICOSIA, CYPRUS.",
+      "LUSSICH TORRENDELL, CR. SANTIAGO node_id 11011774, internal_id 9304, address: MISIONES N\u00b0 1.371  PISO 4\u00b0 ( C.P. 11.100 )  MONTEVIDEO, URUGUAY.",
+      "MOSSFON MANAGERS LTD. node_id 11012290, internal_id 12819, address: SAFFREY SQUARE; SUITE 205; BANK LANE P.O. BOX N-8188 NASSAU **S.I**; NEW PROVIDENCE ISLAND BAHAMAS.",
+      "MINERVA TRUST & CORPORATE SERVICES LIMITED node_id 11011597, internal_id 891, address: P.O. BOX 218 43-45 LA MOTTE STREET; ST. HELIER JE4 8SD; JERSEY UNITED KINGDOM."
+    ],
+    "low_value_content": [
+      "The Panama Papers data is current through 2015.",
+      "The Panama Papers data is current through 2015.",
+      "The Panama Papers data is current through 2015.",
+      "The Panama Papers data is current through 2015.",
+      "The Panama Papers data is current through 2015."
+    ]
+  }
+}

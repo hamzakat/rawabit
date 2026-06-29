@@ -1,0 +1,2584 @@
+{
+  "[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland<SEP>[OBJECT] Panama Papers database": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946697,
+    "update_time": 1778946697,
+    "_id": "[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland<SEP>[OBJECT] Panama Papers database"
+  },
+  "[ORGANIZATION] NAWAZ TRUST<SEP>[ORGANIZATION] Nerine Trust Company Limited": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946697,
+    "update_time": 1778946697,
+    "_id": "[ORGANIZATION] NAWAZ TRUST<SEP>[ORGANIZATION] Nerine Trust Company Limited"
+  },
+  "[LOCATION] 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI<SEP>[ORGANIZATION] NAWAZ TRUST": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946697,
+    "update_time": 1778946697,
+    "_id": "[LOCATION] 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI<SEP>[ORGANIZATION] NAWAZ TRUST"
+  },
+  "[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine<SEP>[OBJECT] Panama Papers database": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946698,
+    "update_time": 1778946698,
+    "_id": "[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine<SEP>[OBJECT] Panama Papers database"
+  },
+  "[LOCATION] Iceland<SEP>[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946698,
+    "update_time": 1778946698,
+    "_id": "[LOCATION] Iceland<SEP>[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland"
+  },
+  "[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland<SEP>[OBJECT] 14048807": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946699,
+    "update_time": 1778946699,
+    "_id": "[LOCATION] Lokastigur 24; 101 Reykjavik; Iceland<SEP>[OBJECT] 14048807"
+  },
+  "[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine<SEP>[LOCATION] Ukraine": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946699,
+    "update_time": 1778946699,
+    "_id": "[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine<SEP>[LOCATION] Ukraine"
+  },
+  "[OBJECT] 14051308<SEP>[ORGANIZATION] NAWAZ TRUST": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946699,
+    "update_time": 1778946699,
+    "_id": "[OBJECT] 14051308<SEP>[ORGANIZATION] NAWAZ TRUST"
+  },
+  "[LOCATION] 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946699,
+    "update_time": 1778946699,
+    "_id": "[LOCATION] 9 Columbus Centre; Pelican Drive; Road Town; Tortola; BVI<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[LOCATION] Iceland<SEP>[OBJECT] ISL": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946699,
+    "update_time": 1778946699,
+    "_id": "[LOCATION] Iceland<SEP>[OBJECT] ISL"
+  },
+  "[OBJECT] Panama Papers database<SEP>[ORGANIZATION] NAWAZ TRUST": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946699,
+    "update_time": 1778946699,
+    "_id": "[OBJECT] Panama Papers database<SEP>[ORGANIZATION] NAWAZ TRUST"
+  },
+  "[LOCATION] Ukraine<SEP>[OBJECT] UKR": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946699,
+    "update_time": 1778946699,
+    "_id": "[LOCATION] Ukraine<SEP>[OBJECT] UKR"
+  },
+  "[LOCATION] British Virgin Islands<SEP>[OBJECT] VGB": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946700,
+    "update_time": 1778946700,
+    "_id": "[LOCATION] British Virgin Islands<SEP>[OBJECT] VGB"
+  },
+  "[OBJECT] 14024758<SEP>[OBJECT] Panama Papers database": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946700,
+    "update_time": 1778946700,
+    "_id": "[OBJECT] 14024758<SEP>[OBJECT] Panama Papers database"
+  },
+  "[OBJECT] 14048807<SEP>[OBJECT] Panama Papers database": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946701,
+    "update_time": 1778946701,
+    "_id": "[OBJECT] 14048807<SEP>[OBJECT] Panama Papers database"
+  },
+  "[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine<SEP>[OBJECT] 14024758": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946701,
+    "update_time": 1778946701,
+    "_id": "[LOCATION] 9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine<SEP>[OBJECT] 14024758"
+  },
+  "[OBJECT] 14051308<SEP>[OBJECT] Panama Papers database": {
+    "chunk_ids": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "count": 1,
+    "create_time": 1778946701,
+    "update_time": 1778946701,
+    "_id": "[OBJECT] 14051308<SEP>[OBJECT] Panama Papers database"
+  },
+  "[EVENT] Incorporation of WINTRIS INC. on 09-OCT-2007<SEP>[ORGANIZATION] WINTRIS INC.": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947149,
+    "update_time": 1778947149,
+    "_id": "[EVENT] Incorporation of WINTRIS INC. on 09-OCT-2007<SEP>[ORGANIZATION] WINTRIS INC."
+  },
+  "[EVENT] Incorporation of Prime Asset Partners Limited on 21-AUG-2014<SEP>[ORGANIZATION] Prime Asset Partners Limited": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947149,
+    "update_time": 1778947149,
+    "_id": "[EVENT] Incorporation of Prime Asset Partners Limited on 21-AUG-2014<SEP>[ORGANIZATION] Prime Asset Partners Limited"
+  },
+  "[EVENT] Incorporation of FLEG TRADING LTD on 31-MAR-1998<SEP>[ORGANIZATION] FLEG TRADING LTD": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947149,
+    "update_time": 1778947149,
+    "_id": "[EVENT] Incorporation of FLEG TRADING LTD on 31-MAR-1998<SEP>[ORGANIZATION] FLEG TRADING LTD"
+  },
+  "[EVENT] Incorporation of HANGON PROPERTY HOLDINGS LIMITED on 27-FEB-2007<SEP>[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947149,
+    "update_time": 1778947149,
+    "_id": "[EVENT] Incorporation of HANGON PROPERTY HOLDINGS LIMITED on 27-FEB-2007<SEP>[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED"
+  },
+  "[EVENT] Incorporation of WINTRIS INC. on 09-OCT-2007<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947150,
+    "update_time": 1778947150,
+    "_id": "[EVENT] Incorporation of WINTRIS INC. on 09-OCT-2007<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[EVENT] Incorporation of NIELSEN ENTERPRISES LIMITED on 14-APR-1994<SEP>[ORGANIZATION] NIELSEN ENTERPRISES LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947150,
+    "update_time": 1778947150,
+    "_id": "[EVENT] Incorporation of NIELSEN ENTERPRISES LIMITED on 14-APR-1994<SEP>[ORGANIZATION] NIELSEN ENTERPRISES LIMITED"
+  },
+  "[EVENT] Incorporation of FLEG TRADING LTD on 31-MAR-1998<SEP>[LOCATION] Bahamas": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947151,
+    "update_time": 1778947151,
+    "_id": "[EVENT] Incorporation of FLEG TRADING LTD on 31-MAR-1998<SEP>[LOCATION] Bahamas"
+  },
+  "[EVENT] Incorporation of NESCOLL LIMITED on 27-JAN-1993<SEP>[ORGANIZATION] NESCOLL LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947151,
+    "update_time": 1778947151,
+    "_id": "[EVENT] Incorporation of NESCOLL LIMITED on 27-JAN-1993<SEP>[ORGANIZATION] NESCOLL LIMITED"
+  },
+  "[EVENT] Incorporation of Prime Asset Partners Limited on 21-AUG-2014<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947151,
+    "update_time": 1778947151,
+    "_id": "[EVENT] Incorporation of Prime Asset Partners Limited on 21-AUG-2014<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[EVENT] Incorporation of MARIADA HOLDINGS LIMITED on 21-JUL-1995<SEP>[ORGANIZATION] MARIADA HOLDINGS LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947151,
+    "update_time": 1778947151,
+    "_id": "[EVENT] Incorporation of MARIADA HOLDINGS LIMITED on 21-JUL-1995<SEP>[ORGANIZATION] MARIADA HOLDINGS LIMITED"
+  },
+  "[EVENT] Inactivation of FLEG TRADING LTD on 05-JAN-2009<SEP>[ORGANIZATION] FLEG TRADING LTD": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947151,
+    "update_time": 1778947151,
+    "_id": "[EVENT] Inactivation of FLEG TRADING LTD on 05-JAN-2009<SEP>[ORGANIZATION] FLEG TRADING LTD"
+  },
+  "[EVENT] Incorporation of HANGON PROPERTY HOLDINGS LIMITED on 27-FEB-2007<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947151,
+    "update_time": 1778947151,
+    "_id": "[EVENT] Incorporation of HANGON PROPERTY HOLDINGS LIMITED on 27-FEB-2007<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[EVENT] Inactivation of HANGON PROPERTY HOLDINGS LIMITED on 25-FEB-2008<SEP>[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947151,
+    "update_time": 1778947151,
+    "_id": "[EVENT] Inactivation of HANGON PROPERTY HOLDINGS LIMITED on 25-FEB-2008<SEP>[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED"
+  },
+  "[EVENT] Inactivation of FLEG TRADING LTD on 05-JAN-2009<SEP>[LOCATION] Bahamas": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947152,
+    "update_time": 1778947152,
+    "_id": "[EVENT] Inactivation of FLEG TRADING LTD on 05-JAN-2009<SEP>[LOCATION] Bahamas"
+  },
+  "[EVENT] Inactivation of NIELSEN ENTERPRISES LIMITED on 22-JUL-2014<SEP>[ORGANIZATION] NIELSEN ENTERPRISES LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947152,
+    "update_time": 1778947152,
+    "_id": "[EVENT] Inactivation of NIELSEN ENTERPRISES LIMITED on 22-JUL-2014<SEP>[ORGANIZATION] NIELSEN ENTERPRISES LIMITED"
+  },
+  "[EVENT] Incorporation of NIELSEN ENTERPRISES LIMITED on 14-APR-1994<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947152,
+    "update_time": 1778947152,
+    "_id": "[EVENT] Incorporation of NIELSEN ENTERPRISES LIMITED on 14-APR-1994<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[EVENT] Inactivation of NESCOLL LIMITED on 22-JUL-2014<SEP>[ORGANIZATION] NESCOLL LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947152,
+    "update_time": 1778947152,
+    "_id": "[EVENT] Inactivation of NESCOLL LIMITED on 22-JUL-2014<SEP>[ORGANIZATION] NESCOLL LIMITED"
+  },
+  "[EVENT] Inactivation of MARIADA HOLDINGS LIMITED on 06-JUN-2014<SEP>[ORGANIZATION] MARIADA HOLDINGS LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947152,
+    "update_time": 1778947152,
+    "_id": "[EVENT] Inactivation of MARIADA HOLDINGS LIMITED on 06-JUN-2014<SEP>[ORGANIZATION] MARIADA HOLDINGS LIMITED"
+  },
+  "[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008<SEP>[ORGANIZATION] FLEG TRADING LTD": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947153,
+    "update_time": 1778947153,
+    "_id": "[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008<SEP>[ORGANIZATION] FLEG TRADING LTD"
+  },
+  "[EVENT] Incorporation of NESCOLL LIMITED on 27-JAN-1993<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947154,
+    "update_time": 1778947154,
+    "_id": "[EVENT] Incorporation of NESCOLL LIMITED on 27-JAN-1993<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008<SEP>[LOCATION] Bahamas": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947154,
+    "update_time": 1778947154,
+    "_id": "[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008<SEP>[LOCATION] Bahamas"
+  },
+  "[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009<SEP>[ORGANIZATION] FLEG TRADING LTD": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947154,
+    "update_time": 1778947154,
+    "_id": "[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009<SEP>[ORGANIZATION] FLEG TRADING LTD"
+  },
+  "[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009<SEP>[LOCATION] Bahamas": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947155,
+    "update_time": 1778947155,
+    "_id": "[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009<SEP>[LOCATION] Bahamas"
+  },
+  "[EVENT] Strike-off of HANGON PROPERTY HOLDINGS LIMITED on 31-OCT-2008<SEP>[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947155,
+    "update_time": 1778947155,
+    "_id": "[EVENT] Strike-off of HANGON PROPERTY HOLDINGS LIMITED on 31-OCT-2008<SEP>[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED"
+  },
+  "[EVENT] Incorporation of MARIADA HOLDINGS LIMITED on 21-JUL-1995<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947155,
+    "update_time": 1778947155,
+    "_id": "[EVENT] Incorporation of MARIADA HOLDINGS LIMITED on 21-JUL-1995<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[EVENT] Strike-off of NIELSEN ENTERPRISES LIMITED on 31-OCT-2015<SEP>[ORGANIZATION] NIELSEN ENTERPRISES LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947155,
+    "update_time": 1778947155,
+    "_id": "[EVENT] Strike-off of NIELSEN ENTERPRISES LIMITED on 31-OCT-2015<SEP>[ORGANIZATION] NIELSEN ENTERPRISES LIMITED"
+  },
+  "[EVENT] Strike-off of NESCOLL LIMITED on 31-OCT-2015<SEP>[ORGANIZATION] NESCOLL LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947156,
+    "update_time": 1778947156,
+    "_id": "[EVENT] Strike-off of NESCOLL LIMITED on 31-OCT-2015<SEP>[ORGANIZATION] NESCOLL LIMITED"
+  },
+  "[EVENT] Inactivation of HANGON PROPERTY HOLDINGS LIMITED on 25-FEB-2008<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947156,
+    "update_time": 1778947156,
+    "_id": "[EVENT] Inactivation of HANGON PROPERTY HOLDINGS LIMITED on 25-FEB-2008<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[EVENT] Strike-off of MARIADA HOLDINGS LIMITED on 30-APR-2015<SEP>[ORGANIZATION] MARIADA HOLDINGS LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947156,
+    "update_time": 1778947156,
+    "_id": "[EVENT] Strike-off of MARIADA HOLDINGS LIMITED on 30-APR-2015<SEP>[ORGANIZATION] MARIADA HOLDINGS LIMITED"
+  },
+  "[EVENT] Inactivation of NIELSEN ENTERPRISES LIMITED on 22-JUL-2014<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947157,
+    "update_time": 1778947157,
+    "_id": "[EVENT] Inactivation of NIELSEN ENTERPRISES LIMITED on 22-JUL-2014<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted<SEP>[ORGANIZATION] FLEG TRADING LTD": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947157,
+    "update_time": 1778947157,
+    "_id": "[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted<SEP>[ORGANIZATION] FLEG TRADING LTD"
+  },
+  "[EVENT] Inactivation of NESCOLL LIMITED on 22-JUL-2014<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947158,
+    "update_time": 1778947158,
+    "_id": "[EVENT] Inactivation of NESCOLL LIMITED on 22-JUL-2014<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted<SEP>[LOCATION] Bahamas": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947161,
+    "update_time": 1778947161,
+    "_id": "[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted<SEP>[LOCATION] Bahamas"
+  },
+  "[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A.<SEP>[ORGANIZATION] WINTRIS INC.": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947161,
+    "update_time": 1778947161,
+    "_id": "[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A.<SEP>[ORGANIZATION] WINTRIS INC."
+  },
+  "[EVENT] Inactivation of MARIADA HOLDINGS LIMITED on 06-JUN-2014<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947161,
+    "update_time": 1778947161,
+    "_id": "[EVENT] Inactivation of MARIADA HOLDINGS LIMITED on 06-JUN-2014<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[LOCATION] Luxembourg<SEP>[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A.": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947161,
+    "update_time": 1778947161,
+    "_id": "[LOCATION] Luxembourg<SEP>[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A."
+  },
+  "[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO.<SEP>[ORGANIZATION] Prime Asset Partners Limited": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947161,
+    "update_time": 1778947161,
+    "_id": "[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO.<SEP>[ORGANIZATION] Prime Asset Partners Limited"
+  },
+  "[LOCATION] Montevideo, Uruguay<SEP>[ORGANIZATION] FLEG TRADING LTD": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947162,
+    "update_time": 1778947162,
+    "_id": "[LOCATION] Montevideo, Uruguay<SEP>[ORGANIZATION] FLEG TRADING LTD"
+  },
+  "[EVENT] Strike-off of HANGON PROPERTY HOLDINGS LIMITED on 31-OCT-2008<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947162,
+    "update_time": 1778947162,
+    "_id": "[EVENT] Strike-off of HANGON PROPERTY HOLDINGS LIMITED on 31-OCT-2008<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED<SEP>[ORGANIZATION] MOSSFON MANAGERS LTD.": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947162,
+    "update_time": 1778947162,
+    "_id": "[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED<SEP>[ORGANIZATION] MOSSFON MANAGERS LTD."
+  },
+  "[EVENT] Strike-off of NIELSEN ENTERPRISES LIMITED on 31-OCT-2015<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947162,
+    "update_time": 1778947162,
+    "_id": "[EVENT] Strike-off of NIELSEN ENTERPRISES LIMITED on 31-OCT-2015<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[LOCATION] Nassau, Bahamas<SEP>[ORGANIZATION] MOSSFON MANAGERS LTD.": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947162,
+    "update_time": 1778947162,
+    "_id": "[LOCATION] Nassau, Bahamas<SEP>[ORGANIZATION] MOSSFON MANAGERS LTD."
+  },
+  "[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED<SEP>[ORGANIZATION] NIELSEN ENTERPRISES LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947162,
+    "update_time": 1778947162,
+    "_id": "[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED<SEP>[ORGANIZATION] NIELSEN ENTERPRISES LIMITED"
+  },
+  "[LOCATION] Nicosia, Cyprus<SEP>[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO.": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947163,
+    "update_time": 1778947163,
+    "_id": "[LOCATION] Nicosia, Cyprus<SEP>[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO."
+  },
+  "[EVENT] Strike-off of NESCOLL LIMITED on 31-OCT-2015<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947163,
+    "update_time": 1778947163,
+    "_id": "[EVENT] Strike-off of NESCOLL LIMITED on 31-OCT-2015<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[ORGANIZATION] MARIADA HOLDINGS LIMITED<SEP>[ORGANIZATION] PRIMEWAY S.A.": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947163,
+    "update_time": 1778947163,
+    "_id": "[ORGANIZATION] MARIADA HOLDINGS LIMITED<SEP>[ORGANIZATION] PRIMEWAY S.A."
+  },
+  "[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED<SEP>[ORGANIZATION] NESCOLL LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947164,
+    "update_time": 1778947164,
+    "_id": "[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED<SEP>[ORGANIZATION] NESCOLL LIMITED"
+  },
+  "[ORGANIZATION] Mossack Fonseca<SEP>[ORGANIZATION] WINTRIS INC.": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947164,
+    "update_time": 1778947164,
+    "_id": "[ORGANIZATION] Mossack Fonseca<SEP>[ORGANIZATION] WINTRIS INC."
+  },
+  "[EVENT] Strike-off of MARIADA HOLDINGS LIMITED on 30-APR-2015<SEP>[LOCATION] British Virgin Islands": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947164,
+    "update_time": 1778947164,
+    "_id": "[EVENT] Strike-off of MARIADA HOLDINGS LIMITED on 30-APR-2015<SEP>[LOCATION] British Virgin Islands"
+  },
+  "[LOCATION] Geneva, Switzerland<SEP>[ORGANIZATION] PRIMEWAY S.A.": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947164,
+    "update_time": 1778947164,
+    "_id": "[LOCATION] Geneva, Switzerland<SEP>[ORGANIZATION] PRIMEWAY S.A."
+  },
+  "[ORGANIZATION] Mossack Fonseca<SEP>[ORGANIZATION] Prime Asset Partners Limited": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947164,
+    "update_time": 1778947164,
+    "_id": "[ORGANIZATION] Mossack Fonseca<SEP>[ORGANIZATION] Prime Asset Partners Limited"
+  },
+  "[LOCATION] St. Helier, Jersey<SEP>[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947164,
+    "update_time": 1778947164,
+    "_id": "[LOCATION] St. Helier, Jersey<SEP>[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED"
+  },
+  "[ORGANIZATION] FLEG TRADING LTD<SEP>[ORGANIZATION] Mossack Fonseca": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947165,
+    "update_time": 1778947165,
+    "_id": "[ORGANIZATION] FLEG TRADING LTD<SEP>[ORGANIZATION] Mossack Fonseca"
+  },
+  "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] WINTRIS INC.": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947165,
+    "update_time": 1778947165,
+    "_id": "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] WINTRIS INC."
+  },
+  "[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED<SEP>[ORGANIZATION] Mossack Fonseca": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947167,
+    "update_time": 1778947167,
+    "_id": "[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED<SEP>[ORGANIZATION] Mossack Fonseca"
+  },
+  "[ORGANIZATION] Mossack Fonseca<SEP>[ORGANIZATION] NIELSEN ENTERPRISES LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947167,
+    "update_time": 1778947167,
+    "_id": "[ORGANIZATION] Mossack Fonseca<SEP>[ORGANIZATION] NIELSEN ENTERPRISES LIMITED"
+  },
+  "[ORGANIZATION] Mossack Fonseca<SEP>[ORGANIZATION] NESCOLL LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947168,
+    "update_time": 1778947168,
+    "_id": "[ORGANIZATION] Mossack Fonseca<SEP>[ORGANIZATION] NESCOLL LIMITED"
+  },
+  "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] Prime Asset Partners Limited": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947168,
+    "update_time": 1778947168,
+    "_id": "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] Prime Asset Partners Limited"
+  },
+  "[ORGANIZATION] MARIADA HOLDINGS LIMITED<SEP>[ORGANIZATION] Mossack Fonseca": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947169,
+    "update_time": 1778947169,
+    "_id": "[ORGANIZATION] MARIADA HOLDINGS LIMITED<SEP>[ORGANIZATION] Mossack Fonseca"
+  },
+  "[OBJECT] Bahamas Leaks dataset<SEP>[ORGANIZATION] FLEG TRADING LTD": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947169,
+    "update_time": 1778947169,
+    "_id": "[OBJECT] Bahamas Leaks dataset<SEP>[ORGANIZATION] FLEG TRADING LTD"
+  },
+  "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] FLEG TRADING LTD": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947171,
+    "update_time": 1778947171,
+    "_id": "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] FLEG TRADING LTD"
+  },
+  "[OBJECT] FLEG TRADING LTD Panama Papers record<SEP>[ORGANIZATION] FLEG TRADING LTD": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947172,
+    "update_time": 1778947172,
+    "_id": "[OBJECT] FLEG TRADING LTD Panama Papers record<SEP>[ORGANIZATION] FLEG TRADING LTD"
+  },
+  "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947172,
+    "update_time": 1778947172,
+    "_id": "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] HANGON PROPERTY HOLDINGS LIMITED"
+  },
+  "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] NIELSEN ENTERPRISES LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947173,
+    "update_time": 1778947173,
+    "_id": "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] NIELSEN ENTERPRISES LIMITED"
+  },
+  "[OBJECT] FLEG TRADING LTD Bahamas Leaks record<SEP>[ORGANIZATION] FLEG TRADING LTD": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947173,
+    "update_time": 1778947173,
+    "_id": "[OBJECT] FLEG TRADING LTD Bahamas Leaks record<SEP>[ORGANIZATION] FLEG TRADING LTD"
+  },
+  "[OBJECT] Bahamas Leaks dataset<SEP>[OBJECT] FLEG TRADING LTD Bahamas Leaks record": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947174,
+    "update_time": 1778947174,
+    "_id": "[OBJECT] Bahamas Leaks dataset<SEP>[OBJECT] FLEG TRADING LTD Bahamas Leaks record"
+  },
+  "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] NESCOLL LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947175,
+    "update_time": 1778947175,
+    "_id": "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] NESCOLL LIMITED"
+  },
+  "[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009<SEP>[OBJECT] FLEG TRADING LTD Bahamas Leaks record": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947175,
+    "update_time": 1778947175,
+    "_id": "[EVENT] Strike-off of FLEG TRADING LTD (Bahamas Leaks) on 04-FEB-2009<SEP>[OBJECT] FLEG TRADING LTD Bahamas Leaks record"
+  },
+  "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] MARIADA HOLDINGS LIMITED": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947176,
+    "update_time": 1778947176,
+    "_id": "[OBJECT] Panama Papers dataset<SEP>[ORGANIZATION] MARIADA HOLDINGS LIMITED"
+  },
+  "[OBJECT] FLEG TRADING LTD Panama Papers record<SEP>[OBJECT] Panama Papers dataset": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947178,
+    "update_time": 1778947178,
+    "_id": "[OBJECT] FLEG TRADING LTD Panama Papers record<SEP>[OBJECT] Panama Papers dataset"
+  },
+  "[LOCATION] Montevideo, Uruguay<SEP>[OBJECT] FLEG TRADING LTD Panama Papers record": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947179,
+    "update_time": 1778947179,
+    "_id": "[LOCATION] Montevideo, Uruguay<SEP>[OBJECT] FLEG TRADING LTD Panama Papers record"
+  },
+  "[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted<SEP>[OBJECT] FLEG TRADING LTD Panama Papers record": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947179,
+    "update_time": 1778947179,
+    "_id": "[EVENT] Status change of FLEG TRADING LTD (Panama Papers) to Defaulted<SEP>[OBJECT] FLEG TRADING LTD Panama Papers record"
+  },
+  "[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008<SEP>[OBJECT] FLEG TRADING LTD Panama Papers record": {
+    "chunk_ids": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "count": 1,
+    "create_time": 1778947180,
+    "update_time": 1778947180,
+    "_id": "[EVENT] Strike-off of FLEG TRADING LTD (Panama Papers) on 31-DEC-2008<SEP>[OBJECT] FLEG TRADING LTD Panama Papers record"
+  },
+  "[EVENT] Panama Papers dataset listing of entities<SEP>[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947542,
+    "update_time": 1778947542,
+    "_id": "[EVENT] Panama Papers dataset listing of entities<SEP>[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)"
+  },
+  "[LOCATION] Cyprus<SEP>[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO.": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947542,
+    "update_time": 1778947542,
+    "_id": "[LOCATION] Cyprus<SEP>[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO."
+  },
+  "[LOCATION] Uruguay<SEP>[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947542,
+    "update_time": 1778947542,
+    "_id": "[LOCATION] Uruguay<SEP>[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO"
+  },
+  "[LOCATION] Luxembourg<SEP>[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947543,
+    "update_time": 1778947543,
+    "_id": "[LOCATION] Luxembourg<SEP>[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)"
+  },
+  "[EVENT] Panama Papers dataset listing of entities<SEP>[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO.": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947543,
+    "update_time": 1778947543,
+    "_id": "[EVENT] Panama Papers dataset listing of entities<SEP>[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO."
+  },
+  "[LOCATION] Bahamas<SEP>[ORGANIZATION] MOSSFON MANAGERS LTD.": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947543,
+    "update_time": 1778947543,
+    "_id": "[LOCATION] Bahamas<SEP>[ORGANIZATION] MOSSFON MANAGERS LTD."
+  },
+  "[LOCATION] Jersey<SEP>[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947543,
+    "update_time": 1778947543,
+    "_id": "[LOCATION] Jersey<SEP>[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED"
+  },
+  "[EVENT] Panama Papers dataset listing of entities<SEP>[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947543,
+    "update_time": 1778947543,
+    "_id": "[EVENT] Panama Papers dataset listing of entities<SEP>[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO"
+  },
+  "[LOCATION] 7 Val Sainte-Croix, Luxembourg<SEP>[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947543,
+    "update_time": 1778947543,
+    "_id": "[LOCATION] 7 Val Sainte-Croix, Luxembourg<SEP>[ORGANIZATION] LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT)"
+  },
+  "[LOCATION] 1 Lambousa Street, Nicosia, Cyprus<SEP>[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO.": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947543,
+    "update_time": 1778947543,
+    "_id": "[LOCATION] 1 Lambousa Street, Nicosia, Cyprus<SEP>[ORGANIZATION] DR. K. CHRYSOSTOMIDES & CO."
+  },
+  "[LOCATION] United Kingdom<SEP>[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947544,
+    "update_time": 1778947544,
+    "_id": "[LOCATION] United Kingdom<SEP>[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED"
+  },
+  "[LOCATION] Saffrey Square, Suite 205, Bank Lane, Nassau, Bahamas<SEP>[ORGANIZATION] MOSSFON MANAGERS LTD.": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947544,
+    "update_time": 1778947544,
+    "_id": "[LOCATION] Saffrey Square, Suite 205, Bank Lane, Nassau, Bahamas<SEP>[ORGANIZATION] MOSSFON MANAGERS LTD."
+  },
+  "[LOCATION] 43-45 La Motte Street, St. Helier, Jersey<SEP>[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947544,
+    "update_time": 1778947544,
+    "_id": "[LOCATION] 43-45 La Motte Street, St. Helier, Jersey<SEP>[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED"
+  },
+  "[LOCATION] 7 Val Sainte-Croix, Luxembourg<SEP>[LOCATION] Luxembourg": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947544,
+    "update_time": 1778947544,
+    "_id": "[LOCATION] 7 Val Sainte-Croix, Luxembourg<SEP>[LOCATION] Luxembourg"
+  },
+  "[LOCATION] 1 Lambousa Street, Nicosia, Cyprus<SEP>[LOCATION] Cyprus": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947545,
+    "update_time": 1778947545,
+    "_id": "[LOCATION] 1 Lambousa Street, Nicosia, Cyprus<SEP>[LOCATION] Cyprus"
+  },
+  "[LOCATION] Bahamas<SEP>[LOCATION] Saffrey Square, Suite 205, Bank Lane, Nassau, Bahamas": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947545,
+    "update_time": 1778947545,
+    "_id": "[LOCATION] Bahamas<SEP>[LOCATION] Saffrey Square, Suite 205, Bank Lane, Nassau, Bahamas"
+  },
+  "[LOCATION] Misiones 1371, Piso 4, Montevideo, Uruguay<SEP>[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947545,
+    "update_time": 1778947545,
+    "_id": "[LOCATION] Misiones 1371, Piso 4, Montevideo, Uruguay<SEP>[ORGANIZATION] LUSSICH TORRENDELL, CR. SANTIAGO"
+  },
+  "[EVENT] Panama Papers dataset listing of entities<SEP>[ORGANIZATION] MOSSFON MANAGERS LTD.": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947545,
+    "update_time": 1778947545,
+    "_id": "[EVENT] Panama Papers dataset listing of entities<SEP>[ORGANIZATION] MOSSFON MANAGERS LTD."
+  },
+  "[LOCATION] 43-45 La Motte Street, St. Helier, Jersey<SEP>[LOCATION] Jersey": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947545,
+    "update_time": 1778947545,
+    "_id": "[LOCATION] 43-45 La Motte Street, St. Helier, Jersey<SEP>[LOCATION] Jersey"
+  },
+  "[EVENT] Panama Papers dataset listing of entities<SEP>[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947546,
+    "update_time": 1778947546,
+    "_id": "[EVENT] Panama Papers dataset listing of entities<SEP>[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED"
+  },
+  "[EVENT] Panama Papers dataset listing of entities<SEP>[OBJECT] Panama Papers dataset": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947547,
+    "update_time": 1778947547,
+    "_id": "[EVENT] Panama Papers dataset listing of entities<SEP>[OBJECT] Panama Papers dataset"
+  },
+  "[LOCATION] Misiones 1371, Piso 4, Montevideo, Uruguay<SEP>[LOCATION] Uruguay": {
+    "chunk_ids": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "count": 1,
+    "create_time": 1778947547,
+    "update_time": 1778947547,
+    "_id": "[LOCATION] Misiones 1371, Piso 4, Montevideo, Uruguay<SEP>[LOCATION] Uruguay"
+  },
+  "[LOCATION] Iceland<SEP>[PERSON] Sigmundur David Gunnlaugsson": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947936,
+    "update_time": 1778947936,
+    "_id": "[LOCATION] Iceland<SEP>[PERSON] Sigmundur David Gunnlaugsson"
+  },
+  "[LOCATION] Ukraine<SEP>[PERSON] Petro Poroshenko": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947936,
+    "update_time": 1778947936,
+    "_id": "[LOCATION] Ukraine<SEP>[PERSON] Petro Poroshenko"
+  },
+  "[LOCATION] Saudi Arabia<SEP>[PERSON] Mariam Safdar": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947936,
+    "update_time": 1778947936,
+    "_id": "[LOCATION] Saudi Arabia<SEP>[PERSON] Mariam Safdar"
+  },
+  "[LOCATION] British Virgin Islands<SEP>[ORGANIZATION] NAWAZ TRUST": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947936,
+    "update_time": 1778947936,
+    "_id": "[LOCATION] British Virgin Islands<SEP>[ORGANIZATION] NAWAZ TRUST"
+  },
+  "[LOCATION] Liberia<SEP>[ORGANIZATION] CASCON HOLDINGS ESTABLISHMENT LIMITED": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947936,
+    "update_time": 1778947936,
+    "_id": "[LOCATION] Liberia<SEP>[ORGANIZATION] CASCON HOLDINGS ESTABLISHMENT LIMITED"
+  },
+  "[LOCATION] Jersey<SEP>[ORGANIZATION] MINERVA SERVICES LIMITED": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947936,
+    "update_time": 1778947936,
+    "_id": "[LOCATION] Jersey<SEP>[ORGANIZATION] MINERVA SERVICES LIMITED"
+  },
+  "[LOCATION] Jersey<SEP>[ORGANIZATION] MINERVA NOMINEES LIMITED": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947936,
+    "update_time": 1778947936,
+    "_id": "[LOCATION] Jersey<SEP>[ORGANIZATION] MINERVA NOMINEES LIMITED"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[PERSON] Sigmundur David Gunnlaugsson": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947936,
+    "update_time": 1778947936,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[PERSON] Sigmundur David Gunnlaugsson"
+  },
+  "[LOCATION] Iceland<SEP>[PERSON] Anna Sigurlaug Palsdottir": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947936,
+    "update_time": 1778947936,
+    "_id": "[LOCATION] Iceland<SEP>[PERSON] Anna Sigurlaug Palsdottir"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[PERSON] Anna Sigurlaug Palsdottir": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947937,
+    "update_time": 1778947937,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[PERSON] Anna Sigurlaug Palsdottir"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[PERSON] Petro Poroshenko": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947938,
+    "update_time": 1778947938,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[PERSON] Petro Poroshenko"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[PERSON] Mariam Safdar": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947938,
+    "update_time": 1778947938,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[PERSON] Mariam Safdar"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[PERSON] Mauricio Macri": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947940,
+    "update_time": 1778947940,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[PERSON] Mauricio Macri"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[PERSON] Hasan Nawaz Sharif": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947940,
+    "update_time": 1778947940,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[PERSON] Hasan Nawaz Sharif"
+  },
+  "[EVENT] Manual addition of records from leaked documents<SEP>[PERSON] Mauricio Macri": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947940,
+    "update_time": 1778947940,
+    "_id": "[EVENT] Manual addition of records from leaked documents<SEP>[PERSON] Mauricio Macri"
+  },
+  "[EVENT] Manual addition of records from leaked documents<SEP>[PERSON] Hasan Nawaz Sharif": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947942,
+    "update_time": 1778947942,
+    "_id": "[EVENT] Manual addition of records from leaked documents<SEP>[PERSON] Hasan Nawaz Sharif"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[PERSON] Hussain Nawaz Sharif": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947942,
+    "update_time": 1778947942,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[PERSON] Hussain Nawaz Sharif"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[ORGANIZATION] NAWAZ TRUST": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947945,
+    "update_time": 1778947945,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[ORGANIZATION] NAWAZ TRUST"
+  },
+  "[EVENT] Manual addition of records from leaked documents<SEP>[PERSON] Hussain Nawaz Sharif": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947945,
+    "update_time": 1778947945,
+    "_id": "[EVENT] Manual addition of records from leaked documents<SEP>[PERSON] Hussain Nawaz Sharif"
+  },
+  "[EVENT] Manual addition of records from leaked documents<SEP>[OBJECT] Leaked documents": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947946,
+    "update_time": 1778947946,
+    "_id": "[EVENT] Manual addition of records from leaked documents<SEP>[OBJECT] Leaked documents"
+  },
+  "[OBJECT] 12129717<SEP>[PERSON] Petro Poroshenko": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947946,
+    "update_time": 1778947946,
+    "_id": "[OBJECT] 12129717<SEP>[PERSON] Petro Poroshenko"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[ORGANIZATION] CASCON HOLDINGS ESTABLISHMENT LIMITED": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947946,
+    "update_time": 1778947946,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[ORGANIZATION] CASCON HOLDINGS ESTABLISHMENT LIMITED"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[ORGANIZATION] MINERVA SERVICES LIMITED": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947946,
+    "update_time": 1778947946,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[ORGANIZATION] MINERVA SERVICES LIMITED"
+  },
+  "[OBJECT] 13001828<SEP>[PERSON] Petro Poroshenko": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947947,
+    "update_time": 1778947947,
+    "_id": "[OBJECT] 13001828<SEP>[PERSON] Petro Poroshenko"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[ORGANIZATION] MINERVA NOMINEES LIMITED": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947947,
+    "update_time": 1778947947,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[ORGANIZATION] MINERVA NOMINEES LIMITED"
+  },
+  "[OBJECT] 13006286<SEP>[PERSON] Mariam Safdar": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947947,
+    "update_time": 1778947947,
+    "_id": "[OBJECT] 13006286<SEP>[PERSON] Mariam Safdar"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[ORGANIZATION] THE BEARER": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947948,
+    "update_time": 1778947948,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[ORGANIZATION] THE BEARER"
+  },
+  "[OBJECT] 13010742<SEP>[PERSON] Mariam Safdar": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947948,
+    "update_time": 1778947948,
+    "_id": "[OBJECT] 13010742<SEP>[PERSON] Mariam Safdar"
+  },
+  "[OBJECT] 12129717<SEP>[OBJECT] 13001828": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947948,
+    "update_time": 1778947948,
+    "_id": "[OBJECT] 12129717<SEP>[OBJECT] 13001828"
+  },
+  "[OBJECT] 13006286<SEP>[OBJECT] 13010742": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947948,
+    "update_time": 1778947948,
+    "_id": "[OBJECT] 13006286<SEP>[OBJECT] 13010742"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] Panama Papers database": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947949,
+    "update_time": 1778947949,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] Panama Papers database"
+  },
+  "[OBJECT] 12114025<SEP>[ORGANIZATION] MINERVA NOMINEES LIMITED": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947949,
+    "update_time": 1778947949,
+    "_id": "[OBJECT] 12114025<SEP>[ORGANIZATION] MINERVA NOMINEES LIMITED"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12129717": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947950,
+    "update_time": 1778947950,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12129717"
+  },
+  "[OBJECT] 12176796<SEP>[ORGANIZATION] MINERVA NOMINEES LIMITED": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947950,
+    "update_time": 1778947950,
+    "_id": "[OBJECT] 12176796<SEP>[ORGANIZATION] MINERVA NOMINEES LIMITED"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 13001828": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947952,
+    "update_time": 1778947952,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 13001828"
+  },
+  "[OBJECT] 12114025<SEP>[OBJECT] 12176796": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947952,
+    "update_time": 1778947952,
+    "_id": "[OBJECT] 12114025<SEP>[OBJECT] 12176796"
+  },
+  "[OBJECT] 12114024<SEP>[ORGANIZATION] MINERVA SERVICES LIMITED": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947952,
+    "update_time": 1778947952,
+    "_id": "[OBJECT] 12114024<SEP>[ORGANIZATION] MINERVA SERVICES LIMITED"
+  },
+  "[OBJECT] 12175997<SEP>[ORGANIZATION] MINERVA SERVICES LIMITED": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947953,
+    "update_time": 1778947953,
+    "_id": "[OBJECT] 12175997<SEP>[ORGANIZATION] MINERVA SERVICES LIMITED"
+  },
+  "[OBJECT] 12114024<SEP>[OBJECT] 12175997": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947954,
+    "update_time": 1778947954,
+    "_id": "[OBJECT] 12114024<SEP>[OBJECT] 12175997"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 13006286": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947954,
+    "update_time": 1778947954,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 13006286"
+  },
+  "[OBJECT] 12025193<SEP>[ORGANIZATION] THE BEARER": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947954,
+    "update_time": 1778947954,
+    "_id": "[OBJECT] 12025193<SEP>[ORGANIZATION] THE BEARER"
+  },
+  "[OBJECT] 12025226<SEP>[ORGANIZATION] THE BEARER": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947955,
+    "update_time": 1778947955,
+    "_id": "[OBJECT] 12025226<SEP>[ORGANIZATION] THE BEARER"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 13010742": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947955,
+    "update_time": 1778947955,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 13010742"
+  },
+  "[OBJECT] 12025193<SEP>[OBJECT] 12025226": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947956,
+    "update_time": 1778947956,
+    "_id": "[OBJECT] 12025193<SEP>[OBJECT] 12025226"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12114025": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947956,
+    "update_time": 1778947956,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12114025"
+  },
+  "[OBJECT] Mauricio Macri's Panama Papers record<SEP>[PERSON] Mauricio Macri": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947956,
+    "update_time": 1778947956,
+    "_id": "[OBJECT] Mauricio Macri's Panama Papers record<SEP>[PERSON] Mauricio Macri"
+  },
+  "[EVENT] Manual addition of records from leaked documents<SEP>[OBJECT] Mauricio Macri's Panama Papers record": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947957,
+    "update_time": 1778947957,
+    "_id": "[EVENT] Manual addition of records from leaked documents<SEP>[OBJECT] Mauricio Macri's Panama Papers record"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12176796": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947957,
+    "update_time": 1778947957,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12176796"
+  },
+  "[OBJECT] Hasan Nawaz Sharif's Panama Papers record<SEP>[PERSON] Hasan Nawaz Sharif": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947957,
+    "update_time": 1778947957,
+    "_id": "[OBJECT] Hasan Nawaz Sharif's Panama Papers record<SEP>[PERSON] Hasan Nawaz Sharif"
+  },
+  "[EVENT] Manual addition of records from leaked documents<SEP>[OBJECT] Hasan Nawaz Sharif's Panama Papers record": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947958,
+    "update_time": 1778947958,
+    "_id": "[EVENT] Manual addition of records from leaked documents<SEP>[OBJECT] Hasan Nawaz Sharif's Panama Papers record"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12114024": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947958,
+    "update_time": 1778947958,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12114024"
+  },
+  "[OBJECT] Hussain Nawaz Sharif's Panama Papers record<SEP>[PERSON] Hussain Nawaz Sharif": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947958,
+    "update_time": 1778947958,
+    "_id": "[OBJECT] Hussain Nawaz Sharif's Panama Papers record<SEP>[PERSON] Hussain Nawaz Sharif"
+  },
+  "[EVENT] Manual addition of records from leaked documents<SEP>[OBJECT] Hussain Nawaz Sharif's Panama Papers record": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947959,
+    "update_time": 1778947959,
+    "_id": "[EVENT] Manual addition of records from leaked documents<SEP>[OBJECT] Hussain Nawaz Sharif's Panama Papers record"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12175997": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947959,
+    "update_time": 1778947959,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12175997"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12025193": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947960,
+    "update_time": 1778947960,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12025193"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12025226": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947961,
+    "update_time": 1778947961,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] 12025226"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] Mauricio Macri's Panama Papers record": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947962,
+    "update_time": 1778947962,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] Mauricio Macri's Panama Papers record"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] Hasan Nawaz Sharif's Panama Papers record": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947962,
+    "update_time": 1778947962,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] Hasan Nawaz Sharif's Panama Papers record"
+  },
+  "[EVENT] Panama Papers records compilation<SEP>[OBJECT] Hussain Nawaz Sharif's Panama Papers record": {
+    "chunk_ids": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "count": 1,
+    "create_time": 1778947964,
+    "update_time": 1778947964,
+    "_id": "[EVENT] Panama Papers records compilation<SEP>[OBJECT] Hussain Nawaz Sharif's Panama Papers record"
+  },
+  "[ORGANIZATION] 10122953<SEP>[PERSON] 12114024": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661081,
+    "update_time": 1782661081,
+    "_id": "[ORGANIZATION] 10122953<SEP>[PERSON] 12114024",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10122953<SEP>[PERSON] 12114025": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142",
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 3,
+    "create_time": 1782661082,
+    "update_time": 1782661082,
+    "_id": "[ORGANIZATION] 10122953<SEP>[PERSON] 12114025",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10122953<SEP>[PERSON] 12025193": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 2,
+    "create_time": 1782661082,
+    "update_time": 1782661082,
+    "_id": "[ORGANIZATION] 10122953<SEP>[PERSON] 12025193",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10122953<SEP>[PERSON] 11011597": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661083,
+    "update_time": 1782661083,
+    "_id": "[ORGANIZATION] 10122953<SEP>[PERSON] 11011597",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10203385<SEP>[PERSON] 11011597": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 2,
+    "create_time": 1782661083,
+    "update_time": 1782661083,
+    "_id": "[ORGANIZATION] 10203385<SEP>[PERSON] 11011597",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10122953<SEP>[PERSON] 13006286": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661083,
+    "update_time": 1782661083,
+    "_id": "[ORGANIZATION] 10122953<SEP>[PERSON] 13006286",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10203385<SEP>[PERSON] 13010742": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 2,
+    "create_time": 1782661084,
+    "update_time": 1782661084,
+    "_id": "[ORGANIZATION] 10203385<SEP>[PERSON] 13010742",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10203385<SEP>[PERSON] 12176996": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050"
+    ],
+    "count": 1,
+    "create_time": 1782661084,
+    "update_time": 1782661084,
+    "_id": "[ORGANIZATION] 10203385<SEP>[PERSON] 12176996",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10203385<SEP>[PERSON] 12025226": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 2,
+    "create_time": 1782661085,
+    "update_time": 1782661085,
+    "_id": "[ORGANIZATION] 10203385<SEP>[PERSON] 12025226",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10203385<SEP>[PERSON] 12175997": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 2,
+    "create_time": 1782661085,
+    "update_time": 1782661085,
+    "_id": "[ORGANIZATION] 10203385<SEP>[PERSON] 12175997",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10206223<SEP>[PERSON] 12161442": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661085,
+    "update_time": 1782661085,
+    "_id": "[ORGANIZATION] 10206223<SEP>[PERSON] 12161442",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10206223<SEP>[PERSON] 12161441": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661086,
+    "update_time": 1782661086,
+    "_id": "[ORGANIZATION] 10206223<SEP>[PERSON] 12161441",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10155456<SEP>[PERSON] 12129717": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661086,
+    "update_time": 1782661086,
+    "_id": "[ORGANIZATION] 10155456<SEP>[PERSON] 12129717",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10155456<SEP>[PERSON] 13001828": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661086,
+    "update_time": 1782661086,
+    "_id": "[ORGANIZATION] 10155456<SEP>[PERSON] 13001828",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10179083<SEP>[PERSON] 15002701": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661086,
+    "update_time": 1782661086,
+    "_id": "[ORGANIZATION] 10179083<SEP>[PERSON] 15002701",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10210092<SEP>[PERSON] 15001902": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661086,
+    "update_time": 1782661086,
+    "_id": "[ORGANIZATION] 10210092<SEP>[PERSON] 15001902",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10122953<SEP>[PERSON] 15001903": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661087,
+    "update_time": 1782661087,
+    "_id": "[ORGANIZATION] 10122953<SEP>[PERSON] 15001903",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10203385<SEP>[PERSON] 15001903": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661087,
+    "update_time": 1782661087,
+    "_id": "[ORGANIZATION] 10203385<SEP>[PERSON] 15001903",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10064371<SEP>[PERSON] 12178546": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661087,
+    "update_time": 1782661087,
+    "_id": "[ORGANIZATION] 10064371<SEP>[PERSON] 12178546",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10206223<SEP>[PERSON] 11005663": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661087,
+    "update_time": 1782661087,
+    "_id": "[ORGANIZATION] 10206223<SEP>[PERSON] 11005663",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10155456<SEP>[PERSON] 11002578": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661088,
+    "update_time": 1782661088,
+    "_id": "[ORGANIZATION] 10155456<SEP>[PERSON] 11002578",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10179083<SEP>[PERSON] 11011774": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661088,
+    "update_time": 1782661088,
+    "_id": "[ORGANIZATION] 10179083<SEP>[PERSON] 11011774",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10210092<SEP>[PERSON] 11012290": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661088,
+    "update_time": 1782661088,
+    "_id": "[ORGANIZATION] 10210092<SEP>[PERSON] 11012290",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10210092<SEP>[PERSON] 12120458": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 2,
+    "create_time": 1782661088,
+    "update_time": 1782661088,
+    "_id": "[ORGANIZATION] 10210092<SEP>[PERSON] 12120458",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Panama Papers<SEP>[PERSON] 12114024": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050"
+    ],
+    "count": 1,
+    "create_time": 1782661088,
+    "update_time": 1782661088,
+    "_id": "[EVENT] Panama Papers<SEP>[PERSON] 12114024",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Panama Papers<SEP>[PERSON] 12114025": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050"
+    ],
+    "count": 1,
+    "create_time": 1782661089,
+    "update_time": 1782661089,
+    "_id": "[EVENT] Panama Papers<SEP>[PERSON] 12114025",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Panama Papers<SEP>[PERSON] 12025193": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050"
+    ],
+    "count": 1,
+    "create_time": 1782661089,
+    "update_time": 1782661089,
+    "_id": "[EVENT] Panama Papers<SEP>[PERSON] 12025193",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Panama Papers<SEP>[PERSON] 11011597": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050"
+    ],
+    "count": 1,
+    "create_time": 1782661090,
+    "update_time": 1782661090,
+    "_id": "[EVENT] Panama Papers<SEP>[PERSON] 11011597",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Panama Papers<SEP>[PERSON] 13010742": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050"
+    ],
+    "count": 1,
+    "create_time": 1782661090,
+    "update_time": 1782661090,
+    "_id": "[EVENT] Panama Papers<SEP>[PERSON] 13010742",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Panama Papers<SEP>[PERSON] 12176996": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050"
+    ],
+    "count": 1,
+    "create_time": 1782661091,
+    "update_time": 1782661091,
+    "_id": "[EVENT] Panama Papers<SEP>[PERSON] 12176996",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Panama Papers<SEP>[PERSON] 12025226": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050"
+    ],
+    "count": 1,
+    "create_time": 1782661091,
+    "update_time": 1782661091,
+    "_id": "[EVENT] Panama Papers<SEP>[PERSON] 12025226",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Panama Papers<SEP>[PERSON] 12175997": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050"
+    ],
+    "count": 1,
+    "create_time": 1782661092,
+    "update_time": 1782661092,
+    "_id": "[EVENT] Panama Papers<SEP>[PERSON] 12175997",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Panama Papers<SEP>[PERSON] 13006286": {
+    "chunk_ids": [
+      "chunk-65fc149b888a0d0d5418ef80bf527050"
+    ],
+    "count": 1,
+    "create_time": 1782661092,
+    "update_time": 1782661092,
+    "_id": "[EVENT] Panama Papers<SEP>[PERSON] 13006286",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] 14048807<SEP>[ORGANIZATION] 61441": {
+    "chunk_ids": [
+      "chunk-c16a9314613c92ad218da2c8bfffad4c"
+    ],
+    "count": 1,
+    "create_time": 1782661092,
+    "update_time": 1782661092,
+    "_id": "[LOCATION] 14048807<SEP>[ORGANIZATION] 61441",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] 14024758<SEP>[ORGANIZATION] 12129717": {
+    "chunk_ids": [
+      "chunk-c16a9314613c92ad218da2c8bfffad4c"
+    ],
+    "count": 1,
+    "create_time": 1782661093,
+    "update_time": 1782661093,
+    "_id": "[LOCATION] 14024758<SEP>[ORGANIZATION] 12129717",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] 14024758<SEP>[ORGANIZATION] 13001828": {
+    "chunk_ids": [
+      "chunk-c16a9314613c92ad218da2c8bfffad4c"
+    ],
+    "count": 1,
+    "create_time": 1782661093,
+    "update_time": 1782661093,
+    "_id": "[LOCATION] 14024758<SEP>[ORGANIZATION] 13001828",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 12129717<SEP>[ORGANIZATION] 13001828": {
+    "chunk_ids": [
+      "chunk-c16a9314613c92ad218da2c8bfffad4c"
+    ],
+    "count": 1,
+    "create_time": 1782661094,
+    "update_time": 1782661094,
+    "_id": "[ORGANIZATION] 12129717<SEP>[ORGANIZATION] 13001828",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10179083<SEP>[ORGANIZATION] 20073694": {
+    "chunk_ids": [
+      "chunk-c16a9314613c92ad218da2c8bfffad4c",
+      "chunk-b6fe69959166baf0b9bd42329be6f142",
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 3,
+    "create_time": 1782661094,
+    "update_time": 1782661094,
+    "_id": "[ORGANIZATION] 10179083<SEP>[ORGANIZATION] 20073694",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] 14048807<SEP>[PERSON] 12161442": {
+    "chunk_ids": [
+      "chunk-b6fe69959166baf0b9bd42329be6f142",
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 2,
+    "create_time": 1782661094,
+    "update_time": 1782661094,
+    "_id": "[LOCATION] 14048807<SEP>[PERSON] 12161442",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] 14048807<SEP>[PERSON] 12161441": {
+    "chunk_ids": [
+      "chunk-b6fe69959166baf0b9bd42329be6f142",
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 2,
+    "create_time": 1782661095,
+    "update_time": 1782661095,
+    "_id": "[LOCATION] 14048807<SEP>[PERSON] 12161441",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] 14024758<SEP>[PERSON] 12129717": {
+    "chunk_ids": [
+      "chunk-b6fe69959166baf0b9bd42329be6f142",
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 2,
+    "create_time": 1782661095,
+    "update_time": 1782661095,
+    "_id": "[LOCATION] 14024758<SEP>[PERSON] 12129717",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[PERSON] 12129717<SEP>[PERSON] 13001828": {
+    "chunk_ids": [
+      "chunk-b6fe69959166baf0b9bd42329be6f142",
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 2,
+    "create_time": 1782661095,
+    "update_time": 1782661095,
+    "_id": "[PERSON] 12129717<SEP>[PERSON] 13001828",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] 14024758<SEP>[PERSON] 13001828": {
+    "chunk_ids": [
+      "chunk-b6fe69959166baf0b9bd42329be6f142",
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 2,
+    "create_time": 1782661096,
+    "update_time": 1782661096,
+    "_id": "[LOCATION] 14024758<SEP>[PERSON] 13001828",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[LOCATION] 14051308<SEP>[PERSON] 12178546": {
+    "chunk_ids": [
+      "chunk-b6fe69959166baf0b9bd42329be6f142"
+    ],
+    "count": 1,
+    "create_time": 1782661096,
+    "update_time": 1782661096,
+    "_id": "[LOCATION] 14051308<SEP>[PERSON] 12178546",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[ORGANIZATION] 10203385<SEP>[PERSON] 12176796": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661096,
+    "update_time": 1782661096,
+    "_id": "[ORGANIZATION] 10203385<SEP>[PERSON] 12176796",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12025226 10203385 1993<SEP>[PERSON] 12025226": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661096,
+    "update_time": 1782661096,
+    "_id": "[EVENT] Shareholding 12025226 10203385 1993<SEP>[PERSON] 12025226",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12025226 10203385 1993<SEP>[ORGANIZATION] 10203385": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661097,
+    "update_time": 1782661097,
+    "_id": "[EVENT] Shareholding 12025226 10203385 1993<SEP>[ORGANIZATION] 10203385",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12178546 10064371 1996<SEP>[PERSON] 12178546": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661097,
+    "update_time": 1782661097,
+    "_id": "[EVENT] Shareholding 12178546 10064371 1996<SEP>[PERSON] 12178546",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12178546 10064371 1996<SEP>[ORGANIZATION] 10064371": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661097,
+    "update_time": 1782661097,
+    "_id": "[EVENT] Shareholding 12178546 10064371 1996<SEP>[ORGANIZATION] 10064371",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12025193 10122953 1994<SEP>[PERSON] 12025193": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661097,
+    "update_time": 1782661097,
+    "_id": "[EVENT] Shareholding 12025193 10122953 1994<SEP>[PERSON] 12025193",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12025193 10122953 1994<SEP>[ORGANIZATION] 10122953": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661098,
+    "update_time": 1782661098,
+    "_id": "[EVENT] Shareholding 12025193 10122953 1994<SEP>[ORGANIZATION] 10122953",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Cessation 12025193 10122953 2006<SEP>[PERSON] 12025193": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661098,
+    "update_time": 1782661098,
+    "_id": "[EVENT] Cessation 12025193 10122953 2006<SEP>[PERSON] 12025193",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Cessation 12025193 10122953 2006<SEP>[ORGANIZATION] 10122953": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661098,
+    "update_time": 1782661098,
+    "_id": "[EVENT] Cessation 12025193 10122953 2006<SEP>[ORGANIZATION] 10122953",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Cessation 12025226 10203385 2006<SEP>[PERSON] 12025226": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661098,
+    "update_time": 1782661098,
+    "_id": "[EVENT] Cessation 12025226 10203385 2006<SEP>[PERSON] 12025226",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Cessation 12025226 10203385 2006<SEP>[ORGANIZATION] 10203385": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661098,
+    "update_time": 1782661098,
+    "_id": "[EVENT] Cessation 12025226 10203385 2006<SEP>[ORGANIZATION] 10203385",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12114024 10122953 2006<SEP>[PERSON] 12114024": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661099,
+    "update_time": 1782661099,
+    "_id": "[EVENT] Shareholding 12114024 10122953 2006<SEP>[PERSON] 12114024",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12114024 10122953 2006<SEP>[ORGANIZATION] 10122953": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661099,
+    "update_time": 1782661099,
+    "_id": "[EVENT] Shareholding 12114024 10122953 2006<SEP>[ORGANIZATION] 10122953",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12114025 10122953 2006<SEP>[PERSON] 12114025": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661099,
+    "update_time": 1782661099,
+    "_id": "[EVENT] Shareholding 12114025 10122953 2006<SEP>[PERSON] 12114025",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12114025 10122953 2006<SEP>[ORGANIZATION] 10122953": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661100,
+    "update_time": 1782661100,
+    "_id": "[EVENT] Shareholding 12114025 10122953 2006<SEP>[ORGANIZATION] 10122953",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12176796 10203385 2006<SEP>[PERSON] 12176796": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661100,
+    "update_time": 1782661100,
+    "_id": "[EVENT] Shareholding 12176796 10203385 2006<SEP>[PERSON] 12176796",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12176796 10203385 2006<SEP>[ORGANIZATION] 10203385": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661100,
+    "update_time": 1782661100,
+    "_id": "[EVENT] Shareholding 12176796 10203385 2006<SEP>[ORGANIZATION] 10203385",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12175997 10203385 2006<SEP>[PERSON] 12175997": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661100,
+    "update_time": 1782661100,
+    "_id": "[EVENT] Shareholding 12175997 10203385 2006<SEP>[PERSON] 12175997",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12175997 10203385 2006<SEP>[ORGANIZATION] 10203385": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661101,
+    "update_time": 1782661101,
+    "_id": "[EVENT] Shareholding 12175997 10203385 2006<SEP>[ORGANIZATION] 10203385",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12120458 10210092 2007<SEP>[PERSON] 12120458": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661101,
+    "update_time": 1782661101,
+    "_id": "[EVENT] Shareholding 12120458 10210092 2007<SEP>[PERSON] 12120458",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12120458 10210092 2007<SEP>[ORGANIZATION] 10210092": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661101,
+    "update_time": 1782661101,
+    "_id": "[EVENT] Shareholding 12120458 10210092 2007<SEP>[ORGANIZATION] 10210092",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12161442 10206223 2007<SEP>[PERSON] 12161442": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661101,
+    "update_time": 1782661101,
+    "_id": "[EVENT] Shareholding 12161442 10206223 2007<SEP>[PERSON] 12161442",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12161442 10206223 2007<SEP>[ORGANIZATION] 10206223": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661102,
+    "update_time": 1782661102,
+    "_id": "[EVENT] Shareholding 12161442 10206223 2007<SEP>[ORGANIZATION] 10206223",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12161441 10206223 2007<SEP>[PERSON] 12161441": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661102,
+    "update_time": 1782661102,
+    "_id": "[EVENT] Shareholding 12161441 10206223 2007<SEP>[PERSON] 12161441",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12161441 10206223 2007<SEP>[ORGANIZATION] 10206223": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661102,
+    "update_time": 1782661102,
+    "_id": "[EVENT] Shareholding 12161441 10206223 2007<SEP>[ORGANIZATION] 10206223",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Cessation 12161442 10206223 2009<SEP>[PERSON] 12161442": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661102,
+    "update_time": 1782661102,
+    "_id": "[EVENT] Cessation 12161442 10206223 2009<SEP>[PERSON] 12161442",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Cessation 12161442 10206223 2009<SEP>[ORGANIZATION] 10206223": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661102,
+    "update_time": 1782661102,
+    "_id": "[EVENT] Cessation 12161442 10206223 2009<SEP>[ORGANIZATION] 10206223",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12161441 10206223 2009<SEP>[PERSON] 12161441": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661102,
+    "update_time": 1782661102,
+    "_id": "[EVENT] Shareholding 12161441 10206223 2009<SEP>[PERSON] 12161441",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12161441 10206223 2009<SEP>[ORGANIZATION] 10206223": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661103,
+    "update_time": 1782661103,
+    "_id": "[EVENT] Shareholding 12161441 10206223 2009<SEP>[ORGANIZATION] 10206223",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12129717 10155456 2014<SEP>[PERSON] 12129717": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661103,
+    "update_time": 1782661103,
+    "_id": "[EVENT] Shareholding 12129717 10155456 2014<SEP>[PERSON] 12129717",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12129717 10155456 2014<SEP>[ORGANIZATION] 10155456": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661103,
+    "update_time": 1782661103,
+    "_id": "[EVENT] Shareholding 12129717 10155456 2014<SEP>[ORGANIZATION] 10155456",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12025226 10203385 1993<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661103,
+    "update_time": 1782661103,
+    "_id": "[EVENT] Shareholding 12025226 10203385 1993<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12178546 10064371 1996<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661104,
+    "update_time": 1782661104,
+    "_id": "[EVENT] Shareholding 12178546 10064371 1996<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12025193 10122953 1994<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661104,
+    "update_time": 1782661104,
+    "_id": "[EVENT] Shareholding 12025193 10122953 1994<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Cessation 12025193 10122953 2006<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661105,
+    "update_time": 1782661105,
+    "_id": "[EVENT] Cessation 12025193 10122953 2006<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Cessation 12025226 10203385 2006<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661105,
+    "update_time": 1782661105,
+    "_id": "[EVENT] Cessation 12025226 10203385 2006<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12114024 10122953 2006<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661106,
+    "update_time": 1782661106,
+    "_id": "[EVENT] Shareholding 12114024 10122953 2006<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12114025 10122953 2006<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661106,
+    "update_time": 1782661106,
+    "_id": "[EVENT] Shareholding 12114025 10122953 2006<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12176796 10203385 2006<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661107,
+    "update_time": 1782661107,
+    "_id": "[EVENT] Shareholding 12176796 10203385 2006<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12175997 10203385 2006<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661107,
+    "update_time": 1782661107,
+    "_id": "[EVENT] Shareholding 12175997 10203385 2006<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12120458 10210092 2007<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661108,
+    "update_time": 1782661108,
+    "_id": "[EVENT] Shareholding 12120458 10210092 2007<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12161442 10206223 2007<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661108,
+    "update_time": 1782661108,
+    "_id": "[EVENT] Shareholding 12161442 10206223 2007<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12161441 10206223 2007<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661109,
+    "update_time": 1782661109,
+    "_id": "[EVENT] Shareholding 12161441 10206223 2007<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Cessation 12161442 10206223 2009<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661109,
+    "update_time": 1782661109,
+    "_id": "[EVENT] Cessation 12161442 10206223 2009<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12161441 10206223 2009<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661109,
+    "update_time": 1782661109,
+    "_id": "[EVENT] Shareholding 12161441 10206223 2009<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[EVENT] Shareholding 12129717 10155456 2014<SEP>[OBJECT] Panama Papers": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661110,
+    "update_time": 1782661110,
+    "_id": "[EVENT] Shareholding 12129717 10155456 2014<SEP>[OBJECT] Panama Papers",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] Bahamas Leaks<SEP>[ORGANIZATION] 20073694": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661110,
+    "update_time": 1782661110,
+    "_id": "[OBJECT] Bahamas Leaks<SEP>[ORGANIZATION] 20073694",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  },
+  "[OBJECT] Bahamas Leaks<SEP>[ORGANIZATION] 10179083": {
+    "chunk_ids": [
+      "chunk-620072f822a1051ffc34e811f5ef627e"
+    ],
+    "count": 1,
+    "create_time": 1782661111,
+    "update_time": 1782661111,
+    "_id": "[OBJECT] Bahamas Leaks<SEP>[ORGANIZATION] 10179083",
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  }
+}

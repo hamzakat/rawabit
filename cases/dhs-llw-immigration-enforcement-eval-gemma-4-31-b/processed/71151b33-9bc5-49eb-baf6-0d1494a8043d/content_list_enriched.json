@@ -1,0 +1,3199 @@
+[
+  {
+    "type": "text",
+    "text": "Five Shots in Five Minutes: Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "text_level": 1,
+    "bbox": [
+      83,
+      126,
+      916,
+      234
+    ],
+    "page_idx": 0,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "January 16, 2026 ICE Immigration Police ",
+    "bbox": [
+      81,
+      256,
+      251,
+      285
+    ],
+    "page_idx": 0,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "This investigation is part of a collaboration between Bellingcat and Evident Media. You can watch Evident\u2019s video here. ",
+    "bbox": [
+      81,
+      305,
+      916,
+      353
+    ],
+    "page_idx": 0,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The fatal shooting of Renee Nicole Good by Immigration and Customs Enforcement (ICE) agent Jonathan Ross in Minneapolis on Jan. 7 sparked nationwide protests, with often violent clashes breaking out between protesters and federal agents. Some of the most intense protests took place in Minneapolis itself, with an agent using a less-lethal launcher in ways that experts told Bellingcat were \u201cpunitive\u201d and \u201cquestionable at best\u201d. ",
+    "bbox": [
+      78,
+      372,
+      916,
+      527
+    ],
+    "page_idx": 0,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "This agent, an elite Border Patrol off icer who was masked but identifi able through the uniform number patch EZ-17, was captured on camera fi ring his B&T GL06 40mm less-lethal launcher at protesters fi ve times in fi ve minutes as he travelled down a street adjacent to where Good was killed. ",
+    "bbox": [
+      80,
+      547,
+      887,
+      648
+    ],
+    "page_idx": 0,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      35,
+      18,
+      137,
+      30
+    ],
+    "page_idx": 0,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 0,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "1/28 ",
+    "bbox": [
+      934,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 0,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      354,
+      18,
+      792,
+      30
+    ],
+    "page_idx": 0,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\712af6d076bd6a7779ad369499157aaff1bb41b2fc8236fa8c8fd9d584aa6ec3.jpg",
+    "image_caption": [
+      "EZ-17 on the streets of Minneapolis on Jan. 8. Source: Michael Nigro/Sipa USA via Reuters Connect "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      34,
+      915,
+      464
+    ],
+    "page_idx": 1,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "While \u201cless-lethal\u201d weapons are not designed to kill, they can still result in serious injuries and even death when misused. In California, a protester said he was permanently blinded in one eye after he was shot with a less-lethal weapon at a protest on Jan. 13. Footage shows a DHS off icer fi ring a PepperBall gun at his face at close range, causing him to bleed. ",
+    "bbox": [
+      80,
+      507,
+      910,
+      636
+    ],
+    "page_idx": 1,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Last year, a judge in Illinois ordered an injunction limiting federal agents\u2019 use of force in the state due to what she described as aggressive use of force against peaceful protesters that \u201cshocks the conscience\u201d. However, Bellingcat found multiple examples of force and riot control weapons being used during immigration raids and in apparent violation of that order in the weeks immediately after. ",
+    "bbox": [
+      80,
+      655,
+      916,
+      784
+    ],
+    "page_idx": 1,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Experts told Bellingcat that most of the less-lethal shots fi red by EZ-17 after arriving at the site of Good\u2019s shooting with Border Patrol Commander Gregory Bovino on Jan. 7, also appear to breach CBP\u2019s use-of-force policy. ",
+    "bbox": [
+      81,
+      803,
+      913,
+      878
+    ],
+    "page_idx": 1,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Bellingcat analysed videos from news outlets and social media and mapped out all fi ve shots the agent fi red. ",
+    "bbox": [
+      80,
+      898,
+      897,
+      945
+    ],
+    "page_idx": 1,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "2/28 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 1,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      18,
+      137,
+      30
+    ],
+    "page_idx": 1,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      356,
+      18,
+      789,
+      30
+    ],
+    "page_idx": 1,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      35,
+      968,
+      452,
+      981
+    ],
+    "page_idx": 1,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\c7dbe30744aec45ca810683cc17cedfe07482517d658270e60f15514ae6d3e2e.jpg",
+    "image_caption": [
+      "Five shots EZ-17 fi red in fi ve minutes near the location of Good\u2019s shooting, numbered by the order they occurred with approximate locations. The general path of travel of EZ-17 and the location of where Renee Good was shot and killed is marked. Sources: Status Coup News, Dymanh and Google Earth. Graphic: Evident Media / Jennifer Smart "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      35,
+      918,
+      397
+    ],
+    "page_idx": 2,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Four of these shots appeared to be aimed directly at protesters\u2019 faces at close range, while a fi fth was fi red from a distance towards a crowd after tear gas had already been deployed. A sixth shot, captured at another location on the same day, also shows EZ-17 fi ring a shot from the same launcher at someone at head-level. ",
+    "bbox": [
+      80,
+      503,
+      913,
+      604
+    ],
+    "page_idx": 2,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 2,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      18,
+      138,
+      30
+    ],
+    "page_idx": 2,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "3/28 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 2,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      361,
+      18,
+      789,
+      30
+    ],
+    "page_idx": 2,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "As of publication, DHS had not responded to Bellingcat\u2019s requests for comment. ",
+    "bbox": [
+      78,
+      761,
+      870,
+      782
+    ],
+    "page_idx": 3,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The Agent ",
+    "text_level": 1,
+    "bbox": [
+      81,
+      804,
+      205,
+      827
+    ],
+    "page_idx": 3,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "In footage captured by independent news outlet Mercado Media, EZ-17 is seen inside the crime scene tape perimeter, standing near Bovino, with eight 40mm munitions on his belt. ",
+    "bbox": [
+      78,
+      835,
+      919,
+      910
+    ],
+    "page_idx": 3,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "4/28 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 3,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 3,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      359,
+      17,
+      789,
+      31
+    ],
+    "page_idx": 3,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      35,
+      968,
+      452,
+      981
+    ],
+    "page_idx": 3,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "H ",
+    "bbox": [
+      452,
+      364,
+      501,
+      410
+    ],
+    "page_idx": 3,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\aa549eb7774d1f316522c7b8335a409893f65d021e968830b5256a16caea72f2.jpg",
+    "image_caption": [
+      "EZ-17 with eight visible munitions on his belt, including a 40mm CS \u201cMuzzle Blast\u201d (red box), and three sponge-nosed direct impact munitions (blue box) approximately 30 minutes before he fi res his fi rst shot. Annotations by Bellingcat. Source: Mercado Media @ 36:28 Annotations by Bellingcat "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      36,
+      915,
+      396
+    ],
+    "page_idx": 4,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "These included three sponge-nose impact rounds, which are designed for \u201cpain compliance\u201d through the direct force of impact, and fi ve cylindrical munitions that can be fi lled with diff erent payloads and chemical irritants. \u201cBLAST\u201d in blue text is visible on one munition, indicating a \u201cMuzzle Blast\u201d munition with a CS gas fi ll \u2013 commonly known as tear gas. At least three additional 40mm munitions are visible in his plate carrier. ",
+    "bbox": [
+      80,
+      481,
+      901,
+      635
+    ],
+    "page_idx": 4,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Another video by independent news network Status Coup News showed uninterrupted footage capturing fi ve shots from the time the agent exited the crime scene perimeter (at 5:02) shortly before fi ring the fi rst shot, to when he left in a truck with other agents (9:23) immediately after fi ring the fi fth shot. ",
+    "bbox": [
+      80,
+      655,
+      916,
+      756
+    ],
+    "page_idx": 4,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 4,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/28 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 4,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 4,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      357,
+      18,
+      789,
+      30
+    ],
+    "page_idx": 4,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "H ",
+    "text_level": 1,
+    "bbox": [
+      452,
+      142,
+      501,
+      188
+    ],
+    "page_idx": 5,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The back of EZ-17\u2019s vest shows that he belongs to CBP\u2019s Border Patrol Tactical Unit (BORTAC). BORTAC is a specialised and highly trained unit that, according to the CBP, has a selection process \u201cdesigned to mirror aspects of the US Special Operations Forces\u2019 selection courses\u201d. ",
+    "bbox": [
+      80,
+      315,
+      900,
+      417
+    ],
+    "page_idx": 5,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\83833e41612257126f942fa3c46cd304d22c8015fbdbaffbe3fb25b930b1b76d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      436,
+      915,
+      799
+    ],
+    "page_idx": 5,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "The patch on the back of EZ-17\u2019s vest (centre) shows that he belongs to BORTAC. Source: Status Coup News ",
+    "bbox": [
+      89,
+      805,
+      910,
+      845
+    ],
+    "page_idx": 5,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Members of BORTAC have regularly accompanied Bovino as he leads Trump\u2019s immigration raids, including EZ-17 and EZ-2, another CBP agent that was frequently seen beside EZ-17 in the footage from Jan. 7. Both agents have continued to ",
+    "bbox": [
+      80,
+      863,
+      911,
+      938
+    ],
+    "page_idx": 5,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 5,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "6/28 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 5,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      37,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 5,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      354,
+      17,
+      792,
+      31
+    ],
+    "page_idx": 5,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "accompany Bovino on raids in Minnesota in subsequent days. ",
+    "bbox": [
+      63,
+      37,
+      692,
+      58
+    ],
+    "page_idx": 6,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "EZ-17 was also spotted alongside Bovino at an incident in Illinois, where a CBP agent in front of him appeared to shoot a protester at close range. ",
+    "bbox": [
+      78,
+      89,
+      916,
+      137
+    ],
+    "page_idx": 6,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\d12c854516ac582dd28795d75ff95e540c0aecc04002c6fc3640449292178834.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      155,
+      913,
+      448
+    ],
+    "page_idx": 6,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Five shots EZ-17 fi red in fi ve minutes near the location of Good\u2019s shooting, numbered by the order they occurred. Sources: Status Coup News and Dymanh ",
+    "bbox": [
+      89,
+      457,
+      910,
+      496
+    ],
+    "page_idx": 6,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "First Shot ",
+    "text_level": 1,
+    "bbox": [
+      81,
+      530,
+      199,
+      553
+    ],
+    "page_idx": 6,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "In the Status Coup Media video, EZ-17, and three other CBP agents, including EZ-2, can be seen leaving the crime scene tape perimeter set up after Good\u2019s death, pushing protesters who are physically blocking them. Snowballs are thrown at the CBP agents. ",
+    "bbox": [
+      81,
+      563,
+      900,
+      664
+    ],
+    "page_idx": 6,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "EZ-17 and EZ-2 push a man to the ground who is blocking them. The video shows a clear view of his belt, and the eight munitions visible on his arrival at the scene are still loaded at this point. ",
+    "bbox": [
+      80,
+      684,
+      898,
+      757
+    ],
+    "page_idx": 6,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 6,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "7/28 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 6,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 6,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      352,
+      17,
+      792,
+      31
+    ],
+    "page_idx": 6,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\54736ce25af4679025cd5e69fb824db778495ec954be1b8827768babc98c1eb4.jpg",
+    "image_caption": [
+      "EZ-17\u2019s belt is visible after he and EZ-2 push a man who was physically blocking them to the ground, seconds before EZ-17 fi res his fi rst shot, at 5:15. Source: Status Coup News "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      36,
+      915,
+      393
+    ],
+    "page_idx": 7,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "EZ-17 initially aims at the man he had pushed to the ground, but then turns and aims at the face of another nearby protester who did not appear to be involved in any previous physical contact with the agents. As EZ-17 aims at the face of this protester, the man raises his arms to shield himself before EZ-17 fi res. ",
+    "bbox": [
+      80,
+      458,
+      915,
+      559
+    ],
+    "page_idx": 7,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 7,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      18,
+      138,
+      30
+    ],
+    "page_idx": 7,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "8/28 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 7,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      356,
+      18,
+      789,
+      30
+    ],
+    "page_idx": 7,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\794fc3f1a4b619fe0d4e44ff730d90377d7ad09b9ffb681e78baeb01c868d780.jpg",
+    "image_caption": [
+      "EZ-17 fi res his fi rst shot, at 5:19. Source: Status Coup News. Blurring by Bellingcat "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      23,
+      915,
+      780
+    ],
+    "page_idx": 8,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "The large cloud of chemical irritant appears to disperse from the barrel immediately on fi ring for this shot as well as the next three shots EZ-17 fi res. ",
+    "bbox": [
+      80,
+      821,
+      913,
+      868
+    ],
+    "page_idx": 8,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "This is consistent with the \u201cMuzzle Blast\u201d 40mm munitions produced by Defense Technology, which were seen in images of the agent\u2019s belt. Defense Technology says in its product specifi cations for 40mm \u201cMuzzle Blast\u201d munitions that these rounds provide \u201cinstantaneous emission\u201d of a chemical agent in the immediate area (30 feet) of the person shooting them. ",
+    "bbox": [
+      80,
+      890,
+      918,
+      938
+    ],
+    "page_idx": 8,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      18,
+      137,
+      30
+    ],
+    "page_idx": 8,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "9/28 ",
+    "bbox": [
+      933,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 8,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      37,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 8,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      356,
+      18,
+      789,
+      30
+    ],
+    "page_idx": 8,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      80,
+      37,
+      893,
+      111
+    ],
+    "page_idx": 9,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Second Shot ",
+    "text_level": 1,
+    "bbox": [
+      83,
+      131,
+      235,
+      155
+    ],
+    "page_idx": 9,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Seconds later, after EZ-17 is hit by a snowball, he turns and fi res towards the face of a man who is fi lming in the direction the snowball came from. It is unclear if this man is the intended target or someone else in the crowd behind him. ",
+    "bbox": [
+      80,
+      165,
+      905,
+      238
+    ],
+    "page_idx": 9,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\f87e67abe8c1d93b5ba3a71c67858015dc09015628903eb6a3c8fe74b019e570.jpg",
+    "image_caption": [
+      "EZ-17 fi ring the second shot. This shot can be heard and partially seen at 5:37 in the Status Coup News video. Left: Screenshot before fi ring. Centre and Right: Screenshots taken after fi ring. Source: Dymanh/TikTok at 0:22 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      78,
+      257,
+      916,
+      606
+    ],
+    "page_idx": 9,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Third Shot ",
+    "text_level": 1,
+    "bbox": [
+      81,
+      707,
+      207,
+      729
+    ],
+    "page_idx": 9,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The third shot is at a man who was seen on video throwing a snowball that hits EZ-2. ",
+    "bbox": [
+      86,
+      739,
+      913,
+      761
+    ],
+    "page_idx": 9,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 9,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 9,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "10/28 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 9,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      352,
+      17,
+      794,
+      31
+    ],
+    "page_idx": 9,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\05777ba836bfce986fb49d1f987889d9d183f8f1730a101d28827abfc6a88e25.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      35,
+      916,
+      395
+    ],
+    "page_idx": 10,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Man throwing snowballs at CBP agents after the second shot. Source: Mercado Media; annotation by Bellingcat ",
+    "bbox": [
+      93,
+      401,
+      906,
+      440
+    ],
+    "page_idx": 10,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "EZ-17 and EZ-2 chase this man, with EZ-2 spraying him in the face with Oleoresin Capsicum (OC) spray, also known as pepper spray or mace. EZ-2, when leaving the perimeter, can be seen carrying a Vexor Professional-branded canister. ",
+    "bbox": [
+      80,
+      458,
+      897,
+      535
+    ],
+    "page_idx": 10,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Vexor exclusively produces various types of OC spray, and does not list any chemical irritant sprays that do not contain OC on its website. ",
+    "bbox": [
+      80,
+      833,
+      913,
+      881
+    ],
+    "page_idx": 10,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      450,
+      981
+    ],
+    "page_idx": 10,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "11/28 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 10,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 10,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      356,
+      18,
+      790,
+      30
+    ],
+    "page_idx": 10,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "H ",
+    "bbox": [
+      452,
+      660,
+      501,
+      705
+    ],
+    "page_idx": 10,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\0bc8d013fcf38e9baa2f95152d8efb2bb9639afa1382dd90838420f7b5153f70.jpg",
+    "image_caption": [
+      "Top: EZ-2 visibly deploys at least two streams of OC spray at the man. Bottom: EZ-2 is seen leaving the crime scene tape perimeter earlier with a \u201cVexor Professional\u201d branded canister. Vexor manufactures various OC spray products. Source: Status Coup News. Annotations by Bellingcat "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      36,
+      915,
+      398
+    ],
+    "page_idx": 11,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "The man slowly walks closer to the agents, saying that he has been maced. EZ-17 pushes the man, then aims at the man\u2019s face and fi res. ",
+    "bbox": [
+      81,
+      484,
+      883,
+      531
+    ],
+    "page_idx": 11,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The seals that keep the chemical irritant inside the 40mm canister before it is fi red can be seen hitting the man in this shot, with the smoke surrounding his face. ",
+    "bbox": [
+      81,
+      553,
+      898,
+      602
+    ],
+    "page_idx": 11,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 11,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      18,
+      137,
+      30
+    ],
+    "page_idx": 11,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "12/28 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 11,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      357,
+      18,
+      789,
+      30
+    ],
+    "page_idx": 11,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\88c9ec879d63ced49ff702d267789bed6ae67605ffc2f5c93c9590fb752c2b11.jpg",
+    "image_caption": [
+      "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      81,
+      88,
+      911,
+      963
+    ],
+    "page_idx": 12,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      18,
+      137,
+      30
+    ],
+    "page_idx": 12,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      359,
+      18,
+      787,
+      30
+    ],
+    "page_idx": 12,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "13/28 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 12,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\eecaf2bc8094cee3df554cbe4c19bd0baf670715189fa3b8a2b883a43d354b98.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      81,
+      35,
+      915,
+      111
+    ],
+    "page_idx": 13,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Seals from the 40mm Muzzle Blast munition. Source: Dymanh Chhoun. Annotations by Bellingcat ",
+    "bbox": [
+      109,
+      118,
+      898,
+      136
+    ],
+    "page_idx": 13,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Fourth Shot ",
+    "bbox": [
+      81,
+      170,
+      223,
+      193
+    ],
+    "page_idx": 13,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "After the third shot, an unmarked white CBP truck turns off the street and tries to drive down an alley. Protestors begin physically blocking the vehicle, throwing snowballs and other objects at it. The windshield gets cracked, and the back window gets broken. EZ-17 and EZ-2 physically push the protesters blocking the truck out of the way, with EZ-2 also deploying what appears to be a canister of OC spray. ",
+    "bbox": [
+      78,
+      202,
+      915,
+      332
+    ],
+    "page_idx": 13,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "A person begins banging on the windows of the truck, and EZ-17 rushes around the truck to fi re his launcher towards this person\u2019s face. ",
+    "bbox": [
+      80,
+      351,
+      901,
+      398
+    ],
+    "page_idx": 13,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 13,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 13,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "14/28 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 13,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      356,
+      18,
+      789,
+      30
+    ],
+    "page_idx": 13,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\ed2c63077ef53346d415d01c676caadf19984d96ac2ef285136084d7cd3ae47a.jpg",
+    "image_caption": [
+      "EZ-17 is seen fi ring his fourth shot at a person who was banging on the truck windows at 9:02. Source: Status Coup News "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      30,
+      915,
+      772
+    ],
+    "page_idx": 14,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "University of St. Thomas School of Law professor Rachel Moran, who reviewed the videos at Bellingcat\u2019s request, said that of the six shots we identifi ed as being fi red by EZ-17 this one appeared to be \u201cthe most reasonably related to carrying out the duty of helping the vehicle evacuate\u201d as the person targeted was \u201cstill pounding aggressively\u201d on the vehicle when EZ-17 fi red the shot. ",
+    "bbox": [
+      80,
+      832,
+      898,
+      959
+    ],
+    "page_idx": 14,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      18,
+      138,
+      30
+    ],
+    "page_idx": 14,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      35,
+      968,
+      452,
+      981
+    ],
+    "page_idx": 14,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "15/28 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 14,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      357,
+      18,
+      789,
+      30
+    ],
+    "page_idx": 14,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Fifth Shot ",
+    "bbox": [
+      81,
+      35,
+      200,
+      56
+    ],
+    "page_idx": 15,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "After EZ-17\u2019s fourth shot, EZ-2 deploys a tear gas grenade, and the CBP truck moves down the alley, away from protesters. ",
+    "bbox": [
+      78,
+      66,
+      906,
+      113
+    ],
+    "page_idx": 15,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\7af8f191533d783e567306c499160456dce786f4749760c7f57ce59baed599df.jpg",
+    "image_caption": [
+      "EZ-2 deploying a tear gas grenade at 9:09. Source: Status Coup News "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      132,
+      915,
+      494
+    ],
+    "page_idx": 15,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "EZ-17 can be seen reloading next to EZ-2, who is holding a canister that appears to be OC spray, and another CBP agent holding a PepperBall gun. ",
+    "bbox": [
+      80,
+      537,
+      893,
+      585
+    ],
+    "page_idx": 15,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 15,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      357,
+      18,
+      789,
+      30
+    ],
+    "page_idx": 15,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "16/28 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 15,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 15,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\e9dc67f9ec38bdb9c23aece73ccc4bcaa87aedcfb471d07efe7fd92a9faac811.jpg",
+    "image_caption": [
+      "EZ-17 (in red box) reloading the 40mm launcher at 9:18. Source: Status Coup News. Annotations by Bellingcat "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      78,
+      35,
+      915,
+      396
+    ],
+    "page_idx": 16,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "The CBP agent with the PepperBall gun appears to cross over to the other side of the truck, and EZ-2 appears to begin to enter the vehicle. ",
+    "bbox": [
+      81,
+      460,
+      915,
+      508
+    ],
+    "page_idx": 16,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\d13b87c5612270880c23780d2e92d5c8b0dd54565b53ee3f88c60f8955fda0d2.jpg",
+    "image_caption": [
+      "CBP agent with PepperBall gun (yellow box) walking to the opposite side of the truck, EZ-2 standing in front of EZ-17 (red box) at 9:20. Source: Status Coup News. Annotations by Bellingcat "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      527,
+      916,
+      888
+    ],
+    "page_idx": 16,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 16,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      18,
+      137,
+      30
+    ],
+    "page_idx": 16,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "17/28 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 16,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      359,
+      18,
+      789,
+      31
+    ],
+    "page_idx": 16,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "As soon as the back right door on the truck closes, gas from the muzzle can be seen from where EZ-17 was standing. ",
+    "bbox": [
+      80,
+      37,
+      908,
+      84
+    ],
+    "page_idx": 17,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\5659ca3105b41a97230883702f82d23f0aaf127f01629a079c88481cab412c20.jpg",
+    "image_caption": [
+      "Visible gas exiting the muzzle at 9:22. Source: Status Coup News "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      103,
+      915,
+      464
+    ],
+    "page_idx": 17,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "This fi fth shot appears to be \u201cskip-fi red\u201d or aimed towards the ground before ricocheting upwards, at close range, resulting in three visible projectiles going towards the crowd of people, narrowly missing some. ",
+    "bbox": [
+      81,
+      507,
+      851,
+      583
+    ],
+    "page_idx": 17,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Although the footage is blurry with the tear gas from the grenade EZ-2 threw still clouding the air, EZ-17 appears to be the only agent who could have fi red this: EZ-2 was not armed with a projectile launcher, and PepperBall guns like the one carried by the other CBP agent do not have munitions that release multiple projectiles with a single shot. ",
+    "bbox": [
+      80,
+      603,
+      919,
+      731
+    ],
+    "page_idx": 17,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      17,
+      137,
+      30
+    ],
+    "page_idx": 17,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 17,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "18/28 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 17,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      357,
+      18,
+      792,
+      30
+    ],
+    "page_idx": 17,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\d6430a7e0a6397e26874ba317bdb9e5d1bebbad84314f6737637ce581a923dbc.jpg",
+    "image_caption": [
+      "Three diff erent projectiles visible after the muzzle gas, at 9:22. Source: Status Coup News "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      35,
+      916,
+      397
+    ],
+    "page_idx": 18,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Chemical irritant smoke was seen being released by the projectiles from this last shot as it travelled through the air. ",
+    "bbox": [
+      80,
+      440,
+      877,
+      487
+    ],
+    "page_idx": 18,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\983307fab1de1650e771b0d37ab28b987b5c3d176650289e3fc09b8e28826669.jpg",
+    "image_caption": [
+      "One projectile visibly emits chemical irritants as it travels through the air, at 9:23. Source: Status Coup "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      507,
+      915,
+      868
+    ],
+    "page_idx": 18,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 18,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "19/28 ",
+    "bbox": [
+      928,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 18,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      18,
+      137,
+      30
+    ],
+    "page_idx": 18,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      359,
+      18,
+      789,
+      30
+    ],
+    "page_idx": 18,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "News ",
+    "bbox": [
+      475,
+      898,
+      522,
+      914
+    ],
+    "page_idx": 18,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "The multiple projectiles are consistent with the 40mm \u201cSKAT Shell\u201d by Defense Technology, which ejects four separate submunitions upon fi ring, each dispensing chemical irritants. In one of the videos, a SKAT Shell is seen in EZ-17\u2019s belt. ",
+    "bbox": [
+      80,
+      37,
+      890,
+      111
+    ],
+    "page_idx": 19,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 19,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "20/28 ",
+    "bbox": [
+      926,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 19,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 19,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      352,
+      17,
+      794,
+      31
+    ],
+    "page_idx": 19,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\c439fcd6779da339f16b106f138f5e9986c3053dcc11fd022e25436a5dd76bdd.jpg",
+    "image_caption": [
+      "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      84,
+      15,
+      915,
+      978
+    ],
+    "page_idx": 20,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      18,
+      137,
+      30
+    ],
+    "page_idx": 20,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "21/28 ",
+    "bbox": [
+      926,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 20,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\6874fc914ed91696178dfa3970128e7e48db8cbb392454c8ac6f6194d43be3d6.jpg",
+    "image_caption": [
+      "EZ-17\u2019s belt before fi ring the second shot, with a visible SKAT-SHELL SAF-SMOKE to the right of the direct impact munitions on his belt. Source: Dymanh/TikTok at 0:21 "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      83,
+      35,
+      913,
+      241
+    ],
+    "page_idx": 21,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Roosevelt High School ",
+    "text_level": 1,
+    "bbox": [
+      81,
+      321,
+      346,
+      345
+    ],
+    "page_idx": 21,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "the same day, EZ-17 was fi lmed again alongInvestigatio  Resourc  Ukrain  Worksho de BoEN ",
+    "bbox": [
+      289,
+      354,
+      866,
+      381
+    ],
+    "page_idx": 21,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Dona te ",
+    "bbox": [
+      836,
+      371,
+      892,
+      415
+    ],
+    "page_idx": 21,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\90bccfb878d42c2a80d260d17cb9c640416dce6262e0c350be48a51610773ec7.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      351,
+      410,
+      681,
+      424
+    ],
+    "page_idx": 21,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "This video showed EZ-17 again fi ring his B&T GL06, apparently towards someone\u2019s head, this time someone who threw a snowball at a CBP agent. ",
+    "bbox": [
+      80,
+      424,
+      898,
+      470
+    ],
+    "page_idx": 21,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\e8ef448764cc7e15a00c2aa5309313390e1f2d5050042b93dc2e30eae9f051a8.jpg",
+    "image_caption": [
+      "EZ-17 after fi ring his B&T GL06 launcher at a high school student\u2019s face. Source: Matthew Moore/Facebook "
+    ],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      489,
+      915,
+      837
+    ],
+    "page_idx": 21,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "\u2018Punitive and Unlawful\u2019 ",
+    "text_level": 1,
+    "bbox": [
+      83,
+      919,
+      348,
+      941
+    ],
+    "page_idx": 21,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      37,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 21,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "22/28 ",
+    "bbox": [
+      926,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 21,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 21,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      357,
+      18,
+      790,
+      30
+    ],
+    "page_idx": 21,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Patrick Wilcken, Amnesty International\u2019s Researcher on Military, Security and Policing issues, said that while the overall situation shown in the videos was tense, with \u201cverbal abuse, some shoving/throwing of snowballs and the attempted obstruction of a vehicle\u201d, there did not seem to be any substantial physical threat to the agents that would have justifi ed the use of less-lethal weapons. ",
+    "bbox": [
+      80,
+      36,
+      901,
+      164
+    ],
+    "page_idx": 22,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Wilcken, who reviewed the videos of all six shots fi red by EZ-17 at Bellingcat\u2019s request, said the actions of agents shown in these videos \u2013 pursuing fl eeing protesters and in some instances fi ring at protesters who appeared to be trying to protect themselves \u2013 were \u201cpunitive and unlawful\u201d. ",
+    "bbox": [
+      80,
+      184,
+      892,
+      285
+    ],
+    "page_idx": 22,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "CBP\u2019s use-of-force policy states that weapons such as 40mm launchers are only authorised for use against subjects off ering \u201cactive\u201d or \u201cassaultive\u201d resistance. Similarly, DHS\u2019 use-of-force policy guidance says agents may use force \u201conly when no reasonably eff ective, safe and feasible alternative appears to exist\u201d, and may only use the level of force \u201cobjectively reasonable in light of the facts and circumstances\u201d that they face at the time force is applied. ",
+    "bbox": [
+      80,
+      305,
+      908,
+      459
+    ],
+    "page_idx": 22,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "\u201cOff icers should only resort to less lethal weapons when faced by a serious physical violence posing a threat to themselves or others that is not possible to diff use in any other way,\u201d Wilcken said. \u201cThey must exercise force with restraint, to the minimum extent possible while respecting and enabling the right to peaceful assembly.\u201d ",
+    "bbox": [
+      80,
+      479,
+      908,
+      580
+    ],
+    "page_idx": 22,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "University of St. Thomas School of Law professor Rachel Moran agreed that whether the use of less-lethal weapons is justifi ed largely depends on the level of threat or aggression the agent faces from the person targeted. Although she said the fourth shot could be justifi ed in helping the CBP vehicle evacuate, Moran said the justifi cation for the other shots was \u201cquestionable at best\u201d based on the footage. ",
+    "bbox": [
+      78,
+      599,
+      916,
+      728
+    ],
+    "page_idx": 22,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "For example, Moran noted that although the man in the third shot had thrown a snowball at another off icer, any threat had dissipated by the time EZ-17 shot him because the man had already run away and clearly had his hands up with nothing in them. \u201cThe shot appears to be more retaliatory than defensive\u201d, she said. ",
+    "bbox": [
+      80,
+      747,
+      913,
+      849
+    ],
+    "page_idx": 22,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Similarly, for the incident at Roosevelt High School, Moran noted that EZ-17 did not appear to be in any danger from the snowball, as the person who threw it was already retreating before the agent fi red. ",
+    "bbox": [
+      80,
+      868,
+      900,
+      943
+    ],
+    "page_idx": 22,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "23/28 ",
+    "bbox": [
+      926,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 22,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 22,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 22,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      352,
+      17,
+      795,
+      31
+    ],
+    "page_idx": 22,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Moran said that if EZ-17 was carrying a B&T GL06 40mm launcher, he did appear to violate CBP policy by directly aiming at people\u2019s faces. ",
+    "bbox": [
+      80,
+      37,
+      908,
+      84
+    ],
+    "page_idx": 23,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\aae317ae893eefa4d7e116e0fe2fbde90745bf9b0111643f3deb04037a9d9ad7.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      80,
+      102,
+      915,
+      526
+    ],
+    "page_idx": 23,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "The weapon used by EZ-17 is visible as he points it towards a protester. Source: Status Coup News. Blurring by Bellingcat ",
+    "bbox": [
+      107,
+      534,
+      893,
+      574
+    ],
+    "page_idx": 23,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 23,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 23,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "24/28 ",
+    "bbox": [
+      926,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 23,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      357,
+      18,
+      794,
+      30
+    ],
+    "page_idx": 23,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\07f3e37cf11e10e0f10711a52f8b6b56160ed6b4b28a8a85369b9555b41a2d38.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      78,
+      35,
+      913,
+      400
+    ],
+    "page_idx": 24,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "B&T GL-06 by \u8349\u6ce5\u9a6c\u5c0f\u903c\u5d3d\u5b50 on Sketchfab ",
+    "text_level": 1,
+    "bbox": [
+      328,
+      417,
+      669,
+      436
+    ],
+    "page_idx": 24,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "CBP\u2019s use-of-force policy states that agents using munitions launchers, including 40mm launchers \u201cshall not intentionally target the head, neck, groin, spine, or female breast\u201d. However, Bellingcat\u2019s analysis of the six shots fi red by EZ-17 showed that he appeared to be aiming at the head of targets in fi ve of these cases. ",
+    "bbox": [
+      80,
+      444,
+      916,
+      544
+    ],
+    "page_idx": 24,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Travis Norton, a retired police lieutenant and use-of-force consultant, told Bellingcat that standard training and manufacturer guidance for 40mm launchers recommended aiming at \u201clarge muscle groups of the lower body\u201d while avoiding \u201cprohibited target areas\u201d like the head, neck, chest, spine and groin. This helps to reduce the risk of signifi cant injury, Norton said. ",
+    "bbox": [
+      80,
+      564,
+      905,
+      691
+    ],
+    "page_idx": 24,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Norton said that 40mm launchers are not intended for random or area fi re: \u201cTheir use is limited to clearly identifi ed individuals who are engaging in violent or dangerous behaviour and cannot be safely addressed by other means.\u201d ",
+    "bbox": [
+      81,
+      712,
+      885,
+      786
+    ],
+    "page_idx": 24,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Although he declined to comment on specifi c incidents based solely on video footage, Norton said that skip-fi ring \u2013 which was used in the fi fth shot identifi ed by Bellingcat, and the only shot where a person did not appear to be targeted at headlevel \u2013 was generally not a standard or recommended practice in most lawenforcement training programs. ",
+    "bbox": [
+      80,
+      806,
+      903,
+      934
+    ],
+    "page_idx": 24,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "25/28 ",
+    "bbox": [
+      926,
+      968,
+      960,
+      979
+    ],
+    "page_idx": 24,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      357,
+      18,
+      790,
+      30
+    ],
+    "page_idx": 24,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      450,
+      981
+    ],
+    "page_idx": 24,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 24,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "\u201cBecause ground conditions, angles, and projectile behaviour are unpredictable, skip-fi ring reduces accuracy and control and increases the risk of unintended injury,\u201d Norton said. ",
+    "bbox": [
+      80,
+      37,
+      915,
+      109
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Pooja Chaudhuri contributed research to this piece. ",
+    "bbox": [
+      81,
+      179,
+      580,
+      200
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Bellingcat is a non-profi t and the ability to carry out our work is dependent on the kind support of individual donors. If you would like to support our work, you can do so here. You can also subscribe to our Patreon channel here. Subscribe to our Newsletter and follow us on Bluesky here and Mastodon here. ",
+    "bbox": [
+      80,
+      220,
+      915,
+      323
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\f27f5643a107f68b2cc7ed2803779ea2decba973a02439f514563219b828599b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      111,
+      457,
+      176,
+      542
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Trevor Ball ",
+    "text_level": 1,
+    "bbox": [
+      81,
+      565,
+      187,
+      584
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Trevor Ball is a confl ict researcher and trainer at Bellingcat. He has worked on covering munitions used in confl icts, especially in incidents of civilian harm, and arms proliferation. ",
+    "bbox": [
+      81,
+      594,
+      913,
+      632
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Related articles ",
+    "bbox": [
+      83,
+      650,
+      264,
+      672
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "image",
+    "img_path": "C:\\Users\\H\\My Drive\\IU\\Thesis\\rawabit-ai\\cases\\dhs-llw-immigration-enforcement-eval-gemma-4-31-b\\processed\\71151b33-9bc5-49eb-baf6-0d1494a8043d\\71151b33-9bc5-49eb-baf6-0d1494a8043d_Analysing_One_Federal_Agent_s_Use_of_Less-Lethal_Launcher_in_Minneapolis\\txt\\images\\d1b45acbe21f1c33c12e4f634bb5bb6197fec8c884afe8007a953cf1ab677875.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "bbox": [
+      81,
+      696,
+      194,
+      883
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2",
+    "normalized_image_text": "Visible text: none"
+  },
+  {
+    "type": "text",
+    "text": "Border Patrol ICE Immigration   \nAgents of Chaos: Unpacking the Actions of Border Patrol Agents Across the US   \nICE Immigration Police   \nIdentifying \u2018Less-Lethal\u2019 Weapons Used   \nBy DHS Agents in US Immigration   \nRaids and Protests ",
+    "bbox": [
+      485,
+      694,
+      864,
+      780
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "",
+    "bbox": [
+      450,
+      794,
+      913,
+      880
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "26/28 ",
+    "bbox": [
+      926,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      356,
+      17,
+      792,
+      31
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Share this article ",
+    "bbox": [
+      81,
+      367,
+      519,
+      407
+    ],
+    "page_idx": 25,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Your donations directly contribute to our ability to publish groundbreaking investigations and uncover wrongdoing around the world. ",
+    "bbox": [
+      506,
+      210,
+      712,
+      321
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "General Information ",
+    "bbox": [
+      508,
+      440,
+      697,
+      458
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Our Team ",
+    "bbox": [
+      508,
+      493,
+      602,
+      511
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Who We Are ",
+    "text_level": 1,
+    "bbox": [
+      508,
+      387,
+      630,
+      405
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Don ate ",
+    "text_level": 1,
+    "bbox": [
+      833,
+      239,
+      877,
+      280
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Awards ",
+    "bbox": [
+      508,
+      546,
+      581,
+      564
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Newsletter ",
+    "bbox": [
+      508,
+      599,
+      612,
+      617
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Fun din g & Su ppo s ",
+    "bbox": [
+      875,
+      387,
+      918,
+      541
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "rter",
+    "bbox": [
+      511,
+      497,
+      913,
+      516
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Sta nda rds & Pra ctic es ",
+    "bbox": [
+      875,
+      575,
+      918,
+      731
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Prin cipl es for Dat a Coll ",
+    "bbox": [
+      875,
+      765,
+      918,
+      920
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "27/28 ",
+    "bbox": [
+      926,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      37,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "",
+    "bbox": [
+      81,
+      35,
+      192,
+      121
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis Border Patrol ICE Immigration Alex Pretti: Analysing Footage of Minneapolis CBP Shooting ",
+    "bbox": [
+      352,
+      17,
+      895,
+      95
+    ],
+    "page_idx": 26,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "ecti on ",
+    "bbox": [
+      875,
+      36,
+      1000,
+      77
+    ],
+    "page_idx": 27,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Dat a Priv acy ",
+    "bbox": [
+      875,
+      112,
+      916,
+      199
+    ],
+    "page_idx": 27,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Car eer s ",
+    "bbox": [
+      875,
+      233,
+      1000,
+      297
+    ],
+    "page_idx": 27,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "text",
+    "text": "Co nta ct Us ",
+    "bbox": [
+      875,
+      330,
+      1000,
+      420
+    ],
+    "page_idx": 27,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/ ",
+    "bbox": [
+      39,
+      968,
+      449,
+      981
+    ],
+    "page_idx": 27,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "5/19/26, 1:35 AM ",
+    "bbox": [
+      35,
+      17,
+      138,
+      30
+    ],
+    "page_idx": 27,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "28/28 ",
+    "bbox": [
+      926,
+      969,
+      960,
+      979
+    ],
+    "page_idx": 27,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "Analysing One Federal Agent\u2019s Use of Less-Lethal Launcher in Minneapolis ",
+    "bbox": [
+      357,
+      18,
+      790,
+      31
+    ],
+    "page_idx": 27,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  },
+  {
+    "type": "discarded",
+    "text": "",
+    "bbox": [
+      91,
+      41,
+      140,
+      79
+    ],
+    "page_idx": 27,
+    "document_id": "71151b33-9bc5-49eb-baf6-0d1494a8043d",
+    "confidence_code": "A2"
+  }
+]

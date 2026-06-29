@@ -1,0 +1,36 @@
+{
+  "ingest_profile": "balanced_fast_intel",
+  "processing_mode": "multimodal",
+  "route_type": "pdf_txt",
+  "source_kind": "pdf",
+  "complexity_class": "small",
+  "llm_model": "google/gemma-4-31b-it:free",
+  "vlm_model": "google/gemma-4-31b-it:free",
+  "embedding_model": "baai/bge-m3",
+  "primary_ingest_model": "google/gemma-4-31b-it:free",
+  "parse_duration_s": 135.674,
+  "content_blocks": 142,
+  "content_type_counts": {
+    "image": 5,
+    "text": 82,
+    "discarded": 55
+  },
+  "preinsert_enrichment": {
+    "images_analyzed": 4,
+    "visible_text_hits": 4,
+    "summary_added": 0
+  },
+  "evidence_normalization": {
+    "used": true,
+    "source_chars": 6716,
+    "normalized_chars": 3220,
+    "low_value_items": 29
+  },
+  "preinsert_text_chars": 6716,
+  "normalized_text_chars": 3220,
+  "insert_duration_s": 128.511,
+  "graph_entity_count": 34,
+  "graph_relation_count": 39,
+  "graph_retry_used": false,
+  "finalize_duration_s": 0.109
+}

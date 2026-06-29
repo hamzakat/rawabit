@@ -1,0 +1,267 @@
+Identifying ‘Less-Lethal’ Weapons Used By DHS Agents in US Immigration Raids and Protests
+
+January 27, 2026 ICE Immigration Police
+
+To stay up to date on our latest investigations, join Bellingcat’s WhatsApp channel here.
+
+Federal agents have frequently used so-called “less-lethal” weapons against protesters, including impact projectiles, tear gas and pepper spray, since the Trump administration’s nationwide immigration raids began last year.
+
+The use of less-lethal weapons (LLWs) has been controversial. While designed to incapacitate or control a person without causing death or permanent injury, they can cause serious or fatal injuries, especially when used improperly.
+
+Earlier this month, two protesters in California were reportedly blinded after US federal agents fi red less-lethal rounds at their faces from close range. These incidents were part of a wave of violent clashes between agents from the Department of Homeland Security (DHS) and protesters across the country after the deadly shooting of US citizen Renee Good by an Immigration and Customs Enforcement (ICE) agent in Minneapolis.
+
+2/8/26, 2:26 PM
+
+Guide: The ‘Less-Lethal’ Weapons Used by the DHS
+
+https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/
+
+In protests in Minneapolis immediately following Good’s death, one Customs and Border Patrol (CBP) off icer was captured on camera fi ring a 40mm less-lethal launcher fi ve times in less than fi ve minutes, with several of these shots appearing to target protesters’ faces, which is against CBP’s own use-of-force policy.
+
+A Bellingcat investigation of DHS incidents in October 2025 also found about 30 incidents that appeared to violate a temporary restraining order (TRO) issued by an Illinois judge restricting how DHS agents could use LLWs.
+
+Support Bellingcat
+
+Your donations directly contribute to our ability to publish groundbreaking investigations and uncover wrongdoing around the world.
+
+2/23
+
+0
+
+Donate
+
+It is not always obvious whether the use of a LLW is authorised or not, as DHS component agencies such as ICE and CBP have varying guidance on factors such as the level of resistance an individual needs to show before a certain type of force can be used, as well as how specifi c types of less-lethal weapons and munitions can be used.
+
+While CBP’s use-of-force policy as of January 2021 is available on its website, ICE does not include specifi c guidance on less-lethal weapons in its 2023 “Firearms and Use of Force” Directive, and does not appear to have any publicly available policy that outlines this guidance.
+
+DHS did not respond by publication time to Bellingcat’s request for the most recent DHS, CBP and ICE use-of-force policies, or to questions about what less-lethal weapons were authorised for use by the department and its component agencies.
+
+The DHS use-of-force policy, updated in February 2023, states that the department’s law enforcement off icers and agents may use force, including LLWs, “only when no reasonably eff ective, safe and feasible alternative appears to exist”. It also says agents may only use a level of force that is “objectively reasonable in light of the facts and circumstances” that they face at the time.
+
+DHS has repeatedly defended its use of riot-control weapons in protests across the country, stating that it was “taking reasonable and constitutional measures to uphold the rule of law and protect [its] off icers”.
+
+Here’s how to identify some of the less-lethal weapons that DHS agents, including those from ICE and CBP, have been seen using during recent immigration operations.
+
+Compressed Air Launchers or ‘PepperBall Guns’
+
+ttps://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/
+
+3/23
+
+Compressed air, or pneumatic launchers, are essentially paintball guns that fi re 0.68mm balls which break on impact. Often, this releases a powdered chemical irritant such as oleoresin capsicum (OC) or PavaPowder – the same compounds typically found in pepper spray.
+
+Compressed air launchers can also be used with other projectiles, such as “marking” projectiles that use paint to mark an individual for later arrest, and projectiles intended to break glass.
+
+4/23
+
+These weapons are often referred to as “PepperBall” guns, named after the leading brand PepperBall. However, DHS agents have also been seen carrying compressed air launchers from diff erent brands, such as the FN303, produced by FN America.
+
+Many compressed air launchers resemble standard paintball guns, with a distinct hopper or loader, which holds the ball projectiles, mounted to the top. They also have a compressed air tank that might be mounted to the side, bottom, or inside the buttstock (or back) of the weapon.
+
+Many compressed air launchers, and less-lethal weapons in general, have very bright colours such as orange to distinguish them from lethal weapons.
+
+The TAC-SF PepperBall gun features a compressed air tank and a top-mounted EL-2 hopper, which has a distinctive shape. Graphic: Justin Baird for Bellingcat
+
+5/23
+
+The PepperBall TAC-SA Pro’s hopper is a slightly diff erent shape from the TAC-SF, but serves the same purpose. Graphic: Justin Baird for Bellingcat
+
+PepperBall VKS Pro features a compressed air tank located inside the buttstock and a magazine rather than a top-mounted hopper. Graphic: Justin Baird for Bellingcat
+
+However, some compressed air launchers require closer scrutiny to distinguish them from fi rearms.
+
+For example, federal agents have been seen carrying FN303 compressed air launchers in videos of immigration enforcement activities. This weapon may resemble a rifl e or other fi rearm, as it is usually all-black and, unlike the TAC-SF series PepperBall guns, lacks a visible hopper.
+
+6/23
+
+If closer examination is possible, this weapon can be identifi ed by its distinct features, including a circular magazine, side-mounted compressed air tank and a hose connecting the fi rearm to the air tank.
+
+7/23
+
+The FN303’s air tank is mounted on the side and connected to the fi rearm by a hose. Graphic: Justin Baird for Bellingcat
+
+The January 2021 CBP Use of Force Policy places several restrictions on the use of compressed air launchers, including that they should not be used against small children, the elderly, visibly pregnant women, or people operating a vehicle. It also states that PepperBall guns should not be used within 3 feet “unless the use of deadly force is reasonable and necessary”. When using the FN303, the minimum distance is increased to 10 feet.
+
+The CBP Use of Force Policy says that the intentional targeting of areas where there is a “substantial risk of serious bodily injury or death is considered a use of deadly force.” Agents are instructed not to target “the head, neck, spine, or groin of the intended subject, unless the use of deadly force is reasonable”. PepperBall and FN America provide similar warnings about avoiding vital areas to prevent serious injury or death.
+
+According to a 2021 report by the US Off ice of Inspector General, CBP requires its agents to recertify their training to use PepperBall guns and FN303s every year, but ICE does not.
+
+40mm Launchers
+
+8/23
+
+DHS agents also use 40mm launchers to fi re “Less-Lethal Specialist Impact and Chemical Munitions (LLSI-CM)”. These launchers resemble military grenade launchers, but are used to fi re less-lethal ammunition, including “sponge” rounds that can disperse chemical irritants on impact.
+
+Federal agents have been seen using or carrying the B&T GL06 launcher in footage of multiple incidents reviewed by Bellingcat. They have also been spotted with other 40mm launchers, including Penn Arms 40mm multi-shot launchers, which have a six-round cylinder magazine.
+
+9/23
+
+The B&T GL06 (pictured) and other 40mm launchers have a visibly wider barrel than compressed air launchers or standard fi rearms. Graphic: Justin Baird for Bellingcat
+
+There are various less-lethal munitions available for 40mm launchers, including those whose primary function is “pain compliance” through the force of impact, chemical irritants or a combination of both.
+
+Videos of clashes between Border Patrol agents and protesters show these launchers being used with combination rounds designed to hit the target for pain compliance while also delivering a chemical irritant such as OC or CS.
+
+10/23
+
+Other munitions dispense chemical irritants or smoke after being launched. For example, in the protests immediately following Good’s death, a Border Patrol agent was seen fi ring a 40mm munition that released multiple projectiles emitting chemical irritants in a single shot, consistent with the “SKAT Shell” by Defense Technology.
+
+11/23
+
+Defense Technology’s technical specifi cations for its 40mm Direct Impact Rounds, which agents have been seen armed with, state that the munitions are considered less-lethal when fi red at a minimum safe range of 5 feet and at the large muscle groups of the buttocks, thigh and knees, which “provide suff icient pain stimulus, while greatly reducing serious or life-threatening injuries”.
+
+A DHS Off ice of Inspector General Report in 2021 noted varying guidance on the use of 40mm launchers among the department’s component agencies: “ICE’s use of force policy indicates that the 40MM launcher is deadly force when fi red at someone, while the CBP use of force policy only directs off icers not to target a person’s head or neck.”
+
+CBP’s 2021 use-of-force policy states that agents should “not intentionally target the head, neck, groin, spine, or female breast”, and that anyone in custody who has been subject to such munitions should be seen by a medical professional “as soon as practicable”.
+
+As of publication, DHS had not replied to Bellingcat’s questions about whether the department had an internal policy or provided training to staff on the minimum safe distance for 40mm less-lethal launchers as recommended by the manufacturers.
+
+Hand-Thrown Munitions
+
+12/23
+
+Guide: The ‘Less-Lethal’ Weapons Used by the DHS The SKAT Shell by Defense Technology (left) fi res multiple projectiles, while the company’s SPEDE-Heat shell launches a single projectile. Graphic: Justin Baird for Bellingcat
+
+13/23
+
+DHS agents have also been seen throwing some less-lethal munitions, such as fl ashbangs, smoke and “tear gas” grenades or canisters by hand.
+
+Related articles by Bellingcat
+
+INVESTIGATIONS
+
+‘Pattern of Extreme Brutality’: Tear Gas, Pepper Balls Among Weapons Deployed Against Protesters in Illinois
+
+These munitions activate a short delay after the grenade is employed. When they activate, fl ash-bangs or “stun” grenades emit a bright fl ash of light and a loud sound that is designed to disorient targets. Both smoke grenades and tear gas (also known as “CS gas” or “OC gas”) emit thick smoke, but the former just impedes visibility, whereas the latter also contains chemical irritants that sting the eyes.
+
+Defense Technology off ers smoke grenades with hexachloroethane smoke composition, but most of their smoke grenades use “SAF-Smoke”, a less toxic terephthalic acid smoke composition.
+
+Hexachloroethane, while toxic, is not a nerve agent, despite misinformation surrounding the deployment of green colored smoke grenades in Minnesota by DHS personnel.
+
+The shape and general construction, colour, and any text can help identify these munitions.
+
+Less-lethal munitions typically feature the manufacturer’s logo, the model name of the munition, and the model or part number. The text and manufacturer logo are typically colour-coded to indicate the type of payload the munition has, with blue indicating CS, orange indicating OC, yellow indicating smoke, green indicating a marking composition and black indicating munitions with no chemical payload.
+
+14/23
+
+in Illinois, Oct. 25, 2025. Bottom Right: Used Riot Control CS Grenade in Minneapolis, Jan. 23, 2026. Source: Nick Sortor, Rollofthedice, Bluesky / Unraveled Press, Andrew Hazzard
+
+The “Triple-Chaser” grenade by Defense Technology (left) has three distinct segments that separate after the grenade is thrown, with each emitting smoke or chemical irritants, while other chemical grenades by the same company have a single smooth body (right). Graphic: Justin Baird for Bellingcat
+
+A 2021 analysis by Bellingcat and Newsy found that Defense Technology and Combined Tactical Systems, the two manufacturers which produce most of the lesslethal munitions used by federal agents, both list the model numbers of their products online. Publicly available price lists for Defense Technology and Combined Tactical Systems can also be used to identify specifi c munitions by their model numbers.
+
+15/23
+
+CBP’s 2021 use-of-force policy states that hand-thrown munitions are subject to the same restrictions for use as munition launcher-fi red impact and chemical munitions.
+
+Chemical Irritant Sprays
+
+DHS agents have also been using handheld chemical irritant sprays, often colloquially referred to as “pepper spray” or “mace”.
+
+These sprays come in a variety of sizes and concentrations containing CS, OC, or both. Sprays used by law enforcement usually have a canister size designated “MK-” followed by a number, with higher numbers indicating larger canister sizes. The concentration of chemical irritants contained in the spray is also indicated on the canister.
+
+16/23
+
+Dona te
+
+Investigatio  Resourc  Ukrain  Worksho EN
+
+ns
+
+The eff ectiveness of OC sprays is determined by the concentration of major capsaicinoids, which are the active compounds in OC that cause irritation. These sprays are also aff ected by the type of aerosol dispersion, or stream, used. Diff erent types of streams increase or decrease the range of the spray as well as the coverage area.
+
+Civilian and law enforcement sprays range from 0.18 percent to 1.33 percent major capsaicinoids, according to SABRE, a producer of law enforcement and civilian sprays. Civilian sprays in the US can have the same major capsaicinoid content as law enforcement sprays, but are restricted to smaller-sized canisters.
+
+Subscribe to the Bellingcat newsletter
+
+Subscribe to our newsletter for fi rst access to our published content and events that our staff and contributors are involved with, including interviews and training workshops.
+
+Subscribe
+
+17/23
+
+email@example.com
+
+Defense Technology sprays have diff erent colour bands to indicate the percentage of major capsaicinoids in the spray for OC. If the spray is CS, the CS concentration is standardised at 2 percent. The company uses a white band for .2 percent, yellow band for .4 percent, orange band for .7 percent, red band for 1.3 percent and a grey band for sprays containing either CS or a combination of OC and CS.
+
+SABRE sells a variety of concentrations and sprays as law enforcement products, including 0.33 percent, 0.67 percent, and 1.33 percent major capsaicinoid concentrations of OC, as well as CS, and combination CS and OC sprays. The specifi c concentrations of SABRE sprays and the type of stream can also be identifi ed by the text on the canister.
+
+One Air Force Research Laboratory study found that some sprays may pose a signifi cant risk of severe eye damage due to pressure injuries resulting from large aerosol droplets hitting the eye.
+
+Defense Technology’s technical specifi cations recommend a minimum distance of between 3 and 6 feet, depending on the specifi c spray. SABRE does not publicly provide their minimum safe deployment distances, but a Mesa Police Department document lists a minimum distance of six feet for the SABRE Red MK-9. CBP’s 2021 use-of-force policy does not provide any minimum use distances.
+
+CBP’s 2021 use-of-force policy states that OC Spray may only be used on individuals off ering “active resistance”, and that it should not be used on “small children; visibly pregnant; and operators of motor vehicles”.
+
+Electronic Control Weapons
+
+18/23
+
+DHS agents have also been seen using electronic control weapons (ECWs), which are colloquially called TASERs after the original weapon invented for law enforcement use, in immigration-related raids.
+
+ECWs can deliver a shock upon direct contact or launch probes that embed in the targeted person, incapacitating them.
+
+A shock on contact, or a “drive-stun” feature, delivers localised pain while in direct contact. When properly deployed, the probes send signals to the body that cause muscles to contract. A person’s body “locking up” from muscle contractions is an indicator that an ECW has been deployed. ECWs may be capable of using either or
+
+19/23
+
+both methods.
+
+ECWs are typically painted a combination of black and bright yellow, but this varies between models. The bright colour of parts of tasers is a common feature to help distinguish an ECW from handguns used by federal agents. When viewed from the front, a circular gun barrel is visible on handguns, while ECWs feature multiple circular probes or rectangular covers on the cartridge. ECWs also usually have fl ashlights and lasers, although handguns may also be equipped with these features. Some ECWs may make audible sounds when armed or deployed.
+
+Axon, the predominant manufacturer of ECWs, produces several models including the TASER 10 and TASER 7. Axon provides a policy guide on recommended use of its TASER models to law enforcement agencies, which recommends targeting below the neck from behind, or the lower torso from the front. It recommends avoiding sensitive areas including the head, face, throat, chest and groin.
+
+Axon also recommends against using ECWs against small children, the elderly, pregnant people, very thin people and individuals in positions of increased risks such as running, operating a motor vehicle, or in an elevated position “unless the situation justifi es an increased risk”.
+
+20/23
+
+CBP’s 2021 use-of-force policy, in addition to restricting the use of ECWs against small children, the elderly, visibly pregnant women, and people operating a vehicle, states that they should not be used against someone who is running or handcuff ed. However, the policy does state that there may be an exception to the rule against using ECWs on a running person if an agent has a “reasonable belief that the subject presents an imminent threat of injury” to an agent or another person. This threat, according to the policy, must “outweigh the risk of injury to the subject that might occur as a result of an uncontrolled fall while the subject is running”.
+
+Bellingcat is a non-profi t and the ability to carry out our work is dependent on the kind support of individual donors. If you would like to support our work, you can do so here. You can also subscribe to our Patreon channel here. Subscribe to our Newsletter and follow us on Bluesky here and Mastodon here.
+
+Trevor Ball
+
+Trevor Ball is a confl ict researcher and trainer at Bellingcat. He has worked on covering munitions used in confl icts, especially in incidents of civilian harm, and arms proliferation.
+
+Related articles
+
+21/23
+
+Share this article
+
+Border Patrol ICE Immigration Alex Pretti: Analysing Footage of Minneapolis CBP Shooting
+
+Five Shots in Five Minutes: Analysing One Federal Agent’s Use of Less-Lethal Launcher in Minneapolis
+
+ICE Immigration Police Analysing Footage of Minneapolis ICE Shooting
+
+Don ate
+
+Who We Are
+
+General Information
+
+Fun din g & Su ppo rter s
+
+Our Team
+
+Awards
+
+Newsletter
+
+rds
+
+Sta nda & Pra ctic es
+
+Prin cipl es for Dat a
+
+22/23
+
+Guide: The ‘Less-Lethal’ Weapons Used by the DHS ICE Immigration Police
+
+Coll ecti on
+
+Dat a Priv acy
+
+Car eer s
+
+23/23

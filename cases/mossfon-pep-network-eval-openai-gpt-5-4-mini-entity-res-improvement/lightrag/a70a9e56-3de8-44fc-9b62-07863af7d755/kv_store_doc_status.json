@@ -1,0 +1,92 @@
+{
+  "3322037c-147a-4ec8-97d1-6e5415ab99bd": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c7b242664c55ee39a3bada42a7268b01"
+    ],
+    "content_summary": "Lokastigur 24; 101 Reykjavik; Iceland is an address in the Panama Papers (14048807).\n\n9 Hrushevskoho Street; ap. 37; Kyiv; Ukraine is an address in the Panama Papers (14024758).\n\nNAWAZ TRUST C/O Nerine Trust Company Limited; 9 Columbus Centre; Pelica...",
+    "content_length": 1392,
+    "created_at": "2026-05-16T15:49:08.494930+00:00",
+    "updated_at": "2026-05-16T15:51:42.269024+00:00",
+    "file_path": "raw/3322037c-147a-4ec8-97d1-6e5415ab99bd.csv",
+    "track_id": "insert_20260516_184908_0205bd73",
+    "metadata": {
+      "processing_start_time": 1778946548,
+      "processing_end_time": 1778946702
+    }
+  },
+  "9e160d90-409b-45b2-b97a-9bfaeb19a28d": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-9bfb32bdd7c414f947145758260f981a"
+    ],
+    "content_summary": "WINTRIS INC. is an Active BVI company incorporated 09-OCT-2007.\n\nPrime Asset Partners Limited is an Active BVI company incorporated 21-AUG-2014.\n\nFLEG TRADING LTD (Panama Papers record) is a Defaulted Bahamas company.\n\nHANGON PROPERTY HOLDINGS LIMITE...",
+    "content_length": 3370,
+    "created_at": "2026-05-16T15:53:56.346258+00:00",
+    "updated_at": "2026-05-16T15:59:42.165383+00:00",
+    "file_path": "raw/9e160d90-409b-45b2-b97a-9bfaeb19a28d.csv",
+    "track_id": "insert_20260516_185356_bc87711e",
+    "metadata": {
+      "processing_start_time": 1778946836,
+      "processing_end_time": 1778947182
+    }
+  },
+  "77eb3dc4-f533-4496-8d37-eb40da8ce9b3": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c5862f8c36e85d12931b2df05b3c1bb7"
+    ],
+    "content_summary": "LUXEMBOURG INTERNATIONAL CONSULTING S.A. (INTERCONSULT) appears in the Panama Papers as an ACTIVE entity from Luxembourg.\n\nDR. K. CHRYSOSTOMIDES & CO. appears in the Panama Papers as an ACTIVE entity from Cyprus.\n\nLUSSICH TORRENDELL, CR. SANTIAGO app...",
+    "content_length": 1929,
+    "created_at": "2026-05-16T16:02:08.477725+00:00",
+    "updated_at": "2026-05-16T16:05:48.838620+00:00",
+    "file_path": "raw/77eb3dc4-f533-4496-8d37-eb40da8ce9b3.csv",
+    "track_id": "insert_20260516_190208_2034c1e4",
+    "metadata": {
+      "processing_start_time": 1778947328,
+      "processing_end_time": 1778947548
+    }
+  },
+  "fa09dc06-fa59-4bfc-882b-c756a3786f34": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-76e1312de2d9c741149fb309c3436fd2"
+    ],
+    "content_summary": "Sigmundur David Gunnlaugsson and Anna Sigurlaug Palsdottir from Iceland appear in the Panama Papers.\n\nPetro Poroshenko from Ukraine has two records in the Panama Papers.\n\nMauricio Macri, Hasan Nawaz Sharif, and Hussain Nawaz Sharif were manually adde...",
+    "content_length": 2597,
+    "created_at": "2026-05-16T16:07:29.808636+00:00",
+    "updated_at": "2026-05-16T16:12:46.074884+00:00",
+    "file_path": "raw/fa09dc06-fa59-4bfc-882b-c756a3786f34.csv",
+    "track_id": "insert_20260516_190729_f2a996e6",
+    "metadata": {
+      "processing_start_time": 1778947649,
+      "processing_end_time": 1778947966
+    }
+  },
+  "1ed67414-f7f0-4345-89af-1b26e631f12a": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-b6fe69959166baf0b9bd42329be6f142",
+      "chunk-65fc149b888a0d0d5418ef80bf527050",
+      "chunk-620072f822a1051ffc34e811f5ef627e",
+      "chunk-c16a9314613c92ad218da2c8bfffad4c"
+    ],
+    "content_summary": "12161442 registered_address 14048807 (Panama Papers)\n\n12161442 officer_of shareholder of 10206223 from 09-OCT-2007 to 31-DEC-2009 (Panama Papers)\n\n12161441 registered_address 14048807 (Panama Papers)\n\n12161441 officer_of shareholder of 10206223 from ...",
+    "content_length": 4791,
+    "created_at": "2026-06-28T15:32:07.670042+00:00",
+    "updated_at": "2026-06-28T15:38:31.698513+00:00",
+    "file_path": "raw/1ed67414-f7f0-4345-89af-1b26e631f12a.csv",
+    "track_id": "insert_20260628_183207_f0d224b0",
+    "metadata": {
+      "processing_start_time": 1782660727,
+      "processing_end_time": 1782661111
+    },
+    "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+    "confidence_code": "A2"
+  }
+}

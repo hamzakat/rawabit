@@ -1,0 +1,199 @@
+{
+  "case_id": "a70a9e56-3de8-44fc-9b62-07863af7d755",
+  "case_name": "Mossfon PEP Network [Eval] - openai-gpt-5-4-mini",
+  "case_slug": "mossfon-pep-network-eval-openai-gpt-5-4-mini-entity-res-improvement",
+  "document_count": 5,
+  "completed_document_count": 5,
+  "evidence_count": 5,
+  "entity_count": 154,
+  "relationship_count": 455,
+  "top_entity_types": [
+    {
+      "entity_type": "event",
+      "count": 38
+    },
+    {
+      "entity_type": "organization",
+      "count": 32
+    },
+    {
+      "entity_type": "person",
+      "count": 30
+    },
+    {
+      "entity_type": "location",
+      "count": 27
+    },
+    {
+      "entity_type": "object",
+      "count": 27
+    }
+  ],
+  "graph_context": {
+    "top_entities": [
+      {
+        "name": "Panama Papers records compilation",
+        "type": "event",
+        "connections": 39,
+        "summary": "[EVENT] Panama Papers records compilation\nCompilation of records from the Panama Papers leak, current through 2015."
+      },
+      {
+        "name": "British Virgin Islands",
+        "type": "location",
+        "connections": 32,
+        "summary": "[LOCATION] British Virgin Islands\nCountry with country code VGB. Country for the address 9 Columbus Centre.<SEP>Jurisdiction for BVI companies.<SEP>Jurisdiction where NAWAZ TRUST is registered."
+      },
+      {
+        "name": "10203385",
+        "type": "organization",
+        "connections": 21,
+        "summary": "[ORGANIZATION] 10203385\nEntity identified in Panama Papers.<SEP>Corporate entity."
+      },
+      {
+        "name": "FLEG TRADING LTD",
+        "type": "organization",
+        "connections": 21,
+        "summary": "[ORGANIZATION] FLEG TRADING LTD\nBahamas company with records in Panama Papers and Bahamas Leaks; incorporated 31-MAR-1998; inactivated 05-JAN-2009; defaulted in Panama Papers; struck off 31-DEC-2008 ("
+      },
+      {
+        "name": "10122953",
+        "type": "organization",
+        "connections": 20,
+        "summary": "[ORGANIZATION] 10122953\nEntity identified in Panama Papers.<SEP>Corporate entity."
+      },
+      {
+        "name": "Panama Papers",
+        "type": "event",
+        "connections": 18,
+        "summary": "[EVENT] Panama Papers\nThe Panama Papers leak/data set."
+      },
+      {
+        "name": "Panama Papers dataset",
+        "type": "object",
+        "connections": 18,
+        "summary": "[OBJECT] Panama Papers dataset\nDigital dataset of leaked records, current through 2015.<SEP>Dataset of leaked documents from Mossack Fonseca. Data current through 2015."
+      },
+      {
+        "name": "Panama Papers",
+        "type": "object",
+        "connections": 15,
+        "summary": "[OBJECT] Panama Papers\nData source for most records."
+      },
+      {
+        "name": "10206223",
+        "type": "organization",
+        "connections": 14,
+        "summary": "[ORGANIZATION] 10206223\nEntity identified in Panama Papers.<SEP>Corporate entity."
+      },
+      {
+        "name": "MINERVA TRUST & CORPORATE SERVICES LIMITED",
+        "type": "organization",
+        "connections": 14,
+        "summary": "[ORGANIZATION] MINERVA TRUST & CORPORATE SERVICES LIMITED\nRegistered address and agent for NIELSEN ENTERPRISES LIMITED and NESCOLL LIMITED; based in St. Helier, Jersey.<SEP>Jersey and UK-based entity "
+      },
+      {
+        "name": "Bahamas",
+        "type": "location",
+        "connections": 13,
+        "summary": "[LOCATION] Bahamas\nJurisdiction for FLEG TRADING LTD.<SEP>Country of registration for certain entities."
+      },
+      {
+        "name": "NESCOLL LIMITED",
+        "type": "organization",
+        "connections": 12,
+        "summary": "[ORGANIZATION] NESCOLL LIMITED\nChanged agent BVI company; incorporated 27-JAN-1993; inactivated 22-JUL-2014; struck off 31-OCT-2015."
+      },
+      {
+        "name": "NIELSEN ENTERPRISES LIMITED",
+        "type": "organization",
+        "connections": 12,
+        "summary": "[ORGANIZATION] NIELSEN ENTERPRISES LIMITED\nChanged agent BVI company; incorporated 14-APR-1994; inactivated 22-JUL-2014; struck off 31-OCT-2015; internal_id 579413; ibcRUC 114856."
+      },
+      {
+        "name": "Panama Papers database",
+        "type": "object",
+        "connections": 12,
+        "summary": "[OBJECT] Panama Papers database\nDatabase of leaked documents containing entity records. Data current through 2015. All records originate from this database.<SEP>The dataset of records from the Panama "
+      },
+      {
+        "name": "Panama Papers dataset listing of entities",
+        "type": "event",
+        "connections": 12,
+        "summary": "[EVENT] Panama Papers dataset listing of entities\nInclusion of multiple entities as ACTIVE in Panama Papers dataset. Data current through 2015."
+      }
+    ],
+    "top_relation_types": [
+      {
+        "type": "ASSOCIATED_WITH",
+        "count": 298
+      },
+      {
+        "type": "OCCURRED_AT",
+        "count": 38
+      },
+      {
+        "type": "OWNS",
+        "count": 35
+      },
+      {
+        "type": "EMPLOYED_BY",
+        "count": 32
+      },
+      {
+        "type": "REPRESENTS",
+        "count": 12
+      },
+      {
+        "type": "WITHIN",
+        "count": 10
+      },
+      {
+        "type": "LOCATED_AT",
+        "count": 10
+      },
+      {
+        "type": "LOCATED_IN",
+        "count": 10
+      },
+      {
+        "type": "SAME_AS",
+        "count": 6
+      },
+      {
+        "type": "USED_IN",
+        "count": 2
+      }
+    ],
+    "temporal_scope": {
+      "earliest": null,
+      "latest": null
+    },
+    "pole_breakdown": {
+      "person": 30,
+      "object": 27,
+      "location": 27,
+      "event": 38
+    },
+    "document_count": 5
+  },
+  "latest_activity_at": "2026-06-28T15:47:36+00:00",
+  "five_w_one_h": {
+    "who": "FLEG TRADING LTD, MINERVA TRUST & CORPORATE SERVICES LIMITED, NESCOLL LIMITED, NIELSEN ENTERPRISES LIMITED, and corporate entities 10203385, 10122953, and 10206223.",
+    "what": "The compilation and analysis of leaked records from the Panama Papers dataset identifying offshore companies, their agents, and their registration statuses.",
+    "when": "Records are current through 2015; specific dates include 31-MAR-1998 (FLEG TRADING LTD incorporation), 22-JUL-2014 (NESCOLL and NIELSEN inactivation), and 31-OCT-2015 (NESCOLL and NIELSEN strike-off).",
+    "where": "British Virgin Islands (including 9 Columbus Centre), Bahamas, and St. Helier, Jersey.",
+    "why": null,
+    "how": "Through the analysis of the Panama Papers dataset and database of leaked records from Mossack Fonseca."
+  },
+  "unknowns": [
+    "The identities and roles of the 30 persons identified in the pole breakdown.",
+    "The beneficial ownership of corporate entities 10203385, 10122953, and 10206223.",
+    "The specific purpose or activity of the NAWAZ TRUST beyond its registration in the British Virgin Islands.",
+    "The nature of the relationships between the identified persons and the listed offshore organizations."
+  ],
+  "intelligence_summary": "The evidence centers on the Panama Papers dataset and records compilation, detailing a network of offshore entities and their registration histories. Key organizations include FLEG TRADING LTD, a Bahamas company incorporated on 31-MAR-1998 and struck off on 31-DEC-2008, and BVI companies NESCOLL LIMITED and NIELSEN ENTERPRISES LIMITED, both of which were inactivated on 22-JUL-2014 and struck off on 31-OCT-2015. MINERVA TRUST & CORPORATE SERVICES LIMITED, based in St. Helier, Jersey, served as the registered address and agent for NIELSEN ENTERPRISES LIMITED and NESCOLL LIMITED. The data identifies several corporate entities by ID, including 10203385, 10122953, and 10206223, all associated with the Panama Papers records current through 2015.",
+  "investigation_summary": "The investigation has mapped a network of offshore corporate entities and their agents across multiple jurisdictions, primarily utilizing the Panama Papers dataset. The most connected entities are the Panama Papers records compilation and the British Virgin Islands, highlighting the role of BVI as a primary jurisdiction for entities like the NAWAZ TRUST. The investigation has established the lifecycles of FLEG TRADING LTD, NESCOLL LIMITED, and NIELSEN ENTERPRISES LIMITED, including their incorporation and strike-off dates. However, the specific beneficial ownership of the identified corporate IDs (10203385, 10122953, 10206223) and the specific nature of the 'ASSOCIATED_WITH' relationships between the 30 identified persons and these entities remain undetermined.",
+  "summary_text": "The evidence centers on the Panama Papers dataset and records compilation, detailing a network of offshore entities and their registration histories. Key organizations include FLEG TRADING LTD, a Bahamas company incorporated on 31-MAR-1998 and struck off on 31-DEC-2008, and BVI companies NESCOLL LIMITED and NIELSEN ENTERPRISES LIMITED, both of which were inactivated on 22-JUL-2014 and struck off on 31-OCT-2015. MINERVA TRUST & CORPORATE SERVICES LIMITED, based in St. Helier, Jersey, served as the registered address and agent for NIELSEN ENTERPRISES LIMITED and NESCOLL LIMITED. The data identifies several corporate entities by ID, including 10203385, 10122953, and 10206223, all associated with the Panama Papers records current through 2015.\n\nThe investigation has mapped a network of offshore corporate entities and their agents across multiple jurisdictions, primarily utilizing the Panama Papers dataset. The most connected entities are the Panama Papers records compilation and the British Virgin Islands, highlighting the role of BVI as a primary jurisdiction for entities like the NAWAZ TRUST. The investigation has established the lifecycles of FLEG TRADING LTD, NESCOLL LIMITED, and NIELSEN ENTERPRISES LIMITED, including their incorporation and strike-off dates. However, the specific beneficial ownership of the identified corporate IDs (10203385, 10122953, 10206223) and the specific nature of the 'ASSOCIATED_WITH' relationships between the 30 identified persons and these entities remain undetermined.",
+  "last_refreshed_at": "2026-06-28T15:48:01+00:00",
+  "source_job_id": "b3cc21d6-e86b-4bd1-9b20-512c4ed8a206"
+}

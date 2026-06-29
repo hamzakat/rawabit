@@ -1,0 +1,47 @@
+{
+  "document_id": "1ed67414-f7f0-4345-89af-1b26e631f12a",
+  "case_id": "a70a9e56-3de8-44fc-9b62-07863af7d755",
+  "case_slug": "mossfon-pep-network-eval-openai-gpt-5-4-mini-entity-res-improvement",
+  "original_filename": "relationships.csv",
+  "parser": "mineru",
+  "parse_method": "txt-direct",
+  "started_at": "2026-06-28T15:30:27+00:00",
+  "finished_at": "2026-06-28T15:48:01+00:00",
+  "status": "complete",
+  "stats": {
+    "ingest_profile": "balanced_fast_intel",
+    "processing_mode": "text_first",
+    "route_type": "text_direct",
+    "source_kind": "text",
+    "complexity_class": "small",
+    "llm_model": "google/gemma-4-31b-it:free",
+    "vlm_model": "google/gemma-4-31b-it:free",
+    "embedding_model": "baai/bge-m3",
+    "primary_ingest_model": "google/gemma-4-31b-it:free",
+    "parse_duration_s": 0.0,
+    "content_blocks": 1,
+    "content_type_counts": {
+      "text": 1
+    },
+    "preinsert_enrichment": {
+      "images_analyzed": 0,
+      "visible_text_hits": 0,
+      "summary_added": 0
+    },
+    "evidence_normalization": {
+      "used": true,
+      "source_chars": 2442,
+      "normalized_chars": 4791,
+      "low_value_items": 1
+    },
+    "preinsert_text_chars": 2442,
+    "normalized_text_chars": 4791,
+    "insert_duration_s": 384.274,
+    "graph_entity_count": 55,
+    "graph_relation_count": 92,
+    "graph_retry_used": false,
+    "case_graph_maintenance_duration_s": 543.735,
+    "finalize_duration_s": 0.196,
+    "case_summary_refresh_duration_s": 24.851
+  }
+}

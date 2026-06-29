@@ -1,0 +1,22 @@
+{
+  "profile": "balanced_fast_intel",
+  "processing_mode": "text_first",
+  "source_kind": "text",
+  "complexity_class": "small",
+  "eta_seconds": 74,
+  "ocr_mode": "off",
+  "parse_method": "",
+  "enable_vlm": false,
+  "enable_vlm_visible_text": false,
+  "enable_preinsert_summary": false,
+  "summary_max_tokens": 400,
+  "vlm_parallelism": 6,
+  "max_parallel_insert": 2,
+  "queue_priority": "normal",
+  "llm_model": "openai-gpt-5-4-mini",
+  "vlm_model": "openai-gpt-5-4-mini",
+  "embedding_model": "baai/bge-m3",
+  "used_vlm": false,
+  "entity_extract_max_gleaning": 1,
+  "primary_ingest_model": "openai-gpt-5-4-mini"
+}
