@@ -19,9 +19,7 @@ Rawabit transforms heterogeneous evidence into an explorable case graph, then su
 
 The main workspace combines an interactive graph explorer with entity filtering, evidence inspection, and grounded conversational analysis.
 
-<p align="center">
-  <img src="docs/images/screenshot.png" alt="Rawabit main user interface" width="100%">
-</p>
+https://github.com/user-attachments/assets/60d2931c-6ec2-41d1-8ec8-57771072ed90
 
 ## Demo
 
