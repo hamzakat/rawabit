@@ -25,8 +25,9 @@ results/
 Thumbs.db
 
 *.pdf
-*.png
-*.jpg
+.png
+.jpg
 !samples/case-packs/
 !samples/case-packs/**
 
+thesis_charts/*/output
